@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lkr_land_1307">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>The Land We Love</title>
+        <author>
+          <name type="person"><choice><reg>Rogers, Loula Kendall, 1838-1931</reg><orig>Mrs. Loula Kendall Rogers</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10k</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="lkr_land_1301">2008 Emory University. Permission is granted to
+
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>2008</date><idno type="ark">http://pid.emory.edu/ark:/25593/17db4</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Rogers, Loula Kendall, "The Land We Love" Loula
+
+	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
+
+	   Library, Emory University</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="lkr_land_1302">This digital text is produced from the Loula Kendall
+
+	   Rogers Papers, generously loaned to the Beck Center by    	
+
+The Manuscript, Archives, and Rare Book Library at Emory University.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="language">American</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Poetry</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>United States, Southern</item>
+            <item>Women authors, American--19th Century</item>
+            <item>Women authors, American--20th Century</item>
+            <item>Tilden, Samuel J. (Samuel Jones), 1814-1886.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2008</date><label>Woodruff Graduate Fellow</label><name>Stewart Varner</name>XML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="lkr_land_1306">
+    <body xml:id="lkr_land_1305">
+      <pb facs="lkr_land001" xml:id="lkr_land_1303" n="[1]"/>
+      <div xml:id="lkr_land_1304" type="poem">
+        <head>
+          <seg type="short-title">The Land We Love.</seg>
+          <lb/>
+          <stage>Dedicated to her Music Class</stage>
+        </head>
+        <byline>BY<lb/>MRS. LOULA K. ROGERS.</byline>
+        <lg type="stanza">
+          <l>There's a Land to us far dearer,</l>
+          <l>Than all others o'er which we may roam,</l>
+          <l>And its radiant skies are clearer,</l>
+          <l>'Tis the bright Sunny South, our home.</l>
+          <l> Then aloud let us sing to her glory,</l>
+          <l>And exalt it in music and song,</l>
+          <l>Let her virtues be embalmed in story,</l>
+          <l>As our voices the echo prolong.</l>
+        </lg>
+        <lg type="stanza">
+          <l>Oh, Georgia! The Star of the nation,</l>
+          <l>Let rejoicing break forth on the air,</l>
+          <l>Tho' misfortune hath spread desolation,</l>
+          <l>Our hearts were brave enough to bear,</l>
+          <l>'Till the clouds have retreated before us,</l>
+          <l>And a Colquitt and a Candler o'er us</l>
+          <l>Three cheers for the State that we love!</l>
+        </lg>
+        <lg type="stanza">
+          <l>Yes, the new Star of Liberty is dawning,</l>
+          <l>And gladness will once more illume,</l>
+          <l>The Night that has darkened out Morning,</l>
+          <l>And o'er cast it with woe, and with gloom.</l>
+          <l>Peace and plenty may smile now upon us,</l>
+          <l>With a President to shield us from the storm,</l>
+          <l>North and South, East and West forever,</l>
+          <l>Three cheers for Tilden and Reform.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

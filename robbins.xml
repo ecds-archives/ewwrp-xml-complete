@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="robbins_1308">
+  <teiHeader><fileDesc>
+      <titleStmt n=" Freedom">
+        <title>Freedom, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Robbins, Mary Eliza</reg><orig>Mary Eliza Robbins</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="robbins_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to
+the work claimed by Emory University for non-profit educational purposes, provided 
+this header is included in its entirety.  For inquiries about commercial uses, contact
+either: Women Writers Resource Project or Lewis H. Beck Center for Electronic
+collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17f0v</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Robbins, Mary Eliza.  Freedom.  <publisher>The Liberty Bell</publisher>.  Boston: Massachusetts.  American Anti-slavery Society 25 Cornhill, <date>1839</date> (vol.1).  American Periodical Series 1800-1850 microfilm.  APS 1207 Liberty Bell.  Volumes 1-13 (1839-52) reel 491</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="robbins_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Abolition, Freedom, and Rights</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Article</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Antislavery movements--United States--History--Sources.</item>
+            <item>Women authors, American--19th Century.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1997</date><label>Staff</label><name>Scott Ellis</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck
+	    Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="robbins_1307">
+    <body xml:id="robbins_1306">
+      <div xml:id="robbins_001" type="article">
+        <head>FREEDOM.</head>
+        <byline>BY MARY ELIZA ROBBINS.</byline>
+        <p xml:id="robbins_1303">Not until the question, What is a Man? Is satisfactorily answered, can the claims of each individual to entire freedom be firmly established.  Admitting the prevalent notions of man's nature, what is liberty that he should desire it?  But once believe man to be an incarnation of the divine Mind, the "Word made flesh," and liberty becomes at once a necessary <hi rend="italic">element</hi> for the soul <hi rend="italic">to be in</hi>.  It is the only conductor through which <hi rend="italic">soul</hi> will consent to pass.  I cannot exist without it.  You might as well talk of animal life without atmosphere, as a man without perfect freedom.</p>
+        <p xml:id="robbins_1305">That man, or that woman, who, by life and by speech, contributes to this end, is a true Ab-
+<pb xml:id="robbins_1304" n="52"/>
+olitionist; since he, or she, adds another <hi rend="italic">stubborn fact</hi>, in confirmation of the doctrine that man was created to be free.  When Man shall be understood, when he shall cease to be afraid of himself, the idea of supremacy among human beings will become as obsolete, as the notion of dividing this harmonious universe between a God and a Devil.  "A kingdom divided against itself cannot stand."</p>
+      </div>
+    </body>
+  </text>
+</TEI>

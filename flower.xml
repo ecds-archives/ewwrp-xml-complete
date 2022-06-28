@@ -1,0 +1,1826 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="flower_13082">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Flower of Youth: Poems in War Time, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Tynan, Katharine, 1861-1931</reg><orig>Katharine Tynan</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>100kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="flower_1301">2001 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>2001</date><idno type="ark">http://pid.emory.edu/ark:/25593/17c5b</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Tynan, Katharine "Flower of Youth: Poems in War Time." London: <publisher>Sidgwick &amp; Jackson</publisher>, <date>1915</date>.  80 pages.</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="flower_1302">This digital text is produced from a first edition volume of Katharine Tynan's <hi rend="italic">Flower of Youth: Poems in War Time</hi> generously loaned to the Beck Center by Professor Harry Rusche.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">World War I</rs>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Poetry</rs>
+        <rs type="geography">Great Britain</rs>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>World War, 1914-1918--Poetry.</item>
+            <item>English poetry--Women authors--20th Century.</item>
+            <item>War.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2001</date><label>Project Manager</label><name>Erika Farr</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="flower_13081">
+    <body xml:id="flower_13078">
+      <div xml:id="flower_1" type="Poetry">
+        <docAuthor>Katharine Tynan</docAuthor>
+        <head rend="center">Flower of Youth: Poems in War Time</head>
+        
+        <bibl>London: Sidgwick and Johnson, LTD.</bibl>
+        <pb xml:id="flower_1303" n="9 JOINING THE COLOURS"/>
+        <div xml:id="flower_01" type="Poem">
+          <head rend="center"><seg type="short-title">JOINING THE COLOURS</seg><lb/>
+	       (WEST KENTS, DUBLIN, <hi rend="italic">August</hi> 1914)</head>
+          <lg type="stanza">
+            <l>THERE they go marching all in step so gay!</l>
+            <l>Smooth-cheeked and golden, food for shells and guns.</l>
+            <l>Blithely they go as to a wedding day,</l>
+            <l rend="indent">The mothers' sons. </l>
+          </lg>
+          <lg type="stanza">
+            <l>The drab street stares to see them row on row</l>
+            <l>On the high tram-tops, singing like the lark. </l>
+            <l>Too careless-gay for courage, singing they go </l>
+            <l rend="indent">Into the dark. </l>
+          </lg>
+          <lg type="stanza">
+            <l>With tin whistles, mouth-organs, any noise, </l>
+            <l>They pipe the way to glory and the grave; </l>
+            <l>Foolish and young, the gay and golden boys</l>
+            <l rend="indent">Love cannot save. </l>
+          </lg>
+          <lg type="stanza">
+            <l>High heart!  High courage!  The poor girls they kissed</l>
+            <l>Run with them : they shall kiss no more, alas! </l>
+            <l>Out of the mist they stepped-into the mist</l>
+            <l rend="indent">Singing they pass. </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_1304" n="10 FLOWER OF YOUTH"/>
+        <div xml:id="flower_02" type="Poem">
+          <head rend="center">THE LOWLANDS OF FLANDERS<lb/><hi rend="italic">(An Old Song Resung)</hi></head>
+          <lg type="stanza">
+            <l>THE night that I was married</l>
+            <l rend="indent">Our Captain came to me: </l>
+            <l>Rise up, rise up, new-married man</l>
+            <l rend="indent">And come at once with me. </l>
+          </lg>
+          <lg type="stanza">
+            <l>For the Lowlands of Flanders, </l>
+            <l rend="indent">It's there that we must fight; </l>
+            <l>So look your last and buss your last, </l>
+            <l rend="indent">For we shall sail to-night. </l>
+          </lg>
+          <lg type="stanza">
+            <l>'Tis all for our Counterie</l>
+            <l rend="indent">And for our King we go</l>
+            <l>To the Lowlands of Flanders</l>
+            <l rend="indent">Against the German foe. </l>
+          </lg>
+          <lg type="stanza">
+            <l>The girl that weds a soldier</l>
+            <l rend="indent">Must never blench for fear; </l>
+            <l>I kissed my last and looked my last</l>
+            <l rend="indent">Upon my lovely dear. </l>
+          </lg>
+          <pb xml:id="flower_1305" n="11 THE LOWLANDS OF FLANDERS"/>
+          <lg type="stanza">
+            <l>The Lowlands of Flanders, </l>
+            <l rend="indent">Their rivers run so red. </l>
+            <l>But I must say Good-bye, my dear, </l>
+            <l rend="indent">My only dear, I said. </l>
+          </lg>
+          <lg type="stanza">
+            <l>For now I must go sailing</l>
+            <l rend="indent">Upon the stormy main; </l>
+            <l>Good-bye, good-bye, my only Love, </l>
+            <l rend="indent">Till I shall come again. </l>
+          </lg>
+          <lg type="stanza">
+            <l>I put her white arms from me, </l>
+            <l rend="indent">Her cheek was cold as clay. </l>
+            <l>The night that I was married </l>
+            <l rend="indent">No longer I might stay. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Our bugles they are blowing, </l>
+            <l rend="indent">And I must sail the sea, </l>
+            <l>For the Lowlands of Flanders</l>
+            <l rend="indent">Betwixt my love and me. </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_1306" n="12 FLOWER OF YOUTH"/>
+        <div xml:id="flower_43" type="Poem">
+          <head rend="center">THE CALL</head>
+          <l rend="center">
+            <hi rend="italic">I hear an Army!</hi>
+          </l>
+          <lg type="stanza">
+            <l>Millions of men coming up from the edge of the world,</l>
+            <l>The ring of unnumbered feet ever louder and louder</l>
+            <l>Comes on and an like a mighty untameable tide, </l>
+            <l>Steady, implacable, out of the North and the South, </l>
+            <l>Out of the East, and the West, they answer the call</l>
+            <l>Of her who stands, her eyes towards God and the stars, </l>
+            <l>Liberty, daughter of God, calling her men. </l>
+          </lg>
+          <lg type="stanza">
+            <l>What manner of men are these?  Like the desert sands</l>
+            <l>Uncounted, many as locusts, darkening the sky? </l>
+            <l>White men, black men, men of the tawny gold, </l>
+            <l>Golden-eyed like the lion, sons of the sun, </l>
+            <l>Men from the snow, their eyes like frost or a sword: </l>
+            <l>They have but one heart, one desire, they run one way. </l>
+            <l>Hurrying, hurrying to the shrill trumpet call. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Men from the ice-floes, men from the jungles come; </l>
+            <l>This from the arms of his bride, that from his dead. </l>
+            <pb xml:id="flower_1307" n="13 THE CALL"/>
+            <l>Men from the plough, the mart, the mill and the street</l>
+            <l>They run:  they are heroes:  the fire fuses them all. </l>
+            <l>Head uplifted and proud, like heroes they step, </l>
+            <l>Singing their battle song in the troubled dawn</l>
+            <l>Of the day of Liberty, flaming torch of the world. </l>
+          </lg>
+          <l rend="center">
+            <hi rend="italic">I hear an Army!</hi>
+          </l>
+        </div>
+        <pb xml:id="flower_1308" n="14 FLOWER OF YOUTH"/>
+        <div xml:id="flower_03" type="Poem">
+          <head rend="center">THE GOLDEN BOY</head>
+          <lg type="stanza">
+            <l>IN times of peace, so clean and bright, </l>
+            <l rend="indent">And with a new-washed morning face, </l>
+            <l>He walked Pall Mall, a goodly sight, </l>
+            <l rend="indent">The finished flower of all the race. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Or through Bond Street and Piccadilly,</l>
+            <l rend="indent">Went spick-and-span, without a soil, </l>
+            <l>As careless as the July lily</l>
+            <l rend="indent">That spins not, neither does she toil. </l>
+          </lg>
+          <lg type="stanza">
+            <l>He took his soldiering as sport,</l>
+            <l rend="indent">And beauteous in his mufti stirred</l>
+            <l>Romance i' the simple female sort</l>
+            <l rend="indent">That loves a guardsman or a lord.</l>
+          </lg>
+          <lg type="stanza">
+            <l>And now, knee-deep in muddy water, </l>
+            <l rend="indent">Unwashed, unshaven, see him go! </l>
+            <l>His garments stained with mud and slaughter</l>
+            <l rend="indent">Would break the heart of Savile Row. </l>
+          </lg>
+          <pb xml:id="flower_1309" n="15 THE GOLDEN BOY"/>
+          <lg type="stanza">
+            <l>The danger's in his blood like wine, </l>
+            <l rend="indent">The old heroic passion leaps; </l>
+            <l>The son of the mighty fighting line</l>
+            <l rend="indent">Goes glad whatever woman weeps. </l>
+          </lg>
+          <lg type="stanza">
+            <l>He plays the game, winning or losing, </l>
+            <l rend="indent">As in the playing-fields at home; </l>
+            <l>This picnic's nothing of his choosing, </l>
+            <l rend="indent">But since it's started, let it come! </l>
+          </lg>
+          <lg type="stanza">
+            <l>He lives his hour with keenest zest, </l>
+            <l rend="indent">And midst the flying death he spares</l>
+            <l>A laugh to the light-heart schoolboy jest, </l>
+            <l rend="indent">Mingled with curses and with prayers. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Gay as at Eton or at Harrow, </l>
+            <l rend="indent">Counts battles as by goals and runs</l>
+            <l>God keep him from Death's flying arrow</l>
+            <l rend="indent">To give his England fighting sons. </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13010" n="16 FLOWER OF YOUTH"/>
+        <div xml:id="flower_04" type="Poem">
+          <head rend="center">THE GREAT CHANCE</head>
+          <lg type="stanza">
+            <l>NOW strikes the hour upon the clock</l>
+            <l rend="indent">The black sheep may rebuild the years </l>
+            <l>May lift the father's pride he broke</l>
+            <l rend="indent">And wipe away his mother's tears. </l>
+          </lg>
+          <lg type="stanza">
+            <l>To him, the mark for thrifty scorn; </l>
+            <l rend="indent">God hath another chance to give, </l>
+            <l>Sets in his heart a flame new-born</l>
+            <l rend="indent">By which his muddied soul may live. </l>
+          </lg>
+          <lg type="stanza">
+            <l>This is the day of the prodigal, </l>
+            <l rend="indent">The decent people's shame and grief, </l>
+            <l>When he shall make amends for all. </l>
+            <l rend="indent">The way to Glory's bloody and brief. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Clean from his baptism, of blood, </l>
+            <l rend="indent">New from the fire he springs again, </l>
+            <l>In shining raiment white and good, </l>
+            <l rend="indent">Beyond the wise, home-keeping man. </l>
+          </lg>
+          <pb xml:id="flower_13011" n="17 THE GREAT CHANCE"/>
+          <lg type="stanza">
+            <l>Somewhere to-night--no tears be shed!-- </l>
+            <l rend="indent">With shaking hands they turn the sheet</l>
+            <l>To find his name among the dead, </l>
+            <l rend="indent">Flower of the Army and the Fleet. </l>
+          </lg>
+          <lg type="stanza">
+            <l>They tell, with proud and stricken face, </l>
+            <l rend="indent">Of his white boyhood far away--</l>
+            <l>Who talked of trouble or disgrace? </l>
+            <l rend="indent">"Our splendid son is dead!" they say. </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13012" n="18 FLOWER OF YOUTH"/>
+        <div xml:id="flower_05" type="Poem">
+          <head rend="center">THE WATCHERS</head>
+          <lg type="stanza">
+            <l>THE cottages all lie asleep; </l>
+            <l rend="indent">The sheep and lambs are folded in </l>
+            <l>Winged sentinels the vale will keep</l>
+            <l rend="indent">Until the hours of life begin. </l>
+          </lg>
+          <lg type="stanza">
+            <l>The children with their prayers all said</l>
+            <l rend="indent">Sleep until cockcrow shall awake </l>
+            <l>The gardens in their gold and red</l>
+            <l rend="indent">And robins in the bush and brake. </l>
+          </lg>
+          <lg type="stanza">
+            <l>The fields of harvest golden-white, </l>
+            <l rend="indent">The fields of pasture rich and green, </l>
+            <l>Sleep on nor fear the kindly night, </l>
+            <l rend="indent">The watching mountains set between. </l>
+          </lg>
+          <lg type="stanza">
+            <l>The river sings its sleepy song, </l>
+            <l rend="indent">Nought stirs the wakeful owl beside: </l>
+            <l>Our peace is builded sure and strong</l>
+            <l rend="indent">No evil beast can creep inside. </l>
+          </lg>
+          <pb xml:id="flower_13013" n="19 THE WATCHERS"/>
+          <lg type="stanza">
+            <l>St Patrick and St Brigid hold</l>
+            <l rend="indent">The vale its little houses all, </l>
+            <l>While men-at-arms in white and gold</l>
+            <l rend="indent">Glide swiftly by the outer wall. </l>
+          </lg>
+          <lg type="stanza">
+            <l>St Brendan and St Kevin pluck</l>
+            <l rend="indent">The robes of God that He may hear--</l>
+            <l>And Colum: "Keep the Irish flock</l>
+            <l rend="indent">So that no shame or sin come near." </l>
+          </lg>
+          <lg type="stanza">
+            <l>What news of Belgian folk to-day? </l>
+            <l rend="indent">How fare the village and the town? </l>
+            <l>O Belgium's all on fire they say, </l>
+            <l rend="indent">And all her towers are toppling down. </l>
+          </lg>
+          <lg type="stanza">
+            <l>What are her angels doing then, </l>
+            <l rend="indent">And are the Belgian saints asleep, </l>
+            <l>That in this night of dule and pain</l>
+            <l rend="indent">The Belgians mourn, the Belgians weep? </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13014" n="20 FLOWER OF YOUTH"/>
+        <div xml:id="flower_06" type="Poem">
+          <head rend="center">THE BRIDE</head>
+          <lg type="stanza">
+            <l>WEAVE me no wreath of orange blossom, </l>
+            <l rend="indent">No bridal white shall me adorn; </l>
+            <l>I wear a red rose in my bosom; </l>
+            <l rend="indent">To-morrow I shall wear the thorn. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Bring me no gauds to deck my beauty, </l>
+            <l rend="indent">Put by the jewels and the lace; </l>
+            <l>My love to honour and to duty</l>
+            <l rend="indent">Was plighted ere he saw my face. </l>
+          </lg>
+          <lg type="stanza">
+            <l>I hear his impatient charger neighing, </l>
+            <l rend="indent">I hear the trumpets blow afar! </l>
+            <l>His comrades ride, as to a Maying, </l>
+            <l rend="indent">Jesting and splendid to the war. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Why is my lady-mother weeping? </l>
+            <l rend="indent">Why is my father grievèd sore? </l>
+            <l>Oh, love, God have you in His keeping, </l>
+            <l rend="indent"> The day you leave your true-love's door. </l>
+          </lg>
+          <pb xml:id="flower_13015" n="21 THE BRIDE"/>
+          <lg type="stanza">
+            <l>Gay is the golden harvest spreading, </l>
+            <l rend="indent">The orchard's all in rose and gold; </l>
+            <l>Who said it was a mournful wedding? </l>
+            <l rend="indent">My hand in yours, Love, is not cold. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Go glad and gay to meet the foeman, </l>
+            <l rend="indent">I love you to my latest breath; </l>
+            <l>Oh, love, there is no happier woman. </l>
+            <l rend="indent"> See, I am smiling! Love-till death! </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13016" n="22 FLOWER OF YOUTH"/>
+        <div xml:id="flower_07" type="Poem">
+          <head rend="center">THE RIDERS</head>
+          <lg type="stanza">
+            <l>RHEIMS is down in fire and smoke, </l>
+            <l>The hour of God is at the stroke. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Round and round the ruined place,-- </l>
+            <l>Jesu, Mary, give us grace! </l>
+          </lg>
+          <lg type="stanza">
+            <l>There are two riders clad in mail, </l>
+            <l>Silver as the moon pale. </l>
+          </lg>
+          <lg type="stanza">
+            <l>One is tall as a knight's spear, </l>
+            <l>The younger one is lowlier. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Small and slim and like a maid-</l>
+            <l>Steeds and riders cast no shade. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Who are then these cavaliers? </l>
+            <l>There was a sound as Heaven dropt tears. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Who are these that ride so light, </l>
+            <l>Soundless in the flaming light, </l>
+          </lg>
+          <lg type="stanza">
+            <l>Where Rheims burns, that was given</l>
+            <l>By France to Mary, Queen of Heaven? </l>
+          </lg>
+          <pb xml:id="flower_13017" n="23 THE RIDERS"/>
+          <lg type="stanza">
+            <l>O our Rheims, our Rheims is down, </l>
+            <l>Naught is left of her renown. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Hist! what sound is in the breeze, </l>
+            <l>Like the sighing of forest trees? </l>
+          </lg>
+          <lg type="stanza">
+            <l>Or a great wind, or an army, </l>
+            <l>Or the waves of the wild sea? </l>
+          </lg>
+          <lg type="stanza">
+            <l>The tall knight rides fierce and fast</l>
+            <l>To the sound of a trumpet-blast. </l>
+          </lg>
+          <lg type="stanza">
+            <l>The little knight in fire and flame, </l>
+            <l>Slender and soft as a dame, </l>
+          </lg>
+          <lg type="stanza">
+            <l>Rides and is not far behind: </l>
+            <l>His long hair floats on the wind. </l>
+          </lg>
+          <lg type="stanza">
+            <l>And ever the tramp of chivalry</l>
+            <l>Comes like the sound of the sea. </l>
+          </lg>
+          <lg type="stanza">
+            <l>This is Michael rides abroad, </l>
+            <l>Prince of the army of God, </l>
+          </lg>
+          <lg type="stanza">
+            <l>And this like a lily arrayed, </l>
+            <l>Is Joan, the blessed Maid. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Rheims is down in fire and smoke</l>
+            <l>And the hour of God's at the stroke. </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13018" n="24 FLOWER OF YOUTH"/>
+        <div xml:id="flower_08" type="Poem">
+          <head rend="center">"WHAT TURNED THE GERMANS BACK?"</head>
+          <lg type="stanza">
+            <l>WHAT turned the German myriads back</l>
+            <l rend="indent">From Paris whither they had won? </l>
+            <l>The sword dropped from their hold grown slack; </l>
+            <l rend="indent">Children of Attila the Hun, </l>
+            <l>Like Attila, went backward driven</l>
+            <l>By a young shepherdess of Heaven. </l>
+          </lg>
+          <lg type="stanza">
+            <l>A shepherdess is Genevieve, </l>
+            <l rend="indent">And though her flock should wander light, </l>
+            <l>This shepherdess is quick to save</l>
+            <l rend="indent">The black, the speckled and the white. </l>
+            <l>She takes her golden crook and goes</l>
+            <l>And deals destruction to its foes. </l>
+          </lg>
+          <lg type="stanza">
+            <l>She who turned Attila back, so slim, </l>
+            <l rend="indent">A shepherdess that keeps the flock, </l>
+            <l>Waited as once she did for him, </l>
+            <l rend="indent">Slight as a reed or her own crook; </l>
+            <l> "Turn back in God's Name!"  They went back. </l>
+            <l>The tide is stemmed for her sweet sake. </l>
+          </lg>
+          <pb xml:id="flower_13019" n="25 'WHAT TURNED THE GERMANS BACK?'"/>
+          <lg type="stanza">
+            <l>White Genevieve upon her hill</l>
+            <l rend="indent">Prays, and the German hosts retreat. </l>
+            <l>She plucks the Robes of Heaven still</l>
+            <l rend="indent">That Heaven give victory for defeat; </l>
+            <l>And keeps her motley flock in sight, </l>
+            <l>The black, the speckled and the white. </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13020" n="26 FLOWER OF YOUTH"/>
+        <div xml:id="flower_09" type="Poem">
+          <head rend="center">A GIRL'S SONG</head>
+          <lg type="stanza">
+            <l>THE Meuse and Marne have little waves; </l>
+            <l rend="indent">The slender poplars o'er them lean. </l>
+            <l>One day they will forget the graves</l>
+            <l rend="indent">That give the grass its living green. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Some brown French girl the rose will wear</l>
+            <l rend="indent">That springs above his comely head; </l>
+            <l>Will twine it in her russet hair, </l>
+            <l rend="indent">Nor wonder why it is so red. </l>
+          </lg>
+          <lg type="stanza">
+            <l>His blood is in the rose's veins, </l>
+            <l rend="indent">His hair is in the yellow corn. </l>
+            <l>My grief is in the weeping rains</l>
+            <l rend="indent">And in the keening wind forlorn. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Flow softly, softly, Marne and Meuse; </l>
+            <l rend="indent"> Tread lightly, all ye browsing sheep; </l>
+            <l>Fall tenderly, O silver dews, </l>
+            <l rend="indent">For here my dear Love lies asleep. </l>
+          </lg>
+          <pb xml:id="flower_13021" n="27 A GIRL'S SONG"/>
+          <lg type="stanza">
+            <l>The earth is on his sealèd eyes, </l>
+            <l rend="indent"> The beauty marred that was my pride; </l>
+            <l>Would I were lying where he lies, </l>
+            <l rend="indent">And sleeping sweetly by his side! </l>
+          </lg>
+          <lg type="stanza">
+            <l>The Spring will come by Meuse and Marne, </l>
+            <l rend="indent"> The birds be blithesome in the tree. </l>
+            <l>I heap the stones to make his cairn</l>
+            <l rend="indent">Where many sleep as sound as he. </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13022" n="28 FLOWER OF YOUTH"/>
+        <div xml:id="flower_10" type="Poem">
+          <head rend="center"> THE YOUNG MOTHER </head>
+          <lg type="stanza">
+            <l>IN dreadful times of tears and war</l>
+            <l>She sails, a little fixed star, </l>
+            <l>Or like a little ship she glides </l>
+            <l>With gentle winds and favouring tides</l>
+            <l>Up to the harbour bar. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Wrapped in all mild tranquillities </l>
+            <l>She muses: inward gaze her eyes; </l>
+            <l>And lest she slip upon a stone</l>
+            <l>Gabriel or some shining one </l>
+            <l>Guards her high destinies. </l>
+          </lg>
+          <lg type="stanza">
+            <l>No rumour reaches her at all, </l>
+            <l>Beyond her safe encompassing wall, </l>
+            <l>Of a mad world that slays and slays: </l>
+            <l>She sees a little one that plays </l>
+            <l>And sleeps at evenfall. </l>
+          </lg>
+          <lg type="stanza">
+            <l>She is in the House of Life: and where </l>
+            <l>She goes the angels bend to her, </l>
+            <l>A little secret garden-close, </l>
+            <l>Sweet with the lily and the rose, </l>
+            <l>With frankincense and myrrh. </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13023" n="29 THE TEMPLE"/>
+        <div xml:id="flower_11" type="Poem">
+          <head rend="center">THE TEMPLE</head>
+          <lg type="stanza">
+            <l>WHAT of Louvain and of Rheims</l>
+            <l rend="indent">Made for God by man? What then? </l>
+            <l>Here be temples more than man's</l>
+            <l rend="indent">Wrought by God for His own men. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Scattered in the rain and frost, </l>
+            <l rend="indent">Marred of beauty, there they be, </l>
+            <l>Temples of the Holy Ghost, </l>
+            <l rend="indent">Broken, ruined piteously. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Bodies all so finely wrought, </l>
+            <l rend="indent">Cunning deftness shaped them well; </l>
+            <l>These, God's ultimate, loving thought</l>
+            <l rend="indent">For His Spirit's citadel. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Beautiful from head to foot, </l>
+            <l rend="indent">Young, dear darlings all unflawed</l>
+            <l>For their mother's kiss. What brute</l>
+            <l rend="indent">Dares deface the image of God? </l>
+          </lg>
+          <pb xml:id="flower_13024" n="30 FLOWER OF YOUTH"/>
+          <lg type="stanza">
+            <l>Oh, the Temple's down! all marred</l>
+            <l rend="indent">Gay and golden boys must lie: </l>
+            <l>Bitter-sweet as spikenard</l>
+            <l rend="indent">Is the old name we called them by. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Hush! God's Temple in its fall</l>
+            <l rend="indent">Breaks to set the spirit free</l>
+            <l>From the golden cage and thrall. </l>
+            <l rend="indent">Into heaven-winged liberty. </l>
+          </lg>
+          <lg type="stanza">
+            <l>From the cage the bird is flown, </l>
+            <l rend="indent">Sings so high above our sphere. </l>
+            <l>Hush,--be never a sigh or moan: </l>
+            <l rend="indent">The fledged bird flies without fear. </l>
+          </lg>
+          <lg type="stanza">
+            <l>All our loves are gathered in, </l>
+            <l rend="indent">Every gay and golden lad; </l>
+            <l>On new raiment, white and clean, </l>
+            <l rend="indent">They behold God and are glad. </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13025" n="31 THE SUMMONS"/>
+        <div xml:id="flower_12" type="Poem">
+          <head rend="center">THE SUMMONS<lb/>
+(V. L., 14<hi rend="italic">th September</hi>  1914)</head>
+          <lg type="stanza">
+            <l>STRAIGHT to his death he went, </l>
+            <l rend="indent">A smile on his lips, </l>
+            <l>All his life's joy unspent, </l>
+            <l rend="indent">Into eclipse. </l>
+          </lg>
+          <lg type="stanza">
+            <l>The song of the shell he heard</l>
+            <l rend="indent">Cleaving the dark, </l>
+            <l>As though 'twere the song of a bird, </l>
+            <l rend="indent">Linnet or lark. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Why would he go so fast</l>
+            <l rend="indent">Out to the dead, </l>
+            <l>All in a heavenly haste</l>
+            <l rend="indent">Not to be stayed? </l>
+          </lg>
+          <lg type="stanza">
+            <l>What did he see afar</l>
+            <l rend="indent">That drew him after? </l>
+            <l>Light from a merry star, </l>
+            <l rend="indent">Singing and laughter? </l>
+          </lg>
+          <pb xml:id="flower_13026" n="32 FLOWER OF YOUTH"/>
+          <lg type="stanza">
+            <l>Nay, but a face was his </l>
+            <l rend="indent">Only in dreams, </l>
+            <l>Only in dreams of bliss </l>
+            <l rend="indent">In the star-gleams. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Nay, but a face that watched </l>
+            <l rend="indent">Long years to see</l>
+            <l>Who came by the door unlatched, </l>
+            <l rend="indent">If it were he. </l>
+          </lg>
+          <lg type="stanza">
+            <l>What was the voice before</l>
+            <l rend="indent">That lured him on? </l>
+            <l>"Oh, thou long-hungered for, </l>
+            <l rend="indent">My son, my son!" </l>
+          </lg>
+          <lg type="stanza">
+            <l>Lo, he hath heard, hath seen, </l>
+            <l rend="indent">He hath slipped over</l>
+            <l>Where the great days begin </l>
+            <l rend="indent">For friend and lover. </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13027" n="33 THE LITTLE FLOCK"/>
+        <div xml:id="flower_13" type="Poem">
+          <head rend="center">THE LITTLE FLOCK</head>
+          <lg type="stanza">
+            <l>CHRIST, now keep the little flock</l>
+            <l rend="indent">Which Thou bad'st not to fear: </l>
+            <l>Childing women and old folk</l>
+            <l rend="indent">And the little children dear. </l>
+          </lg>
+          <lg type="stanza">
+            <l>In this night of Hell revealed</l>
+            <l rend="indent">Call them that they run with Thee, </l>
+            <l>And come out in a green field</l>
+            <l rend="indent">Where they gather round Thy knee. </l>
+          </lg>
+          <lg type="stanza">
+            <l>All poor women that give suck, </l>
+            <l rend="indent">All that are with child, lead Thou, </l>
+            <l>By the margins of a brook</l>
+            <l rend="indent">Where is daisied peace enow. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Christ, remember now the sick; </l>
+            <l rend="indent">Feeble knees and hanging head. </l>
+            <l>When they cry on Thee, come quick, </l>
+            <l rend="indent">And their sickness shall be stayed. </l>
+          </lg>
+          <pb xml:id="flower_13028" n="34 FLOWER OF YOUTH"/>
+          <lg type="stanza">
+            <l>Where Thou temperest the wind, </l>
+            <l rend="indent">Where the drenching rains leave off, </l>
+            <l>When they run with Thee, O Kind! </l>
+            <l rend="indent">Dear, they shall be well enough! </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13029" n="35 A LAMENT"/>
+        <div xml:id="flower_14" type="Poem">
+          <head rend="center">A LAMENT<lb/>
+(FOR <hi rend="italic">Holy Cross Day, </hi>  1914)</head>
+          <lg type="stanza">
+            <l>CLOUDS is under clouds and rain</l>
+            <l>For there will not come again </l>
+            <l>Two, the beloved sire and son </l>
+            <l>Whom all gifts were rained upon. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Kindness is all done, alas, </l>
+            <l>Courtesy and grace must pass, </l>
+            <l>Beauty, wit and charm lie dead, </l>
+            <l>Love no more may wreathe the head. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Now the branch that waved so high </l>
+            <l>No wind tosses to the sky; </l>
+            <l>There's no flowering time to come, </l>
+            <l>No sweet leafage and no bloom. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Percy, golden-hearted boy, </l>
+            <l>In the heyday of his joy </l>
+            <l>Left his new-made bride and chose</l>
+            <l>The steep way that Honour goes. </l>
+          </lg>
+          <pb xml:id="flower_13030" n="36 FLOWER OF YOUTH"/>
+          <lg type="stanza">
+            <l>Took for his the deathless song </l>
+            <l>Of the love that knows no wrong: </l>
+            <l>Could I love thee, dear, so true </l>
+            <l>Were not Honour more than you? </l>
+          </lg>
+          <lg type="stanza">
+            <l> (Oh, forgive, dear Lovelace, laid </l>
+            <l>In this mean Procrustean bed!) </l>
+            <l>Dear, I love thee best of all </l>
+            <l>When I go, at England's call. </l>
+          </lg>
+          <lg type="stanza">
+            <l>In our magnificent sky aglow </l>
+            <l>How shall we this Percy know </l>
+            <l>Where he shines among the suns </l>
+            <l>And the planets and the moons? </l>
+          </lg>
+          <lg type="stanza">
+            <l>Percy died for England, why, </l>
+            <l>Here's a sign to know him by! </l>
+            <l>There's one dear and fixèd star, </l>
+            <l>There's a youngling never far. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Percy and his father keep </l>
+            <l>The old loved companionship, </l>
+            <l>And shine downward in one ray </l>
+            <l>Where at Clouds they wait for day. </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13031" n="37 A HERO"/>
+        <div xml:id="flower_15" type="Poem">
+          <head rend="center">A HERO<lb/>
+(<hi rend="italic">September </hi> 1914)</head>
+          <lg type="stanza">
+            <l>HE was so foolish, the poor lad, </l>
+            <l rend="indent">He made superior people smile </l>
+            <l>Who knew not of the wings he had</l>
+            <l rend="indent">Budding and growing all the while; </l>
+            <l>Nor that the laurel wreath was made </l>
+            <l>Already for his curly head. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Silly and childish in his ways; </l>
+            <l rend="indent">They said: "His future comes to naught." </l>
+            <l><hi rend="italic">His future! </hi>  In the dreadful days</l>
+            <l rend="indent">When in a toil his feet were caught</l>
+            <l>He hacked his way to glory bright </l>
+            <l>Before his day went down in night. </l>
+          </lg>
+          <lg type="stanza">
+            <l>He fretted wiser folk--small blame! </l>
+            <l rend="indent">Such futile, feeble brains were his. </l>
+            <l>Now we doff hats to hear his name, </l>
+            <l rend="indent">Ask pardon where his sprit is, </l>
+            <l>Because we never guessed him for </l>
+            <l>A hero in the disguise he wore. </l>
+          </lg>
+          <pb xml:id="flower_13032" n="38 FLOWER OF YOUTH"/>
+          <lg type="stanza">
+            <l>It matters little how we live</l>
+            <l rend="indent">So long as we may greatly die. </l>
+            <l>Fashioned for great things, O forgive</l>
+            <l rend="indent">Our dullness in the days gone by! </l>
+            <l>Now glory wraps you like a cloak </l>
+            <l>From us, and all such common folk. </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13033" n="39 'MID THE PITEOUS HEAPS OF DEAD"/>
+        <div xml:id="flower_16" type="Poem">
+          <head rend="center">'MID THE PITEOUS HEAPS OF DEAD</head>
+          <lg type="stanza">
+            <l>'MID the piteous heaps of dead </l>
+            <l>Goes one weary golden head </l>
+            <l>Tossing ever to and fro, </l>
+            <l>Calling loud and calling low. </l>
+          </lg>
+          <lg rend="italic" type="stanza">
+            <l>Mother, mother, step so light, </l>
+            <l>Mother, lay your fingers white </l>
+            <l>On my forehead like a dew ! </l>
+            <l>Mother, mother, where are you?</l>
+          </lg>
+          <lg type="stanza">
+            <l>Still so loud he makes his cry </l>
+            <l>That the dying cannot die; </l>
+            <l>All the writhing field's one groan</l>
+            <l>While he lies and cries alone. </l>
+          </lg>
+          <lg type="stanza">
+            <l>But his mother's far away; </l>
+            <l>Cannot hear him cry and say: </l>
+            <l rend="italic">Mother, I am dying, come!</l>
+            <l rend="italic">Mother, I am lost from home!</l>
+          </lg>
+          <pb xml:id="flower_13034" n="40 FLOWER OF YOUTH"/>
+          <lg type="stanza">
+            <l>Mary, Mother of all men, </l>
+            <l>Come and comfort him in pain. </l>
+            <l>Take his young head to the breast </l>
+            <l>Where your Child and God had rest. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Mary, Mary, step so light. </l>
+            <l>Mary, lay your fingers white </l>
+            <l>On his forehead!  He shall dream </l>
+            <l>That his mother comforts him. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Mary, Mother, croon him o'er </l>
+            <l>Lullabies you sang before! </l>
+            <l>Mary, ease him, crooning low, </l>
+            <l>In the way that mothers know! </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13035" n="41 TO ONE IN GRIEF"/>
+        <div xml:id="flower_17" type="Poem">
+          <head rend="center">TO ONE IN GRIEF<lb/>
+(FOR <hi rend="italic">June </hi> 1913. <hi rend="italic">September</hi>  1914)</head>
+          <lg type="stanza">
+            <l>SIMON the Cyrenean bore</l>
+            <l rend="indent">The Cross of Christ up Calvary Hill. </l>
+            <l>Blessed be Simon's lot before</l>
+            <l rend="indent">Honour and ease and world's good-will</l>
+            <l>You,--you would choose his lot above </l>
+            <l>All gifts and glories, yea, all love! </l>
+          </lg>
+          <lg type="stanza">
+            <l>Now when for your two glorious men</l>
+            <l rend="indent">Your heart is broken, and your joy</l>
+            <l>On earth shall not be built again,-- </l>
+            <l rend="indent">Oh, what a lover, what a boy !-- </l>
+            <l>Dear heart, look up! Who helps you on </l>
+            <l>The way that you must walk alone ? </l>
+          </lg>
+          <lg type="stanza">
+            <l>For when the Cross that you must bear</l>
+            <l rend="indent">Galls your poor shoulders till they bleed, </l>
+            <l>And when the thorns are on your hair, </l>
+            <l rend="indent">And Love-lies-bleeding: then indeed </l>
+            <l>One will come stepping light and take </l>
+            <l>The tears the burden, the heart-break. </l>
+          </lg>
+          <pb xml:id="flower_13036" n="42 FLOWER OF YOUTH"/>
+          <lg type="stanza">
+            <l>Happy is she who to Thine ears </l>
+            <l rend="indent">Pours all her lamentations!  Yea, </l>
+            <l>When Thou dost wipe away her tears</l>
+            <l rend="indent">And healing words of comfort say. </l>
+            <l>Thou makest Thy Cross both sweet and light </l>
+            <l>For souls like hers that walk in white. </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13037" n="43 INDIAN SUMMER"/>
+        <div xml:id="flower_18" type="Poem">
+          <head rend="center">INDIAN SUMMER</head>
+          <lg type="stanza">
+            <l rend="center">
+              <hi rend="italic">This is the sign! </hi>
+            </l>
+            <l>THIS flooding splendour, golden and hyaline, </l>
+            <l>This sun a golden sea on hill and plain,-- </l>
+            <l>That God forgets not, that He walks with men. </l>
+            <l>His smile is on the mountain and the pool </l>
+            <l>And all the fairy lakes are beautiful. </l>
+          </lg>
+          <lg type="stanza">
+            <l rend="center">
+              <hi rend="italic">This is the word! </hi>
+            </l>
+            <l>That makes a thing of flame the water-bird. </l>
+            <l>This mercy of His fulfilled in the magical </l>
+            <l>Clear glow of skies from dawn to evenfall, </l>
+            <l>Telling His Hand is over us, that we </l>
+            <l>Are not delivered to the insatiable sea. </l>
+          </lg>
+          <lg type="stanza">
+            <l rend="center">
+              <hi rend="italic">This is the pledge! </hi>
+            </l>
+            <l>The promise writ in gold to the water's edge: </l>
+            <l>His bow's in Heaven and the great floods are over. </l>
+            <l>Oh, broken hearts, lift up! The Immortal Lover</l>
+            <l>Embraces, comforts with the enlivening sun, </l>
+            <l>The sun He bids stand still till the day is won. </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13038" n="44 FLOWER OF YOUTH"/>
+        <div xml:id="flower_19" type="Poem">
+          <head rend="center"><seg type="short-title">TO TWO BEREAVED</seg> <lb/>
+(FOR G. S. C., 20<hi rend="italic">th October, </hi>  R. S. C., 28<hi rend="italic">th October</hi>  1914)</head>
+          <lg type="stanza">
+            <l>Now in your days of worst distress, </l>
+            <l rend="indent">The empty days that stretch before, </l>
+            <l>When all your sweet's turned bitterness;-- </l>
+            <l rend="indent">The Hand of the Lord is at your door. </l>
+          </lg>
+          <lg type="stanza">
+            <l>And when at morn beside your bed</l>
+            <l rend="indent">Grief waits to tell you it is true, </l>
+            <l>That both your darling boys are dead; </l>
+            <l rend="indent">The Mercy of the Lord bends down to you. </l>
+          </lg>
+          <lg type="stanza">
+            <l>When you are frozen and stripped bare</l>
+            <l rend="indent">And over your joy is raised a stone, </l>
+            <l>The foot of the Lord is on your stair; </l>
+            <l rend="indent">The Lord's mercy is never done. </l>
+          </lg>
+          <lg type="stanza">
+            <l>More than the joys of common men,-- </l>
+            <l rend="indent">The gifts of the Lord are past desire--</l>
+            <l>They shall be given to you again, </l>
+            <l rend="indent">They shall sit down beside your fire. </l>
+          </lg>
+          <pb xml:id="flower_13039" n="45 TO TWO BEREAVED"/>
+          <lg type="stanza">
+            <l>The young and laurelled heads shall shine, </l>
+            <l rend="indent">Making a glory in your days</l>
+            <l>As a light burns in a secret shrine: </l>
+            <l rend="indent">The Love of the Lord is passing praise. </l>
+          </lg>
+          <lg type="stanza">
+            <l>The Lord recalls not gifts once given : </l>
+            <l rend="indent">They shall sit down beside your hearth; </l>
+            <l>They shall come in, in white, new-shriven, </l>
+            <l rend="indent">Make you new Heaven and a new earth. </l>
+          </lg>
+          <lg type="stanza">
+            <l>The Will of the Lord is great and good, </l>
+            <l rend="indent">The cup of your joy shall He brim o'er; </l>
+            <l>They shall come in with life renewed. </l>
+            <l rend="indent">They shall go out from you no more. </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13040" n="46 FLOWER OF YOUTH"/>
+        <div xml:id="flower_20" type="Poem">
+          <head rend="center">AUTUMNAL</head>
+          <lg type="stanza">
+            <l>THE Autumn leaves are dying quietly, </l>
+            <l>Scarlet and orange, underfoot they lie; </l>
+            <l rend="indent">They had their youth and prime </l>
+            <l rend="indent">And now's the dying time; </l>
+            <l>Alas, alas, the young, the beloved, must die! </l>
+          </lg>
+          <lg type="stanza">
+            <l>They are dying like the leaves of Autumn fast, </l>
+            <l>Scattered and broken, blown on every blast: </l>
+            <l rend="indent">The darling young, the brave, </l>
+            <l rend="indent">Love had no power to save. </l>
+            <l>Poor Love-lies-bleeding, Love's in ruins, downcast. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Alas, alas, the Autumn leaves are flying! </l>
+            <l>They had their Summer and 'tis time for dying. </l>
+            <l rend="indent">But these had barely Spring. </l>
+            <l rend="indent">Love trails a broken wing, </l>
+            <l>Walks through deserted woods, moaning and sighing. </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13041" n="47 MEDIATION"/>
+        <div xml:id="flower_21" type="Poem">
+          <head rend="center">MEDIATION<lb/>
+(<hi rend="italic">After St Anselm</hi>)</head>
+          <lg type="stanza">
+            <l>IF Thou, Lord God, willest to judge </l>
+            <l rend="indent">This, Thy very piteous clay</l>
+            <l>Which to save Christ did not grudge </l>
+            <l rend="indent">His last dying, I shall say: </l>
+            <l rend="italic">Lord, I interpose Christ's death</l>
+            <l rend="italic">'Twixt these children and Thy wrath.</l>
+          </lg>
+          <lg type="stanza">
+            <l>Then if Thou shouldst say: Their shame</l>
+            <l rend="indent">Is as scarlet in Mine eyes--</l>
+            <l>I shall ask : <hi rend="italic">Who took their blame? </hi></l>
+            <l rend="indent">
+              <hi rend="italic">Look, Lord, on this Sacrifice! </hi>
+            </l>
+            <l rend="italic">Is Thy Son's blood not more bright</l>
+            <l rend="italic">Which hath washed their scarlet white?</l>
+          </lg>
+          <lg type="stanza">
+            <l>Then, if Thou Thy wrath should'st keep </l>
+            <l rend="indent">And Thy gaze should'st still avert</l>
+            <l>From Thy Son's most piteous sheep, </l>
+            <l rend="indent">I shall ask : <hi rend="italic">Who bare the hurt? </hi></l>
+            <l rend="italic">I Present Christ's death and Pain</l>
+            <l rend="italic">'Twixt Thine anger and these men. </l>
+          </lg>
+          <pb xml:id="flower_13042" n="48 FLOWER OF YOUTH"/>
+          <lg type="stanza">
+            <l>Lord, they die by millions </l>
+            <l rend="indent">And they look to Thee--take thought!-- </l>
+            <l>This dear flock, that is Thy Son's, </l>
+            <l rend="indent">By the richest ransom bought. </l>
+            <l>See, Thy dead Son lies between, </l>
+            <l>Thee, the High judge, and their sin. </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13043" n="49 THE HEROES"/>
+        <div xml:id="flower_22" type="Poem">
+          <head rend="center">THE HEROES</head>
+          <lg type="stanza">
+            <l>By such strange and wonderful ways</l>
+            <l rend="indent">God would save His world again. </l>
+            <l>All our days are holy days, </l>
+            <l rend="indent">Starry heroes all our men. </l>
+          </lg>
+          <lg type="stanza">
+            <l>There's naught common or unclean</l>
+            <l rend="indent">In this splendid new-made earth: </l>
+            <l>Hearts uplifted, eyes serene, </l>
+            <l rend="indent">Grief goes gayer now than mirth. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Quietly in the sacred night</l>
+            <l rend="indent">Tears must fall, O noble tears! </l>
+            <l>That are shed in the Lord's sight</l>
+            <l rend="indent">And are only for His ears. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Who would mourn aloud for sons</l>
+            <l rend="indent">Gorgeous in our firmament, </l>
+            <l>Starry constellations</l>
+            <l rend="indent">In the way their fathers went? </l>
+          </lg>
+          <pb xml:id="flower_13044" n="50 FLOWER OF YOUTH"/>
+          <lg type="stanza">
+            <l>From the innumerable grave</l>
+            <l rend="indent">There will spring a world new-born, </l>
+            <l>With the austerest eyes and brave</l>
+            <l rend="indent">And its clear gaze towards the morn.</l>
+          </lg>
+          <lg type="stanza">
+            <l>He who gave His Son to die</l>
+            <l rend="indent">For man's purchase, gives once more </l>
+            <l>These, His beloved sons, to buy</l>
+            <l rend="indent">Him a world worth dying for. </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13045" n="51 THE GREAT MERCY"/>
+        <div xml:id="flower_23" type="Poem">
+          <head rend="center">THE GREAT MERCY</head>
+          <lg rend="italic" type="stanza">
+            <l>Betwixt the saddle and the ground </l>
+            <l>Was mercy sought and mercy found.</l>
+          </lg>
+          <lg type="stanza">
+            <l>Yea, in the twinkling of an eye, </l>
+            <l>He cried; and Thou hast heard his cry. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Between the bullet and its mark </l>
+            <l>Thy face made morning in his dark. </l>
+          </lg>
+          <lg type="stanza">
+            <l>And while the shell sang on its path</l>
+            <l>Thou hast run, Thou hast run, preventing death. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Thou hast run before and reached the goal, </l>
+            <l>Gathered to Thee the unhoused soul. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Thou art not bound by Time or Space: </l>
+            <l>So fast Death runs : Thou hast won the race. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Thou hast said to beaten Death: <hi rend="italic">Go tell</hi></l>
+            <l rend="italic">Of victories thou once hadst. All's well! </l>
+          </lg>
+          <pb xml:id="flower_13046" n="52 FLOWER OF YOUTH"/>
+          <lg rend="italic" type="stanza">
+            <l>Death, here none die but thee and Sin </l>
+            <l>Now the great days of Life begin. </l>
+          </lg>
+          <lg type="stanza">
+            <l>And to the Soul: <hi rend="italic">This day I rise </hi></l>
+            <l rend="italic">And thee with Me to Paradise. </l>
+          </lg>
+          <lg rend="italic" type="stanza">
+            <l>Betwixt the saddle and the ground</l>
+            <l>Was Mercy sought and Mercy found.</l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13047" n="53 MEETINGS"/>
+        <div xml:id="flower_24" type="Poem">
+          <head rend="center">MEETINGS</head>
+          <lg type="stanza">
+            <l>As up and down I fare by road and street </l>
+            <l>The mothers of our men-at-arms I meet</l>
+            <l rend="indent">Who die for mine and me, </l>
+            <l rend="indent">That we go safe and free, </l>
+            <l>Sit in the sun, sleep soft and find life sweet. </l>
+          </lg>
+          <lg type="stanza">
+            <l>I have two sons too young to fight, too young, </l>
+            <l>God grant if my hour comes I may be strong, </l>
+            <l rend="indent">And caught in such a strait </l>
+            <l rend="indent">May praise God and be great, </l>
+            <l>Giving my sons to save some woman from wrong! </l>
+          </lg>
+          <lg type="stanza">
+            <l>Oh, mothers of dead heroes, ye I know, </l>
+            <l>My heart sends you a greeting, soft and low; </l>
+            <l rend="indent">Blessed are ye whose sons </l>
+            <l rend="indent">Amid the ransomed ones</l>
+            <l>Throng to the banners of Heaven as white as snow. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Somehow, by some secret and certain sign, </l>
+            <l>The mothers of the beloved I divine </l>
+            <l rend="indent">Who died in my sons' place. </l>
+            <l rend="indent">My heart kneels and gives grace. </l>
+            <l>Gives thanks for you, for you, proud sisters of mine! </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13048" n="54 FLOWER OF YOUTH"/>
+        <div xml:id="flower_25" type="Poem">
+          <head rend="center">FLOWER OF YOUTH</head>
+          <lg type="stanza">
+            <l>LEST Heaven be thronged with grey-beards hoary, </l>
+            <l rend="indent">God, who made boys for His delight, </l>
+            <l>Stoops in a day of grief and glory</l>
+            <l rend="indent">And calls them in, in from the night. </l>
+            <l>When they come trooping from the war</l>
+            <l>Our skies have many a new gold star. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Heaven's thronged with gay and careless faces, </l>
+            <l rend="indent">New-waked from dreams of dreadful things, </l>
+            <l>They walk in green and pleasant places</l>
+            <l rend="indent">And by the crystal water-springs </l>
+            <l>Who dreamt of dying and the slain, </l>
+            <l>And the fierce thirst and the strong pain. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Dear boys! They shall be young for ever. </l>
+            <l rend="indent">The Son of God was once a boy. </l>
+            <l>They run and leap by a clear river</l>
+            <l rend="indent">And of their youth they have great joy. </l>
+            <l>God who made boys so clean and good </l>
+            <l>Smiles with the eyes of fatherhood. </l>
+          </lg>
+          <pb xml:id="flower_13049" n="55 FLOWER OF YOUTH"/>
+          <lg type="stanza">
+            <l>Now Heaven is by the young invaded; </l>
+            <l rend="indent">Their laughter's in the House of God. </l>
+            <l>Stainless and simple as He made it</l>
+            <l rend="indent">God keeps the heart o' the boy unflawed. </l>
+            <l>The old wise Saints look on and smile, </l>
+            <l>They are so young and without guile. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Oh, if the sonless mothers weeping, </l>
+            <l rend="indent">And widowed girls could look inside</l>
+            <l>The glory that hath them in keeping</l>
+            <l rend="indent">Who went to the Great War and died, </l>
+            <l>They would rise and put their mourning off, </l>
+            <l>And say:  "Thank God, he has enough!" </l>
+          </lg>
+        </div>
+        <div xml:id="flower_26" type="insert">
+          <head rend="center">"Flower of Youth"<lb/>
+(Pages 54, 55)</head>
+          <p xml:id="flower_13050">In response to numerous applications, the publishers can supply copies of this poem printed separately at twopence each (post free, 2 1/2d., or a dozen copies,   2s. 1d.). The profits will be given to the Dublin Castle Red Cross Hospital.</p>
+          <p xml:id="flower_13051">SIDGWICK &amp; JACKSON LTD.</p>
+          <p xml:id="flower_13052">3 ADAM STREET, LONDON, W.C.</p>
+        </div>
+        <pb xml:id="flower_13053" n="56 FLOWER OF YOUTH"/>
+        <div xml:id="flower_27" type="Poem">
+          <head rend="center">"UNHOUSEL'D, UNANOINTED, UNANEL'D"</head>
+          <lg type="stanza">
+            <l>WHEN these men must go alone</l>
+            <l>Sans an absolution, </l>
+            <l>When their sins are heavy as lead, </l>
+            <l>Thou Thyself will lift the head ; </l>
+            <l>Thou, High Priest, wilt whisper low, </l>
+            <l><hi rend="italic">Te Absolvo! </hi>  ere they go. </l>
+          </lg>
+          <lg type="stanza">
+            <l>When there is no sacrifice, </l>
+            <l>Bread and Wine for Thy disguise, </l>
+            <l>Come Thou in the Spirit then; </l>
+            <l>As at Agincourt our men </l>
+            <l>With desire a blade of grass</l>
+            <l>Served as Eucharist and Mass. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Lay Thyself the oil on lips, </l>
+            <l>Limbs and eyes, before the eclipse--</l>
+            <l>As once Magdalen did to Thee--</l>
+            <l>And so speed them, safe and free, </l>
+            <l>To lie down with Thee a while </l>
+            <l>And to waken to Thy smile. </l>
+          </lg>
+          <lg type="stanza">
+            <l>They shall sit down at the Feast</l>
+            <l>Where Thou are Sacrament and Priest. </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13054" n="57 ALL SOULS"/>
+        <div xml:id="flower_28" type="Poem">
+          <head rend="center">ALL SOULS</head>
+          <lg type="stanza">
+            <l>THERE'S traffic in the worlds immortal, </l>
+            <l rend="indent">For many souls are flying home, </l>
+            <l>Striving and pushing at the portal</l>
+            <l rend="indent">For sight of glorious things to come. </l>
+          </lg>
+          <lg type="stanza">
+            <l>What rout of wings against the sunset? </l>
+            <l rend="indent">What rosy plumes the dawning bar? </l>
+            <l>Heaven's stormed with gay and happy onset</l>
+            <l rend="indent">Of youngling things home from the War. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Against the inverted cup of azure, </l>
+            <l rend="indent">Against the evening, peach and green, </l>
+            <l>The frolicsome young souls take their pleasure, </l>
+            <l rend="indent">Darting the silver stars between. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Though the old nests be sad, forsaken, </l>
+            <l rend="indent">The cotes of Heaven are yet unfilled: </l>
+            <l>In trees of Heaven as yet untaken</l>
+            <l rend="indent">The immortal Loves lift hearts and build. </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13055" n="58 FLOWER OF YOUTH"/>
+        <div xml:id="flower_29" type="Poem">
+          <head rend="center">THE PREDESTINED<lb/>
+(W. E. H. 6<hi rend="italic">th November</hi>  1914)</head>
+          <lg type="stanza">
+            <l>DEAR, we might have known you were</l>
+            <l rend="indent">To die young--and were we blind </l>
+            <l>To the light on face and hair? </l>
+            <l rend="indent">Dear, so simple and so kind. </l>
+          </lg>
+          <lg type="stanza">
+            <l>You were clean as your own sword</l>
+            <l rend="indent">And as straight too and steel true. </l>
+            <l>In the Army of the Lord</l>
+            <l rend="indent">What promotion waits for you! </l>
+          </lg>
+          <lg type="stanza">
+            <l>I can see you where you stand, </l>
+            <l rend="indent">Knightly soul, so clean, so brave. </l>
+            <l>With a new sword in your hand</l>
+            <l rend="indent">Where the lilied banners wave. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Flower of simple chivalry, </l>
+            <l rend="indent">Marked for honour and for grace; </l>
+            <l>It was very plain to see</l>
+            <l rend="indent">The clear shining of your face. </l>
+          </lg>
+          <pb xml:id="flower_13056" n="59 THE PREDESTINED"/>
+          <lg type="stanza">
+            <l>You are gone now: it's turned cold: </l>
+            <l rend="indent">Very good you were and dear. </l>
+            <l>Wear the looks you wore of old</l>
+            <l rend="indent">When we meet,--some other year. </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13057" n="60 FLOWER OF YOUTH"/>
+        <div xml:id="flower_30" type="Poem">
+          <head rend="center">THE OLD SOLDIER<lb/>
+(14<hi rend="italic">th November</hi>  1914)</head>
+          <lg type="stanza">
+            <l>LEST the young soldiers be strange in Heaven, </l>
+            <l rend="indent">God bids the old soldier they all adored</l>
+            <l>Come to Him and wait for them, clean, new-shriven, </l>
+            <l rend="indent">A happy door-keeper in the House of the Lord. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Lest it abash them, the great new splendour, </l>
+            <l rend="indent">Lest they affright them, the new robes clean, </l>
+            <l>God sets an old face there, long-tried and tender, </l>
+            <l rend="indent">A word and a hand-clasp as they troop in. </l>
+          </lg>
+          <lg type="stanza">
+            <l><hi rend="italic">My boys! </hi>  he welcomes them and Heaven is homely; </l>
+            <l rend="indent">He, their great Captain in days gone o'er. </l>
+            <l>Dear is the face of a friend, honest and comely, </l>
+            <l rend="indent">As they come home from the war and he at the door. </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13058" n="61 THE FIELDS OF FRANCE"/>
+        <div xml:id="flower_31" type="Poem">
+          <head rend="center">
+            <seg type="short-title">THE FIELDS OF FRANCE</seg>
+            <lb/>
+            <hi rend="italic">"Nous avons chassé ce Jesus Christ"</hi>
+          </head>
+          <lg type="stanza">
+            <l>JESUS CHRIST they chased away</l>
+            <l>Comes again another day. </l>
+            <l>Could they do without Him then</l>
+            <l>His poor lost unhappy men? </l>
+            <l>He returns and is revealed </l>
+            <l>In the trenches and the field. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Where the dead lie thick He goes, </l>
+            <l>Where the brown earth's red as a rose, </l>
+            <l>He who walked the waters wide </l>
+            <l>Treads the wine-press, purple-dyed,</l>
+            <l>Stoops, and bids the piteous slain </l>
+            <l>That they rise with Him again. </l>
+          </lg>
+          <lg type="stanza">
+            <l>To His breast and in his cloak </l>
+            <l>Bears the younglings of the flock: </l>
+            <l>Calls His poor sheep to come home </l>
+            <l>And His sheep rise up and come. </l>
+            <pb xml:id="flower_13059" n="62 FLOWER OF YOUTH"/>
+            <l>They shall rest by a clear pool </l>
+            <l>'Mid the pastures beautiful! </l>
+          </lg>
+          <lg type="stanza">
+            <l>Jesus Christ they chased away </l>
+            <l>Has come back another day. </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13060" n="63 THE OPEN ROAD"/>
+        <div xml:id="flower_32" type="Poem">
+          <head rend="center">THE OPEN ROAD</head>
+          <lg type="stanza">
+            <l>THE roads of the Sea</l>
+            <l rend="indent">Are thronged with merchantmen; </l>
+            <l>East and West, North and South</l>
+            <l rend="indent">They go and come again. </l>
+          </lg>
+          <lg type="stanza">
+            <l>All precious merchandise</l>
+            <l rend="indent">They bear in their hold: </l>
+            <l>Lest the people be starving</l>
+            <l rend="indent">In the night and cold. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Now tell me, good merchants, </l>
+            <l rend="indent">How this thing can be</l>
+            <l>That the white ships are thronging</l>
+            <l rend="indent">The roads of the sea? </l>
+          </lg>
+          <lg type="stanza">
+            <l>For there's death in the skies</l>
+            <l rend="indent">And there's death on the earth; </l>
+            <l>And men talked of famine</l>
+            <l rend="indent">And a frozen hearth. </l>
+          </lg>
+          <pb xml:id="flower_13061" n="64 FLOWER OF YOUTH"/>
+          <lg type="stanza">
+            <l>Yet the ships they go crowding</l>
+            <l rend="indent">The roads of the sea; </l>
+            <l>They bring home their treasures</l>
+            <l rend="indent">To you and to me. </l>
+          </lg>
+          <lg type="stanza">
+            <l>O listen, good people, </l>
+            <l rend="indent">And hearing, praise God, </l>
+            <l>That the watch-dogs are keeping</l>
+            <l rend="indent">The ships on their road! </l>
+          </lg>
+          <lg type="stanza">
+            <l>They sit watchful and steady</l>
+            <l rend="indent">Where the North winds blow; </l>
+            <l>Sleepless they are keeping</l>
+            <l rend="indent">The roads the ships go. </l>
+          </lg>
+          <lg type="stanza">
+            <l>In the day, in the hour, </l>
+            <l rend="indent">They will spring--until then, </l>
+            <l>Their eyes keep the courses</l>
+            <l rend="indent">Of the merchantmen. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Forget not, good people, </l>
+            <l rend="indent">When ye heap the white board, </l>
+            <l>When ye draw to the hearth-fire, </l>
+            <l rend="indent">To praise the Lord, </l>
+          </lg>
+          <pb xml:id="flower_13062" n="65 THE OPEN ROAD "/>
+          <lg type="stanza">
+            <l>That the watch-dogs unsleeping</l>
+            <l rend="indent">Keep the roads of the Sea, </l>
+            <l>Up by the Northern Lights </l>
+            <l rend="indent">Where the great ships be. </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13063" n="66 FLOWER OF YOUTH"/>
+        <div xml:id="flower_33" type="Poem">
+          <head rend="center">FOR THE AIRMEN<lb/>
+(<hi rend="italic">To</hi>  MAURICE HEWLETT)</head>
+          <lg type="stanza">
+            <l>THOU who guidest the swallow and wren, </l>
+            <l>Keep the paths of the flying men! </l>
+          </lg>
+          <lg type="stanza">
+            <l>Over the mountains, over the seas </l>
+            <l>Thou hast given the bird-folk compasses. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Thou guidest them, yea, Thou leadest them home</l>
+            <l>By the trackless ways and the venturesome. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Look Thou then on these bird-men, far </l>
+            <l>More than the sparrows and swallows are. </l>
+          </lg>
+          <lg type="stanza">
+            <l>When they fly in the wintry weather </l>
+            <l>Be their compass and chart together. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Keep them riding the wind. Uphold </l>
+            <l>Their passion of flight lest it grow cold. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Thy right hand be under the wing, </l>
+            <l>Thy left hand for their steadying. </l>
+          </lg>
+          <pb xml:id="flower_13064" n="67 FOR THE AIRMEN"/>
+          <lg type="stanza">
+            <l>The Wings of the birds of Heaven be nigh</l>
+            <l>Lest their wings fail them and they die. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Make Thou their flying as deft and fleet </l>
+            <l>As the flight of the linnet or the blue-tit. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Thy hand over them, shall they fear </l>
+            <l>The spears of lightning or any spear? </l>
+          </lg>
+          <lg type="stanza">
+            <l>Thy hand under them, what shall appal? </l>
+            <l>Not the fierce foe nor the sudden fall. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Show them Thy moon at night: Thy stars </l>
+            <l>Bid stand as sentinels in their wars. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Yea, make their lone tracks pleasant as </l>
+            <l>A soft meandering path in grass. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Thou that launchest the wren, the swallow</l>
+            <l>Guard our flying loves when they follow. </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13065" n="68 FLOWER OF YOUTH"/>
+        <div xml:id="flower_34" type="Poem">
+          <head rend="center">CHRISTMAS IN THE YEAR OF THE WAR</head>
+          <lg type="stanza">
+            <l>NEVERTHELESS this Year of Grief</l>
+            <l>The Tree of God's in leaf. </l>
+          </lg>
+          <lg type="stanza">
+            <l>The stem, the branch quickeneth</l>
+            <l>With sap, this year of Death. </l>
+          </lg>
+          <lg type="stanza">
+            <l>For in the time of the flowering thorn</l>
+            <l>The Babe, the Babe, is born! </l>
+          </lg>
+          <lg type="stanza">
+            <l>Christ's folk, look up, be not dismayed, </l>
+            <l>The Lord's in the cattle shed. </l>
+          </lg>
+          <lg type="stanza">
+            <l>He comes, a little trembling One, </l>
+            <l>To a world else lost, undone. </l>
+          </lg>
+          <lg type="stanza">
+            <l>With His poor folk He wills to stay</l>
+            <l>In this their difficult day. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Poor war-worn world, you shall have ease! </l>
+            <l>He signs your lasting peace. </l>
+          </lg>
+          <lg type="stanza">
+            <l>He hath given His people rest from wars, </l>
+            <l>By the cold light of stars. </l>
+          </lg>
+          <lg type="stanza">
+            <l>The charter of their peace shall stand </l>
+            <l>Writ by His hour-old hand. </l>
+          </lg>
+          <lg type="stanza">
+            <l>The Tree of Paradise quickeneth. </l>
+            <l>Be still,--there is no death! </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13066" n="69 A SONG FOR THE NEW YEAR"/>
+        <div xml:id="flower_35" type="Poem">
+          <head rend="center">A SONG FOR THE NEW YEAR<lb/>
+1915</head>
+          <lg type="stanza">
+            <l>THE Year of the Sorrows went out with great wind: </l>
+            <l>Lift up, lift up, O broken hearts, your Lord is kind, </l>
+            <l>And He shall call His flock home where no storms be</l>
+            <l>Into a sheltered haven out of sound of the sea. </l>
+          </lg>
+          <lg type="stanza">
+            <l>There shall be bright sands there and a milken hill, </l>
+            <l>They shall lie in the sun there and drink their fill, </l>
+            <l>They shall have dew and shade there and grass to the knee, </l>
+            <l>Safe in a sheltered haven out of sound of the sea. </l>
+          </lg>
+          <lg type="stanza">
+            <l>He shall bind their wounds up and their tears shall cease: </l>
+            <l>They shall have sweetest pillows and a bed of ease. </l>
+            <l><hi rend="italic">Come up, come up and hither, O little flock,</hi> saith He, </l>
+            <l rend="italic">Ye shall have sheltered havens out of sound of the sea.</l>
+          </lg>
+          <lg type="stanza">
+            <l>The first day of New Year strewed the sea with dead. </l>
+            <l>Lift up, lift up, O broken heart and hanging head! </l>
+            <l>The Lord walks on the waters and a Shepherd is He </l>
+            <l>They shall have sheltered havens out of sound of the sea. </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13067" n="70 FLOWER OF YOUTH"/>
+        <div xml:id="flower_36" type="Poem">
+          <head rend="center">DEAD--A PRISONER</head>
+          <lg type="stanza">
+            <l>HE died the loneliest death of all, </l>
+            <l rend="indent">Amid his foes he died. </l>
+            <l>But Someone's leaped the outer wall</l>
+            <l rend="indent">And Someone's come inside, </l>
+            <l>And he has gotten a golden key</l>
+            <l>To set the lonesome prisoner free. </l>
+          </lg>
+          <lg type="stanza">
+            <l>It was not Peter with the keys, </l>
+            <l rend="indent">The heavenly janitor, </l>
+            <l>Who has passed them like a rushing breeze, </l>
+            <l rend="indent">The gaolers at the door, </l>
+            <l>And to His bosom as a bed</l>
+            <l>Has taken the unmothered head. </l>
+          </lg>
+          <lg type="stanza">
+            <l>A great light in the prison shone</l>
+            <l rend="indent">That made the people blind: </l>
+            <l rend="italic">Rise up, rise up, new-ransomed one,</l>
+            <l rend="indent">
+              <hi rend="italic">And taste the sun and wind: </hi>
+            </l>
+            <l rend="italic">For I have gotten a golden key&lt;</l>
+            <l rend="italic">To set all lonesome prisoners free. </l>
+          </lg>
+          <pb xml:id="flower_13068" n="71 DEAD-A PRISONER"/>
+          <lg type="stanza">
+            <l rend="italic">Yea they shall soar, shall spring aloft; </l>
+            <l rend="indent">
+              <hi rend="italic">Their gyves shall not be rough, </hi>
+            </l>
+            <l rend="italic">But just the links of love, so soft</l>
+            <l rend="indent">
+              <hi rend="italic">That they shall not cast off. </hi>
+            </l>
+            <l rend="italic">Rise up, my dear, and come away."</l>
+            <l>And they went out to the great day. </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13069" n="72 FLOWER OF YOUTH"/>
+        <div xml:id="flower_37" type="Poem">
+          <head rend="center"><seg type="short-title">TO R.A.A.</seg><lb/>
+(20<hi rend="italic">th October</hi>  1914. 24<hi rend="italic">th February</hi>  1915)</head>
+          <lg type="stanza">
+            <l rend="italic">Was it not a great end?</l>
+            <l>Wrote your Philip, with a story</l>
+            <l>Of a great deed, a great death--</l>
+            <l>Not foreseeing his own glory </l>
+            <l>And his budding laurel-wreath--</l>
+            <l>In the last words he should send. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Philip's followed Alan's lead. </l>
+            <l>They are gone into the night </l>
+            <l>With the great heroes of old, </l>
+            <l>With the stars, the stars they are bright; </l>
+            <l>They are warm; they are not cold. </l>
+            <l>They live: they are not dead. </l>
+          </lg>
+          <lg type="stanza">
+            <l>But the silence aches. O friend </l>
+            <l>In the darkness, cold and stricken, </l>
+            <l>For anodyne, antidote, </l>
+            <l>Tell your dead heart, that it quicken, </l>
+            <l>The last words that Philip wrote: </l>
+            <l>"Was it not a great end ?" <hi rend="italic">A great end! </hi></l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13070" n="73 SALUTATION"/>
+        <div xml:id="flower_38" type="Poem">
+          <head rend="center">SALUTATION</head>
+          <lg type="stanza">
+            <l>To you and you and you who have given</l>
+            <l rend="indent">Two sons for England's sake,--what word? </l>
+            <l>Oh, there is weeping heard in Heaven</l>
+            <l rend="indent">And Mary's heart has the Eighth Sword. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Henceforth as you go through the town</l>
+            <l rend="indent">The folk who see you go and come</l>
+            <l>Will doff their hats to your renown, </l>
+            <l rend="indent">With: <hi rend="italic">Salvete flores Martyrum! </hi></l>
+          </lg>
+          <lg type="stanza">
+            <l>O chosen from all women and men</l>
+            <l rend="indent">For that high lonely destiny! </l>
+            <l>Now that we look at you, 'tis plain</l>
+            <l rend="indent">God set a mark to know you by. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Your cross was growing in the tree</l>
+            <l rend="indent">Before the golden world was made; </l>
+            <l>Your martyr's palms began to be</l>
+            <l rend="indent">Before "Let there be Light" was said. </l>
+          </lg>
+          <lg type="stanza">
+            <l>And still where'er you come and go</l>
+            <l rend="indent">The world's the lighter for your load. </l>
+            <l>Who thinks on common things and low</l>
+            <l rend="indent">When your high sorrow takes the road? </l>
+          </lg>
+          <pb xml:id="flower_13071" n="74 FLOWER OF YOUTH"/>
+          <lg type="stanza">
+            <l>O predestined and pre-elect </l>
+            <l rend="indent">'Tis you must bear the glorious scars. </l>
+            <l>Stand up, dear Saints, white and erect, </l>
+            <l rend="indent">The wounded in the heavenly wars. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Beloved, afflicted, marked for grace. </l>
+            <l rend="indent">God's folk who watch you go and come, </l>
+            <l>Call, leaning from their Paradise place, </l>
+            <l rend="indent">
+              <hi rend="italic">Salvete flores Martyrum! </hi>
+            </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13072" n="75 THE SAD SPRING"/>
+        <div xml:id="flower_39" type="Poem">
+          <head rend="center">THE SAD SPRING</head>
+          <lg type="stanza">
+            <l>THE Spring weeps, she is forlorn; </l>
+            <l rend="indent">Well that she may weep, alas! </l>
+            <l>Now that many babes are born</l>
+            <l rend="indent">Whose dear fathers lie in grass. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Snowdrops in the frozen earth</l>
+            <l rend="indent">Faint and are not comforted; </l>
+            <l>Never was so sad a birth, </l>
+            <l rend="indent">Never was so sad a bed. </l>
+          </lg>
+          <lg type="stanza">
+            <l>She must bear her pangs alone. </l>
+            <l rend="indent">Where is sorrow like to hers? </l>
+            <l>In an anguish cold as stone</l>
+            <l rend="indent">Her dead soldier's child she bears. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Now her trembling arms will hold</l>
+            <l rend="indent">Close the piteous downy thing</l>
+            <l>To a milky breast as cold</l>
+            <l rend="indent">As the frozen water-spring. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Now she hopes and dreads to find</l>
+            <l rend="indent">Likeness in the little son</l>
+            <l>To his father, brave and kind. </l>
+            <l rend="indent">Like or not, her heart's undone. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Tender nurslings born in pain, </l>
+            <l rend="indent">Mother's comfort, mother's grief, </l>
+            <l>When her tears run down like rain, </l>
+            <l rend="indent">Lord, bring Thou a handkerchief. </l>
+          </lg>
+          <pb xml:id="flower_13073" n="76 FLOWER OF YOUTH"/>
+          <lg type="stanza">
+            <l>Wipe the widow's tears away, </l>
+            <l rend="indent">Father orphan boys and girls. </l>
+            <l>Lead them out where they may play, </l>
+            <l rend="indent">With Thy hand upon their curls. </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13074" n="77 A PRAYER"/>
+        <div xml:id="flower_40" type="Poem">
+          <head rend="center">A PRAYER<lb/>
+	       (<hi rend="italic">For Those Who Shall Return</hi>)</head>
+          <lg type="stanza">
+            <l>LORD, when they come back again</l>
+            <l rend="indent">From the dreadful battlefield</l>
+            <l>To the common ways of men, </l>
+            <l rend="indent">Be Thy mercy, Lord, revealed! </l>
+            <l>Make them to forget the dread</l>
+            <l>Fields of dying and the dead! </l>
+          </lg>
+          <lg type="stanza">
+            <l>Let them go unhaunted, Lord, </l>
+            <l rend="indent">By the sights that they have seen: </l>
+            <l>Guard their dreams from shell and sword; </l>
+            <l rend="indent">Lead them by the pastures green, </l>
+            <l>That they wander all night long</l>
+            <l>In the fields where they were young. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Grant no charnel horrors slip</l>
+            <l rend="indent">'Twixt them and their child's soft face. </l>
+            <l>Breast to breast and lip to lip, </l>
+            <l rend="indent">Let the lovers meet, embrace! </l>
+            <l>Be they innocent of all</l>
+            <l>Memories that affright, appal. </l>
+          </lg>
+          <pb xml:id="flower_13075" n="78 FLOWER OF YOUTH"/>
+          <lg type="stanza">
+            <l>Let their ears love music still, </l>
+            <l rend="indent">And their eyes rejoice to see</l>
+            <l>Glory on the sea and hill, </l>
+            <l rend="indent">Beauty in the flower and tree. </l>
+            <l>Drop a veil that none may raise </l>
+            <l>Over dreadful nights and days. </l>
+          </lg>
+        </div>
+        <pb xml:id="flower_13076" n="79 RESURRECTION"/>
+        <div xml:id="flower_41" type="Poem">
+          <head rend="center">RESURRECTION</head>
+          <lg type="stanza">
+            <l>Now the golden daffodil</l>
+            <l rend="indent">Lifts from earth his shining head</l>
+            <l>That was lately frozen still</l>
+            <l rend="indent">In the gardens of the dead. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Sing to the Lord a new song! </l>
+            <l rend="indent">Roundelays and virelays, </l>
+            <l>Who hath slain Death and is young</l>
+            <l rend="indent">Master of your holidays. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Now from places underground</l>
+            <l rend="indent">Gold and purple folk will go</l>
+            <l>Haled by the shrill trumpet sound</l>
+            <l rend="indent">From their wormy beds below. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Now the stone is from the tomb! </l>
+            <l rend="indent">Now 'tis Easter and the morn! </l>
+            <l>Christ the Lord of Life is come, </l>
+            <l rend="indent">Hath slain Death, and Life is born. </l>
+          </lg>
+          <pb xml:id="flower_13077" n="80 FLOWER OF YOUTH"/>
+          <lg type="stanza">
+            <l>Christ the Lord of Life new-risen, </l>
+            <l rend="indent">Calls the sleepers that they rise--</l>
+            <l>From the unnumbered graves, break prison, </l>
+            <l rend="indent">Follow Him to Paradise. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Who be then these shining ones</l>
+            <l rend="indent">Dancing with a heavenly mirth, </l>
+            <l>The King's daughters, the King's sons, </l>
+            <l rend="indent">Fairer than the folk of earth? </l>
+          </lg>
+          <lg type="stanza">
+            <l>Graves are busier than a hive</l>
+            <l rend="indent">The wind blows, the sun is warm; </l>
+            <l>Now the dead are come alive--</l>
+            <l rend="indent">Loosed is many a golden swarm. </l>
+          </lg>
+          <lg type="stanza">
+            <l>Sing to the Lord a new song! </l>
+            <l rend="indent">The Sun's risen in our East; </l>
+            <l>Christ the Lord of Life is young. </l>
+            <l rend="indent">And the young sit to the feast. </l>
+          </lg>
+        </div>
+      </div>
+    </body>
+    <back xml:id="flower_13080">
+      <div xml:id="flower_42" type="Colophon">
+        <p xml:id="flower_13079">THE RIVERSIDE PRESS LIMITED, EDINBURGH</p>
+      </div>
+    </back>
+  </text>
+</TEI>

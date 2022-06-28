@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="adair_1308">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Tahlequah, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Adair, Lena Harnage</reg><orig>Lena Harnage Adair</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>15kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability status="unknown">
+          <p xml:id="adair_1301">1996 Emory University. Permission is granted to
+	       download, transmit, or otherwise reproduce, distribute
+               or display the contributions to the work claimed by
+               Emory University for non-profit educational purposes,
+               provided this header is included in its entirety.  For
+               inquiries about commercial uses, contact either: Emory
+               Women Writers Resource Project or Lewis H. Beck Center
+               for Electronic collections and services, Emory
+               University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/179gc</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Adair, Lena Harnage. "Tahlequah."<publisher>Tahlequah Arrow</publisher> Feb. 19, <date>1916</date>: 1-4.</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="adair_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Native American</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Native American</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Poetry</rs>
+        <rs type="geography">United States</rs>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list type="simple">
+            <item>Tahlequah (Okla.).</item>
+            <item>American literature--20th Century--Fiction.</item>
+            <item>Women authors, American--20th Century.</item>
+            <item>Race relations.</item>
+            <item>Native Americans.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1999</date><label>Staff</label><name>Anna Engle</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck
+	    Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="adair_1307">
+    <body xml:id="adair_1306">
+      <div xml:id="adair_001" type="poem">
+        <head>Tahlequah</head>
+        <pb xml:id="adair_1303" n="1"/>
+        <lg type="stanza">
+          <l n="1">Here's to Tahlequah with her wooded hills,</l>
+          <l>Her sparkling springs and tinkling rills,</l>
+          <l>Her rocky cliffs by ferns o'ergrown,</l>
+          <l>And her shady nooks by lovers known:</l>
+          <l>Her maidens fair and cultured dames,</l>
+          <l>And gifted sons of illustrious names.</l>
+          <l>He who drinks of the waters of these lipid [sic] springs;</l>
+          <l>Though far he may wander fond memory brings</l>
+          <l>Sweet thoughts of the village taat [sic] nestles serene,</l>
+          <l>So tranquil and lovely like an enchanted scene;</l>
+          <l>Visions of beauty he long will retain,</l>
+          <l>And in dreams will he oft visit Tahlequah again.</l>
+          <l>About her foothills of the Ozark rise,</l>
+          <l>Like a gem surrounded by her setting she lies,</l>
+          <l>Near by flows the Illinois-a srystal [sic] stream,</l>
+          <l>Brightly the waters o'er its pebbly bed gleam.</l>
+          <l>He who loves the beautiful, along its banks may find</l>
+          <l>Many a picturesque spot to delight the mind.</l>
+          <l>You should see Tahlequah in the month of May,</l>
+          <l>When nature has dooned [sic] her brightest array,</l>
+          <l>When incense, borne by the perfumed breeze,</l>
+          <l>That blows through the snow-white locust trees,</l>
+          <l>Around the quaint old capital square,</l>
+          <l>Floats out upon the warm sweet air;</l>
+          <l>When the emerald sward is bedecked wtih [sic] flowers</l>
+          <l>And the birds sing in their leafy bowers,</l>
+          <pb xml:id="adair_1304" n="4"/>
+          <l>And the voice of the school children on the street,</l>
+          <l>Fall [sic] upon the ear like music sweet.</l>
+          <l>Many a Tahlequah family its lineage traces</l>
+          <l>Back to old England's proudest races,</l>
+          <l>For many a noble, to hide his head,</l>
+          <l>In Cromwell's time, to America fled,</l>
+          <l>And by the Cherokees were made welcome</l>
+          <l>To dwell with them in their forest home.</l>
+          <l>And in the days when revolutionary strife</l>
+          <l>Often endangered the royalists [sic] life,</l>
+          <l>Over the mountains of Tennessee,</l>
+          <l>The Tory came to dwell with the Cherokee:</l>
+          <l>For during that period the Indians were loyal</l>
+          <l>To the British crown and the family royal.</l>
+          <l>The same that Cherokee history adorn,</l>
+          <l>Were not assumed, but were  proudly borne,</l>
+          <l>By descendants of these old English sires,</l>
+          <l>Who safety sought at the Cherokee camp fires.</l>
+          <l>The name Tahlequah to this town was given</l>
+          <l>By the old Cherokees, when they were driven</l>
+          <l>From their eastern homes, afar to the west,</l>
+          <l>Till they reached this dear spot, "A haven of rest,"</l>
+          <l>Poor, sorrowing exiles, of their homes bereft</l>
+          <l>Grieving for the fire-sides which they had left.</l>
+          <l>God who takes care of those whom the strong oppress,</l>
+          <l>And pities them in their sore distress</l>
+          <l>Brought it to pass, that the land of the given,</l>
+          <l>By treaty as sacred and solemn as Heaven</l>
+          <l>Was better than that of which they had been despoiled,</l>
+          <l>Little the white brothers knew of this land</l>
+          <l>Which they gave to the remnant of this proud band.</l>
+          <l>Knew naught of the mineral wealth which hides</l>
+          <l>Its bounteous stores in the mountain sides;</l>
+          <l>Naught of the verdant fruitful plants,</l>
+          <l>Nor the varied resources this country contains.</l>
+          <l>Here the Cherokee rested, their long journey o'er,</l>
+          <l>And this wildwood was given to be theirs evermore,</l>
+          <l>Here they made the council-ground.</l>
+          <l>And here their Kihegas oft were found</l>
+          <l>In solemn assembly and council grave;</l>
+          <l>When laws to govern the nation they gave,</l>
+          <l>Here, Sequoyah, the Cadmus, his alpabet [sic] brought,</l>
+          <l>Whcih [sic] with infinite patience and skill he wrought,</l>
+          <l>Schools were established to teach the youth</l>
+          <l>And churches, to spread Christainity's [sic] truth.</l>
+          <l>Soon the wilderness was made to bloom</l>
+          <l>As homes were bulit [sic] dispelled its gloom.</l>
+          <l>And the town by the little woodland stream</l>
+          <l>Threw its light afar, like a diamond's gleam.</l>
+          <l>Such was the birth of this historic town,</l>
+          <l>Which for her beauty is of wide renown,</l>
+          <l>For her fountains that gush from the rough hillside,</l>
+          <l>And her halls of learning, the Nation's pride.</l>
+          <l>Like Athens of old, she is of learning the seat,</l>
+          <l>So peaceful and quiet, a sylvan retreat.</l>
+        </lg>
+        <note anchored="true" type="inline">
+          <p xml:id="adair_1305"> Kihegas-Leading men </p>
+        </note>
+      </div>
+    </body>
+  </text>
+</TEI>

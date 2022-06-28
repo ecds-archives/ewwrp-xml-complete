@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="behn_adventure_13022">
+  <teiHeader><fileDesc>
+      <titleStmt n=" The Adventure of the Black Lady.  A Novel. ">
+        <title>The Adventure of the Black Lady.  A Novel, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Behn, Aphra, 1640-1689</reg><orig>Aphra Behn</orig></choice></name>
+          
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center </name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>20kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="behn_adventure_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to
+the work claimed by Emory University for non-profit educational purposes, provided 
+this header is included in its entirety.  For inquiries about commercial uses, contact
+either: Women Writers Resource Project or Lewis H. Beck Center for Electronic
+collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/179tr</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Behn, Aphra.  The Adventure of the Black Lady.  A Novel.  London, <publisher>Printed for Samuel Briscoe</publisher>, near Covent-Garden, <date>1697</date>.  [EEB MIC 572 reel 1454:5]</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="behn_adventure_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early Modern through the 18th Century</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Novel</rs>
+        <rs type="geography">Great Britain</rs>
+        <date>1600-1699</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Female friendship.</item>
+            <item>Seduction.</item>
+            <item>Marriage.</item>
+            <item>Romance.</item>
+            <item>English literature--Women authors--Fiction--17th Century.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1997</date><label>Staff</label><name>Scott Ellis</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="behn_adventure_13021">
+    <body xml:id="behn_adventure_13020">
+      <div xml:id="behn_adventure_001" type="Novel">
+        <head>THE<lb/>
+ADVENTURE <lb/>
+OF THE<lb/>
+BLACK LADY.<lb/>
+A<lb/>
+NOVEL.</head>
+        <byline>BY<lb/>
+MRS. A. BEHN.</byline>
+        <p xml:id="behn_adventure_1303">LONDON,<lb/>
+Printed for Samuel Briscoe, <lb/>
+near Covent-Garden, 1697.</p>
+        <pb xml:id="behn_adventure_1304" n="3"/>
+        <p xml:id="behn_adventure_1305">THE <lb/>
+ADVENTURE<lb/>
+OF THE<lb/>
+BLACK LADY.</p>
+        <p xml:id="behn_adventure_1308">About the beginning of last <hi rend="italic">June</hi>
+	    (as near as I can remember) <hi rend="italic">Bellamora</hi> came to Town
+from Hampshire; and was oblig'd to lodge the first Night at the same Inn where the
+Stage-Coach set up.  The next Day she took Coach for <hi rend="italic">Covent-Garden</hi>, where she thought
+to find Madam <hi rend="italic">Brightly</hi>, a Relation of her's; with whom she design'd to continue for about
+half a Year undiscover'd, if possible, by her Friends in the Country: And order'd therefore
+her Trunk, with her Cloaths, and most of her Money and Jewels, to be brought after her to
+Madam <hi rend="italic">Brightly</hi>'s, by a strange Porter whom she spoke to in the Street as she was taking
+Coach; being utterly unacquainted with the neat Practices of this fine City.  When she came
+to Bridges-street, where inded her Cousin had lodged near three or four Years since; 
+<pb xml:id="behn_adventure_1306" n="4"/>
+she was strangely surpriz'd that she cou'd not learn any thing of her; no, nor so much as
+meet with any one that had ever heard of her Cousin's Name.  Till, at last, describing
+Madam <hi rend="italic">Brightly</hi> to one of the house-keepers in that place, he told her, that there was such a
+kind of Lady, whom he had sometimes seen there about a Year and a half ago; but that he
+believ'd, she was married and remov'd towards <hi rend="italic">So-ho</hi>.  In this Perplexity she quite forgot
+her Trunk and Money, &amp;c. and wander'd in her Hackney-Coach all
+over St. <hi rend="italic">Ann</hi>'s Parish;
+inquiring for Madam <hi rend="italic">Brightly</hi>, still describing her Person, but in vain; for no soul cou'd
+give her any Tale or Tidings of such a Lady.  After she had thus fruitlesly rambled, till she,
+the Coachman, and the very Horses were e'en tir'd, by good Fortune for her, she happen'd 
+on a private House, where lived a good, discreet, ancient Gentlewoman, who was fallen a
+little to decay, and was forc'd to let Lodgings for the best part of her Livelihood: From
+whom she understood, that there was such a kind of a Lady who had lain there somewhat
+more than a Twelve-month, being near three Months after she was married: But that she
+was now gone abroad with the Gentleman her Husband; either to the Play, or to take the
+fresh Air; and she believ'd, wou'd not return till Night.  This Discourse of the good
+Gentlewoman's so elevated <hi rend="italic">Bellamora</hi>'s drooping Spirits, that after she had begg'd the
+Liberty of staying there till they came home, she discharg'd the Coachman in all haste, still
+forgetting<pb xml:id="behn_adventure_1307" n="5"/>
+her Trunk, and the more valuable Furniture of it.</p>
+        <p xml:id="behn_adventure_13011">When they were alone, <hi rend="italic">Bellamora</hi> desired she might be permitted the Freedom to send for a
+Pint of Sack; which, with some little Difficulty, was at last allow'd her.  They began then
+to chat for a matter of half an hour of things indifferent: And, at length the ancient
+Gentlewoman ask'd the Fair Innocent (I must not say Foolish) one, of what Country, and
+what her Name was: To both which she answer'd very <hi rend="italic">directly</hi> and <hi rend="italic">truly</hi>; tho' it might have
+prov'd, not <hi rend="italic">discreetly</hi>.  She then inquir'd of
+<hi rend="italic">Bellamora</hi> if her Parents were living, and the
+Occasion of her coming to Town.  The Fair Unthinking Creature replied, That her Father
+and Mother were both dead: And that she had escap'd from her Uncle, under pretence of
+making a Visit to a young Lady, her Cousin who was lately married, and liv'd above
+Twenty Miles from her Uncle's in the Road to <hi rend="italic">London</hi>; and, that the Cause of her quitting
+the Country, was to avoid the hated Importunities of a Gentleman, whose pretended Love
+to her she fear'd had been her eternal Ruine.  At which she wept and sigh'd most
+extravagantly.  The discreet Gentlewoman endeavour'd to comfort her by all the softest and
+most powerful Argument in her Capacity; promising her all the friendly Assistance that she
+cou'd expect from her, during <hi rend="italic">Bellamora</hi>'s stay in Town; which she did with so much
+Earnestness and visible Integrity, that the pretty innocent Creature was going to make her a
+full and real Discovery of<pb xml:id="behn_adventure_1309" n="6"/>
+of her imaginary, insupportable Misfortunes; and
+(doubtless) had done it; had she not been prevented by the Return of the Lady, whom she
+hop'd to have found her Cousin <hi rend="italic">Brightly</hi>. The Gentleman her Husband just saw her within
+Doors, and order'd the Coach to drive to some of his Bottle-Companions; which gave the
+Women the better Opportunity of entertaining one another, which happen'd to be with
+some Surprize on all sides.  As the lady was going up to her Apartment, the Gentlewoman
+of the House told her there was a young Lady in the Parlour, who came out o' the Country
+that very Day on purpose to visit her: The Lady stept immediately to see who it was, and
+<hi rend="italic">Bellamora</hi> approaching to receive her hop'd for Cousin, stopp'd on the the suddain just as
+she came to her; and sigh'd out loud, Ah, Madam! I am lost.—It is not your Ladyship I
+seek.  No, Madam (return'd t'other) I am apt to think you did not intend me this Honour. 
+But you are as welcome to me, as you could be to the dearest of your Acquaintance: Have
+you forgot me, Madam <hi rend="italic">Bellamora?</hi> (continued she) that Name startled both the other:
+However, It was with a kind of Joy.  Alas! Madam, (replied the young one I now
+remember that I have been so happy to have seen you: But where, and when, my Memory
+can't shew me.  'Tis indeed some Years since: (return'd the Lady) But of that another
+time.—Mean while, if your are unprovided of a lodging, I dare undertake, you shall be
+welcom to this Gentlewoman. The Fair Unfortunate return'd her<pb xml:id="behn_adventure_13010" n="7"/>
+ Thanks; and whilst a
+Chamber was preparing for her, the Lady entertain'd her in her own. About Ten a Clock
+they parted, <hi rend="italic">Bellamora</hi> being conducted to her new Lodging by the Mistress of the House,
+who then left her to take what Rest she cou'd amidst her so many seeming Misfortunes;
+returning to the other Lady, who desir'd her to search into the Cause
+of <hi rend="italic">Bellamora</hi>'s Retreat
+to Town.</p>
+        <p xml:id="behn_adventure_13012">The next Morning the good Gentlewoman of the House
+	    coming up to her, found <hi rend="italic">Bellamora</hi>
+almost drown'd in Tears, which by many kind and sweet Words she at last stopp'd; and
+asking whence so great Signs of Sorrow shou'd proceed, vow'd a most profound Secrecy
+if she wou'd discover to her their Occasion; which, after some little Reluctancy, she did, in
+this manner:</p>
+        <p xml:id="behn_adventure_13015">I was courted (said she) above three Years ago, when my Mother was yet living, by one
+Mr. <hi rend="italic">Fondlove</hi>, a Gentleman of a good Estate, and true Worth; and one who, I dare believe,
+did then really love me: He continu'd his Passion for me, with all the earnest and honest
+Solicitations imaginable, till some Month's before my Mother's Death; who at that time,
+was most desirous to see me dispos'd of in Marriage to another Gentleman, of a much
+better Estate than Mr. Fondlove: But one, whose Person and Humour did by no means hit
+with my Inclinations: And this gave Fondlove the unhappy Advantage over me.  For,
+finding me one Day all alone in my Chamber, and lying on my Bed, in as mournful and
+wretched a Condition, to my then foolish Ap- <pb xml:id="behn_adventure_13013" n="8"/>
+prehension, as <hi rend="italic">now</hi> I am; He urg'd his
+Passion with such Violence and accursed Success for me, with reiterated Promises of
+Marriage, whenever I pleas'd to challeng 'em, which he bound with the most sacred Oaths
+and most dreadful Execrations; that partly with my Aversion to the other, and partly wih my
+Inclinations to <hi rend="italic">pity him</hi>, I <hi rend="italic">ruin'd my self</hi>.— Here she relaps'd into a greater Extravagance
+of Grief than before; which was so extreme, that it did not continue long.  When therefore,
+she was pretty well come to her self, the ancient Gentlewoman ask'd her, why she
+imagin'd her self ruin'd?  To which she answer'd, I am great with Child by him (Madam)
+and wonder you did not perceive it last Night.  Alas! I have not a Month to go: I am
+sham'd, ruin'd, and damn'd, I fear, for ever lost.  O, fie, Madam, think not so: (replied
+<hi rend="italic">Bellmora</hi>) I doubt not that he wou'd marry me; for, soon after my Mother's Death, when I
+came to be at my own Disposal, which happen'd about two Months after, he offer'd, nay,
+most earnestly sollicited me to it, which still he perseveres to do.  This is strange! (return'd
+'tother)  And it appears to me to be your own Fault, that you are yet miserable.  Why did
+you not, or why will you not consent to your own Happiness?  Alas! alas! (cry'd
+<hi rend="italic">Bellamora</hi>) 'Tis the only thing I dread in this World: For, I am certain he can never love me
+after: Besides, ever since, I have abhorr'd the Sight of him: And  <pb xml:id="behn_adventure_13014" n="9"/>
+this is the only Cause
+that obliges me to forsake my Uncle, and all my Friends and Relations in the Country,
+hoping this <hi rend="italic">populous</hi> and <hi rend="italic">publick</hi> Place to be most <hi rend="italic">private</hi>, especially, (Madam) in your
+House, and in your Fidelity and Discretion.  Of the last you may assure your self, Madam,
+(said t'other:) But what Provision have you made for the Reception of the young Stranger
+that you carry about you.  Ah, Madam! (cry'd <hi rend="italic">Bellamora</hi>) you have brought to mind
+another Misfortune:  Then she acquainted her with the suppos'd Loss of her Money and
+Jewels, telling her withal, that she had but three Guinea's and some Silver left, and the
+Rings she wore, in her present Possession.  The good Gentlewoman of the House told her,
+she wou'd send to inquire at the Inn where she lay the first Night she came to Town; for,
+(happily) they might give some account of the Porter to whom she had instrusted her
+Trunk; and withal repeated her Promise of all the help in her Power, and for that time left
+her much more compos'd than she found her.  The good Gentlewoman went directly to the
+other Lady, her Lodger, to whom she recounted <hi rend="italic">Bellamora</hi>'s mournful Confession: At
+which the Lady appear'd mightily concern'd: And at last, she told her Land-lady, that she
+wou'd take Care that <hi rend="italic">Bellamora</hi> should lie in according to her Quality: For, (added she) the
+Child (it seems) is my own Brothers.</p>
+        <p xml:id="behn_adventure_13019">Assoon  as she had din'd, she went to the Exchange and bought Child-bed Linen; but
+desir'd that <hi rend="italic">Bellamora</hi> might not have the least No-<pb xml:id="behn_adventure_13016" n="10"/>
+tice of it: And at her Return
+dispatch'd a Letter to her Brother <hi rend="italic">Fondlove</hi> in
+<hi rend="italic">Hantshire</hi>, with an Account of every
+particular; which soon brought him up to Town, without satisfying any of his or her
+Friends with the Reason of his sudden Departure; mean while, the good Gentlewoman of
+the House had sent to the <hi rend="italic">Star-inn</hi> on <hi rend="italic">Fish-street-hill</hi>, to demand the Trunk; which she
+rightly suppos'd to have been carried back thither: For, by good Luck, it was a Fellow that
+plyed thereabouts who brought it to <hi rend="italic">Bellamora</hi>'s Lodgings that very Night, but unknown to
+her.  <hi rend="italic">Fondlove</hi> no sooner got to <hi rend="italic">London</hi>, but he posts to his Sister's Lodgings, where he
+was advis'd not to be seen of <hi rend="italic">Bellamora</hi> till they had work'd farther upon her, which the
+Land-Lady began in this manner; she told her that her things were miscarried, and she
+fear'd lost; that she had but little Money her self, and if the Overseers of the poor (justly so
+call'd from their over-looking 'em) shou'd have the least Suspicion of a strange and
+unmarried Person, who was entertain'd in her House big with Child and so near her time
+as <hi rend="italic">Bellamora</hi> was, she shou'd be troubled, if they cou'd not give Security to the Parish of
+twenty or thirty Pound that they shou'd not suffer by her, which she cou'd not; or
+otherwise, she must be sent to the House of Correction, and her Child to a Parish-Nurse. 
+This Discourse one may imagine, was very dreadful to a Person of her Youth, Beauty,
+Education, Family and Estate: However, she resolutely protested, that she had rather
+undergo all this, than be <pb xml:id="behn_adventure_13017" n="11"/>
+expos'd to the Scorn of her Friends and Relations in the
+Country.  The other told her then, that she must write down to her Uncle a farewell Letter,
+as if she were just going abroad the <hi rend="italic">Pacquet-boat</hi> for <hi rend="italic">Holland</hi>; that he might not send to
+inquire for her in Town, when he shou'd understand she was not at her new-married
+Cousin's in the Country, which accordingly she did, keeping her self a close Prisoner to
+her Chamber; where she was daily visited by <hi rend="italic">Fondlove</hi>'s Sister and the Land-Lady, but by
+no Soul else, the first dissembling the Knowledge she had of her Misfortunes.  Thus she
+continued for above three Weeks; not a Servant being suffer'd to enter her Chamber, so
+much as to make her Bed, lest they shou'd take Notice of her great Belly: But for all this
+Caution, the Secret had taken Wind, by the means of an Attendant of the other Lady below,
+who had over-heard her speaking of it to her Husband.  This soon got out 'o Doors and
+spread abroad, till it reach'd the long Ears of the Wolves of the Parish; who next day
+design'd to give her an ungrateful Visit: But <hi rend="italic">Fondlove</hi>, by good Providence, prevented it;
+who, the Night before, was usher'd into <hi rend="italic">Bellamora</hi>'s Chamber by this Sister, his
+Brother-in-Law, and the Land-Lady.  At the sight of him she had like to have swoon'd
+away: But he taking her in his Arms, began again, as he was wont to do, with Tears in his
+Eyes, to beg that she wou'd marry him e'er she was delivered; if not for his, nor her own,
+yet for the Child's sake, which she hourly expected; that it might not be born out of
+Wed-<pb xml:id="behn_adventure_13018" n="12"/>
+lock, and so be made uncapable of inheriting either of their Estates; with a great
+many more pressing Arguments on all sides: To which at last she consented; and an honest
+officious Gentleman, whom they had before provided, was call'd up, who made an end of
+the Dispute: So to Bed they went together that Night; and next Day to the Exchange, for
+several pretty Businesses that Ladies in her Condition want.  Whilst they were abroad,
+came the Vermin of the Parish, (I mean, the Overseers of the poor, who eat the Bread from
+'em) to search for a young Black-hair'd Lady (for so was <hi rend="italic">Bellamora</hi>) who was either
+brought to bed, or just ready to lie down.  The Land-Lady shew'd 'em all the Rooms in her
+House, but no such Lady cou'd be found.  At last she bethought her self, and led'em into
+her Parlour, where she open'd a little Closet-door, and shew'd 'em her Balck Cat that had
+just kitten'd; assuring 'em, that she shou'd never trouble the Parish as long as she had Rats
+or Mice in the House, and so dismiss'd 'em like Logger-heads as they came.
+FINIS.<lb/></p>
+      </div>
+    </body>
+  </text>
+</TEI>

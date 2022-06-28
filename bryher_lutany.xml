@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bryher_lutany_13052">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Region of Lutany, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Bryher, Annie Winifred Ellerman</reg><orig>W. Bryher</orig></choice></name>
+         
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>35kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="bryher_lutany_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to
+the work claimed by Emory University for non-profit educational purposes, provided 
+this header is included in its entirety.  For inquiries about commercial uses, contact
+either: Women Writers Resource Project or Lewis H. Beck Center for Electronic
+collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17b3z</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Bryher, W. [Annie Winifred Ellerman]. Region of
+	   Lutany. <publisher>Chapman &amp; Hall</publisher>, <date>1914</date>.</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="bryher_lutany_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Poetry</rs>
+        <rs type="geography">Great Britain</rs>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>English poetry--Women authors--20th Century.</item>
+            <item>Lesbians' writings--Poetry.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1999</date><label>Staff</label><name>Jennifer Poulos Nesbitt</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="bryher_lutany_13051">
+    <body xml:id="bryher_lutany_13050">
+      <div xml:id="bryher_lutany_001" type="Book">
+        <head>REGION OF LUTANY<lb/>By WINIFRED ELLERMAN</head>
+        <pb xml:id="bryher_lutany_1303"/>
+        <p xml:id="bryher_lutany_1305">CONTENTS<lb/>
+Region of Lutany	       5<lb/>
+Corfu		       7<lb/>
+Leaderless		       8<lb/>
+Palæokastrizza	     13<lb/>
+To Francis Thompson     14<lb/>
+Pansies 		     16<lb/>
+Dwelt a Maid in Lutany  18<lb/>
+Sicily			      20<lb/>
+Ode to the Sea	     22<lb/>
+Pontikonisi		     25<lb/>
+Bluebells		     26<lb/>
+The Pages of the Flowers     27<lb/>
+Song			    29<lb/>
+Tristfulness		     31<pb xml:id="bryher_lutany_1304" n="5"/>
+5<lb/></p>
+        <div xml:id="bryher_lutany_002" type="Book">
+          <head>Region of Lutany</head>
+          <div xml:id="bryher_lutany_003" type="Poem">
+            <head>REGION OF LUTANY</head>
+            <lg type="stanza">
+              <l n="1">Where is the way to thee,</l>
+              <l>	Region of Lutany?</l>
+              <l>I cried to the swallow and lark in their flight,</l>
+              <l>I cried at the dawn, in the day, and the night,</l>
+              <l>I cried to the cloud, and the wave, and the tree,</l>
+              <l>	None knew the way to thee,</l>
+              <l>	Mistress imperious,</l>
+              <l>	O thou mysterious</l>
+              <l>	Region of Lutany.</l>
+            </lg>
+            <lb/>
+            <lg type="stanza">
+              <l n="1">I sought of my soul if the pathway lay there,</l>
+              <l>Song vanished away, as a bird in the air,</l>
+              <l>I sought if the salt of my tears was the way,</l>
+              <l>I sought if in pleasure the dream-city lay,</l>
+              <l>I roamed in my thought to the future and past,</l>
+            </lg>
+            <pb xml:id="bryher_lutany_1306" n="6"/>
+            <lg type="stanza">
+              <l>Hoping in dreaming to find it at last,</l>
+              <l>	I cannot reach to thee,</l>
+              <l>	Mistress imperious,</l>
+              <l>	O thou mysterious,</l>
+              <l>	Region of Lutany.</l>
+            </lg>
+            <p xml:id="bryher_lutany_1307">1912.</p>
+            <pb xml:id="bryher_lutany_1308" n="7"/>
+          </div>
+          <div xml:id="bryher_lutany_004" type="Poem">
+            <head>CORFU</head>
+            <lg type="stanza">
+              <l n="1">Wrapt in the dreaming Ionian sea,</l>
+              <l>  Magical isle of the splendid South,</l>
+              <l>  Is it the charm of thy wave-curved mouth,</l>
+              <l>Or thy vague Greek songs that are haunting me?</l>
+              <l>Is it thy veil of enpurpled hue,</l>
+              <l>  Folding thy hills through the star-swept night?</l>
+              <l>  Or thy red-sailed ships in the silver light, </l>
+              <l>	Corfu?</l>
+            </lg>
+            <lb/>
+            <lg type="stanza">
+              <l n="1">Are thy quivering sea-shells an argent lute,</l>
+              <l>  Strung with the whispering amethyst spray,</l>
+              <l>  Breathing such songs to the dawn-lit bay,</l>
+              <l>That even the wind of the South is mute,</l>
+              <l>O is it thy sky's cloud-banished blue,</l>
+              <l>  Is it a spell of thy cypress-breast,</l>
+              <l>  Or is it thy poppies that lull me to rest,</l>
+              <l>	Corfu?</l>
+            </lg>
+            <p xml:id="bryher_lutany_1309">Corfu, </p>
+            <p xml:id="bryher_lutany_13010">1913</p>
+            <pb xml:id="bryher_lutany_13011" n="8"/>
+          </div>
+          <div xml:id="bryher_lutany_005" type="Poem">
+            <head>LEADERLESS</head>
+            <lg type="stanza">
+              <l n="1">(<hi rend="italic">To an imaginary poet.</hi>)</l>
+            </lg>
+            <lg type="stanza">
+              <l n="1">A star-souled leader to Song's laurelled height,</l>
+              <l>Laden with April-visioned minstrelsies,</l>
+              <l>And drifting sea-born lays, thou greeted us</l>
+              <l>A year ago.</l>
+            </lg>
+            <lb/>
+            <lg type="stanza">
+              <l n="1">Thou wished to lead us by thy dream-spun way,</l>
+              <l>Triumphant to the realms of Lutany,</l>
+              <l>Across the portals of the glimmering night,</l>
+              <l>Across the cloud-dim silence of the night,</l>
+              <l>Wherein thou tissued petalled fantasies,</l>
+              <l>Redolent of the sleeping meadow-sweet,</l>
+              <l>All pansy-fragrant with the air of June.</l>
+            </lg>
+            <lb/>
+            <lg type="stanza">
+              <l n="1">We rhymed our little songs, and laughed at thee,</l>
+              <l>We scorned thy visions, scorned thy leadership.</l>
+            </lg>
+            <pb xml:id="bryher_lutany_13012" n="9"/>
+            <lg type="stanza">
+              <l>A dreaming child, thou wandered long ago,</l>
+              <l>Until the music of the eastern sky</l>
+              <l>Wakened the sleeping poems of thy heart;</l>
+              <l>Taught thee of all the multitudinous joys</l>
+              <l>Hidden within the stirring of the dawn,</l>
+              <l>Folded within the clouds;</l>
+              <l>Taught thee to grieve,</l>
+              <l>Weeping thy Baby-sorrows to the stars,</l>
+              <l>That they might comfort thee;</l>
+              <l>Taught thee to dream,</l>
+              <l>And live in dream,</l>
+              <l>And make thy life a dream.</l>
+              <l>Thou learnt the inner meaning of all vision,</l>
+              <l>Then thou camest,</l>
+              <l>With thy dawn-splendid eyes,</l>
+              <l>To be our leader.</l>
+            </lg>
+            <lb/>
+            <lg type="stanza">
+              <l n="1">We mocked thee,</l>
+              <l>And the garland round thy head,</l>
+              <l>And triumph in thine eyes</l>
+              <l>Faded and drooped,</l>
+              <l>And thy gold-wingèd soul</l>
+              <l>Grew tired.</l>
+            </lg>
+            <pb xml:id="bryher_lutany_13013" n="10"/>
+            <lg type="stanza">
+              <l>But still thou wovest greater-soulèd songs,</l>
+              <l>From out the desolation of thine heart,</l>
+              <l>For in thy dreams thou saw the lucent waves,</l>
+              <l>And heard the sea call to thee in the wind,</l>
+              <l>And in the stirring of the falling leaves,</l>
+              <l>And yet we mocked thee.</l>
+            </lg>
+            <lb/>
+            <lg type="stanza">
+              <l n="1">A lonely dreamer in the crowded streets,</l>
+              <l>Thou mused a space,</l>
+              <l>Tissued our longings into rose-winged songs,</l>
+              <l>Then fled away to sea-crowned Lyonnesse,</l>
+              <l>Where thy soul might find freedom,</l>
+              <l>And thy poems glory,</l>
+              <l>Leaving us leaderless,</l>
+              <l>Lonely and leaderless.</l>
+            </lg>
+            <lb/>
+            <lg type="stanza">
+              <l n="1">There, thou art crowned</l>
+              <l>With the glory of the tempest,</l>
+              <l>And the mighty desolation</l>
+              <l>Of resilient waves;</l>
+              <l>Thine are the songs of the swaying sea-storm,</l>
+              <l>Thou art veiled with the splendour of even,</l>
+              <l>Amber, and argent, and azure,</l>
+              <l>In one cloud over thee.</l>
+            </lg>
+            <pb xml:id="bryher_lutany_13014" n="11"/>
+            <lg type="stanza">
+              <l>There is thy soul freer than the salt air,</l>
+              <l>Lighter than wind-swept spray,</l>
+              <l>Fairer than foam,</l>
+              <l>But thou art songless,</l>
+              <l>For how could'st thou weave mortal melodies,</l>
+              <l>When thou hast heard the music of the sea,</l>
+              <l>And listed all the quivering harmonies,</l>
+              <l>Of the immeasurable dawn.</l>
+            </lg>
+            <lb/>
+            <lg type="stanza">
+              <l n="1">We are left leaderless,</l>
+              <l>Lonely and leaderless,</l>
+              <l>Now thou hast fled from us,</l>
+              <l>Over the sea.</l>
+            </lg>
+            <lb/>
+            <lg type="stanza">
+              <l n="1">Art thou never sorrowful at night-time,</l>
+              <l>In the glimmer of the firelight,</l>
+              <l>When the great gales creep?</l>
+              <l>Dost thou never wonder as thou listeth,</l>
+              <l>The tempest-thunder,</l>
+              <l>If any remember</l>
+              <l>The days of thy leadership?</l>
+            </lg>
+            <pb xml:id="bryher_lutany_13015" n="12"/>
+            <lg type="stanza">
+              <l>O dreamer of unutterable dreams,</l>
+              <l>Leave thou the sunset-fire,</l>
+              <l>The clinging dawn,</l>
+              <l>The lonely contemplation of the night,</l>
+              <l>Unwrap the radiant silence of thy soul,</l>
+              <l>And come to us,</l>
+              <l>Better it is to stir our hearts with songs,</l>
+              <l>Than sleep thy life away in Lyonnesse,</l>
+              <l>So lead us by thine own dream-woven way,</l>
+              <l>Back to the golden realms of Lutany.</l>
+            </lg>
+            <p xml:id="bryher_lutany_13016">1913. </p>
+            <pb xml:id="bryher_lutany_13017" n="13"/>
+          </div>
+          <div xml:id="bryher_lutany_006" type="Poem">
+            <head>PALÆOKASTRIZZA</head>
+            <lg type="stanza">
+              <l n="1">Beyond the olive slopes, a sun-crowned peak</l>
+              <l>Rose like a lily from the violet sea,</l>
+              <l>Unto the shell-fringed bay the roseal waves</l>
+              <l>Tossed dreamily.</l>
+            </lg>
+            <lb/>
+            <lg type="stanza">
+              <l n="1">A little white-walled monastery slept</l>
+              <l>Upon a cypress hill, a monk or two</l>
+              <l>Wandered a petalled way, beneath a sky</l>
+              <l>Ionian blue.</l>
+            </lg>
+            <lb/>
+            <lg type="stanza">
+              <l n="1">The perfect silence of a southern noon,</l>
+              <l>The distant islands lulled to unstirred peace,</l>
+              <l>And I had reached a long desirèd realm,</l>
+              <l>The Land of Greece.</l>
+            </lg>
+            <p xml:id="bryher_lutany_13018">CORFU,</p>
+            <p xml:id="bryher_lutany_13019">1913. </p>
+            <pb xml:id="bryher_lutany_13020" n="14"/>
+          </div>
+          <div xml:id="bryher_lutany_007" type="Poem">
+            <head>TO FRANCIS THOMPSON</head>
+            <lg type="stanza">
+              <l n="1">Enwrapt  within the amethystine fold</l>
+              <l>Of thy first sleep, unsaddened and at peace,</l>
+              <l>Deep in thy heart was born a lute of gold,</l>
+              <l>And dreams of Greece.</l>
+            </lg>
+            <lb/>
+            <lg type="stanza">
+              <l n="1">Afire with all the flame of new-born Song,</l>
+              <l>Mad with its fierce triumphal ecstasy,</l>
+              <l>How could'st thou bar thy heart for very long</l>
+              <l>From Lutany.</l>
+            </lg>
+            <lb/>
+            <lg type="stanza">
+              <l n="1">The desolation and the loneliness</l>
+              <l>Of that sad time, with cold and pain for friend,</l>
+              <l>Tuned by thy heart to visioned loveliness,</l>
+              <l>That had no end.</l>
+            </lg>
+            <lb/>
+            <lg type="stanza">
+              <l n="1">A little calm was thine, some griefs, some sighs</l>
+              <l>And strife, with wounds of corn and sneer un-healed,</l>
+              <l>one struggle, and thy dream-enchanted eyes</l>
+              <l>Closed Slumber-sealed.</l>
+            </lg>
+            <pb xml:id="bryher_lutany_13021" n="15"/>
+            <lg type="stanza">
+              <l n="1">We cannot soothe one sorrow, right one wrong,</l>
+              <l>We cannot add  a bud to thy renown,</l>
+              <l>Within the star-lit garden of thy song</l>
+              <l>Thou hast thy crown.</l>
+            </lg>
+            <p xml:id="bryher_lutany_13022">Palermo,</p>
+            <p xml:id="bryher_lutany_13023">June, 1913. </p>
+            <pb xml:id="bryher_lutany_13024" n="16"/>
+          </div>
+          <div xml:id="bryher_lutany_008" type="Poem">
+            <head>PANSIES</head>
+            <lg type="stanza">
+              <l n="1">O my glimmering petalled pansies,</l>
+              <l>  Amethyst, purple and golden, and gay,</l>
+              <l>  Will ye not sigh me a thought some day,</l>
+              <l>Scatter a shimmering handful of fancies,</l>
+              <l>  My heart might gather, and hide away.</l>
+              <l>For when your blossoms are veiled with night,</l>
+              <l>	In a wingèd boat,</l>
+              <l>	I could often float</l>
+              <l>To the land of your dreamings, all purple white.</l>
+            </lg>
+            <lb/>
+            <lg type="stanza">
+              <l n="1">O my pansies, at even sighing,</l>
+              <l>  Breathe me the dreams that the summer-wind's lute,</l>
+              <l>  Murmurs in time with the leaf-swaying flute,</l>
+              <l>Carolled in March when the winter is dying,</l>
+              <l>  And April stirs in the primrose root.</l>
+            </lg>
+            <pb xml:id="bryher_lutany_13025" n="17"/>
+            <lg type="stanza">
+              <l>O I would weave such a song for you,</l>
+              <l>	That your buds would keep,</l>
+              <l>	From the land of sleep,</l>
+              <l>To list my singing the whole night through.</l>
+            </lg>
+            <p xml:id="bryher_lutany_13026">Siracusa,</p>
+            <p xml:id="bryher_lutany_13027">1913. </p>
+            <pb xml:id="bryher_lutany_13028" n="18"/>
+          </div>
+          <div xml:id="bryher_lutany_009" type="Poem">
+            <head>DWELT A MAID IN LUTANY</head>
+            <lg type="stanza">
+              <l n="1">Long ago there dwelt a maid,</l>
+              <l>All alone in Lutany,</l>
+              <l>All alone-and unafraid,</l>
+              <l>In the realms of minstrelsy,</l>
+              <l>Long ago, ah very long,</l>
+              <l>In a world of Baby song,</l>
+              <l>Tripped the maiden dreamily.</l>
+            </lg>
+            <lb/>
+            <lg type="stanza">
+              <l n="1">Unborn laughters tinged her eyes,</l>
+              <l>  Dreams danced o'er her tresses,</l>
+              <l>She was one rose-sweet surprise,</l>
+              <l>  Gay with happiness,</l>
+              <l>For she taught her heart to glow,</l>
+              <l>Turned her heart to viol and bow,</l>
+              <l>Long ago, ah long ago,</l>
+              <l>  With her Song's caresses.</l>
+            </lg>
+            <lb/>
+            <lg type="stanza">
+              <l n="1">Far she soared on dream-wove wing,</l>
+              <l>To the whitebells echoing,</l>
+              <l>Flitting like an umbered bee,</l>
+              <l>To a dawn-sweet melody.</l>
+            </lg>
+            <pb xml:id="bryher_lutany_13029" n="19"/>
+            <lg type="stanza">
+              <l>Yet the maiden, tired of dreaming,</l>
+              <l>Longed to flit away,</l>
+              <l>Weary of the lilied gleaming,</l>
+              <l>  Of her merry play,</l>
+              <l>  So she left her minstrelsy,</l>
+              <l>Left her dreamful sanctuary,</l>
+              <l>And the realms of Lutany,</l>
+              <l>  On a summer's day.</l>
+            </lg>
+            <lb/>
+            <lg type="stanza">
+              <l n="1">Long ago, there dwelt a maid,</l>
+              <l>Where wingèd joys fly merrily,</l>
+              <l>Ah, but long ago she strayed</l>
+              <l>  From the fields of Fantasy.</l>
+              <l>Now she seeketh, all day long,</l>
+              <l>To regain the gates of Song,</l>
+              <l>Where dawn-radiant visions throng,</l>
+              <l>In the Land of Lutany.</l>
+            </lg>
+            <pb xml:id="bryher_lutany_13030" n="20"/>
+          </div>
+          <div xml:id="bryher_lutany_010" type="Poem">
+            <head>SICILY</head>
+            <lg type="stanza">
+              <l n="1">When songs were but the winds that swept thy seas,</l>
+              <l>And rhymes were as thy Spring anemones,</l>
+              <l>Long ere I clasped Ionian lucencies</l>
+              <l>In silent dreams to me,</l>
+              <l>I played with thee.</l>
+            </lg>
+            <lb/>
+            <lg type="stanza">
+              <l n="1">Thou whispered to me all thy sweetest tales,</l>
+              <l>The rhymèd flutt'rings of thy fishing sails,</l>
+              <l>The southern thunders of Sirrocan gales</l>
+              <l>That suddenly </l>
+              <l>Storm over thee.</l>
+            </lg>
+            <lb/>
+            <lg type="stanza">
+              <l n="1">Thou hast one almond tree that I remember,</l>
+              <l>Whose falling petals summer'd thy December:</l>
+              <l>Roses that seemed a stray autumnal ember,</l>
+              <l>Enfolded are for me</l>
+              <l>In memory.</l>
+            </lg>
+            <pb xml:id="bryher_lutany_13031" n="21"/>
+            <lg type="stanza">
+              <l n="1">Though now I seek the tiny Grecian bays,</l>
+              <l>O Playfellow of those unsaddened days</l>
+              <l>When joys unhidden danced in all thy ways,</l>
+              <l>I still shall think of thee,</l>
+              <l>My Sicily.</l>
+            </lg>
+            <pb xml:id="bryher_lutany_13032" n="22"/>
+          </div>
+          <div xml:id="bryher_lutany_012" type="Poem">
+            <head>ODE TO THE SEA</head>
+            <lg type="stanza">
+              <l n="1">How shall I tune my lute to sing thy praise</l>
+              <l>Mysterious Sea?</l>
+              <l>All music-wrapt in thine enwallèd ways</l>
+              <l>With thine own minstrelsy,</l>
+              <l>	Can I out-sing the spray,</l>
+              <l>	Or the West-wind out-play,</l>
+              <l>With my poor Lutany?</l>
+              <l>Within thy crested depths remains, I deem,</l>
+              <l>A sea-spun wreath of all-triumphal joy,</l>
+              <l>So I will set the purple sails of dream,</l>
+              <l>And take the fluted waves for argent toy.</l>
+            </lg>
+            <lb/>
+            <lg type="stanza">
+              <l n="1">How shall I fashion the heart of my song?</l>
+              <l>With the out-flung, thundering northern gale,</l>
+              <l>Where the storm-blown, spray-silvered, sea-</l>
+              <l>	   birds sail,</l>
+              <l>	Swept along</l>
+              <l>On the desolate curve of a wind-swayed wave.  </l>
+              <l>O, I will pierce thy soul's most secret cave,</l>
+            </lg>
+            <pb xml:id="bryher_lutany_13033" n="23"/>
+            <lg type="stanza">
+              <l>	Laugh not, song-wingèd Sea,</l>
+              <l>	Thou shalt not fly form me,</l>
+              <l>My hand's upon thy robe of azure air,</l>
+              <l>	And my wind-sandalled feet</l>
+              <l>	Shall prove them tempest-fleet,</l>
+              <l>Until I grasp the tresses of thine hair.</l>
+            </lg>
+            <lb/>
+            <lg type="stanza">
+              <l n="1">Until I seize thy locks, all dream-inwrought,</l>
+              <l>Mingle my unsung melodies with thine,</l>
+              <l>	Till all thy veilèd thought</l>
+              <l>And foam-born harmonies are mine, are mine.</l>
+              <l>	Alas, what hast thou done,</l>
+              <l>	Just as my crown was won,</l>
+              <l>Beyond my boasting, imperturbable,</l>
+              <l>	Thou swingest silently,</l>
+              <l>	Majestically free,</l>
+              <l>Why strive to utter the unutterable?</l>
+            </lg>
+            <lb/>
+            <lg type="stanza">
+              <l n="1">My dreamèd triumph is dissolved in mist,</l>
+              <l>Some withered leaves for garlanding, I twist,</l>
+              <l>	Only a hap of seed,</l>
+              <l>	Of some engloomèd weed,</l>
+            </lg>
+            <pb xml:id="bryher_lutany_13034" n="24"/>
+            <lg type="stanza">
+              <l>Remaineth of my utterance unborn,</l>
+              <l>	Yet, is the rose forbid,</l>
+              <l>	Some charm's discovered, hid</l>
+              <l>Within the weedy hedgerow by the corn.</l>
+              <l>I furl my sails, I cast each toy away,</l>
+              <l>My strings snap one by one, the notes are mute</l>
+              <l>The dying wind hushes the sea-swept lute,</l>
+              <l>The clouds of night are blending with the day,</l>
+              <l>O Mystery, O wonder-breathing Sea,</l>
+              <l>With awe-struck, silent lips, I list to thee,</l>
+              <l>to thee, and thine unending lutany.</l>
+            </lg>
+            <p xml:id="bryher_lutany_13035">Cattero,</p>
+            <p xml:id="bryher_lutany_13036">1913. </p>
+            <pb xml:id="bryher_lutany_13037" n="25"/>
+          </div>
+          <div xml:id="bryher_lutany_013" type="Poem">
+            <head>PONTIKONISI</head>
+            <lg type="stanza">
+              <l n="1">Dream-ceintured isle amid June-sleepy seas,</l>
+              <l>Therein flit vanished songs of lutanists,</l>
+              <l>Folden with azure air, and golden mists,</l>
+              <l>Sweet with red poppies, sad with cypress trees.</l>
+            </lg>
+            <lb/>
+            <lg type="stanza">
+              <l n="1">Low-chanted songs, and voiceless longings sweep</l>
+              <l>To thine enchanted realms of minstrelsy,</l>
+              <l>Wherein my soul would seek a sanctuary,</l>
+              <l>For silent noon has hushed the world to sleep.</l>
+            </lg>
+            <p xml:id="bryher_lutany_13038">CORFU, 1913. </p>
+            <pb xml:id="bryher_lutany_13039" n="26"/>
+          </div>
+          <div xml:id="bryher_lutany_014" type="Poem">
+            <head>BLUEBELLS</head>
+            <lg type="stanza">
+              <l n="1">In the wildest melodies</l>
+              <l>Ring ye out together,</l>
+              <l>Echoing the southern breeze</l>
+              <l>Of the springtide weather,</l>
+              <l>As a purple cloud ye lie,</l>
+              <l>And your sweetest thoughts ye sigh.</l>
+            </lg>
+            <lb/>
+            <lg type="stanza">
+              <l n="1">Woodland poets, joining in</l>
+              <l>One great song of gladness,</l>
+              <l>Like a bird your thoughts take wing,</l>
+              <l>Bringing joy and sadness,</l>
+              <l>All we knew not how to say,</l>
+              <l>Floating in your April lay.</l>
+            </lg>
+            <p xml:id="bryher_lutany_13040">1911. </p>
+            <pb xml:id="bryher_lutany_13041" n="27"/>
+          </div>
+          <div xml:id="bryher_lutany_015" type="Poem">
+            <head>THE PAGES OF THE FLOWERS</head>
+            <lg type="stanza">
+              <l n="1">Gay tinted pages, fly away,</l>
+              <l>	Away, away,</l>
+              <l>Where the lilies weave a tune,</l>
+              <l>For the sun-winged bees of June,</l>
+              <l>	Away, away,</l>
+              <l>Gay tinted pages, fly away.</l>
+            </lg>
+            <lb/>
+            <lg type="stanza">
+              <l n="1">Over wind-hushed meadow-sweet,</l>
+              <l>	Fleet, fleet,</l>
+              <l>Hover by the purple thyme,</l>
+              <l>Where the crimson ramblers climb,</l>
+              <l>	Fleet, fleet,</l>
+              <l>Over wind-hushed meadow-sweet.</l>
+            </lg>
+            <lb/>
+            <lg type="stanza">
+              <l n="1">Where the bronzèd pansies sleep,</l>
+              <l>	Creep, creep,</l>
+              <l>In your gold and azure wings,</l>
+              <l>fold the lupine's echoings,</l>
+              <l>	Creep, creep,</l>
+              <l>Where the bronzèd pansies sleep.</l>
+            </lg>
+            <pb xml:id="bryher_lutany_13042" n="28"/>
+            <lg type="stanza">
+              <l n="1">Would you know who are these pages?</l>
+              <l>	Ask the Sages,</l>
+              <l>Ask the poets, they will tell you,</l>
+              <l>Butterflies of every hue,</l>
+              <l>	They are pages</l>
+              <l>Of the flowers, though all the ages.</l>
+            </lg>
+            <p xml:id="bryher_lutany_13043">191[3]</p>
+            <pb xml:id="bryher_lutany_13044" n="29"/>
+          </div>
+          <div xml:id="bryher_lutany_016" type="Poem">
+            <head>SONG</head>
+            <lg type="stanza">
+              <l n="1">The sunset glows</l>
+              <l>  Above the sea,</l>
+              <l>And faintly rose</l>
+              <l>  The cloudlets flee.</l>
+            </lg>
+            <lb/>
+            <lg type="stanza">
+              <l n="1">The night is near</l>
+              <l>  And I would dream,</l>
+              <l>The waves stretch clear</l>
+              <l>  A silver gleam.</l>
+            </lg>
+            <lb/>
+            <lg type="stanza">
+              <l n="1">O, clouds fly not</l>
+              <l>  Beyond the bay,</l>
+              <l>O dreams die not,</l>
+              <l>  Nor fade away,</l>
+            </lg>
+            <pb xml:id="bryher_lutany_13045" n="30"/>
+            <lg type="stanza">
+              <l n="1">O come not night,</l>
+              <l>  O waves drift on,-</l>
+              <l>The sun takes flight,</l>
+              <l>  The day has gone.</l>
+            </lg>
+            <p xml:id="bryher_lutany_13046">Norway, </p>
+            <p xml:id="bryher_lutany_13047">1912. </p>
+            <pb xml:id="bryher_lutany_13048" n="31"/>
+          </div>
+          <div xml:id="bryher_lutany_017" type="Poem">
+            <head>TRISTFULNESS</head>
+            <lg type="stanza">
+              <l n="1">O azure-wingèd dream, why flit from me?</l>
+              <l>A wind anemone,</l>
+              <l>Shaken with unrevealèd loneliness,</l>
+              <l>Deep in the wilderness,</l>
+              <l>Of some secreted region in my heart,</l>
+              <l>Whose roseal veils, that folded thy surprise</l>
+              <l>From careless eyes,</l>
+              <l>I feared to draw apart.</l>
+            </lg>
+            <lb/>
+            <lg type="stanza">
+              <l n="1">O azure-wingèd dream, why flit from me</l>
+              <l>So tristfully? </l>
+              <l>Hast thou not made a summer of December,</l>
+              <l>With blossoms of September?</l>
+              <l>A petal fallen from one radiant day,</l>
+              <l>if thou dost leave the silence sheltering thee,</l>
+              <l>So fearfully,</l>
+              <l>How wilt thou fly away?</l>
+            </lg>
+            <p xml:id="bryher_lutany_13049">1913. </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

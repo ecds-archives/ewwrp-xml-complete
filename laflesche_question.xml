@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="laflesche_question_13011">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>The Indian Question, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>La Flesche, Susette</reg><orig>Susette La Flesche (Bright Eyes)</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="laflesche_question_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Emory Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17cn8</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>La Flesche, Susette (Bright Eyes). "The Indian Question." <publisher>The Christian Union</publisher> 21.10 (March 10, <date>1880</date>): 222-3.</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="laflesche_question_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Native American</rs>
+        <rs type="collection">Abolition, Freedom, and Rights</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Native American</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Essay</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Native Americans.</item>
+            <item>Race relations.</item>
+            <item>Women authors, American--19th Century.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1999</date><label>Staff</label><name>Anna Engle</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="laflesche_question_13010">
+    <body xml:id="laflesche_question_1309">
+      <pb xml:id="laflesche_question_1303" n="222"/>
+      <div xml:id="laflesche_question_001" type="Essay">
+        <head>"The Indian Question."</head>
+        <p xml:id="laflesche_question_1304">The solution of the Indian Problem, as it is called, is citizenship. Like all great questions which have agitated the world, the solution is simple; so simple that men cannot understand it. They look for something complicated, something wonderful, as the answer to a question which has puzzled the wisest heads for a hundred years. The question, I believe, is, "What shall be done with the Indian?" One part of the American people try to solve it by crying, "Exterminate him." The answer to such people is, that he has a Creator who will avenge his extermination. The other part cry, "Civilize him." Forthwith they go to work, tell him that his land shall be his as long as the "grass grows and the waters run." Then they say to him, "You must not pass beyond this line without the permission of this agent whom we place over you," thus effectually preventing him from seeing or moving in any civilization except his own. Then again they say to him, "You must trade only with this man whom we appoint," thus effectually preventing his engaging in commerce or trade should he so desire. Then to crown the whole, they say, "Above all, you must do just as we say or we won't feed you." After thus putting a premium on idleness they close the whole by saying, " We have adopted this policy in order to civilize you, and you must become civilized." As the process of civilization is rather slow, it having taken the Anglo-Saxon race about a thousand years or so to become what they are now, and as the Indian, being a man, objects decidedly to being placed in a nursery subject to the bidding of a man who may be his inferior in moral character or intelligence, he is termed rebellious or sullen, and troops are oftentimes sent for to bring him into subjection. Again, somebody wants his land, or can make money by moving him, a pretext is found, and as he, being a man and not a child or thing, objects decidedly to giving up what he looks on as his own, he is termed rebellious, sullen and incapable of civilization.</p>
+        <p xml:id="laflesche_question_1305">When the Indian, being a man and not a child or thing, or merely an animal, as some of the would-be civilizers have termed him, fights for his property, liberty and life, they call him a savage. When the first settlers in this country fought for their property, liberty and lives, they were called heroes. When the Indian in fighting this great nation wins a battle it is called a massacre; when this great nation in fighting the Indian wins it is called a victory.</p>
+        <p xml:id="laflesche_question_1307">After the Indian is prevented from earning his own living and from taking care of himself by this system of nursing and feeding-although I have heard it reported at different times within the last few years that whole tribes have been found in a state of starvation-he is reported to be incapable of taking care of himself, and would starve if the government let him alone. It seems to me that it was because Standing Bear was trying to take care of himself that this powerful government sent out its armed forces to carry him back to a land from which he had fled because the terror of death was on him in that land. It sounds
+<pb xml:id="laflesche_question_1306" n="223"/>
+like some strange story to think of this powerful government sending out its armed forces against a miserable little band composed of eight men, twenty-two women and children, all of them half starved, and half of them sick with the malarial diseases caught in that strange climate.</p>
+        <p xml:id="laflesche_question_1308">Why did the government do this? Because the Indian is a child, thing or ward, and must be taken care of and fed; moreover, he left that strange land without permission from his father, master or guardian, whichever you will. But the government feeds them. Was the government feeding them when it took from them their land and carried them to a strange, unbroken country, reeking with malaria, there to live in canvas tents and likely to starve because their great father, guardian or master failed to issue to them rations for three months? This is not a solitary instance, but has happened again and again, and will happen again and again until this system is done away with. It is either extermination or citizenship for the Indian. This system has been tried for nearly a hundred years, and has only worked ruin on the Indian. It has resulted only in the shedding of blood and mutual hatred between the two nations. It has resulted in the expenditure of vast sums of money; but all the money is nothing to the loss of a single human life. Set aside the idea that the Indian is a child and must be taken care of, make him understand that he is to take care of himself as all other men do, give him a title to his lands, throw over him the protection of the law, make him amenable to it, and the Indian will take care of himself. Then there will be no more wars in trying to settle the Indian problem, for there will be no problem to settle.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

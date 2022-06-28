@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="laflesche_omaha_130103">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Omaha Legends and Tent Stories, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>La Flesche, Susette</reg><orig>Susette La Flesche (Bright Eyes)</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent/>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="laflesche_omaha_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Emory Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17cm4</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>La Flesche, Susette (Bright Eyes). Omaha Legends and Tent Stories. <publisher>Wide Awake</publisher> June <date>1883</date>: 21-5.</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="laflesche_omaha_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Native American</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Native American</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Story</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Women authors, American--19th Century.</item>
+            <item>Omaha Indians.</item>
+            <item>American literature--19th Century--Folklore.</item>
+            <item>Native Americans.</item>
+            <item>Childhood.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1999</date><label>Staff</label><name>Anna Engle</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck
+	    Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="laflesche_omaha_130102">
+    <body xml:id="laflesche_omaha_130101">
+      <div xml:id="laflesche_omaha_001" type="Story">
+        <docAuthor>La Flesche, Susette (Bright Eyes)</docAuthor>
+        <head>"Omaha Legends and Tent Stories"</head>
+        
+        <bibl><title>Wide Awake</title>June 1883: 21-5.</bibl>
+        <p xml:id="laflesche_omaha_1303">To the readers of Wide Awake: These legends, a few of which I have translated, are nearly the same in every tribe--a little varied, it is true--but substantially the same, which shows, I think, that they are of common origin.</p>
+        <p xml:id="laflesche_omaha_1304">These which I have translated, are as told by the Omaha tribe. I have written them down just as they were told to me by my father, mother and grandmother, only of course I have translated them into English.</p>
+        <p xml:id="laflesche_omaha_1305">I wish I could have written the music of the songs. I think they are beautiful. I have heard some of your finest singers, but nothing I ever heard from them has touched me so profoundly as the singing of the Indians. The tears fill my eyes as I listen to their wild, weird singing, and I can never seem to tell myself why.</p>
+        <p xml:id="laflesche_omaha_1306">Among the Omahas, and I suppose in all the tribes, there are men and women, who, though they are not professional story tellers, yet as they can tell stories and legends so much better than any one else, are often invited by families to come visiting for the sole purpose of story-telling. The best story-teller that I know of in the tribe is " Onidabi." Last winter our family took a four days' journey, and with us travelled this man. Evening after evening we gathered round the fire to hear him tell stories, the tent so full that it could not hold another person, and we laughed till the tears came as he told story after story in rapid succession, with such inimitable gestures and changes of tone, that it would have been a study for any of your most accomplished elocutionists, and one by which they might have profited. Any one standing outside the tent and not knowing what was going on within, would have declared that he heard a conversation carried on by several people, when in reality it was only one person speaking, so perfectly did he imitate the tones of old men, women and children. He did not have to say of his characters, "the old man said this, the young warrior this," or "the little boy said this," but we knew at once by the tone of his voice, who was speaking. When we went to bed at night we would be as tired from laughing as though we had been hard at work all day.</p>
+        <p xml:id="laflesche_omaha_1308">My mother told me that one of the stories I have written out was told her by an old man when she was a little child, and that it was her delight after coaxing her mother to get a nice supper, to go to the old man's tent and invite him to supper. When he came she would wait on him herself, and when he had finished eating, she would say: " Grandfather, please tell me a story!" The old man would pretend to be very reluctant at first, for the pleasure of having her coax him, and then he would comply with story after story from those strange
+<pb xml:id="laflesche_omaha_1307" n="22 Omaha Legends and Tent-Stories"/>
+legends, while she listened with rapt attention, until my grandmother bade her get ready for bed.</p>
+        <p xml:id="laflesche_omaha_1309">I never read any of your "Mother Goose Rhymes " until I was grown up, and I used to be inclined to feel sorry sometimes that I had missed them in my childhood; but if I had known them, I should probably have never known the nursery stories of my own people, and so I am satisfied.</p>
+        <p xml:id="laflesche_omaha_13010">My grandmother tells exactly the same old stories and sings the same queer little songs to my sister's children that she used to sing to us when we were babies, and only yesterday when I asked her to tell me a story, she laughed at me, and made up a funny little song which she sang to her great grandson, aged six months, telling him about his big auntie who wanted to be told a story as though she were a baby like him.</p>
+        <p xml:id="laflesche_omaha_13011">How often I have fallen asleep when a child, with my arms tight around my grandmother's neck, while she told me a story, only I did not fall asleep till the story was finished. When thinking of those old days-so happy and free, when we slept night after night in a tent on the wide trackless prairie, with nothing but the skies above us and the earth beneath; with nothing to make us afraid; not even knowing that we were not civilized, or were ordered to be by the government; not even knowing that there were such beings as white men; happy in our freedom and our love for each other--I often wonder if there is anything in your civilization which will make good to us what we have lost. I sometimes think not, unless it be the wider, fuller knowledge of God and his Word. But I am straying from my subject. Thinking of these legends brought back the old days so vividly. I wish I could gather up all the old legends and nursery songs so that they could live after we were dead, but some of them are so fragmentary and nonsensical that I hesitate.</p>
+        <p xml:id="laflesche_omaha_13012">In reading these legends, I hope my readers will try to imagine themselves in a tent, with the firelight flaming up now and then, throwing weird effects of light and shadow on the eager listening faces, and seeming to sympathize and keep pace with the story; and how we have had only these legends and stories in place of your science and literature. After all, that is only what your forefathers had before the days of books, and perhaps remembering that will make your thoughts more charitable toward a people having no literature.</p>
+        <p xml:id="laflesche_omaha_13013">These legends have never been published, with the exception of one which was published in <hi rend="italic">The Critic</hi>. I have taken them down fresh from the lips of my father, mother and grandmother. I suppose legends something like them have been published from time to time by people from other tribes. These are Omaha legends.</p>
+        <p xml:id="laflesche_omaha_13014">Bright Eyes.</p>
+        <p xml:id="laflesche_omaha_13015">I.-THE BABES IN THE WOODS.</p>
+        <p xml:id="laflesche_omaha_13016">Once on a time,<ref target="#laflesche_omaha.002.st1">1</ref><note xml:id="laflesche_omaha.002.st1" n="1">"Once on a time," <hi rend="italic">Agsthe</hi>, the word with which Indian legends begin, "one time," or "once on a time," just like the English phrase.</note> there stood a tent all alone by itself in the woods, and in it lived a man, his wife, and their two children, a little girl and boy. One morning he combed his wife's hair<ref target="#laflesche_omaha.002.st2">2</ref><note xml:id="laflesche_omaha.002.st2" n="2">"Combed his wife's hair." In many tribes the men always comb their wives' hair and braid it. They use for this purpose a brush made of small twigs of stiff grass.</note> carefully, braided it, painted red the parting of her hair, and painted red her cheeks. Then he started out to hunt all day.</p>
+        <p xml:id="laflesche_omaha_13017">He killed a deer and brought it home with him at night. When he saw his wife he saw that her hair, which he had combed so smoothly on starting out, had become all rumpled, and was in a sad state, while nearly all the paint had been rubbed off her cheeks. He wondered at it, but made no comment.</p>
+        <p xml:id="laflesche_omaha_13018">The next day he combed his wife's hair as usual and started out again. When he came home at night with more game, he noticed again that her hair was rumpled and the paint gone. Still he kept silent. On the third day, the same things occurred as on the two preceding days. On the fourth morning,<ref target="#laflesche_omaha.002.st3">3</ref><note xml:id="laflesche_omaha.002.st3" n="3">"Fourth morning." The number "four" is a sacred number among Indians. In their religious legends things are always repeated four times. It is also used as an indefinite.</note> the man said to himself, I wonder what the meaning of all this is? After he had combed her hair he started out apparently to hunt as before, but when he had gone a little way he turned back and hid near the tent, in order to find out what his wife did that disordered her hair so. After a while his wife came out of the tent and walked away through the woods. He followed her, concealing himself as he went, lest she should turn and see him.</p>
+        <p xml:id="laflesche_omaha_13019">Of a sudden a bear came out from the thick undergrowth, and going up to her, took her head in his two great paws and commenced to pat it from side to side as though it were a ball. Too frightened to stop to think that his wife, finding the bear harmless, might have been amusing herself with it in his absences, he raised his bow and shot at the bear, but the arrow struck her as well as the bear, and killed her. When he saw her lying there dead, he realized what he had done, and was horror-struck.</p>
+        <p xml:id="laflesche_omaha_13020">"No one must ever know what I have done," he said to himself.</p>
+        <p xml:id="laflesche_omaha_13021">On his starting out he had taken some meat, for his noonday meal, and this he hurriedly cut into strips, convenient for eating, and hung on the branches of a tree, near where the body of his dead wife lay. Then he went back to his tent where his two motherless children were at play. He said to them: " You know that oak-tree, where your mother took you once? On it you will find hanging some meat which I have placed there for you to eat."</p>
+        <p xml:id="laflesche_omaha_13023">The little girl who was older than her brother, took him by the hand and started for the tree. When they reached the tree, they found the meat hanging from
+<pb xml:id="laflesche_omaha_13022" n="23 Omaha Legends and Tent-Stories"/>
+the branches as their father had said, but just as they were about to eat it, the little girl caught sight of her mother's body.</p>
+        <p xml:id="laflesche_omaha_13024">"Oh! brother," she said, "father has killed our mother."</p>
+        <p xml:id="laflesche_omaha_13025">Then they dropped the meat and went back to the tent, but it was empty. Their father had deserted them. The girl said: "Oh! brother, our father has left us, and we will follow his footsteps."</p>
+        <p xml:id="laflesche_omaha_13026">Then they followed his footsteps hand-in-hand, until they came to a great camp full of people. And the people of the place said to each other: "Whence come these children all alone?" and they said to the children, "Why are you come and what are you doing here all alone?" And the girl answered : "We are following our father's footsteps. Did you see him pass this way?" And they said to the children, "He passed by here yesterday, and there are his footsteps beyond."</p>
+        <p xml:id="laflesche_omaha_13027">Then the children travelled on again, hand-in-hand, following their father's footsteps until they came to another great camp. Here the people asked them the same questions as had been asked them in the first camp, and they made the same answers as before. And they passed on again until they came to the third great camp, and the same questions and answers were given as before. The children passed on until they came to a fourth great camp.</p>
+        <p xml:id="laflesche_omaha_13028">Then the people of this camp said to each other:</p>
+        <p xml:id="laflesche_omaha_13029">"Whence come these children, and why are they all alone?" And they said to the children:</p>
+        <p xml:id="laflesche_omaha_13030">"Why are you come, and why are you travelling alone by yourselves?"</p>
+        <p xml:id="laflesche_omaha_13031">The girl answered as before:</p>
+        <p xml:id="laflesche_omaha_13032">"We are following our father's footsteps. Did you see him pass this way?"</p>
+        <p xml:id="laflesche_omaha_13033">Then the people said to each other:</p>
+        <p xml:id="laflesche_omaha_13034">"The man who came yesterday alone must be their father whom they are seeking."</p>
+        <p xml:id="laflesche_omaha_13035">Then they brought the father before the children and said to him:</p>
+        <p xml:id="laflesche_omaha_13036">"Are these your children?"</p>
+        <p xml:id="laflesche_omaha_13037">The father said:</p>
+        <p xml:id="laflesche_omaha_13038">"Take those children away out of my sight; I hate them, for they killed their mother, and I left them to get rid of them. Send them away!"</p>
+        <p xml:id="laflesche_omaha_13039">Then the people said to the children:</p>
+        <p xml:id="laflesche_omaha_13040">"Your father says that you are bad children. Go away from here! We do not want you."</p>
+        <p xml:id="laflesche_omaha_13041">Then the children went hand-in-hand away from the camp, and they came to a little tent that stood by itself, far off from the main camp. An old woman who was living all alone, came to the tent door and saw the two children standing near, and she said to them:</p>
+        <p xml:id="laflesche_omaha_13042">"0h! grandchildren, I am glad to see you, but what are you doing here all alone?"</p>
+        <p xml:id="laflesche_omaha_13043">Then the children told her all their story, and how the people of the camps had told them to go away, because they were so bad.</p>
+        <p xml:id="laflesche_omaha_13044">The old woman said, "Come in and sit down here!" And she gave them the guests' place<ref target="#laflesche_omaha.002.st4">4</ref><note xml:id="laflesche_omaha.002.st4" n="4">"Guests' place." The place reserved for guests in an Indian tent, is opposite the place of entrance. Those to whom they wish to show respect or honor are invited to sit there.</note> in the middle of the tent, and gave them something to eat; and after they had eaten, she spread a robe on the ground for them, and they went to sleep.</p>
+        <p xml:id="laflesche_omaha_13045">Now near the camp was a great body of water, so wide that they could not see the farther shore. While the children were asleep, the father said to the people:</p>
+        <p xml:id="laflesche_omaha_13046">"Those children are monsters. If the tribe stay here, I am afraid they will harm some of the people. Come and let us go to the other side of this big water, where they cannot reach us!"</p>
+        <p xml:id="laflesche_omaha_13047">All the people believed him, and they got ready to start, but before they started, they took glue-sticks<ref target="#laflesche_omaha.002.st5">5</ref><note xml:id="laflesche_omaha.002.st5" n="5">"Glue sticks." In every Indian tent in the old time, there were always "glue sticks." The glue is generally made from parts of the turtle. A stick about two feet long, is put into it as it cools, and slowly turned around until it sticks fast, in shape like an egg. The glue is used to fasten the feathers on the arrows, and for other purposes. To use it, they only have to dip the stick in warm water.</note> and stuck the children's eyelids together while they were asleep, to keep them from following. Then they ordered the old woman not to awaken the children, but to get ready to go with them. The old woman, after they had gone out, gathered together a quantity of provisions, dug a pit near the sleeping children, and, filling it with the provisions, covered it with grass and earth, then followed the tribe as they crossed the water. When the people were all gone across the water, the little boy awoke first. He tried to open his eyes and could not, and he called out:</p>
+        <p xml:id="laflesche_omaha_13048">"Oh! sister, I cannot open my eyes."</p>
+        <p xml:id="laflesche_omaha_13049">She said, "Neither can I open my eyes."</p>
+        <p xml:id="laflesche_omaha_13050">As they lay there a mouse ran once across them and back again, and they said nothing. Then the mouse ran across them and back again. This time the little girl said:</p>
+        <p xml:id="laflesche_omaha_13052">
+          <pb xml:id="laflesche_omaha_13051" n="24 Omaha Legends and Tent-Stories"/>
+        </p>
+        <p xml:id="laflesche_omaha_13053">"Oh! you hateful mouse, why have you no pity on us when we are so helpless? You run over us in this way as though you were mocking us."</p>
+        <p xml:id="laflesche_omaha_13054">The mouse answered: "I wanted to help you get your eyes open. Why do you scold me?"</p>
+        <p xml:id="laflesche_omaha_13058">"Oh! Grandmother,"<ref target="#laflesche_omaha.002.st6">6</ref><note xml:id="laflesche_omaha.002.st6" n="6"><p xml:id="laflesche_omaha_13055">"Oh! Grandmother." I know of nothing which is so understood by all classes of whites, as the Indian habit of saying "Father," "Grandfather," "Grandmother," etc. It is simply a title of respect, and means, when used in this way, nothing more than "Sir," or "Madam." They never say "<hi rend="italic">Great</hi> Father" when speaking of the President, as the interpreters always render it, but "Grand Father."</p><p xml:id="laflesche_omaha_13056">Indian relationship is extended to very remote degrees, and is regulated by such complicated laws that it takes long and severe study to understand it. The following gives only a mere idea of its complexity:</p><p xml:id="laflesche_omaha_13057">First cousins are called uncles and aunts. A son of a nephew is called grandson. A great uncle on the female side is called uncle. A great uncle on the male side is called grandfather. A third cousin on the female side is a nephew or niece to the second cousin on the male side, and grandson to the fourth cousin on the same side. A step-nephew to an uncle, is a son-in-law to that uncle and all his children, grandchildren and great grandchildren, and brother-in-law to the children, grandchildren and great grandchildren of his wife's mother and all the children, grandchildren and great grandchildren of his wife's aunts. A man marrying into a family is grandfather to the children of his wife's brother to the latest generation. The first child of a wife's brother is her son or daughter, the others, grandchildren, and so on, <hi rend="italic">ad infinitum</hi>. So they always address each other by their relationship title; names are seldom heard.</p></note> the girl exclaimed, "have pity on us and open our eyes, but first of all open my little brother's eyes!"</p>
+        <p xml:id="laflesche_omaha_13059">Then the mouse rubbed the boy's eyes with its little paws, and they opened.</p>
+        <p xml:id="laflesche_omaha_13060">"Oh! I can see now, sister," cried the little boy.</p>
+        <p xml:id="laflesche_omaha_13061">Then the mouse performed the same office for the girl's eyes. The children thanked the mouse, and the little girl said:</p>
+        <p xml:id="laflesche_omaha_13062">"Grandmother, for this kind help which you have given us, you shall have ever hereafter for your food the underground beans."<ref target="#laflesche_omaha.002.st7">7</ref><note xml:id="laflesche_omaha.002.st7" n="7">There is a bean, very much like the common butter bean, which grows under ground. These the field mice gather in great quantities and store in holes in the ground. The Indians get bushels of them by robbing these stores, very much after the same fashion that we take honey from the bees.</note></p>
+        <p xml:id="laflesche_omaha_13063">This is how the ground-mice came to store the under-ground beans for their winter food.</p>
+        <p xml:id="laflesche_omaha_13064">When the mouse had gone away, the girl and the boy went toward the camp to find the old woman. The tents were all gone, and not a human being was in sight. They saw the broad trail which led to the water, and the girl said to her brother:</p>
+        <p xml:id="laflesche_omaha_13065">"Let us follow this trail to the water--perhaps the old woman has not crossed yet, and we may find her."</p>
+        <p xml:id="laflesche_omaha_13066">When they reached the water, they could see no one, but they heard from afar off a voice calling. It was the voice of the old woman, and it said:</p>
+        <p xml:id="laflesche_omaha_13067">"Under the ground where I slept. Under the ground where I slept."</p>
+        <p xml:id="laflesche_omaha_13068">Over and over again were these words repeated. The girl stood thinking. Of a sudden she exclaimed:</p>
+        <p xml:id="laflesche_omaha_13069">"Oh! I know. Our grandmother must have left something in the tent for us."</p>
+        <p xml:id="laflesche_omaha_13070">They went back to the tent and looked on the ground where the old woman had slept. When they had found the pit, they ate the provisions which the old woman had left there for them.</p>
+        <p xml:id="laflesche_omaha_13071">The two children lived alone in this place for a long time.</p>
+        <p xml:id="laflesche_omaha_13072">When the boy was almost grown up, he said to his sister:</p>
+        <p xml:id="laflesche_omaha_13073">"Sister, can't you make me a bow and some arrows?"</p>
+        <p xml:id="laflesche_omaha_13074">His sister answered: "Yes, brother. Let us go to the deserted camp and see if we cannot find a broken knife." <ref target="#laflesche_omaha.002.st8">8</ref><note xml:id="laflesche_omaha.002.st8" n="8">"A broken knife." Indians used originally for knives, sharp flint stone which was fastened with thongs to a handle of wood. The knife part often fell out and was lost.</note></p>
+        <p xml:id="laflesche_omaha_13075">When they had hunted and found a broken knife, they also found pieces of sinew<ref target="#laflesche_omaha.002.st9">9</ref><note xml:id="laflesche_omaha.002.st9" n="9">"Sinew." This is the Indian thread. It is taken from each side of the backbone of the buffalo, elk, deer, antelope, and horse. That taken from the deer is the best. It is hung up, dried, and then torn into threads. These are twisted together for bow strings and for other purposes where a small, stout cord is needed.</note> with which to make the cord for the bow, and feathers with which to wing the arrows.</p>
+        <p xml:id="laflesche_omaha_13076">On the morning after the bow and the arrows were finished, the boy said:</p>
+        <p xml:id="laflesche_omaha_13077">"Sister, I shall go out hunting to-day!"</p>
+        <p xml:id="laflesche_omaha_13078">His sister gave him his bow and arrows, and he started out. On this first day of his hunt he killed a little speckled bird.</p>
+        <p xml:id="laflesche_omaha_13080">Toward evening, his sister, sitting alone in the tent, heard his voice singing in the distance, and this was the song he sang as he travelled homewards:<ref target="#laflesche_omaha.002.st10">10</ref><note xml:id="laflesche_omaha.002.st10" n="10"><p xml:id="laflesche_omaha_13079">The tune to which this is sung is exceedingly pretty and the Indians never tire hearing its repetition. The words in the original are very musical. The third verse, which is introduced a little further on in the story, is the easiest to write in our English alphabet.
+
+                 <q> <lg type="stanza"><l n="1">"Tangaho, tangaha adaden,</l><l>Seinda chaskati roin,</l><l>Ta athetho, tangaha,</l><l>Ta athetho, tangaha."</l></lg></q></p></note></p>
+        <p xml:id="laflesche_omaha_13082">
+          <pb xml:id="laflesche_omaha_13081" n="25 Omaha Legends and Tent-Stories"/>
+        </p>
+        <lg type="stanza">
+          <l n="1">Sister, sister, I have killed</l>
+          <l>A little speckled thing.</l>
+          <l>Sister, I have killed it.</l>
+          <l>Sister, I have killed it.</l>
+        </lg>
+        <p xml:id="laflesche_omaha_13083">His sister went gladly out to meet him, and when he saw what it was he held, she said gayly, "Oh! brother, this little speckled thing you have killed is called a woodpecker, but it is not good to eat." And she was proud to think he had been so successful.</p>
+        <p xml:id="laflesche_omaha_13084">The next day the brother went out to hunt again, and this time he killed a turkey.</p>
+        <p xml:id="laflesche_omaha_13085">Toward evening his sister heard again his voice in the distance, and this was the song he sang:</p>
+        <lg type="stanza">
+          <l>Sister, sister, I have killed</l>
+          <l>Something with long legs.</l>
+          <l>Sister, I have killed it,</l>
+          <l>Sister, I have killed it.</l>
+        </lg>
+        <p xml:id="laflesche_omaha_13086">Then his sister ran out to meet him, and when she saw what he held in his hand, she was very proud, and she said:</p>
+        <p xml:id="laflesche_omaha_13087">"Oh! brother, this that you have killed is called a turkey, and it is very good to eat."</p>
+        <p xml:id="laflesche_omaha_13088">Next day the brother went out hunting again, and this time he killed a deer. As he walked homeward he sang:</p>
+        <lg type="stanza">
+          <l>Sister, sister, I have killed</l>
+          <l>Something large and swift,</l>
+          <l>And its tail is very short.</l>
+          <l>Sister, I have killed it.</l>
+        </lg>
+        <p xml:id="laflesche_omaha_13089">When his sister heard his voice she ran out to meet him, and when she saw what he was carrying, she clapped her hands and said:</p>
+        <p xml:id="laflesche_omaha_13090">"Oh! brother, brother, this that you have killed is called a deer, and it is very good to eat."</p>
+        <p xml:id="laflesche_omaha_13091">Then they took the deer and cut it up. She took the meat and sliced it into great, broad, thin slices, and made a scaffolding and hung it up to dry for future use.</p>
+        <p xml:id="laflesche_omaha_13092">On the fourth day the brother went out again to hunt; this time he killed a bear. And the song which he sang as he came homeward was the fourth and the last of all the songs he sang:</p>
+        <lg type="stanza">
+          <l>Sister, sister, I have killed</l>
+          <l>Something large and black,</l>
+          <l>Sister, I have killed it.</l>
+          <l>Sister, I have killed it.</l>
+        </lg>
+        <p xml:id="laflesche_omaha_13093">His sister ran to meet him, and when she saw what he carried, she said:</p>
+        <p xml:id="laflesche_omaha_13094">"Oh! brother, this black thing that you have killed is called a bear."</p>
+        <p xml:id="laflesche_omaha_13095">Then after they had cut it up, she tried out the fat and made a great quantity of oil from the bear.</p>
+        <p xml:id="laflesche_omaha_13096">And after this fourth day her brother killed of all the animals and birds that were good to eat, and brought them home to her, and she dried and put away for use great quantities of meat. She also pounded buffalo meat and marrow. And she took ten great buffalo robes and tanned them thin and sewed them together with an awl and sinew, and made a very large tent, in which she and her brother lived comfortably.</p>
+        <p xml:id="laflesche_omaha_13097">When they had accumulated numberless packs of provisions, the tribe who had deserted them and gone across the water, came back in a starving condition. Many of their number had died of starvation in the land across the water. The girl, now grown into a fine young woman, and the boy into as fine a young man as one would ever wish to see, went down to the bank of the water to watch the people as they continued landing all day in their canoes. And when they had nearly all landed, the young man said to the people:</p>
+        <p xml:id="laflesche_omaha_13098">"I have a proposal to make to you which you can accept or not as you please. You can come back here and live with us in this land and I will give you all you want to eat and save you from starving. But it can only be on the condition that you will not allow my father, who so cruelly deserted us, to come back here. I hear that he has married again. Let him stay with his wife in the land to which he carried you, but let him not come back here. Then, and only then, will we keep you."</p>
+        <p xml:id="laflesche_omaha_13099">The people were starving, and assented to his proposal, and the young man and his sister opened all their stores to the people and fed them.</p>
+        <p xml:id="laflesche_omaha_130100">And the young woman took the old woman who had helped them in their need, into her tent, and cared for her tenderly all the remaining years of her life. And the young man and worrian became prominent members of the tribe, and lived happily ever after.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

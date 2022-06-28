@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lkr_faith_1308">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>A Soldiers Victory of Faith</title>
+        <author>
+          <name type="person"><choice><reg>Rogers, Loula Kendall, 1838-1931</reg><orig>Mrs. Loula Kendall Rogers</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10k</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="lkr_faith_1301">2008 Emory University. Permission is granted to
+
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>2008</date><idno type="ark">http://pid.emory.edu/ark:/25593/17cv3</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Rogers, Loula Kendall, "A Soldiers Victory of
+
+	    Faith," <date>1929</date> Loula
+
+	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
+
+	   Library, Emory University</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="lkr_faith_1302">This digital text is produced from the Loula Kendall
+
+	   Rogers Papers, generously loaned to the Beck Center by    	
+
+The Manuscript, Archives, and Rare Book Library at Emory University.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="language">American</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Poetry</rs>
+        <rs type="geography">United States</rs>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Women poets, American--Georgia.</item>
+            <item>Women authors, American--19th Century</item>
+            <item>Women authors, American--20th Century</item>
+            <item>American poetry--20th century.</item>
+            <item>Civil War, U.S., 1861-1865--Poetry</item>
+            <item>United Daughters of the Confederacy.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2008</date><label>Woodruff Graduate Fellow</label><name>Stewart Varner</name>XML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="lkr_faith_1307">
+    <body xml:id="lkr_faith_1306">
+      <pb facs="lkr_faith001" xml:id="lkr_faith_1303" n="[1]"/>
+      <div xml:id="lkr_faith_1305" type="poem">
+        <head>A Soldier's Victory Of Faith</head>
+        <epigraph>
+          <cit>
+            <quote>"For whatsoever is born of God, overcometh the World;<lb/>
+
+	  and this is the victory that overcometh the world, even our<lb/>
+
+	  Faith. 1<hi rend="super">st</hi>
+
+	  John 5-4</quote>
+            <bibl>1 John 5-4</bibl>
+          </cit>
+        </epigraph>
+        <dateline rend="center">
+          <date when="1929-10-15">Read at the opening of the 35<hi rend="super">th</hi> Convention of United<lb/>
+
+      Daughters of the Confederacy at Moultrie, Georgia,Oct. 15<hi rend="super">th</hi>1929</date>
+        </dateline>
+        <byline rend="center">By Mrs. Loula Kendall Rogers<lb/>
+
+      Poet Laureate, Georgia Division</byline>
+        <lg type="stanza">
+          <l>Aurora gleamed in beauty o'er the hills</l>
+          <l>And cast a ray of golden charm that thrills</l>
+          <l>A soldier brave, who wandered neath the dome</l>
+          <l>Of Mountain's sheltering arm and sun-lit home;</l>
+          <l>Admiringly he gazed upon the view,</l>
+          <l>And kneeling there where woodland flowers grew'</l>
+          <l>He plead for Heavenly guidance on his way,</l>
+          <l>For he must meet impending battle on that day!</l>
+        </lg>
+        <lg type="stanza">
+          <l>'Twas thus at Valley Forge that Washington</l>
+          <l>Invoked the mighty "King of Kings," and won!</l>
+          <l>For never a Warrior in other lands had brought</l>
+          <l>So great a victory as he in Faith has wrought!</l>
+          <l>Our vast Republic that extends from sea to sea,</l>
+          <l>Whose banners wave in triumph o'er the Free;</l>
+          <l>For Heaven has cast great blessings on our land</l>
+          <l>Of Peace and Plenty by Divine command.</l>
+          <pb facs="lkr_faith002" xml:id="lkr_faith_1304" n="2"/>
+        </lg>
+        <lg type="stanza">
+          <l>Years pass - Then o'er the plains of Mexico</l>
+          <l>Near by the gates of Alamo,</l>
+          <l>The thundering sound of guns proclaim</l>
+          <l>That General Lane has won the fame</l>
+          <l>Of "<hi rend="underline">Marion</hi>," in his War time creed,</l>
+          <l>And Zachary Taylor proved a help in need</l>
+          <l>While Jefferson Davis in that Mexican War,</l>
+          <l>Was at Buena Vista a reigning Star!</l>
+        </lg>
+        <lg type="stanza">
+          <l>A proof that undying Faith was there</l>
+          <l>And our bravest heroes lead by prayer</l>
+          <l>Not one private home they efface</l>
+          <l>Nor cruelly burn a record's place</l>
+          <l>This Law kept General Lee for all the years</l>
+          <l>For <add place="supralinear">oft</add> he spared in Mercy a widow's tears,</l>
+          <l>And to all nations his Orders were known,</l>
+          <l>For his memory in reverence by the world is shown.</l>
+        </lg>
+        <lg type="stanza">
+          <l>Who can forget <add place="supralinear">the </add>brave Stonewall Jackson</l>
+          <l>Whose Living Faith illumed each action?</l>
+          <l>And Bishop Polk, near Kennesaw's <add place="supralinear">great</add> height</l>
+          <l>Who there was <add place="supralinear">visually</add> crowned by immortal Light?</l>
+          <l>Years later <del rend="overstrike">on</del> the same true faith abides</l>
+          <l>As Pershing, the world-honored leader guides,</l>
+          <l>While Victory crowns with success anew,</l>
+          <l>And all nations honor his allegiance true!</l>
+        </lg>
+        <lg type="stanza">
+          <l>Then Hail!  All Hail!  With thankful voice acclaim</l>
+          <l>That Victory hath crowned "The Pure in Heart," with fame</l>
+          <l>Let Earth and Heaven rejoice on land and sea afar</l>
+          <l>When Faith and Love <del rend="overstrike">combined</del>
+
+	have won the <hi rend="underline">brightest </hi> <hi rend="underline">Star!</hi></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

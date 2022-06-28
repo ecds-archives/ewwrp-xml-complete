@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lkr_reminiscences_13021">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Reminiscences of a Pleasent Day Spent at Stone
+
+	   Mountain in the Long Ago</title>
+        <author>
+          <name type="person"><choice><reg>Rogers, Loula Kendall, 1838-1931</reg><orig>Mrs. Loula Kendall Rogers</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10k</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="lkr_reminiscences_1301">2008 Emory University. Permission is granted to
+
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>2008</date><idno type="ark">http://pid.emory.edu/ark:/25593/17dfj</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Rogers, Loula Kendall, "Reminiscences of a Pleasent
+
+	    Day Spent at Stone  Mountain in the Long Ago," Loula
+
+	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
+
+	   Library, Emory University</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="lkr_reminiscences_1302">This digital text is produced from the Loula Kendall
+
+	   Rogers Papers, generously loaned to the Beck Center by    	
+
+The Manuscript, Archives, and Rare Book Library at Emory University.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="language">American</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Memoir</rs>
+        <rs type="geography">United States</rs>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>United States, Southern</item>
+            <item>Women authors, American--19th Century</item>
+            <item>Women authors, American--20th Century</item>
+            <item>Stone Mountain Memorial State Park (Ga.) History.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2008</date><label>Woodruff Graduate Fellow</label><name>Stewart Varner</name>XML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="lkr_reminiscences_13020">
+    <body xml:id="lkr_reminiscences_13016">
+      <pb facs="lkr_reminiscences001" xml:id="lkr_reminiscences_1303" n="[1]"/>
+      <div xml:id="lkr_reminiscences_01" type="memoir">
+        <head>Reminiscences Of A Pleasant Day<lb/>
+
+      Spent At Stone Mountain In The Long Ago.</head>
+        <byline>Mrs. Loula Kendall Rogers</byline>
+        <p xml:id="lkr_reminiscences_1304">It was a bright, beautiful Autumnal day, when a party of gay young people, on the 10th of September 1858, boarded the train for a merry little picnic among themselves at Stone Mountain.  My sister, and I with several other Wesleyan College girls were in attendance at a house party with Miss Ida Winship, of Atlanta, who was denominated at Wesleyan as "The Prettiest Girl," not only beautiful in person, but in heart, soul and character, being in after years the chosen ideal of Colonel T.W. Mangham of the 30th Ga. Regiment.</p>
+        <p xml:id="lkr_reminiscences_1305">Those same girls had recently visited me and although we had rambled over the picturesque hills of my own beautiful home of Bellwood, Upson County, and ever green Pine Mountain at Rogers Factory, near Thomaston, we had never climbed a mountain of solid stone, so an accommodating party of Atlanta's finest young men arranged a pleasant holiday for us to visit the real mountain.</p>
+        <p xml:id="lkr_reminiscences_1307">My relative, Captain William Ezzard of the Gate City Guards, was
+
+      our Chieftain Leader, and the following young people, with several
+
+      others were members of the command.
+
+      <table><row><cell>Mr. Robert Winship</cell><cell>Miss Julia Kendall</cell></row><row><cell>Mr. George Winship</cell><cell>Miss Fannie Graham</cell></row><row><cell>Mr. Aquila Orme</cell><cell>Miss Ida Winship</cell></row><row><cell>Mr. Willie Chisolm</cell><cell>Miss Loula Kendall</cell></row><row><cell>Mr. Harry Keonse</cell><cell>Miss Mary Cook Winship</cell></row><row><cell>Mr. Joesph Thompson</cell><cell>Miss Maria Winship</cell></row></table><pb facs="lkr_reminiscences002" xml:id="lkr_reminiscences_1306" n="2"/>
+
+      If any of these young people, besides myself, are living at this time, I would be delighted to meet them and renew the friend-ships of that day.</p>
+        <p xml:id="lkr_reminiscences_1308">We walked from the train to the summit of the mountain crossing a rippling stream which added romance to this picture of woodland beauty, and the oak-bowered pathway upward.</p>
+        <p xml:id="lkr_reminiscences_1309">After reaching the platform and seeing the magnificent picture below, of the North, South, East, West, the whole party was silent.  There is a time when language fails, and even a bevy of thoughtless young girls were mute.</p>
+        <p xml:id="lkr_reminiscences_13010">A description of Sunset Mountain written in my dear Mother's Diary seemed to be spread out before me, but in a few moments one of the girls exclaimed "Oh! just look at those fields ways off there so far, don't they look like waffles?"  Then another broke the spell, by comparing the people far below to busy Ants building their little cities!</p>
+        <p xml:id="lkr_reminiscences_13011">After a wonderful survey, the gentlemen suggested an ascension in the Tower, so up higher and higher we mounted, until over a sight more beautiful and grand met our gaze.</p>
+        <p xml:id="lkr_reminiscences_13012">But we could not ascend the heights of Parnassus up there as they immediately served us with iced lemonade and immense quantities of DeKalb's delicious fruits.  After descending from the Tower which stood like a lone Sentinel keeping watch over the pinnacle of Fame, one of the girls prophesied that even in September the thermometer was far below zero!  After sitting on the rocks, enjoying the mountain breeze, and repeating couplets of poetic inspiration, Captain Ezzard informed us he had given orders for a fine turkey dinner at the Hotel, so we bade Goodbye to the beautiful scenery, and proceeded in the direction of old fashioned pound cake and ice cream.</p>
+        <pb facs="lkr_reminiscences003" xml:id="lkr_reminiscences_13013" n="3"/>
+        <p xml:id="lkr_reminiscences_13014">In a few days the accompanying Poem appeared in the Independent Press, which I have taken from my Scrap Book of those days, to testify that even sixty years ago all of Georgia, appreciated Stone Mountain as one of the "Wonders of the World" yet we never dreamed of the Magnificent Shrine of Immortal Fame it is destined to be.</p>
+        <p xml:id="lkr_reminiscences_13015">May it grow on and on to completion under skillful hands, and
+
+become an ever radiant cenotaph on which in undying letters is
+
+      emblazed "The <hi rend="2under">Imperishable Glory of Southern Valor</hi>," and the purity of a Faith that will shine forever in the endless Light of Heaven!</p>
+        <byline>Mrs. Loula Kendall Rogers</byline>
+      </div>
+    </body>
+    <back xml:id="lkr_reminiscences_13019">
+      <pb facs="lkr_reminiscences004" xml:id="lkr_reminiscences_13017" n="[4]"/>
+      <div xml:id="lkr_reminiscences_02" type="memoir">
+        <p xml:id="lkr_reminiscences_13018">Stone Mountain<lb/>
+
+  1858</p>
+      </div>
+    </back>
+  </text>
+</TEI>

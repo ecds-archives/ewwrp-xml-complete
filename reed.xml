@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="reed_13023">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Great Work of an Indian</title>
+        <author>
+        <name type="person"><choice><reg>Reed, Ora Eddleman"</reg><orig>Reed, Ora Eddleman</orig></choice></name></author>
+
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent/>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="reed_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Emory Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17dzm</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Reed, Ora Eddleman. Great Work of an Indian. Sturm's Oklahoma Magazine 2.6 (August 1906):7-9.</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="reed_1302">This text is produced in conjunction with the 
+Women Writers Resource Project at Emory University</p>
+      </projectDesc>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="ethnicity">Native American</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Essay</rs>
+        <rs type="geography">United States</rs>
+        <date>1900-1999</date>
+      </creation>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1999</date><label>Staff</label><name>Anna Engle</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="reed_13022">
+    <body xml:id="reed_13021">
+      <div xml:id="reed_001" type="Essay">
+        <docAuthor>Eddleman Reed, Ora</docAuthor>
+        <head>"Great Work of an Indian"</head>
+        
+        <bibl><title>Sturm's Oklahoma Magazine</title>2.6 (August 1906):7-9.</bibl>
+        <p xml:id="reed_1303">The supreme court of the United States has recently rendered a judgment against the United States, in favor of the Cherokee Indians, for about five million dollars, which will go to Indian Territory and be distributed per capita to over 30,000 people.</p>
+        <p xml:id="reed_1304">This is the greatest claim ever collected by individuals against the United States through the court of claims. It has been a notable suit and its success is conceded to be due to Robert L. Owen, a Cherokee Indian, of Muskogee. The case would make a long story, involving as it does almost the life history of the eastern Cherokees. Mr. Owen's victory in this case has led to many inquiries as to the man and the case itself.</p>
+        <p xml:id="reed_1305">This fund will be paid by the Secretary of the Interior to the eastern Cherokees, or to those Cherokees who were members of the Cherokee Nation and resided in the Cherokee Nation east of the Mississippi on May 23, 1836, or to their legal representatives, if the original Cherokee is dead. The per capita rolls of 1851 will be taken as a basis, and the new roll made per stirpes, and in accordance with the ninth article of the treaty of 1846. This fund amounts to $5,000,000; it includes interest at five per cent from June 12, 1838. The principal was $1,111,284.70. This money was taken from the $5,000,000 fund, the purchase price of the Georgia lands. It was taken by the war department in 1838 and never returned to the fund. The United States in 1846 refused to pay this money back and required the Cherokees in 1851 to give a receipt in full against any claims against the United States government.</p>
+        <p xml:id="reed_1306">Up to 1891 the Cherokees tried in vain to get a settlement.</p>
+        <p xml:id="reed_1308">In 1891 the Cherokees sold the Cherokee Outlet and as part payment required a full statement of account to be made with the agreement to pay any amount found due. March 3, 1893, congress approved this agreement. In May, 1894, the Secretary of the Interior transmitted the account, finding the above sum due the Cherokee Nation. January 7, 1895, the Secretary of the Interior sent this account to congress for payment. March 3, 1895, congress referred this account to the Attorney General for review, and on December 5, 1895, the Attorney General advised congress that the money ought not to be paid, that it was not due as matter of law and had been abandoned as matter of fact. The Cherokee Nation made an effort for five years to collect this money and failed. It employed Shelley, Butler and Martin of Washington, D. C., but no results were obtained by them and their contract was cancelled December 7, 1900. On December 7, 1900, the Cherokee council
+<pb xml:id="reed_1307" n="8 Great Work of an Indian"/>
+employed L. Turner and W. E. Halsell, who worked at this enterprise for a year and abandoned it. In February, 1900, the eastern Cherokees of Indian Territory held their council and employed Robert L. Owen, of Muskogee, Indian Territory. On February 20, 1901, Mr. Owen obtained resolution of the United States senate referring this case to the court of claims; having findings of fact. On April 28, 1902, the court gave the eastern Cherokees a favorable finding of fact and on July 1, 1902, Mr. Owen and his associates procured the passage of an act authorizing the courts to adjudicate this case and on March 3, 1903, procured an amendment by act of congress giving the eastern Cherokees the full right to appear in court on their own behalf in a suit in equity as against the United States and the Cherokee Nation.</p>
+        <p xml:id="reed_1309">The court of claims rendered a decision favorable to the eastern Cherokees in May, 1895, and the supreme court confirmed this decision giving the Eastern Cherokees a complete victory on May 18, 1906. Chief Justice Charles C. Nott, in commenting on this case, said that Mr. Owen's speech was in his opinion the finest argument which had ever been delivered in that court. As Chief Justice Nott was on this bench for forty years no man could have received a higher commendation than that given the attorney for the eastern Cherokees by the Chief Justice.</p>
+        <p xml:id="reed_13010">Mr. Owen is a Virginian by birth and education, a graduate in six languages, a Master of Arts of Washington and Lee University, a learned lawyer, a powerful and convincing debater, a man of the highest integrity, of pure life, and of courteous and refined manner.</p>
+        <p xml:id="reed_13011">Mr. Owen has rendered many services to Indian Territory, first as school teacher, and editor. He reorganized there the Cherokee school system in 1880, and supervised it until 1884; became United States Indian agent for the Five Civilized Tribes in 1885, and settled thousands of civil cases in Indian Territory by a system of compulsory arbitration, which he established in the absence of a court system there between 1885 and 1889. In 1889 he caused the establishment of the first United States Court for Indian Territory, and was secretary of the first bar association of that territory. In 1889 as fiscal agent of the Choctaw Nation, he disbursed the net proceeds fund, and gave a bond of a million dollars.</p>
+        <p xml:id="reed_13012">He caused the extension of the national banking act to the Indian Territory in 1890, and established the first national bank of Indian Territory, now the strongest bank in that country, and was president of it for ten years--the "First National" of Muskogee.</p>
+        <p xml:id="reed_13013">In 1893 he secured, as attorney in control of the leased district case for the Choctaws, about $3,000,000 for the Choctaws and Chickasaws, as payment for the leased district.</p>
+        <p xml:id="reed_13014">In 1894 he was one of the attorneys for the western Cherokees, in a recovery for them of over $800,000.</p>
+        <p xml:id="reed_13015">This last judgment of the supreme court in favor of the eastern Cherokees will make about $9,000,000 which this "Cherokee" Scotch-Irishman has caused Uncle Sam to surrender to Indian Territory.</p>
+        <p xml:id="reed_13017">In 1901 he procured the passage of an act giving every Indian in Indian Territory all the rights, privileges and immunities of United States citizenship (over 70,000 people), and was presented
+<pb xml:id="reed_13016" n="9 Great Work of an Indian"/>
+with the pen with which President McKinley signed the act.</p>
+        <p xml:id="reed_13018">He is a Knight Templar, Mystic Shriner, 32nd degree Mason, a life member Elk, and vice-president of the American Sunday School Union for Indian Territory.</p>
+        <p xml:id="reed_13019">He has served the democratic party as a member of the congressional campaign committee, as democratic national committeeman, and as delegate to various national conventions.</p>
+        <p xml:id="reed_13020">Mr. Owen is perhaps better known in Washington among public men than any man who ever came from Indian Territory, and among his personal friends are numbered the leaders of the nation of both political parties.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

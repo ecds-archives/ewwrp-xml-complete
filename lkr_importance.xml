@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lkr_importance_13026">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>The Importance of Teaching History To Our Young People</title>
+        <author>
+          <name type="person"><choice><reg>Rogers, Loula Kendall, 1838-1931</reg><orig>Mrs. Loula Kendall Rogers</orig></choice></name>         
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10k</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="lkr_importance_1301">2008 Emory University. Permission is granted to
+
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>2008</date><idno type="ark">http://pid.emory.edu/ark:/25593/17d49</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Rogers, Loula Kendall, "The Importance of Teaching History To Our Young People" Loula
+
+	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
+
+	   Library, Emory University</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="lkr_importance_1302">This digital text is produced from the Loula Kendall
+
+	   Rogers Papers, generously loaned to the Beck Center by    	
+
+The Manuscript, Archives, and Rare Book Library at Emory University.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="language">American</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Essay</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Civil War, U.S., 1861-1865</item>
+            <item>Women authors, American--19th Century</item>
+            <item>Women authors, American--20th Century</item>
+            <item>United Daughters of the Confederacy.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2008</date><label>Woodruff Graduate Fellow</label><name>Stewart Varner</name>XML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="lkr_importance_13025">
+    <body xml:id="lkr_importance_13021">
+      <pb facs="lkr_importance001" xml:id="lkr_importance_1303" n="[1]"/>
+      <div xml:id="lkr_importance_13020">
+        <head>The Importance of Teaching History<lb/>
+
+      To Our Young People</head>
+        <p xml:id="lkr_importance_1304">The history of a country is its life.  Deprive <add place="supraliear">it</add> of its noble deeds, the intellectual vigor of its great men and women, its wonderful inventions, the bravery of its heroes, and that country is dead.</p>
+        <q>"A country without ruins is a country without memories, <lb/>
+
+      A country without memories, is a country without a history."</q>
+        <p xml:id="lkr_importance_1305">The great French author Lanartine says, "History knows all
+
+      things, contains all things, teaches all things, not in <hi rend="underline">winged </hi> <hi rend="underline">words</hi> which strike the ear without impressing the mind, but in great and striking actions".  So it is an important fact that the stirring events of the terrible War Between the States should be understood by our young people.</p>
+        <p xml:id="lkr_importance_1306">They should not be satisfied with the records of only one side of that War, and give credence to all that is said of the Federal Army by their own historians, but should be thoroughly posted on the actions of both sides.</p>
+        <p xml:id="lkr_importance_1307">For instance, they should be taught the <hi rend="underline">true</hi> causes of Secession, of the many unjust accusations against the institutions of the South such as may be found in "Uncle Tom's Cabin,"  by Harriet Beecher Stow, and other books of a defamatory character by men who openly avowed a hatred of not only the Southland in their own <add place="supralinear">American</add> country but of the Constitution and Declaration of Independence.  They should also have an understanding of the days of Reconstruction, when the cultured high toned men of our country were deprived of office, and their places filled with former servants, "carpet baggers and scalawags."</p>
+        <p xml:id="lkr_importance_1309">This knowledge of history is not taught in an unchristian spirit 
+
+      <pb facs="lkr_importance002" xml:id="lkr_importance_1308" n="2"/>
+
+      but in a spirit of <hi rend="underline">justice</hi> and that <hi rend="underline">mercy</hi> which in all nations should be observed towards the overpowered.</p>
+        <p xml:id="lkr_importance_13010">Some mothers, who are <hi rend="underline">not</hi> members of the daughters of the Daughters of the Confederacy, say that they wish to forget these things and actually try to keep it from their children.  Teachers are often surprised at the ignorance of some of their pupils who know nothing whatever of the history of their own country.  Their parents had never talked to them of the unparrelled bravery of our southern soldiers, that they were the very flower of this beautiful Southland, elegant gifted, brave in peace and brave in battle, and defended our homes with their life's last breath.</p>
+        <p xml:id="lkr_importance_13011">It should be a delightful task for every mother, and every
+
+teacher to weave into a beautiful story a history of "The Boys in Gray," of their victories on the battle <add place="supralinear">field</add> both during the Revolution, and the later wars between the states, and during the Spanish American struggle.</p>
+        <p xml:id="lkr_importance_13012">We have too short a time generally in our C of C meetings to impart much instruction, outside of business matters, but it is an easy task to tell them an incident of some great battle, and something concerning the heroes who led forward.</p>
+        <p xml:id="lkr_importance_13013">The smaller children like object lessons, and when there is some way arranged for illustrating the subject they are delighted.  In this manner I sometimes draw a diagram of Sherman's March through Georgia, with a star at each place where Johnson Flanked him, and on from Atlanta over all the towns he ransacked, until finally through the smoking embers he reached Savannah.</p>
+        <p xml:id="lkr_importance_13014">At other times I have a table spread with objects to represent a special battle field, and the one who guesses the most in number wins a prize.  One of the questions concerning our own state is, "Where did the Federal General Wilson start from in his raid through middle and South Georgia on his way to Macon"?  This is represented by a picture or toy chicken, and a carpenter's saw, illustrating the Battle of Chickasaw in Alabama, March 22nd 1865.</p>
+        <p xml:id="lkr_importance_13016">What battle was fought in Tennessee that came near running into 
+
+      <pb facs="lkr_importance003" xml:id="lkr_importance_13015" n="3"/>
+
+      Christmas Day?  Only a small pile of <hi rend="underline">garden
+
+      </hi> <hi rend="underline">beans</hi> tell the children of that important battle and hospital at Beans' Station where under General Bragg some of the Companies from my native county were involved.</p>
+        <p xml:id="lkr_importance_13017">These little illustrations are both humorous and instructive for children and may be multiplied indefinitely.</p>
+        <p xml:id="lkr_importance_13018">Our General Historian, Mrs. Mildred Rutherford has given us more information about our own country than we can ever find elsewhere, so we recommend all of her publications to be used as reading matter for both the Daughters and the Children's meetings.  No chapter is complete without them.</p>
+        <p xml:id="lkr_importance_13019">Then let us who are directors, never lose an opportunity of
+
+      teaching the sacred principles of patriotism to all of the young lives
+
+      entrusted to our care, impressing on them the Christian duty of being
+
+      true to the memory of those who sacrificed their lives for us, and
+
+      whatever may happen still to love the "Stars and Bars" under
+
+      which they fought, and to stand up for their own native land through
+
+      time and eternity.</p>
+      </div>
+    </body>
+    <back xml:id="lkr_importance_13024">
+      <pb facs="lkr_importance004" xml:id="lkr_importance_13022" n="[4]"/>
+      <div xml:id="lkr_importance_2" type="authors_note">
+        <p xml:id="lkr_importance_13023">Importance of Teaching<lb/>
+
+      History To Our Young People</p>
+        <byline>Mrs. Loula Kendall Rogers</byline>
+      </div>
+    </back>
+  </text>
+</TEI>

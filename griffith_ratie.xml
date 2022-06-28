@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="griffith_ratie_13054">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Ratie: A True Story of a Little Hunchback, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Browne, Martha Griffith, d. 1906</reg><orig>Mattie Griffith</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>25kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="griffith_ratie_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Emory Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17cb1</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Griffith, Mattie [Martha]. Ratie: A True Story of a Little Hunchback. <publisher>National Anti-Slavery Standard</publisher> Vol. XXIII, No.32, Dec 20, <date>1862</date></bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="griffith_ratie_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Abolition, Freedom, and Rights</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Story</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Women authors, American--19th Century.</item>
+            <item>Antislavery movements--United States--History--Sources.</item>
+            <item>Race relations.</item>
+            <item>Childhood.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2000</date><label>Staff</label><name>Natalie Prestwich</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="griffith_ratie_13053">
+    <body xml:id="griffith_ratie_13052">
+      <div xml:id="griffith_ratie_001" type="Story">
+        <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+        <docAuthor>Browne, Mattie Griffith</docAuthor>
+        <head>RATIE:  A TRUE STORY OF A LITTLE HUNCHBACK.</head>
+        
+        <bibl><title>National Anti-Slavery Standard</title> Vol. XXIII, No.32</bibl>
+        <p xml:id="griffith_ratie_1303">[We are assured that the following beautiful story, written for our columns by the author of the "Autobiography of a Female Slave," is in every particular strictly true; and we suspect that the children will not read it without tears in their eyes.--<hi rend="italic">Eds. Independent.</hi>]</p>
+        <p xml:id="griffith_ratie_1304">I WANT to tell the children a story of a poor little slave-girl who lived and died away down South.</p>
+        <p xml:id="griffith_ratie_1305">This little girl's name was Rachel, but they used to call her Ratie.  She was a hunchback and a dwarf, with an ugly black face, coarse and irregular features, but a low, pleasant voice, and nice manners.  Nobody ever scolded Ratie, for she never deserved it.  She always did her work--the little that was assigned her--with a cheerful heart and willing hand.  This work was chiefly to gather up little bits of chips in baskets, or collect shavings from the carpenter's shops, and take them to the cabins or the great kitchen, where they were used for kindling fires.  She had a sweet, gentle spirit, and a low, cheery laugh that charmed everybody.  Even the white folks who lived up at the great house loved her, and somehow felt better when she was near.</p>
+        <p xml:id="griffith_ratie_1306">Ratie used to go out into the fields on Summer days, or in the early Spring, and pick the first flowers.  Later in the season she caught the butterflies or grasshoppers, but she never hurt them.  She would look at the bright spangled wings of the butterflies, or the green coats of the pretty, chirping grasshoppers, with an eye full of admiration; and she always seemed sorry when she gave them up.  The lambs used to run to her, and eat from her hands.  If she went into the park, the deer came to her side lovingly, and the young fawns sported and played around her.  No one harmed or expected harm from Ratie.</p>
+        <p xml:id="griffith_ratie_1307">Poor little hunchback!  Many an idle traveller has paused in his slow wanderings to listen to her song as she sat on the wayside stump, knitting stockings for the work-people, and singing old snatches of songs and airs that bring back to the heart glimpses of the paradise of our lost childhood!  No broad-throated robin ever poured out a wilder, fuller gush of melody than the songs of this untaught child!</p>
+        <p xml:id="griffith_ratie_1308">Little Ratie's days were passed in the same even routine, without thought or chance of change.  Up at the house they loved her, and her young mistresses used to supply her with cast-off ribbons and shawls and fancy trappings from their own wardrobes, which she prized very much--delighting to deck out her little odd person with these old fineries.</p>
+        <p xml:id="griffith_ratie_1309">Once, as she sat singing on an old stile, and knitting a stocking, a rough sort of gentleman, driving by in his neat little tilbury, stopped and listened to Ratie's song.  When he looked at the strange child he felt a little shocked, but he called out in a loud voice,</p>
+        <p xml:id="griffith_ratie_13010">"Hallo, Dumpey Blackie, here is a fip for your song"; and he tossed her a small coin, "Take that, and give me another song."</p>
+        <p xml:id="griffith_ratie_13011">The child was pleased at the gift, took it up from where it had rolled on the ground at her feet, and soon began another of her wild little ditties.  As she sang on, she forgot the exact words, and put in some of her own, which harmonized just as well with the air.  The stranger was so much pleased that he gave her another fip, and called for another song, and still another.  At length he asked the child to whom she belonged.  She told him that she belonged to her old master.</p>
+        <p xml:id="griffith_ratie_13012">"And what is your old master's name?" asked the stranger.</p>
+        <p xml:id="griffith_ratie_13013">But the child smiled still more incredulously, so the gentleman deemed it best to follow her home, which he accordingly did, and found that Col. Williams, a rich old planter, was the owner of this little melodious blackbird.</p>
+        <p xml:id="griffith_ratie_13014">The stranger slighted and asked to see Col. Williams.  After a little conversation he proposed to buy Ratie from her master.  Col. Williams had never thought of selling the little deformity.  He kept her on the place more through charity than aught else.  The extent of her musical genius was unappreciated, and even unknown to him; but as she was a happy little creature, much liked by all the family, and was only a trifling expense, he had never thought of parting with her.  Now, however, when a handsome price was offered, she assumed something like importance and interest to his eyes.  He had her called into the house, and she obeyed with great alacrity, coming in neatly dressed, with a fresh white apron and sundry bits of bright-colored ribbons tied round her head and neck.</p>
+        <p xml:id="griffith_ratie_13015">"Give us one of your best songs, Ratie," said her master.</p>
+        <p xml:id="griffith_ratie_13016">The girl broke out in a wild, warbling strain, clear, bird-like and musical, filling the long room with gushes of melody, until the lofty arches echoed and reëchoed with the wild notes.  When she had finished, the enthusiastic stranger exclaimed:</p>
+        <p xml:id="griffith_ratie_13017">"That throat is a mint of gold!"</p>
+        <p xml:id="griffith_ratie_13018">And so little hunchback Ratie sang song after song until she exhausted herself, when her master sent her off to the slave-quarters, where she continued her ditties out under the broad, soft light of the low-hanging Southern moon.</p>
+        <p xml:id="griffith_ratie_13019">The gentlemen sat up late that night, talking upon different subjects, but, before they parted, it was arranged that the stranger should buy Ratie at the high price he offered.</p>
+        <p xml:id="griffith_ratie_13020">The next morning, long before the sun rose, little Ratie was up, walking through the quarter.  She stooped down to look at every drop of dew that glittered and sparkled on the green leaves and shrubs, and when the great, round, golden sun began to creep up the eastern sky, and set it all ablaze with red and gold and purple clouds, glorious as the pavilion of the prophet, Ratie's little spirit danced within her, and broke forth in hymns of worship such as the wise men long ago--eighteen hundred years past--sang at the foot of a little manger in a stable in Bethlehem of Judea!</p>
+        <p xml:id="griffith_ratie_13021">The child was too young and ignorant to know the meaning of the emotions which fluttered and set on fire her own soul, but she was none the less happy for this ignorance.  God is very good!</p>
+        <p xml:id="griffith_ratie_13022">As Ratie wandered on, singing to herself, she grew so happy that the rush of passionate fervor half-frightened her.  Tears came to her eyes, and choked the song in her throat.  She paused in her walk, and seated herself on a little rock that lay in one corner of the quarter.  As she sat there alone, with her own bright, singing spirit, she might have beheld  a lovely, white-robed angel unfurl its pure wing just over her, and gracefully incline its radiant head, as if listening to a song worthy of the music of Saint Cecilia herself.</p>
+        <p xml:id="griffith_ratie_13023">Ratie continued to sing and weep, wherefore she could not tell; but a chorus of white-winged angels might have answered the question.  By-and-by the great, rusty bell of the quarter rang out from its hoarse, iron tongue the morning summons for the slaves to assemble.  Ragged, tattered, unshorn and unshaven, dirty, ill and angry-looking, the negroes--men, women and children, in large numbers--collected in the quarter-yard, where the overseer, an ugly, harsh white man, with a pistol in his belt, knife at his side, and whip in hand, stood to call the roll.  At the mention of each name, a slave came forward, saying with a bow,</p>
+        <p xml:id="griffith_ratie_13024">"Here I am, massa."</p>
+        <p xml:id="griffith_ratie_13025">Ratie, who had no particular work to do, went limping on past the place of the roll-call, when she saw her master and the strange gentleman coming toward her.  She did not, however, notice them.  They were talking together quite earnestly, and looking at her.  Her master called out,</p>
+        <p xml:id="griffith_ratie_13026">"Stop, Ratie, come this way."</p>
+        <p xml:id="griffith_ratie_13027">She obeyed the order with pleasing readiness.</p>
+        <p xml:id="griffith_ratie_13028">"Ratie," said the master, "how do you like this gentleman?"</p>
+        <p xml:id="griffith_ratie_13029">The child smiled, but made no answer in words.  The master also smiled as he added:</p>
+        <p xml:id="griffith_ratie_13030">"He thinks that you sing very prettily, and he has bought you.  He will be very kind and good to you, and as soon as you have had breakfast, you must get your things ready to go off with him.  Here is a present for you, and he tossed her a bright, shining, silver coin.  The child seized the money, but did not seem to comprehend her master's words.  To be "sold," to her implied some sort of disgrace or hardship which she did not think she deserved; besides, she had always lived on the "old plantation."  She knew no other home; she did not want to leave "the people" of the quarter, nor did she feel happy in going away from the "white folks," particularly the "young mistresses," who had always been so kind to her.  She had, also, some vague yearning of heart to be close to her mammy's grave, rough as it was; and near also to grandpap's cabin, where she roasted apples and potatoes on Winter nights.</p>
+        <p xml:id="griffith_ratie_13031">She looked around upon the familiar quarter--the well-known people--the row of cabins--and strained her gaze far away to the rolling fields in the distance, where the negroes, like a swarm of crows, were busy at their morning's work; and as she gazed, the whole landscape flushed with the bloom and beauty of the risen sun, and then the wild, pealing horn called the "sons of toil" from their morning hour's work to their frugal breakfast. </p>
+        <p xml:id="griffith_ratie_13032">Ratie's little heart began to beat in its narrow limits as the word "sold" wrote itself there, and broke through her comprehension with all its fancied horrors!  She started quickly after her master, and, with the freedom of a petted slave, caught hold on the skirt of his coat.  Col. Williams turned suddenly round; and there, crouching on the earth at his feet, was the hunchback child.  She held up the money which he had given her.</p>
+        <p xml:id="griffith_ratie_13033">"Master," she asked, "why has you sold me?" (the voice was tremulous and sweet.)  "Master, why has you sold me?  I has not behaved bad, as de men did dat you sold last year.  I doesn't steal nor tell lies.  Is it bekase I'se lazy?  I do all de work dey gives me to do.  I'll do more.  I'll go into de fields.  I'll plant and pick de cotton, but please don't sell me.  I doesn't want to leave de old place.  Mammy is buried here, so I wants to be when I dies.  I wants allers to live here."</p>
+        <p xml:id="griffith_ratie_13034">The stranger and Col. Williams were much moved.  They did not venture to speak to the child, but tried to get away from the sound of her plaintive cries.</p>
+        <p xml:id="griffith_ratie_13035">When the negroes drew around their morning meal, and learned that Ratie was sold, they were unhappy, and refused to eat anything.  They looked sorrowfully at one another, and turned away from their untasted food.</p>
+        <p xml:id="griffith_ratie_13036">"Poor Ratie!" exclaimed the old negroes, as they shook their heads in mournful discontent, "we shall not hear any more her sweet songs in de evenin' time."</p>
+        <p xml:id="griffith_ratie_13037">The young mistresses came to Ratie with kind gifts and kinder words.  They told her, with tears in their eyes, how sorry they were to part with her, how good they knew she had been, and how much they wished their papa would allow her to stay.  Words and acts like these softened the blow to the unfortunate child, and strengthened her for the coming trial.  She looked up smilingly through her tears as she said to her young mistresses:</p>
+        <p xml:id="griffith_ratie_13038">"Please not to cry for me.  God is good, and de preacher says he is everywhar; so I shall not be fur from de old plantation."</p>
+        <p xml:id="griffith_ratie_13039">When she was starting away, each of the negroes brought her some little gift, such as cotton handkerchiefs, old ribbon ends, bright-colored glass beads, or autumn berries, dried and strung on threads for neck ornaments.  Each of these humble little tokens possessed an individual interest which touched some spring in Ratie's little heart.  When the hour of separation came, she had nerved herself to the highest courage of which she was capable.  She took leave of each of the slaves, all of them calling down in rude but affectionate words the blessings of God upon her life.  An old, lame negro man, whom the slaves addressed as Grandpap, hobbled from his cabin on a broken crutch to utter his farewell.</p>
+        <p xml:id="griffith_ratie_13040">"Good by, Ratie," he began, and his voice choked with emotion; "good by, little Ratie, and may de good Lord be wid you.  Him dat keres for de poor, de lowly and de despised, up yonder, way fur and high up dere, is a God dat loves all of His chillens alike.  He doesn't kere fur de color ob de skin or de quality ob de hair.  In His sight, wool is jist as good as de fair, straight hair.  He loves de heart, and looks straight and deep into dat, and keres fur nothin' else.  Never you be afeard, Ratie, Him'll take kere ob you, an' all sich as you, bekase He loves dem dat He smites and afflicts.  Now, He didn't break your poor little back for nothin'.  Him has Him's eye upon you.  You is a lamb ob de fold dat de great Shepherd will go fur, and long to look arter.  Him holds you in the holler ob Him's hand, an' He'll keep you dar--mind what I tell you.  Good by, Ratie.  God bless you.  Allers trust Him.  'Member my last words; dat is, allers trust Him.  Look to Him, and He'll never forget you."</p>
+        <p xml:id="griffith_ratie_13041">As he uttered these words in a slow, oracular manner, he brushed a tear from his eye with the back of his old, hard hand, and looking tenderly toward the child, his lips moved slowly, and the words seemed to melt unheard in the thin, morning air.  He turned from her and hobbled off in the direction of his cabin.</p>
+        <p xml:id="griffith_ratie_13042">The other slaves were more passionately demonstrative in their farewells, but little Ratie bore up with a beautiful and proud composure.</p>
+        <p xml:id="griffith_ratie_13043">* * * * *</p>
+        <p xml:id="griffith_ratie_13044">The new owner proved very kind to her (as who, with a touch of humanity, could be otherwise to so gentle a creature?), but her heart had received a blow from which it could not recover.</p>
+        <p xml:id="griffith_ratie_13045">The master took her to New Orleans, intending to have her taught music, that she might make money for him; but the poor child pined for the "old plantation" and "de old folks at home"--the kind people--"my people," as she fondly called them--with whom she had been brought up.</p>
+        <p xml:id="griffith_ratie_13046">In the great city of New Orleans she was literally lost.  She missed the free country air, the green trees, the sweet singing-birds, the fields blooming with early flowers, and the meadows and running brooks.  It was easy to see that the little hunchback was not happy.  She grew thinner and thinner, and her voice lost its flexible sweetness, its clear and liquid roundness of tone.  At last she fell away to a mere skeleton, and then sharp burning fever set in, and little Ratie was taken down to her bed.  Day and night, in the delirium of fever, she raved for "de old plantation" and her own people.</p>
+        <p xml:id="griffith_ratie_13047">The new master promised, when she got better, to take her back to her old home--at least for a little while.  But, alas! she never grew any better, and faded slowly away inch by inch, drop by drop, until one evening, just at sundown, in the gay city of New Orleans, little Ratie breathed her last.</p>
+        <p xml:id="griffith_ratie_13048">Just before she died, she lifted her head from the pillow, and, resting on her hand, said:</p>
+        <p xml:id="griffith_ratie_13049">"Don't you see, over dar," pointing eastward, "is de old plantation?  How pretty and nice it looks; and dar is all de peoples at work; how busy dey is!  But I is not gwine dar.  I doesn't want to, any more.  Dere up dar is God's plantation, and it is betterer far.  Dere is no slaves dar, but all is free and happy--loving friends; and it is dar dat I wants to go; and I hopes dat all de plantation folks will be dar, or soon come to me."</p>
+        <p xml:id="griffith_ratie_13050">So she died!</p>
+        <p xml:id="griffith_ratie_13051">When they heard of her death at the old plantation, they were much distressed.  One of the old negroes said that, late in the evening, down at the lower end of the quarter, he distinctly saw, near her mammy's rude grave, the shadow of the little hunchback, Ratie.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eleanor_white_13030">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>For the most Honorable States sitting at White-Hall, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Douglas, Eleanor, Lady, d. 1652</reg><orig>Lady Eleanor</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>15kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="eleanor_white_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Emory Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17brk</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Eleanor, Lady. For the most Honorable States sitting at White-Hall. London, <date>1649</date>.</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="eleanor_white_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early Modern through the 18th Century</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Prose</rs>
+        <rs type="geography">Great Britain</rs>
+        <date>1600-1699</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Women authors, English--17th Century.</item>
+            <item>Prophecies.</item>
+            <item>Religiosity.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2000</date><label>Staff</label><name>Erika Farr</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="eleanor_white_13029">
+    <body xml:id="eleanor_white_13028">
+      <div xml:id="eleanor_white_001" type="Prose">
+        <docAuthor>Eleanor, Lady</docAuthor>
+        <head><seg type="short-title">For the most Honorable States</seg> sitting at White-Hall</head>
+        
+        <bibl>London, 1649.</bibl>
+        <p xml:id="eleanor_white_1303">
+          <hi rend="center">For the most Honorable</hi>
+        </p>
+        <p xml:id="eleanor_white_1304">
+          <hi rend="center">S  T  A  T  E  S</hi>
+        </p>
+        <p xml:id="eleanor_white_1305">
+          <hi rend="center">Sitting at</hi>
+        </p>
+        <p xml:id="eleanor_white_1306">
+          <hi rend="center">
+            <hi rend="italic">WHITE-HALL.</hi>
+          </hi>
+        </p>
+        <p xml:id="eleanor_white_1307">_______________________________________________________________________</p>
+        <p xml:id="eleanor_white_1308"><hi rend="italic">The words of Amos, &amp;c.  and the Lord shall roar from Zion, and utter his voyce from Jerusalem; and the dwelling places of the Shepherds shall perish, and Carmel shall wither:  Thus saith the Lord, for three transgressions and for four, &amp;c.  And will cut off the inhabitants of B. and the Scepter shall perish of Beth.  Thus saith the Lord, for three transgressions and for four, &amp;c. </hi> Together with Divisions character, <hi rend="italic">viz.  By the same token, saith the Lord Sabbath; </hi>  When Bishops Lands sold, Rhetoricks flowers out of request, <hi rend="italic"> Great Britains </hi> Union dissolv'd, or cut assunder, puts down their Kings, he Beheaded, Four and twentieth from the Conquest, aged seven times seven, in the Seventeenth Century. <hi rend="italic">Thus saith the Lord, in that day I will raise up the Tabernacle of David that is faln down, &amp;c. and will build it again, as in days of old. </hi>  Amos cap. 8. </p>
+        <p xml:id="eleanor_white_1309">__________________________________________________________________________</p>
+        <p xml:id="eleanor_white_13010">
+          <hi rend="center">
+            <hi rend="italic"> London, Printed in the Year 1649.</hi>
+          </hi>
+        </p>
+        <pb xml:id="eleanor_white_13011" n="(2)"/>
+        <p xml:id="eleanor_white_13012">
+          <hi rend="center">For the Right Honorable, The</hi>
+        </p>
+        <p xml:id="eleanor_white_13013">
+          <hi rend="center">Councel of State.</hi>
+        </p>
+        <p xml:id="eleanor_white_13014">
+          <hi rend="center">From the Lady Eleanor, <hi rend="italic">Octo. </hi>1649. </hi>
+        </p>
+        <p xml:id="eleanor_white_13015">As known to all, the true way or touch-stone, other none to try them by, but that <hi rend="italic">Salt the life of all things, All things whereby were instituted, </hi> without which <hi rend="italic"> (his word the Way and the Truth; </hi> where Legions of division the like unknown, a like possible to expect <hi rend="italic">peace one with another, </hi> as to thrid Needles with a Cable, or in a day build <hi rend="italic">Pauls. </hi></p>
+        <p xml:id="eleanor_white_13018">And so behold, all like as when <hi rend="italic">stung by fiery Serpents, were healed by another in that likeness; </hi> also of those Legions entred into <hi rend="italic">that wilde man, </hi>  as ensues, a taste or tryal of them ten-
+            <seg type="catch">dred</seg><pb xml:id="eleanor_white_13016" n="(3)"/>
+dred to these restless days, wherein <hi rend="italic">every man in his proper language, hears the wonderful word of God, </hi> as in a chrystal mirror presenting the visage of the present, extracted from that distracted <hi rend="italic">MANS</hi>  recovery, sent hither to Preach (askt <hi rend="italic">What his name was? </hi>) declaring <hi rend="italic">What God had done for him</hi>  (no infant or babe) directed to the Gentiles, a light for the last days, as though askt <hi rend="italic">Great Britain, </hi> and <hi rend="italic">Germany, </hi>  their Names should answer <hi rend="italic">Gergesens, </hi> they both a compound of it; from <hi rend="italic">Gadarens</hi>  as also derived <hi rend="italic">Gallia</hi>  or <hi rend="italic">France</hi>  (lying over against <hi rend="italic">England</hi>) as that Region over against <hi rend="italic">Galilee</hi>; so <hi rend="italic">Whether thence comes any good thing, </hi> like that saying of old:  Also former Marriages (what successes have had) who wots not,
+            <seg type="catch">shall</seg><pb xml:id="eleanor_white_13017" n="(4)"/>
+shall come to the master (<hi rend="italic">Mat. 8.c. </hi>) of our Saviours pilgrimages or weary progresses. </p>
+        <p xml:id="eleanor_white_13020"><hi rend="italic">And when he was come to the other side of the Countrey of the Gergesens, there met him two possest with Devils, which came out of the Graves, very fierce, so that no man might pass by that way.  And the devils besought him, </hi> &amp;c. <hi rend="italic">and he said Go; </hi>  whereof in a paraphrasing way thus proceeding, verily their pass for <hi rend="italic">gravesend</hi>  those twain <hi rend="italic">Rup. </hi>  and <hi rend="italic">Maurice, </hi> returned to <hi rend="italic">Grave Maurice, </hi> Cousen Germain with the <hi rend="italic">Boors, </hi>  issue of the late <hi rend="italic">Palsgrave </hi>  of the <hi rend="italic">Rhyne, </hi> that German Prince turned out of his Countrey, making in the <hi rend="italic">Low Countries </hi> his abode, whose Offspring those furies or fiends broken loose here, sent home again:  To 
+            <seg type="catch">this</seg><pb xml:id="eleanor_white_13019" n="(5)"/>
+this day which Family are constantly visited with a Sprirt before the death of them, a thing known to all; and thus as though a Babe new born should speak the hardest Names. </p>
+        <p xml:id="eleanor_white_13023"><hi rend="italic">Mark 5. </hi>   on this wise going on with it, of the aforesaid <hi rend="italic">unclean spirits </hi> bapitized in the lake, &amp;c. certainly emlem of the <hi rend="italic">Gentiles</hi>  being return'd to wallow <hi rend="italic">in the mire, </hi> as waters of troublesom times giving warning; where thus, <hi rend="italic"> And when he was come out of the ship, there met him incontinently out of the Graves a</hi>  MAN<hi rend="italic"> that had an unclean spirit, who had his abiding amongst the Graves, bound with feters and chains, &amp;c. neither could by any man be tamed, </hi> his Ghost (as it were) that Bear <hi rend="italic">Canterbury, </hi>  brought so often to the stake or Bar on his knees; where 
+            <seg type="catch"> beside </seg><pb xml:id="eleanor_white_13021" n="(6)"/>
+beside his habitation, where those Monuments in Cathedrals, whose House at <hi rend="italic">Lambeth </hi> with its scituation not onely pointed to, but of its denomination borrow'd from the house of <hi rend="italic">Bethlam, </hi> otherwise called <hi rend="italic">Bedlam: </hi>   As his Name withal whence derived from the Grave-maker or Sextons Office, their digging or opening vaults, not unlike to be one of his Godfathers; so much of his raving fit, that bad our Savior <hi rend="italic">avoid: </hi>  foreshweing had those times been in his, had given him that oath of forswearing himself, or his own accuser to be, as forced no few in that undue kinde, his own Obligation so well observing, questioned not his spirit of continency, any more then whether the name <hi rend="italic">Puritans </hi> a persecutor of, or 
+            <seg type="catch"> given </seg><pb xml:id="eleanor_white_13022" n="(7)"/>
+given Judas pass, gone to his own place, <hi rend="italic">Canterbury</hi>  the last of his name on a Friday executed, the day on which our Lord was buried for his long service, that in a field <hi rend="italic">Gules </hi> gives the Halter or rope, from henceforth a chain left to hang their Keys in.  And so much for him and them both answering, <hi rend="italic">For we are many fryers, </hi>  whose twelve Godfathers withal besought, (as it were) <hi rend="italic">Him not to torment he adjures them; </hi>  which concerns more then any Lord Majors Oath, or his Show on the water. </p>
+        <p xml:id="eleanor_white_13024">So each in his order, where follows <hi rend="italic">Great Britains</hi>  last King, or <hi rend="italic">Englands </hi> late Tryant, into whom many Devils were entred from several parts; but one above the rest (no short time) vext with most, wherof </p>
+        <p xml:id="eleanor_white_13025">
+          <hi rend="italic"> Luke </hi>
+        </p>
+        <pb xml:id="eleanor_white_13026" n="(8)"/>
+        <p xml:id="eleanor_white_13027"><hi rend="italic"> Luke </hi> 8. thus, <hi rend="italic">And when he WENT to land, there met him a certain MAN out of the City, which had a Devil a long time, and he ware no clothes, neither abode in house, but in the Graves, and he commanded the foul spirit to come out of the man, for oft times it caught him, &amp;c. therefore he was bound in fetters, </hi>  as the cause of his binding shews so from those words, that <hi rend="italic">it came out of the man, </hi>  as much to say, a woman, his <hi rend="italic">Vasthi</hi>  put away or departed, bereft of the Breeches, &amp;c. in recompence Crown'd by her Servant <hi rend="italic">German. </hi>  And so much for this misled Man, went away from his House of Parliament and <hi rend="italic">Hampton-Court</hi>  turned out of the City-houses and Country both, took up his restless Lodging among the slain in the field, afterward in [. . .] [text incomplete]</p>
+      </div>
+    </body>
+  </text>
+</TEI>

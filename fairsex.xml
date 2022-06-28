@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fairsex_13081">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>The Freedom of the Fair Sex Asserted: or Woman the
+	    Crown of Creation, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Philgynes</reg><orig>Philgynes</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>The Lewis H. Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent/>
+      <publicationStmt><publisher>The Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="fairsex_1301">© 2006 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to
+the work claimed by Emory University for non-profit educational purposes, provided 
+this header is included in its entirety.  For inquiries about commercial uses, contact
+either: Women Writers Resource Project or Lewis H. Beck Center for Electronic
+collections and services, Emory University, Atlanta, Georgia 30322.</p>
+        </availability><date>2005</date><idno type="ark">http://pid.emory.edu/ark:/25593/17c0n</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Philgynes. The Freedom of the Fair Sex Asserted: or
+	    Woman the Crown of the Creation. London: Printed, and are
+	    to be Sold by J. Nutt, near Stationers Hall. MDCC.(1700) </bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="fairsex_1302">This text is produced in conjunction with the 
+Women Writers Resource Project at Emory University.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early Modern through the 18th Century</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Prose</rs>
+        <rs type="geography">Great Britain</rs>
+        <date>1700-1799</date>
+      </creation>
+      <langUsage>
+        <language ident="fr">French</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Women--Early works to 1800.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2006</date><label>Staff</label><name xml:id="gs">Gitanjali Shahani</name>XML tags inserted in compliance with TEI guidelines using TEILITE.</change></revisionDesc></teiHeader>
+  <text xml:id="fairsex_13080">
+    <body xml:id="fairsex_13079">
+      <pb xml:id="fairsex_1303" n="1"/>
+      <div xml:id="fairsex_001" n="1" type="Section">
+        <head>THE FREEDOM OF THE Fair Sex ASSERTED</head>
+        <salute>Madam!</salute>
+        <p xml:id="fairsex_1304">Your Commands can never Fail to Oblige barely by being Yours that
+Indearing and they desire such Charms from their Original.  You Trust
+not <gap extent="2 words" reason="illegible" resp="#gs"/> these borrow'd Beauties but Endow them with intrinsick Excellence; like First Principles, they are Embrac'd as soon as Propos'd for the Reason of them is self Evident.</p>
+        <p xml:id="fairsex_1306">One would Contemplate the Ladies methinks, of meer Choice and <gap extent="7 words" reason="illegible" resp="#gs"/>so Divine Subject; especially, <hi rend="italics">Madam!</hi> who
+<seg type="catch">has</seg><pb xml:id="fairsex_1305" n="2"/>
+has the Advantage of Knowing You, and can thereby inrich his Mind with so bright a Train of Ideas. But when moreover, You Require it, Will not the very Stones Obey! Will not Matter itself dissolve into Meditation!</p>
+        <p xml:id="fairsex_1307">I am a wonderful <unclear reason="smudged text" resp="#gs">Instance</unclear> my Self, of the greatness of your Power; that never Thought in my Life, but upon your <unclear reason="smudged text" resp="#gs">Account</unclear>; and <unclear reason="smudged text" resp="#gs">never</unclear> Thought of any thing beside You, but at your Command; even what I am now doing for its Birth, acknowledges your Authority; and for its Success upon your influence.</p>
+        <p xml:id="fairsex_1308">Of all the Parts of the Creation that are <gap extent="1 word" reason="illegible" resp="#gs"/> either through Ignorance or Humour, none
+suffer so notoriously as the Ladies; and the Reason is because the
+same degree of Contempt, consider'd absolutely and in it self, is <gap extent="1 word" reason="illegible" resp="#gs"/> aggravated always <gap extent="8 lines" reason="illegible" resp="#gs"/>great One.</p>
+        <p xml:id="fairsex_13011"><gap extent="3 lines" reason="illegible" resp="#gs"/><seg type="catch">Raillery</seg><pb xml:id="fairsex_1309" n="3"/>
+Raillery, or by more Serious and Settl'd Invectives: And accordingly 'tis pursu'd by Two sorts of Men. Those who take up with the former, are such as Behave riot upon Principle with Sobriety, but give only a Loose to Censure, and Detraction, without any manner of inward Prejudice or Dislike. Nay, so far are they from that, as to admire at least, if not Adore, the Party they so much Decry; which nevertheless they do, to present a Taste Forsooth of their great Wit, and give an agreeable Relish to Conversation. 'Tis their Business to Interpret every thing in the worst Sense it will bear; and if it will not admit an ill Construction, yet they scruple not to make it Nonsense, choosing rather to Discover their Hypocrisy, than Conceal their Folly. Thus with them, all that becoming Conduct and mutual Respect, observ'd among the Ladies, is meer Emptiness and Formality; a little Freedom of Talk with our Sex, is down-right Impudence. Innocence of Behaviour is all Trick and Design, and Modesty no more than Affectation. In short, as every Vertue has its Counterfeit, so every Woman that appears virtuous, has nothing of it, they suppose, besides the Appearance. This Practice looks abominable, at first sight, and carries Guilt in its very Countenance. 'Tis a plain Composition of Hypocrisy and Vanity; and there is no third Ingredient can possibly make the whole more Odious than it is. As for those who engage in such a Conversation as this, they can have no Hopes
+<seg type="catch">to</seg><pb xml:id="fairsex_13010" n="4"/>
+to be sure of finding Favour at the Ladies Hands. (and that's a lamentable kind of Despair indeed) And for what is Future, they must be left with a Company of Pagans to the meer Mercy of Heaven. Nor will this look Extravagant, after Consideration that the Main of all modern Wit is made up of Blasphemy against, G0D, and Raillery upon Women: And can it be unreasonable to Conclude each Vice of a like Nature, when they are both found so close in Company together?</p>
+        <p xml:id="fairsex_13012">But, the Design of this Letter, if so Small a Trifle may pretend to any, is not to Expose such as Wilfully Misrepresent the Sex, (it would be unpardonable Presumption to attempt any thing of that Nature, which they themselves have already perform'd with so good Success)but to Rectify the Judgment of others, who innocently enough Misunderstand it; and express a much less Dislike at the General Conduct of the Ladies, than they retain in their Minds upon that Account. This, in a great measure, is owing to an Original Mistake about the proper Duty of Woman and what her Obligations are in the common Circumstances of Human Life. For, let her ordinary Deportment never so exactly Answer her real Duty; yet, if that become Mistaken, it's plain the whole Course and Tenour of her Actions Will be Condemn'd. And, 'tis no new thing among us, first to lay down false, or uncertain Suppositions and of our own and afterwards wonder at the unaccountable Consequence.</p>
+        <ab type="catch">That</ab>
+        <pb xml:id="fairsex_13013" n="5"/>
+        <p xml:id="fairsex_13014">That there is a Duty incumbent on the Side of Woman, that she Naturally Owes us some sort of Assistance, or other is no more than what all Acknowledge. The Question is, in what Particulars, this Duty of hers Consists; and after what Manner, the Assistance she Owes, ought to be made good.</p>
+        <p xml:id="fairsex_13016">'Tis a receiv'd Opinion, I know, that Woman is Born to Labour, and
+Oblig'd to, Drudgery; that she is excus'd from no Difficulties Man is
+obnoxious to, but ought to share alike with him in all the burthensome Affairs of Human Life. Now, indeed, if the Duty intended, were an Obligation on her Part, to Comply with every arbitrary injunction Man might Impose or Submit to every extravagant Service he might Require, there wou'd then appear some colour of Reason for admitting this Doctrine; but certainly, the Case is otherwise, and Women can never stand in the same Relation to us, with the brutish Herd: Their Province short, is quite distinct from ours, adapted to a Distinction of Nature and Abilities and however by Compulsion or Compact, it comes to pass, that Woman frequently engages in Business, belonging peculiarly to our Sex, there are nevertheless, Visible Bounds set to her Obligations; and upon Nice Inquiry it- will appear, she is oblig'd to no Particulars lays, (at least not in the same manner) as she stands related to Man, that he is oblig'd to, in his relation to her: So that tho' some kind of Assistance be due, 'tis made Payable however, in quite another manner, than has
+<seg type="catch">been</seg><pb xml:id="fairsex_13015" n="6"/>
+been all along suppos'd, <hi rend="italic">viz. In such a manner as will prove much more easie and Natural to her self, as well as more Useful and Advantageous to us.</hi></p>
+        <p xml:id="fairsex_13017">Let us suppose it then, the proper Business of Woman, to Cherish us
+with the Charms of her Conversation, to Compose our Tempers, and
+Soften our Manners; to Encourage our Hopes, divert our Fears, and
+Inflame our Affections; to make her self, in fine, every way Amiable;
+omitting nothing she may safely practise for our Ease and Happiness,
+without Violence to her own Nature: Tho' to say the truth there is
+hardly need of such a Limitation; it being impossible for her, to do
+us any service by misemploying or abusing her Natural Powers; and she
+contributes not at all to our happiness, so long as she continues to
+Impair her own. Hence it is, that this general View I have given of
+her Duty (how Unlucky soever it may prove in the <unclear reason="smudged print" resp="#gs">end</unclear>)promises at least
+Hopefully enough; wherein <gap extent="1 word" reason="smudged print" resp="#gs"/> occurs nothing to Displease the Ladies, nor any thing to
+offend us: But the whole Perfromance on their side is easy, and the
+Assistance it procures ourselves, compleat. For nothing <unclear reason="smudged print" resp="#gs">testifies</unclear> a Duty to be
+truly <unclear reason="smudged print" resp="#gs">Sensed</unclear> so much as when it contains no Difficulty, nor any thing Disagreeable, and yet fully answers the Ends of its <unclear reason="smudged print" resp="#gs">Institution</unclear>. How applicable this is to the pesent Case, will appear in the Conclusion of this Argument.</p>
+        <ab type="catch">What</ab>
+        <pb xml:id="fairsex_13018" n="7"/>
+        <p xml:id="fairsex_13019">What the original Condition of Woman was in the State of Innocence; and the particular Circumstances of her Paradisaical Life; how large her Abilities, and of what extent her Duty, is not easily discovered; that happy Scene being of no long continuance, and but very little reveal'd relating to it. Whatever Obligations she Might lye under in such a State, certain it is, they were such as arose from the nature of her Settlement, and such as the Circumstances, she was plac'd in, requir'd: But Those have been lamentably Chang'd from what they were; her Duty therefore, consequent upon that, must necessarily change likewise: and since this great Revolution in her Affairs ensu'd upon the Fall, it will be by examining that, and a few Particulars attending it, that we must search, out her present Duty.</p>
+        <p xml:id="fairsex_13021">'Tis very remarkable, that the Curses of Heaven upon the Persons of fallen Man and Woman, were not denounc'd Promiscuously and alike, upon both; but Successively, and with notorious Distinction. First of all GOD address to <hi rend="italic">Eve</hi>, and assigns her the particular I punishment of her Sin; that done, He addresses likewise to Adam (exclusive of his Wife) and Curses him accordingly. Now, I for my part, am not able to conceive what Necessity there could be for so distinct an Address, unless it bore withal as distinct a Relation, nor to what purpose in the world there was a separate Cause, if they, were, to be shar'd both in common: Besides, if the Curses directed only to the person of Adam, were by any
+<seg type="catch">means</seg><pb xml:id="fairsex_13020" n="8"/>
+means applicable to <hi rend="italic">Eve</hi>, with as good reason those too directed to <hi rend="italic">Eve</hi>, must have their influence upon <hi rend="italic">Adam</hi>, in all his Male Posterity; and as soon as we Men begin to be Affected with hard Labour, and Sorrows in Child-bearing, the Ladies will in return, readily submit to all the Curses Heaven has inflicted upon us. If then, the Curses denounc'd against <hi rend="italic">Adam</hi> and <hi rend="italic">Eve</hi>, in a separate and distinct manner, concern'd that Party and that alone, to which they were each of them so distinctly Directed and it be the Duty of them both, to make Good the respective Curses, or Commands, they were respectively, concern'd in (neither of which I presume can be deny'd) it will follow then, that Man only is oblig'd by his daily Labour and Industry, to Secure a necessary Subsistance, and provide all Accomodations of Life and this, as well for the Woman; as for himself, for the Curse implying this Obligation is directed only to him; who by consequence can be the only Party concern'd in it.</p>
+        <p xml:id="fairsex_13023">Hereabouts I look for an Objection to this purpose, viz. That after all my Pains and Care, have at best but Struggl'd a little to determine barely, wherein the Duty of Woman, with regard to Man, does not consist; as for any thing like a Discovery, wherein it does, I have not made the least approaches towards it. I kindly undertake to excuse the Ladies (however I come by authority to do it) from the more rugged and Ungrateful concerns Life; but never think of Obliging them in the mean-<seg type="catch">time</seg><pb xml:id="fairsex_13022" n="9"/>
+time to more easie and acceptable duties. I take a tender Care to secure them from any Task Which might Sully the Serenity of their Mind, or break in upon the Gaiety of their Humour; but yet provide them no other Business, consistent with the preservation of these. I have advanc'd, 'tis true, a kind of Paradox of my own; but, so wild a thing it is, I have already rejected it my Self, neither recommending it from reason nor enforcing it from authority which looks at least, as if I were, not so wedded to it, but I could well enough dispence too; with the Omission of the pretended duties it contains. And at this rate, the Sex is like to prove a Very hopeful Assistance, bound to no Certain or Regular Performance, nor Determin'd by any thing but their own Humour Besides, that in the Method I have hitherto proceeded, 'Tis Impossible ever to Arrive at any conclusion in this Point; at least however to Demonstrate the duty of woman such as is pretended; for 'tis plain there is not One Syllable of what I Make her Duty to consist in contain'd any where in those Curses directed immediately to Her, out of which it was Infallibly to be Collected.</p>
+        <p xml:id="fairsex_13024">In order to withstand an Attack of this nature, there is no more Requir'd than to coisider.</p>
+        <p xml:id="fairsex_13026">1st. Were there not the least initimation of the duty of Woman to be met with any were in Scripture; and had she no light from thence, to
+<seg type="catch">Direct</seg><pb xml:id="fairsex_13025" n="10"/>
+Direct her in her deportment towards Man; 'tis yet very likely, she would, in such a case, have a acted, after the same manner, that she stands now Oblig'd to from Revelation: my reason is, because she fall's so Naturally into the exactest performance of what proves to be her Duty; she engages in it, even before she has time to make it her Choice, or even can indeed well know what it is. So that Probably matters would not stand in so very Deplorable a posture, even tho' she were left altogether to her self, both as to the manner, and measure of assistance, she might think good to accommodate us with.</p>
+        <p xml:id="fairsex_13027">2ly. It being, first of all taken for granted, that the Sex owes us some sort of assistance, by determining once, wherein it does not consist, it is already determin'd wherein it does, viz. In the performance of every thing that can do us service, and is not Included under such determination. In plain words thus; it being prov'd, that 'tis no part of Woman's duty to assist us in a Servile and Laborious way; and it being granted at the same time on all hands, that she Ought to Assist us some way or other, what can remain, but it must be her Duty to do it in such a way, as is agreeable to her Inclinations, and proportion'd to her Abilities, viz, So as it has been before limited?</p>
+        <p xml:id="fairsex_13029">Now, it would be needless to endeavour a proof, is in Duty bound to such a Method of Behaviour; for it appears necessarily so, in the
+<seg type="catch">very</seg><pb xml:id="fairsex_13028" n="11"/>
+very nature of the thing. It would be endless to descend to particulars in it, because of their great variety, arising from so various circumstances viz. Diversity of Time and Place; of Persons, and Humours, &amp;c. Each of which, as they differ, will require a quite different management, and application.</p>
+        <p xml:id="fairsex_13032">3ly. By examining the Curses denounc'd upon both Sexes; their import, and particular direction, we may gain indeed a, partial knowledge of their respective duties, viz. So far as they fall under the nature of a Curse. But then it were Madness by the same means to expect any further positive information. Woman, we all know, was Created for Man's Assistance, which Assistance therefore it became her duty to afford him, not as being a Curse upon her (for such it never was) but as it was made one end of her very being. Now as there were more, and greater ends propos'd herein, than the meer service of Man, so her behaviour ought to hear an agreeable proportion to them. Her duty to Man in the state of Innocence, consisted only of such actions as suited with her own Nature, at the same time that they answer'd his occasions. For it cannot without the greatest Impiety be Imagin'd, that God would require of her either unnatural, or unnecessary Performances, that he would design her for his own glory, and the good of man, and yet make her miserable in her Self, and a Burden to the rest of the World. 'Tis true, the. Fall of Man occasion'd an extraordinary
+<seg type="catch">change</seg><pb xml:id="fairsex_13030" n="12"/>
+Change in his affairs; his former blessings withdraw, and Curses descend, thick upon him; yet we no where find him depriv'd of the Society, and Assistance of his fair Consort; but when he is driven out of the blisful Gardens, she takes him by the hand, Wipes away his Tears, and qualifies the Bitterness of so sad an Exile. And the same Argument that proves her Assistance, was to be continuous after the Fall, will serve to show it Ought to be Manag'd in the same Proportion as before, viz'. With a Just Regard to her own Nature, as well as our present Necessities, These are two Essential properties of that Assistance, we can in Reason expect from her and what has been Offered here to this purpose, has the Advantage of them Both; Wherein is included nothing to the Prejudice of her Faculties or in Contradiction to her Inclinations; which implies all the service she can doe us, and what is sufficient to make us happy. Every thing beyond it is Grievous in the Performance, and Unprofitable in the Conclusion. To illustrate this, but with one Instance; what would be more unnatural than an Army of Beautiful Ladies? The softness and Delicacy of their Bodies disables them from Bearing Arms; and the tenderness of their Affections, Indisposes them for Blood and Ruin; their Limbs made only for Amorous Embraces, will soon Sink under the rude Encounters of War. Their Eyes may not wound to Death in the Field; and their strongest Charms
+<seg type="catch">may</seg><pb xml:id="fairsex_13031" n="13"/>
+may Fail of Captivating a Barbarous Enemy. Such considerations as these have Justly Secur'd them from the Toil and Fatigue of this Employment. And there is no Need of going Far for Argument, would that Effectualy release them from every other Uneasie and Afflicting work.</p>
+        <p xml:id="fairsex_13033">The natural Insufficiency of Woman for these things, directs Plainly, to what she is truly capable of. For these Qualities, as Useless, and Insignficant as they appear to Some Purposes; Become yet Wonderfully Serviceable in a Different Respect, and Directed to a Proper End. Thus what can Contribute more to the Improvement of Human Life, either by adding to the Pleasures of Enjoyment, or by taking off from the Burden of Evil Accidents, than a Pittiful and tender Companion? One who Condoles our Calamities, Rejoyces at our Welfare, and Sympathises with every Passion: One who Charms with no more than a Transient Glance, and Creates no less than Transports in common Conversation. What then are the Effects of her more familiar, and affectionate Behaviour, of a Thousand Little Endearments, Fondnesses, and Caresses! These are the. Labours of Woman's Life; these the Instruments of Man's Happiness; thus employ'd she answers one end of her own Creation, and helps to Compleat the Design of His.</p>
+        <ab type="catch">WOMAN</ab>
+      </div>
+      <pb xml:id="fairsex_13034" n="14"/>
+      <div xml:id="fairsex_002" n="2" type="Section">
+        <head>WOMAN THE CROWN OF THE CREATION.</head>
+        <p xml:id="fairsex_13035">WHAT has been already Confirm'd in the former part of this Letter,
+concerning the Nature and Extent of that Assistance design'd us in the
+Creation of Woman, will be yet farther Recommended, by considering how
+Admirably well she Stands qualified for the Discharge of those
+Particular duties it Implies. This may be done, by taking a slight
+Survey of her Original <choice><sic>Endownments</sic><corr>Endowments</corr></choice>, and acquired Virtues; which will at once Vindicate the Perfection of the Female Nature, and . serve likewise to regulate our expectations of Advantage from it.</p>
+        <ab type="catch">§. I.</ab>
+        <pb xml:id="fairsex_13036" n="15"/>
+        <div xml:id="fairsex_701" n="1" type="Sub-section">
+          <head>§. I EDUCATION</head>
+          <p xml:id="fairsex_13037">The Main of Woman's life depends much upon the manner of her Education: In order therefore to Declaim against the former with any Colour of Reason, or carry on the Design with any hopes of Success, the latter is first of all to be Condemn'd.</p>
+          <p xml:id="fairsex_13038">The common method of Educating young Women is frequently Impeach'd under the Specious Accusation of Vanity. And 'tis here Just as in other Cases; we soon Agree in the Censorious part, to call something Vain, but. then as to the Rational, we are all Strangely Divided in our Opinions, where, in the Vanity of it does Consist; a good Argument this with me, that the general Conclusion is Rash and Unreasonable. For when once an Opinion can be founded upon Reason, it has usually one and the same Foundation among all the several Abetters of it.</p>
+          <p xml:id="fairsex_13040">To determine any action truly useful, or Vain, Regard must be, always had to its Ultimate end, and design; for without this the Instruments of procuring the very best of Blessings, which one would think, are the farthest from vain, will nevertheless be reputed such. And thus no kind of action whatever (while abstracted from its end) can Possibly be free from Vanity: 'tis for want of this Necessary Caution, that the Ladies are so hardly Us'd in the case before us. Were their Education, and
+<seg type="catch">the</seg><pb xml:id="fairsex_13039" n="16"/>
+the Natural Consequences of it but Considered together and with one
+View, it would not appear to be Manag'd out of a Principle of vain
+glory, and ostentation, but industriously contriv'd for the
+Improvement of their Nature, and the recommendation of their
+persons. Their Lessons are Innocent, and only Refining a Little upon
+the simplicity of Nature. They teach how to raise Pleasurable
+Passions, and Produce agreeable Ideas, to touch the Sence, and
+Transport the very Soul; in a Word, the repeated Essays of their first
+Years, make the practice of their duty become Habitual to them, and
+they quickly commence Artists in the great business of their
+Lives.</p>
+        </div>
+        <div xml:id="fairsex_702" n="2" type="Sub-section">
+          <head>§. II. CONVERSATION.</head>
+          <p xml:id="fairsex_13042">Most of the Conversation between man and man,  may be divided into
+Insipid, and Contentious; such as either affects not at all, or raises
+the worst of Passions. We were never design'd, it seems, to converse
+among our selves: <hi rend="italic">It is not good</hi>, says the
+Text, <hi rend="italic">that Man should be alone</hi>: but the Ladies,
+Heavens be .prais'd, are Sociable, and there lies our Refuge. When we
+are pretty well mop'd with listning to one another's Dreams; or
+enrag'd by mutual Contradiction; we may repair to them for refreshment
+in the one case, and in the other for peaceable Inspirations. Their
+words Disperse <choice><sic>in cumbent</sic><corr>incumbent</corr></choice> Cares, and restore the Sickly mind; they
+<seg type="catch">civilize</seg><pb xml:id="fairsex_13041" n="17"/>
+civilize our Savage natures, and keep us from running into the Woods; they Quench the unruly heats of Anger, and Kindle the Kinder Flames of Love; they alter in Fine the whole Constitution, and make us easie within our selves; and affable to one another.</p>
+          <p xml:id="fairsex_13043">A great part of that <foreign xml:lang="fr" rend="italic">Je ne scay quoi</foreign>, or secret agreeableness in the Persons of many Women, may be well enough accounted for, I believe, in their Conversation. No Wonder we receive such a Multitude of Wounds without knowing all the while from whence they come: The cause is so very 0bvious, it scapes our nicer Consideration. <hi rend="italic">Cupid</hi> lurks under the Tongue, Wraps up his Arrows in Delicious words, and then alass! he must needs Kill with every Expression. A Woman's Eyes indeed may set fire to a Heart; but when that's done, it is her Breath must blow it into Flame.</p>
+          <p xml:id="fairsex_13044">There is nothing Incredible in these, effects to One who is
+Acquainted never so little with the nature bf Female Conversation. It
+is not Clogg'd with the heavy Circumstances of Business; nor made
+Nauseous by Pedantry, and Affection; it partakes of nothing low, but
+Condescension; and all the Passion it admits is Love. 'Tis Infinitely
+Various, and Diverting in it's Matter; full of Innocence, and
+Ingenuity, recommended by good Language, and a graceful air of
+Elocution.</p>
+          <ab type="catch">§ III.</ab>
+        </div>
+        <pb xml:id="fairsex_13045" n="18"/>
+        <div xml:id="fairsex_703" n="3" type="Sub-section">
+          <head>§. III. WIT.</head>
+          <p xml:id="fairsex_13046">The Ladies, some of us observe, are not generally so Witty as our selves. A great compliment upon them, I take it, if it were but such in design: More cannot be said in so few words for their Reputation; true Wit indeed is, an excellent gift, and conducive, to noble ends; but that which usurps the name of it, and what we most judiciously value our selves upon, is nothing but the overflowings of a vicious and degenerate mind; serviceable only to the designs of Malice, and helps to bring peevishness, and the Spleen into Fashion.</p>
+          <p xml:id="fairsex_13047">The Ladies we find are always pertinent in thought, as well as happy in expression; and that is to be truly witty. But, then they never recommend their parts at the expence of their Virtue, nor Sacrifice private Conscience to publick Fame. In a word, if they are less witty than men, 'tis only because they are better natur'd, and we have little reason, methinks, to boast of our understandings, so long as we have great reason to be asham'd of our dispositions.</p>
+        </div>
+        <div xml:id="fairsex_704" n="4" type="Sub-section">
+          <head>§. IV. BEAUTY.</head>
+          <p xml:id="fairsex_13049">'Tis in vain to offer at a general Definition of Beauty, and it can never be describ'd in such a manner, as will answer every private conception
+<seg type="catch">of</seg><pb xml:id="fairsex_13048" n="19"/>
+of the Thing: Unless it were first possible for Contraries to be reconcil'd, or all men thought alike of the same subject.</p>
+          <p xml:id="fairsex_13050">It is without question a Providetnial contrivance, that we are all made to think in a different manner from one another: the Advantage of it is particularly visible in the case of Beauty, and our different conceptions of it. For, did every Woman appear Equally charming in the Eyes of every Man; nothing, 'tis likely, would be able to set bounds to Lust and Debauchery, besides Death or Impotence.</p>
+          <p xml:id="fairsex_13051">The Blessings of handsom Women among us Bears, methinks, some kind
+of Resemblance with that of Manna to the <hi rend="italic">Israelites</hi>. For tho' 'tis true every Particle of
+That, had a capacity, they say, of Suiting with every Palate; whereas
+'tis not every Woman can make herself to be Admir'd of all and so the
+            <choice><sic>comparsion</sic><corr>comparison</corr></choice>
+ Fails; there is
+nevertheless an Infinite variety of Beauties, for the like Variety of
+Conceptions; and the
+
+            <choice><sic>Parellel</sic><corr>Parallel</corr></choice>
+             holds good in the main, viz. that Here, as well as in the Wilderness is Meat, for every Palate; only it may perhaps require, because it deserves indeed a little more pains to procure it.</p>
+          <p xml:id="fairsex_13052">I take care always, for my own part, never to decry any Woman for
+absolutely Ugly; because her person does not fall in with particular
+notion of what is taking, and agreeable; for I make no doubt, but in
+all such cases, it Exactly answers the Idea, which One, or More have
+Fram'd to them selves of a perfect Beauty.</p>
+          <ab type="catch">§. V.</ab>
+        </div>
+        <pb xml:id="fairsex_13053" n="20"/>
+        <div xml:id="fairsex_705" n="5" type="Sub-section">
+          <head>§. V. RELIGION.</head>
+          <p xml:id="fairsex_13054">The Ladies are not more unlike us in their natural Complexions, than in the Face of their Religion: and 'tis to be fear'd They wou'd come off equally gainers by either Comparison. They seem to make more of the same Principles than we do, and Manage them to better Advantage. They preserve the Substance of Religion, and let alone what ever is Superfluous.</p>
+          <p xml:id="fairsex_13055">Female Education leads not towards any knowledge in the Controversial parts of Divinity and the Ladies are so many standing Arguments of the Vanity of that sort of Study. Controversie, they well observe, Confounds Instead of Confuting; and as it always supposes Heresy, so 'tis generally Productive of it. It is with good Reason therefore that they make no part in religious Disputes, and thence are better Compos'd to look to their own Business, and lets subject to Distraction amidst their Devotions: They find no occasion to judge Uncharitably of others, and thereby Secure a good name to themselves.</p>
+          <p xml:id="fairsex_13057">'Tis true there are Hereticks of both Sexes, and many Women are through a Pardonable easiness of temper Seduc'd into wrong Perswasions; but they rarely offer a Heresy to the World themselves, or stand in the Front of a Novel Sect. They are Deluded, I say, by wicked Men; but have no thoughts of returning the Pious Fraud. To conclude,
+<seg type="catch">however</seg><pb xml:id="fairsex_13056" n="21"/>
+however They may stand Distinguish'd among Themselves by a difference of Faith or Profession; Wonderful Innocence and Charity of their Lives will raise them ever above the rest of the Rational World.</p>
+        </div>
+        <div xml:id="fairsex_706" n="6" type="Sub-section">
+          <head>§. VI. MODESTY.</head>
+          <p xml:id="fairsex_13058">Modesty is the Darling Attribute of Woman, the great Moral Distinction between her self, and Man. This it is, that Recommends her Beauty, and Invigorates every Charm; that upholds the Dignity of her Nature, and preserves the whole Circle of her virtues Inviolable.</p>
+          <p xml:id="fairsex_13059">To talk of immodest Women is Nonsence; there can be no such: For to loose their Modesty, they must loose a part of their Nature; and then they are no longer Women but Monsters: Consequently such as Degenerate in this particular, bring no Scandal upon the Sex, for they cease to be members of it.</p>
+        </div>
+        <div xml:id="fairsex_707" n="7" type="Sub-section">
+          <head>§. VII. LEARNING.</head>
+          <p xml:id="fairsex_13061">We are apt to be mighty full of our selves, upon the Score of
+Learning; which, yet is the most Imperfect of any thing about us, and
+affords Infinite matter of Humiliation. It consists, for the most
+part, in senseless Words, and solemn Looks; in Doubts, and
+Disputations, in Pride, Prejudice and Error. These are the
+Distinguishing Attainments of our own Sex; and <sic>and</sic> such as give notable oc-
+<seg type="catch">casion</seg><pb xml:id="fairsex_13060" n="22"/>
+casion indeed of Triumph over the other. If we pretend to any real piece of knowledge, which the Ladies are without; we do but discover our Pride without having any thing to support it; and become ridiculously Sordid even before Possession. They have the same Faculties of Soul with our selves, and the same Capacities of Understanding; otherwise I don't apprehend how they can be styl'd a <hi rend="italic">Help-meet</hi> for Us: But 'tis their peculiar, Glory that they make use of these with Discretion, and to good Effect. In a word, they have Knowledge sufficient to make their Lives useful, and their Ends happy: and all beyond this is toilsome in the pursuit, besides that there is no such thing as perfect Acquisition.</p>
+        </div>
+        <div xml:id="fairsex_708" n="8" type="Sub-section">
+          <head>§. VIII. LOVE.</head>
+          <p xml:id="fairsex_13062">Love is the Foundation of Happiness, and it's Perfection: the Pleasures of Earth are owing to it, and so are the Joys of Heaven. The measure of our Happiness is proportioned to the Charms of our Beloved Object; for the more agreeable, That, the more intense our affections are, and Our selves by consequence, so much the more happy.</p>
+          <ab type="catch">All</ab>
+          <pb xml:id="fairsex_13063" n="23"/>
+          <p xml:id="fairsex_13065">All Objects, Consider'd <gap extent="1 word" reason="faded text" resp="#gs"/> Amiable,<gap extent="2 words" reason="faded text" resp="#gs"/> our Affections, we find, just to the same Pitch, nor
+<unclear reason="faded text" resp="#gs">Produce</unclear> in us Equal Degrees of Pleasure. One great Reason of this is, because they all Differ in Nature and Capacity; and Consequently Act not upon our Minds in the same Manner, and with Equal advantage; But Each according to it's proper Nature, and Subordinate Powers. Some, for Instance, gain our Affections purely upon the account of what they are in themselves; and by the Force of their Intrinsick, and inherent Excellencies, without any particular Endearment, or further Recommendation; such are things Inanimate, as curious Pictures, Beautiful Edifices, and the like: or Even Rational Creatures them selves; so far as they are only Propos'd to us with their Natural, or Necessary Qualifications. Such objects under so Imperfect a Notion as this, can at best but provoke a very Feeble Passion, a Mixture perhaps of some Love, and more admiration. Other Objects advance with yet a stronger Charm; such as in it self is more Powerful than all the Rest, and when in Conjunction with them, is Irresistable; These strike with a Double advantage; They not only shine with absolute and Intrinsick Glory; They but Voluntarily Exert It too. In short,they return our Love, and strengthen that Passion in our selves, by the Additional Powers of their own; and we become the very same thing to what we Love, which it's self is to us. This is the Time, when Mutual Desires of Union begin to grow
+<seg type="catch">Furious</seg><pb xml:id="fairsex_13064" n="24"/>
+Furious, the Prospect of it is Transporting, and the Union it self Happiness Unutterable.</p>
+          <p xml:id="fairsex_13066">What has been observ'd of Love in General, will naturally introduce
+the following, Reflection, Viz. That we Men are indebted to the
+Ladies, for the compleatest Happiness our present Constitution can
+admit. We cannot but Love, as well as Admire, the Virtues residing in
+Female Minds: And the Curious and delicate Structure of their, Bodies
+will call ever for, our Admiration. But then, when the Ladies
+Generously apply all these for our Service, and Satisfaction with what
+Flowing joys must we be fill'd! with what Raptures die away! In a
+word, the, Perfection of the Female Nature is more than enough to fill
+our extended Capacities; and the Personal endearments of Woman-kind
+are able to command our utmost Affections. The instances of their Love
+are Judicious, and consequently Affecting. They are so curiously
+manag'd and with so much Art, that they become no less Acceptable in
+the smallest Trifles, than in matters of the greatest
+Importance. Their Love is remarkably different from ours in two
+respects: It is not so soon Kindled, nor so quickly put Out. They
+don't gratifie with their warmest Affections on a sudden: but the
+Recompence is, where once they fall, they Flame, and Burn immoveably
+for Ever.</p>
+          <ab type="catch">§. IX.</ab>
+        </div>
+        <pb xml:id="fairsex_13067" n="25"/>
+        <div xml:id="fairsex_709" n="9" type="Sub-section">
+          <head>§. IX. PRUDENCE.</head>
+          <p xml:id="fairsex_13068">Prudence is a serious Consideration of our own Condition, and a
+constant Management of ourselves agreeable to the sence we have of
+it. The Ladies, it must be confess'd, exceed us in this particular as
+much as in any other. As for those who have not this conviction upon
+their Minds, they may be satisfyed by running over distinctly the
+several Circumstances, Relations, and Capacities, of almost any
+individual of the Sex, and observing her proper Care, and Prudential
+Conduct thereupon: Her devotion to Heaven, and Charity to Man-kind,
+Her Piety to Parents; and Affection to Children, Her Love to her
+Husband, Her Clemency to Servants, &amp;c. And afterwards by looking
+back upon their own Behaviour in some of the same, or parellel cases;
+and observing the many Absurdities committed in each of them.</p>
+        </div>
+        <div xml:id="fairsex_710" n="10" type="Sub-section">
+          <head>§. X. DIVERSION</head>
+          <p xml:id="fairsex_13070">'Tis a common Complaint among the Enemies of the Fair Sex That too much of their Time is spent
+<seg type="catch">spent</seg><pb xml:id="fairsex_13069" n="26"/>
+spent in Ease and Pleasure, and consequently too little of it Reserv'd
+for Business, and the necessary charge of their Duty. Now this
+Objection Will appear Frivolous, and of no Force, if we do but
+consider it's first Rise<choice><corr>.</corr><sic/></choice> It proceeds from a mistaken Notion of Duty in General: These Men look upon Labour and Difficulty, as Things essential to the Performance of whatever is Commanded by Authority; and imagine a thing is then done Best,
+when it occasions most Vexation and Pains. Thus I have knowne Persons pretend to a more than ordinary Share of Religion, only because they tormented themselves, more than Others did about it; and were Ready to Condemn all such as serv'd God chearfully, and took a more Rational Freedom in the innocent Improvement of Life. And thus I am perswaded it is with the Men I am now speaking of. They cannot allow the Ladies to be doing their Duty, so long as they put themselves to no visible Pain in the Prosecution of it; when at the same time the only way for them to do it Delightfully, and after their own Humour. They are naturally Dispos'd to accomplish those Ends for which they were design'd; and they then take the readiest way to attain 'em, when they pursue them in a Manner most Easie and Pleasant to themselves.</p>
+          <ab type="catch">What</ab>
+          <pb xml:id="fairsex_13071" n="27"/>
+          <p xml:id="fairsex_13072">What has a kinder Influence upon the Mind of Man than Woman Singing? What will sooner Raise his Drooping Spirits, or Slacken his stormy Resblution? What can we desire more than to hear the Voice of a Syren, and never feel her Violence? What joys like those of being Ravish'd with the Musick, without being Ruin'd by the Monster? The Ladies are all Sincere; their Songs full of Harmony and Love. And shall we be Offended at our own Happiness, because the Authors of it are Partakers with us, and repeat with Pleasure what we hear with Transport? Shall we deny the Sweetness of the Charm, or not admit it, to our Ears? 0 senseless Obstinacy! o barbarous Stupidity!</p>
+          <p xml:id="fairsex_13073">Again, Nothing adds a diviner Grace to the Person of a Woman, than a proper Motion, a becoming Mien. <hi rend="italic">Æneas</hi> was, no longer Ignorant of the Goddess his Mother, than till she Mov'd: He knew her by her heavenly Gate.</p>
+          <p xml:id="fairsex_13074">There is not any thing more Affecting, among all; the silent Endearments of the Sex. <hi rend="italic">Cupid</hi> Rejoyces at a Dancing Match, and Triumphs at a Ball; and shall we Condemn the Ladies for using such an Exercise? For my part, I see no place for Censure: Those who do, I remit to the former part of this Letter, where they will find, That the Life of Woman ought to be Easie, as well as Useful; and she may very reasonably consult her own Happiness, even there, where she is principally promoting Ours.</p>
+          <milestone rend="blank-line" unit="sub-section"/>
+          <p xml:id="fairsex_13075">Thus, <hi rend="italic">Madam</hi>, have I attempted, your Commands, according to that Brevity, and Method, You were pleas'd to Recommend, I have given you my Thoughts, wherein the proper Business of your Sex, so far as it relates to our own, does consist; and consider'd Briefly, how well you are dispos'd by Nature and Inclination for it.</p>
+          <ab type="catch">The</ab>
+          <pb xml:id="fairsex_13076" n="28"/>
+          <p xml:id="fairsex_13077">The Conclusion of all is, That you Ladies were made to be Happy yourselves, and to make us so; and that as your own Happiness is first End of our own Being, so 'tis the first Step too to the Happiness of ours.</p>
+          <p xml:id="fairsex_13078">This Argument might, I confess, be much improv'd by making use of different Considerations, and enlarging farther upon each: But you guess'd aright of my Incapacity, and accordingly confin'd my Pen. Nor have I cause to Complain of the Restraint; so I have so shamefully manag'd the Best Cause in this little Compass, that a greater Liberty could have only turn'd to my greater Confusion: But all this Acknowledgment of mine, is downright Transgressing the Character of my own Sex. 'Tis much more Natural for us to be Conceited with our own Performances, to magnify a little Merit in our own Eyes, and then claim a Reward as Vast as our partial Imagination. You must needs be Sensible, <hi rend="italic">Madam</hi>, of this common Infirmity among us; and I beseech you, Consider it: For there is nothing else I know of can excuse me, if in consideration of this imperfect Trifle, I presume to do my self so much Houour, as to Subscribe my self,</p>
+          <closer>
+            <salute>
+              <hi rend="italic">Madam, with all Humility,
+<lb/>your most faithful Servant,</hi>
+            </salute>
+            <lb/>
+            <signed>
+              <name type="person">Philogynes.</name>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

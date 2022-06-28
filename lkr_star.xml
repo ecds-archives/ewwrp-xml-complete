@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lkr_star_13015">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>The New Star</title>
+        <author>
+          <name type="person"><choice><reg>Rogers, Loula Kendall, 1838-1931</reg><orig>Mrs. Loula Kendall Rogers</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>6k</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="lkr_star_1301">2008 Emory University. Permission is granted to
+
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>2008</date><idno type="ark">http://pid.emory.edu/ark:/25593/17dht</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Rogers, Loula Kendall, "The New Star," <date>1862</date>. Loula
+
+	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
+
+	   Library, Emory University</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="lkr_star_1302">This digital text is produced from the Loula Kendall
+
+	   Rogers Papers, generously loaned to the Beck Center by    	
+
+The Manuscript, Archives, and Rare Book Library at Emory University.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="language">American</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Poetry</rs>
+        <rs type="geography">United States</rs>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Civil War, U.S., 1861-1865--Poetry</item>
+            <item>Women authors, American--19th Century</item>
+            <item>Women authors, American--20th Century</item>
+            <item>Confederate States of America.</item>
+            <item>United Daughters of the Confederacy.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2008</date><label>Woodruff Graduate Fellow</label><name>Stewart Varner</name>XML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="lkr_star_13014">
+    <body xml:id="lkr_star_13010">
+      <pb facs="lkr_star001" xml:id="lkr_star_1303" n="[1]"/>
+      <div xml:id="lkr_star_1309" type="poem">
+        <head>The New Star</head>
+        <lg type="stanza">
+          <head rend="center">1</head>
+          <l>I was musing in the twilight of a bright and</l>
+          <l>beauteous land.</l>
+          <l>Of its lovely streams, its placid lakes, and</l>
+          <l>hoary mountains grand.</l>
+          <l>Twas strewn with flowers of every hue and</l>
+          <l>bore upon its breast -</l>
+          <l>A gem whose brightness far exceeds the purest</l>
+          <l>diamond crest.</l>
+        </lg>
+        <lg type="stanza">
+          <head rend="center">2</head>
+          <l>There was beauty in its valleys, in its fountains</l>
+          <l>and its rills,</l>
+          <l>And happiness with viewless touch awaked</l>
+          <l>to joy its hills,</l>
+          <l>There was beauty in its banner as it gracefully</l>
+          <l>unfurled,</l>
+          <l>Its triple folds in triumph o'er and all</l>
+          <l>admiring world.</l>
+        </lg>
+        <lg type="stanza">
+          <head rend="center">3</head>
+          <l>With blessings heaven crowned it - all was beauty,</l>
+          <l>peace and love,</l>
+          <l>The angles smiled upon it from the star gemmed</l>
+          <pb facs="lkr_star002" xml:id="lkr_star_1304" n="[2]"/>
+          <l>vault above,</l>
+          <l>A thrill of joy rushed o'er my soul, those</l>
+          <l>foaming torrents grand -</l>
+          <l>And those mighty streams were sparkling in</l>
+          <l>my own, my native land!</l>
+        </lg>
+        <lg type="stanza">
+          <head rend="center">4</head>
+          <l>Then the shadowy veil of night came down</l>
+          <l> and oh, what darkness drear</l>
+          <l>Fell on my beauteous visions so lately filled</l>
+          <l>with cheer,</l>
+          <l>In agony I wildly wept - all happiness </l>
+          <l>had fled,</l>
+          <l>And before me was a bloody pall, where</l>
+          <l><hi rend="underline">Peace</hi> lay cold and dead!</l>
+        </lg>
+        <lg type="stanza">
+          <head rend="center">5</head>
+          <l>What maniac horde had thither rushed,</l>
+          <l>what demon of the air -</l>
+          <l>What fiery brand and withering breath, had</l>
+          <l>wrought the ruin there?</l>
+          <l>Who barred the glorious sunlight from those</l>
+          <l>sweet Magnolia bowers</l>
+          <l>And sprinkled <hi rend="underline">human blood</hi> upon those</l>
+          <l>fairy fruits and flowers?</l>
+        </lg>
+        <pb facs="lkr_star003" xml:id="lkr_star_1305" n="3"/>
+        <lg type="stanza">
+          <head rend="center">6</head>
+          <l>Columbia! My native land, oh where is</l>
+          <l>now thy boast,</l>
+          <l>The united hope and destiny of thy</l>
+          <l>freedom-loving host?</l>
+          <l>Thy glory has departed, and a guilty</l>
+          <l>erring one</l>
+          <l>With <choice><sic>brothers</sic><corr>brothers'</corr></choice> blood would desecrate the home</l>
+          <l>of Washington.</l>
+        </lg>
+        <lg type="stanza">
+          <head rend="center">7</head>
+          <l>The night is black around thee - will it</l>
+          <l>ne'er be light again,</l>
+          <l>Will the crimson blood like rivers flow</l>
+          <l>upon each sunny plain?</l>
+          <l>Alas! the temple is divided, <del rend="overstrike">then</del><add place="supralinear">List:</add><del rend="overstrike">why</del><add place="supralinear">A thousand</add></l>
+          <l>
+            <del rend="overstike">should cannon roar,</del>
+            <add place="right">cannons roar,</add>
+          </l>
+          <l><del rend="overstrike">And</del><add place="supralinear">And</add> thundering tones <del rend="overstrike">but</del><add place="superlinear">re-</add>echo "<del rend="overstrike">We're</del><add place="supralinear">Are we</add></l>
+          <l>parted evermore"?</l>
+        </lg>
+        <lg type="stanza">
+          <l>
+            <del rend="overstike">Come, sacred Peace, above us, for we</del>
+          </l>
+          <l>
+            <del rend="overstike">never more can be,</del>
+          </l>
+          <l>
+            <del rend="overstike">United with the tyrants, who would</del>
+          </l>
+          <l>
+            <del rend="overstike">Subjugate the free,</del>
+          </l>
+        </lg>
+        <pb facs="lkr_star004" xml:id="lkr_star_1306" n="4"/>
+        <lg type="stanza">
+          <head rend="center">8</head>
+          <l>Yes, the veil is rend asunder! See how</l>
+          <l>human passions swell</l>
+          <l>For every thundering echo is a solemn</l>
+          <l>Funeral Knell</l>
+          <l>Oh, God in pity hear us! Send a message</l>
+          <l>of Peace</l>
+          <l>To quell the roaring <unclear>--</unclear> and their mighty</l>
+          <l><unclear>--</unclear>cease.</l>
+        </lg>
+        <lg type="stanza">
+          <head rend="center">9</head>
+          <l>In comparison came this answer, On</l>
+          <l>The ruins there a ray</l>
+          <l>Bringing to the worn and weary <unclear>--</unclear></l>
+          <l>of a brighter day</l>
+          <l>All honor to the nation born - the beautiful</l>
+          <l>New Star</l>
+          <l>That gleams above oppression like an angel</l>
+          <l>from afar.</l>
+        </lg>
+        <lg type="stanza">
+          <head rend="center">10</head>
+          <l>Star of the South! Where e'er I gaze thy</l>
+          <l>radiant light is there</l>
+          <l>And 'neath its ray my <del rend="overstrike"><unclear>Cosrotsy</unclear></del><add place="supralinear">spirit</add> kneels in</l>
+          <l>gratitude and prayer</l>
+          <l>Shine on through endless ages o'er the field</l>
+          <l>by heroes trod</l>
+          <l>that lead each Southern patriot onto glory and to God</l>
+        </lg>
+        <pb facs="lkr_star005" xml:id="lkr_star_1307" n="5"/>
+        <lg type="stanza">
+          <l>
+            <del rend="overstrike">All honor to the nation born, the beautifu</del>
+          </l>
+          <l><del rend="overstrike">new star</del>,</l>
+          <l>
+            <del rend="overstrike">that gleams above oppressiuon like an angel</del>
+          </l>
+          <l>
+            <del rend="overstrike">from afar.</del>
+          </l>
+        </lg>
+        <lg type="stanza">
+          <l>
+            <del rend="overstrike">Star of the South! Where e'er I gaze</del>
+          </l>
+          <l>
+            <del rend="overstrike">thy peaceful light is there,</del>
+          </l>
+          <l>
+            <del rend="overstrike">And 'neath its ray a nation bows in</del>
+          </l>
+          <l>
+            <del rend="overstrike">gratitude and prayer,</del>
+          </l>
+          <l>
+            <del rend="overstrike">Shine on, through endless ages, o'er the</del>
+          </l>
+          <l>
+            <del rend="overstrike">fields by heroes trod</del>
+          </l>
+          <l>
+            <del rend="overstrike">And light each noble patriot to glory and</del>
+          </l>
+          <l>
+            <del rend="overstrike">to God!</del>
+          </l>
+        </lg>
+        <p xml:id="lkr_star_1308">Copied from my original piece by Mrs R. J. Powell</p>
+      </div>
+    </body>
+    <back xml:id="lkr_star_13013">
+      <pb facs="lkr_star006" xml:id="lkr_star_13011" n="[6]"/>
+      <div xml:id="lkr_star_2" type="authors_note">
+        <p xml:id="lkr_star_13012">The New Star<lb/>
+
+      1862<lb/>
+
+      Appreciated by Daughters of the<lb/>
+
+      Confederacy.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anon_memoir_13055">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title><seg type="short-title">Memoir Of Elizabeth Jones</seg>, a Little Indian Girl, Who Lived at
+the River-Credit Mission, Upper Canada, an electronic edition</title>
+        <author>
+                  <name type="person"><choice><reg>Anonymous</reg><orig>Anonymous</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited
+by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>50kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
+University</pubPlace><address>
+          <addrLine>Atlanta,
+Georgia</addrLine>
+        </address><availability>
+          <p xml:id="anon_memoir_1301">1996 Emory
+University. Permission is granted to download, transmit, or otherwise
+reproduce, distribute or display the contributions to the work claimed
+by Emory University for non-profit educational purposes, provided this
+header is included in its entirety.  For inquiries about commercial
+uses, contact either: Emory Women Writers Resource Project or Lewis
+H. Beck Center for Electronic collections and services, Emory
+University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/179p6</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Anonymous. Memoir Of Elizabeth Jones, a Little Indian Girl, Who
+Lived at the River-Credit Mission, Upper Canada. London: Published by
+<publisher>John Mason</publisher>, 14, City-Road: And Sold at 66,
+Patternoster-Row. <date>[18--?]</date></bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="anon_memoir_1302">This text is produced in conjunction with the Emory Women
+Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Native American</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Native American</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Memoir</rs>
+        <rs type="geography">Great Britain</rs>
+        <date>1800-1899</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Williams, Elizabeth Harvey, 1838-1841.</item>
+            <item>Women authors, American--19th Century.</item>
+            <item>Indians of North America--Missions--Ontario.</item>
+            <item>Methodists--Biography.</item>
+            <item>Christianity.</item>
+            <item>Childhood.</item>
+            <item>Religiosity.</item>
+            <item>Native Americans.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2000</date><label>Staff</label><name>Natalie Prestwich</name>SGML tags inserted in compliance with TEI guidelines using
+TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck
+	   Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="anon_memoir_13054">
+    <body xml:id="anon_memoir_13053">
+      <div xml:id="anon_memoir_001" type="Book">
+        <docAuthor>Anonymous</docAuthor>
+        <head><seg type="short-title">MEMOIR OF ELIZABETH
+JONES</seg>, A LITTLE INDIAN GIRL, WHO LIVED AT THE RIVER-CREDIT MISSION,
+UPPER CANADA.</head>
+        
+        <bibl>LONDON:
+PUBLISHED BY JOHN MASON, 14, CITY-ROAD:  AND SOLD AT 66,
+PATTERNOSTER-ROW.</bibl>
+        <p xml:id="anon_memoir_1303">Is it well with the child?  It is well!-2 Kings iv, 26.</p>
+        <div xml:id="anon_memoir_002" n="1" type="Chapter">
+          <head>Chapter
+I.  <lb/>ACCOUNT OF ELIZABETH'S FAMILY.</head>
+          <epigraph>
+            <lg type="stanza">
+              <l>"Strongest minds</l>
+              <l>Are often those of whom the noisy world</l>
+              <l>Hears least."--WORDSWORTH.</l>
+            </lg>
+          </epigraph>
+          <p xml:id="anon_memoir_1304">THE subject of the following memoir was a little Indian girl, whose
+life's short history was rendered peculiarly interesting by
+circumstances of no common occurrence.  Her father, Mr. John Jones,
+whose Indian name is <hi rend="italic">Tyentenegen</hi>, is an Indian
+of the Oojebway<ref target="#anon_memoir.002n1">*</ref><note xml:id="anon_memoir.002n1" place="foot">*Commonly called Chippeway.</note>  nation, and brother to the Rev. Peter Jones,
+otherwise <hi rend="italic">Kahkewaquonaby</hi>, known as a Missionary
+to many in this country as well as amongst his own people.  The mother
+of Elizabeth, whose maiden name was Christiana Brant, was a
+granddaughter of the late famous Capt. Joseph Brant, a noted Chief and
+warrior of the Mohawk nation of Indians, who many years ago visited
+England, and niece of Mr. John Brant, also a Chief, who came over to
+this country about the years 1819 or 1820, and died of cholera in
+Canada, in the year 1832.</p>
+          <p xml:id="anon_memoir_1305">Mrs. John Jones was a woman of strong
+mind, fine understanding, and good judgment.  She united to a most
+amiable disposition unassuming yet dignified manners; all who knew her
+loved and respected her.  Her influence and example amongst her Indian
+neighbours was truly valuable.  Her advantages having been greater
+than theirs, they looked up to her for advice and instruction; and
+whatever she did or said was sure, if possible, to be imitated and
+remembered by the women in the village.</p>
+          <p xml:id="anon_memoir_1306">Her house was the abode of peace and comfort; the Ministers and
+others who visited the Mission, were not only delighted with the
+hospitality and kindness manifested, but most of all with that
+beautiful influence of real religion which shed so sweet a lustre, and
+sanctified every other blessing, diffusing joy and happiness to all
+around.</p>
+          <p xml:id="anon_memoir_1307">In a newly-formed village, settled by Indians just
+emerging from the superstitions and long-rooted habits of their
+forefathers, persons accustomed from infancy to all the refinements of
+Christian and civilized life can hardly imagine how great the
+influence, and how valuable the example, of such a family.  Living in
+the same house was Mrs. Lucy Brant, the pious mother of Mrs. John
+Jones, who also displayed in her life and conversation those active
+Christian graces which emphatically made her a mother in this little
+Israel, where she spent the last few years of her life; and who can
+tell but that in answer to the prayers and unfeigned faith that dwelt
+first in her grandmother Lucy, and in her mother Christiana, Elizabeth
+was made an early partaker of divine grace, and meetened, when in the
+bloom of health and loveliness, for a sudden translation to that
+better land, where little children, through the merits of a Saviour's
+blood, are welcomed with rapturous songs of praise? for "of such is
+the kingdom of heaven."</p>
+          <p xml:id="anon_memoir_1308">Among the inscrutable arrangements of
+divine providence is the removal of pious parents in the very midst of
+their important and interesting duties.  When, as in the instance of
+Mrs. J. Jones, a wife is taken, whose quiet influence, winning
+endearments, and punctual habits made her so truly a helpmeet to her
+husband, and whose tender firmness and humble piety seemed so
+essential to the welfare of her children, while her consistent example
+and wise counsel were so valuable in her neighbourhood, we shrink. and
+say, How is it?  But feeling must not be too clamorous for the voice
+to be heard, "Be still, and know that I am God."</p>
+          <p xml:id="anon_memoir_1309">The writer of
+this little history came into the village of which Mrs. J. Jones was
+so distinguished as ornament, about two months before she was taken to
+a brighter sphere, and her duties, toils, and prayers exchanged for
+adoration and praise.  At the period referred to she was enjoying her
+usual health, although an inflammatory disease in the throat was
+carrying off many of her friends and neighbours, and she was then
+clothed in the habiliments of mourning for her excellent mother, who
+had fallen a sacrifice to the fatal epidemic.</p>
+          <p xml:id="anon_memoir_13010">Shortly after
+these painful occurrences she became the mother of a little boy; but
+joy for the event was soon turned into sorrow.  Every countenance wore
+the aspect of grief when it was known through the village that the
+much-loved Christiana was about to be taken from them.  Being quite
+sensible of her danger, she committed her dear babe to the care of one
+who could nurse it, and seemed comforted by the promise that the
+writer of this little account would watch over her children after her
+happy spirit had returned to God who gave it.<ref target="#anon_memoir.002n2">*</ref><note xml:id="anon_memoir.002n2" place="foot">*The babe died a fortnight after its mother; and
+from that time it has been esteemed a privilege by the writer of this
+narrative to supply, as far as the circumstances of the case allowed,
+the part of a guardian friend to the bereaved child; but a voyage to
+England made it necessary to relinquish for a time (as she supposed)
+her interesting charge, as Mr. J. Jones could not consent to allow his
+dear little daughter to accompany her friends to such a distant
+shore.</note> It was truly affecting
+to witness the anxiety and kindness of the Indian women.  Some brought
+her tea made of herbs and roots to quench her burning thirst; others
+rested in an adjoining room, while one or more watched every word and
+motion.  Her patience under severe suffering was very great.  All fear
+of death was taken away; and when we knelt around her bed in prayer,
+her fervent "Amen" was often heard, and she evidently joined in spirit
+while her friends were singing that beautiful and appropriate hymn,</p>
+          <p xml:id="anon_memoir_13011"/>
+          <p xml:id="anon_memoir_13012">"On Jordan's stormy banks I stand," &amp;c</p>
+          <p xml:id="anon_memoir_13013">On the morning of
+Nov. 3d, 1833, her happy soul took wing for that better land where</p>
+          <p xml:id="anon_memoir_13014">"Sickness, sorrow, pain, and death/Are felt and fear'd no
+more."</p>
+          <p xml:id="anon_memoir_13015">At her funeral, not only all the Indians, but many of
+the white inhabitants, from the settlements around attended.  It was
+indeed an occasion of deep sorrow to commit to the silent grave one so
+young and beloved.  Who that ever witnessed such a scene but would
+pray that this good religion, which had so exalted her, might be
+extended to all the tribes of the forest, till every Indian was made
+happy by the love of Jesus, which can alone take away the fear of
+death, so common to the heathen mind, and give them and all their
+mourning friends a good hope of a joyful resurrection to eternal
+life?</p>
+          <p xml:id="anon_memoir_13016">The Rev. Egerton Ryerson, the first Missionary stationed
+at the Credit, preached her funeral sermon.  Having lived in her house
+during the whole year, in which he so successfully devoted himself to
+the spiritual and temporal interests of the Indians, he was well
+acquainted with her character, and bore ample testimony to her
+worth.</p>
+          <p xml:id="anon_memoir_13017">Thus lived and died the mother of the dear child who
+will furnish the subject of the following short memoir.  Her memory is
+very dear to the writer, whose sincere desire and prayer to God is,
+that all the companions and school-fellows she has left behind may try
+to imitate her bright example, and, following her footsteps, be
+prepared to meet her again in that bright world of glory, where are
+gathered from all nations, people, kindred, and tongues, those who
+fear God and love Jesus Christ.</p>
+        </div>
+        <div xml:id="anon_memoir_003" n="2" type="Chapter">
+          <head>Chapter
+II.  <lb/><seg type="short-title">DESCRIPTION OF ELIZABETH'S BIRTH-PLACE</seg> AND EARLY
+CHILDHOOD.</head>
+          <epigraph>
+            <lg type="stanza">
+              <l>"The din of cities she had never known;</l>
+              <l>Her
+feet had never trod the gay parade;</l>
+              <l>But she had felt a joy,
+when all alone</l>
+              <l>She sought the river's bank, the forest's
+shade."</l>
+            </lg>
+          </epigraph>
+          <p xml:id="anon_memoir_13018">THE native village of dear Elizabeth is beautifully situated about
+sixteen miles from Toronto, the seat of government in Upper Canada.
+The road from thence to this peaceful Indian settlement opens to the
+eye of the traveller a diversified scene of land and water, hill and
+dale, the cultivated farm and the native forest.</p>
+          <p xml:id="anon_memoir_13019">On the left
+spread the expansive waters of the lake Ontario, now bearing on its
+magnificent bosom the stately steamboat, on which formerly the
+birch-bark canoe of the hardy Indian was only seen to glide.  To the
+right interminable woods form a fine back-ground to a country
+partially cultivated and settled.</p>
+          <p xml:id="anon_memoir_13020">From the undulations of the
+road the distant prospect is sometimes entirely obscured, and the tall
+dark pines throw around their deep shadows, giving a sense of
+loneliness and a tone of pensive feeling.  Glimpses are caught and
+lost at intervals of the beautiful lake, when suddenly it opens before
+you in unobscured loveliness, which may be enjoyed for some distance
+as you journey along its wooded banks.  Within the distance of a few
+miles you cross over the rivers Humber, Mimico, and Etobecoke, till
+you reach the long bridge over the river Credit; then turning to the
+right, the lake stretching in the distance behind, you are conducted
+through park-like scenery to the peaceful spot where God has been
+pleased to plant a small Christian church, gathered from the
+wilderness, to show forth his praise.</p>
+          <p xml:id="anon_memoir_13021">This little village
+possesses many local advantages.  It is situated on the high and
+healthy banks of a fine river, whose beautiful, flowing waters, well
+supplied with fish, wind their undisturbed way through scenery of
+grand and romantic loveliness, which at once elevate the mind, and
+fascinate the imagination, of those who have a keen relish for
+nature's beauties.  This village consists of about forty houses; some
+of these are called log, others frame; each surrounded by half an acre
+of land, in which the Indians plant every year either potatoes, peas,
+or Indian corn.  In the centre stands, on one side the chapel and
+school-house, on the other the mission-house; near which is reserved a
+lovely spot just on the brow of a sloping bank, sacred to the memory
+of the dead.  In this hallowed enclosure lie slumbering, till the
+morning of resurrection, many little known on earth, but whose names
+are doubtless registered in heaven.  With those of a host of tender
+lambs, is now numbered that of Elizabeth Jones, the last of five
+lovely children, all taken in early life from a world of sin and
+suffering to their heavenly Father's better home; where, clothed in
+white, with palms of victory in their hands, they are uniting with
+their sacred mother in singing, "Worthy is the Lamb that was slain to
+receive power, and riches, and wisdom, and strength, and honour, and
+glory, and blessing."</p>
+          <p xml:id="anon_memoir_13022">Elizabeth Jones, whose Indian name was
+<hi rend="italic">Sahgahjewaqua</hi>, which means "the rising sun,"
+was born on June 29, 1830.  From infancy she evinced a mild temper;
+and as her young mind gradually expanded, it was delightful to observe
+a fine generous disposition united to a strong affection, which
+secured the confidence and love of all who knew her.  For some time
+after her mother's death, I was in the habit of seeing her every day.
+She would frequently ask when her mother would come home from the
+meeting.  Bring ignorant of what death meant, she thought, as this was
+the place she most frequented, that she was gone there; and sometimes
+it was no easy task to wipe the tear, and quell the sorrows of her
+little bosom, by telling her that her dear mother was gone to live
+with God in heaven.  Her affection for her only remaining parent was
+most ardent:  she clung to him, as a child always should to a tender
+father, with the most confiding love.  I could often fancy as she sat
+on his knee that she held him tight, as if afraid <hi rend="italic">he</hi> would leave her too.  Whenever he appeared dull,
+she would kiss him, and show him some of her playthings, thinking thus
+to dissipate the sorrows of his heart.  Dear children, I wish all who
+read this little book would try and imitate Elizabeth Jones, and by
+their affectionate attentions to their parents show how much they love
+them.</p>
+          <p xml:id="anon_memoir_13023">Although from the time I first knew this dear child, I
+had seen much in her to love and admire, it was not till she became a
+resident in our family, in October, 1836, that I discovered those
+peculiar traits in her character which made her so especially dear to
+our hearts.  Never shall we forget her readiness to do any kind
+action.  Her tender manner when we were not quite well was remarkable.
+She would move gently about the room, and perform all the little
+offices of a nurse as far as she was capable.  Often would she say,
+"Aunt, when I am woman, I will make tea for you, and help you a great
+deal."  Although so young, she was very observing, and took great
+pleasure in watching how things were done.  She was a child of great
+resolution and natural courage.  For instance, in taking medicine, it
+was only necessary to say. "Now, dear, is is proper for you to take
+this;" or, such a thing "must be done;" and there was seldom any
+further trouble.  I never saw a child more devoid of selfish feeling;
+a propensity so common to most young people.  When playing with
+others, she was ever ready to give them the best of every thing, and
+always seemed more happy in pleasing her little companions than in
+gratifying herself.  Often when the poor old women came in, she would
+ask them if they were hungry; and then run and tell me, saying, "Shall
+I give them some food?"  At other times she would beg for halfpence;
+and when asked what she wanted them for, would say, "I want to give
+them to an old woman," mentioning her name, "because I think she is
+poor."  This lovely principle was carried on in her daily practice, so
+much so as at times to require a little check.  Her heart was truly
+generous, and she wanted all to share the comforts she enjoyed.  She
+was also very kind and grateful to servants; they loved her, and were
+glad to do any thing for her; because she always spoke in a proper
+manner; and never gave them unnecessary trouble.  She had a "place for
+every thing and kept every thing in its place."  By this means she
+preserved her little gifts, which were highly prized.  Not like many
+children, who are never at rest till they have destroyed them,
+Elizabeth took great delight in keeping them neat and clean:  and if
+children knew how much of their happiness and comfort depended on
+habits of order, they would be more particular in cultivating these
+good qualities."</p>
+          <p xml:id="anon_memoir_13024">When I first took the entire charge of
+Elizabeth, she could only spell words of three letters; but such was
+her natural quickness, and laudable ambition for improvement, that in
+a few weeks she could read several little stories.  Having a good ear
+and retentive memory, she soon spelt words of three syllables, learned
+Watt's First Catechism, and many of his beautiful hymns for children,
+with a number of others that were commonly sung at the chapel.  She
+took great delight in hearing Bible stories, and often asked me to
+tell her about good children:  their example had a most desirable
+influence over her.  When reading, she would seldom pass over a word
+that she did not understand without asking its meaning; and in this
+interesting way she was continually adding to her little store of
+knowledge:  and it was encouraging to find that what was told her was
+not soon forgotten.  On the contrary, she would often draw
+comparisons, and say, "That is like what I was reading about;" or,
+"That reminds me of such a one you were telling me of."  She was not
+able to read with the first class in the Sunday school, but she would
+stand up and answer questions with any of them.  In mentioning this, I
+do not wish to depreciate the merit of many of the other children,
+being fully aware the circumstances gave Elizabeth advantages which
+they did not possess:  but her rapid improvement and desire of
+information will show what the capacities of Indian children are; and
+I think prove that they only need the same privileges and blessings
+that English children enjoy, to make them equally clever and useful
+members of society.</p>
+          <p xml:id="anon_memoir_13025">Another fine trait in Elizabeth's character
+was a love of truth.  I could always depend on her word.  She had only
+to promise, and I felt quite satisfied obedience would follow.  O,
+dear children, what a lesson is this!  I can truly say that to have
+the care of such a child was a privilege as well as a pleasure; and to
+part with her, a trial greater than can be realized till the
+affliction comes.</p>
+          <lg type="stanza">
+            <l>"O!  tis a lovely thing for youth</l>
+            <l>To walk betimes in
+wisdom's way;</l>
+            <l>To fear a lie, to speak the truth,</l>
+            <l>That we
+may trust to all they say."</l>
+          </lg>
+        </div>
+        <div xml:id="anon_memoir_004" n="3" type="Chapter">
+          <head>Chapter
+III.  <lb/>ELIZABETH'S EARLY PIETY.</head>
+          <epigraph>
+            <lg type="stanza">
+              <l>"A flower when offer'd in the bud,</l>
+              <l>Is no vain
+sacrifice."--WATTS.</l>
+            </lg>
+          </epigraph>
+          <p xml:id="anon_memoir_13026">HAVING given this brief account of the lovely moral traits
+displayed in dear Elizabeth's character, I shall now endeavour to show
+how all these were heightened and polished by the sweet influence of
+the grace of God on her heart; at once causing her to act from love to
+him, and evidencing her early piety.</p>
+          <p xml:id="anon_memoir_13027">She was very particular in
+offering up her morning and evening prayers; but this alone did not
+satisfy Elizabeth.  Often during the day have I known her go by
+herself and pray.  She would sometimes say to me, "Aunt, I want God to
+give me a clean heart and a good spirit:  shall I go and pray to him,
+and then perhaps he will give it to me?"  And that gracious Saviour
+who inspired this prayer fulfilled in her his own precious promise,
+"They that seek me early shall find me."  At other times she would
+say, "Aunt, do you know what I am thinking about?" "No, my dear;
+what?" "I am thinking about God and Jesus Christ."</p>
+          <p xml:id="anon_memoir_13028">Once, when
+on a visit, the lady with whom she was staying said to her, when
+putting her to bed, "Elizabeth, as the night is cold, you may say your
+prayers in bed."  She immediately answered, "O no; do you think it is
+right for me to get into bed to say my prayers?  As I am in bed now, I
+will say them this time in bed."  But after this, were the night ever
+so cold, she would pray and repeat her hymn before getting into
+bed.</p>
+          <p xml:id="anon_memoir_13029">She was very fond of singing, and had a sweet voice.
+Often would she go about the house, or when in the garden we would
+hear her, singing the pretty hymns she had learned; and many a morning
+the first sounds that have saluted our ears have been the praises of
+God from her tuneful lips.</p>
+          <p xml:id="anon_memoir_13030">It was also a great delight to her
+to go to the house of God; and when there she evidenced by her
+behaviour that she had a proper sense of the solemnity of the services
+in which she was engaged.  During prayer she would kneel, and,
+covering her face with her hands, show all the outward signs of
+worship; and who can doubt but that a child so sensible of the
+importance of prayer, did often in spirit send up petitions to her
+heavenly Father?  Once observing she was carelessly gazing about like
+too many other children, being reproved, she appeared quite ashamed,
+and I do not remember to have observed the like inattention ever
+after.  When she knew the hymns, she always united her praises with
+the congregation; and when she did not, she would eagerly look over
+the Hymn-book, and try to catch the words.  During the sermon, I think
+all who ever watched her must have been struck with her fixed
+attention and quiet behaviour.  She would look up with her fine bright
+eyes to the preacher, apparently indifferent to all around.  And here
+I would remark that this is not the common way in which Indians show
+their interest in what is going forward.  When attending their
+councils, they just look to see who is going to speak, and then cast
+their eyes down for the rest of the time.  Likewise in a place of
+worship they consider that looking down is a more favourable attitude
+for attention, and that to fix their eyes on the speaker would be a
+mark of rudeness.  So that in this respect Elizabeth, having been
+differently taught, was an exception to the general rule.</p>
+          <p xml:id="anon_memoir_13031">This
+dear child was not only good herself, but anxious that other children
+should be so also.  When between three and four years old, she
+expressed considerable anxiety about a little boy who lived with her
+parents, and said, "Papa, I wish you would make ----- a good boy, so
+that when he dies he may go to heaven.  Papa, you must punish him if
+he is not good."  At another time she said to me, "Aunt, do you love
+-----?"  I told her I could not love the naughty things she did,
+because God did not; but I hoped God would make her a good child, and
+then I should love her.  She immediately answered, "I will tell you
+what I had better do,--pray to God to make her a good child."  Saying
+this, she ran up stairs, and I heard her pray, but could not
+distinguish the words.</p>
+          <p xml:id="anon_memoir_13032">The following is an extract from her
+father's letter to the Rev. Peter Jones:--"I cannot, dear brother,
+describe to you my feelings on the loss of my daughter.  You know how
+much I loved her; and how affectionate she was to me, and to all her
+relations.  She never disobeyed my orders, and I never knew her offend
+any person.  She would reprove them if she saw them doing any thing
+that was wrong, but it was always with great modesty.</p>
+          <p xml:id="anon_memoir_13033">"About
+three years ago I remember to have done something that was not right,
+which she knew of; and the first time she saw me alone she mentioned
+it very affectionately, saying, 'Papa, you should not do so.'  I was
+so struck with the reproof, I caught her up in my arms, and with tears
+said, 'No, my child, I will never do so again.'"</p>
+          <p xml:id="anon_memoir_13034">Having done a
+naughty thing herself one day, for which she was punished, when
+putting her to bed, she burst into tears; on being asked why she wept,
+she said, "I am really afraid God will send me to hell."  "Why do you
+think so?"  "Because I have been so wicked."  I told her, if she were
+sorry in her heart, and prayed to God to forgive her for Christ's
+sake, he would.  When she knelt down, she said, most pathetically,
+sobbing all the time, "Please God forgive me, and make me a good
+child."  She could pray no more for sorrow; but at length said, "Aunt,
+I want to speak to you:  do you think God has forgiven me?"  I
+replied, "Yes, if you are sincere."  She said, "I did mean what I
+said; and I really think God has forgiven me, I feel so happy now."
+The next morning she said, "Aunt, do you know what I am going to do
+to-day?"  I replied, "I hope, dear, you are going to be a good girl?"
+"Yes, that is what I was thinking about:  I am going to think of you
+and God all day."  She often referred to her late naughty deed, and
+seemed bitterly to repent having done it.  She said one day to her
+father, "How good Jesus Christ was to die for the people!"  He asked
+her if she loved him for dying for her.  She replied, "Yes, I do."</p>
+          <p xml:id="anon_memoir_13035">When about to leave home, last winter, for a month, our principal
+anxiety was concerning dear Elizabeth, under whose protection to place
+her during our absence.  However, this difficulty was soon settled;
+the Mission family offering most kindly to take the charge of her.
+The schoolmistress, who resided in the same house, took the immediate
+care of her.  At this time she was suffering from indisposition, which
+not only required much patience to bear, but was the occasion of
+additional trouble and anxiety to those who so kindly undertook the
+responsibility of attending to her.  On our return, we were delighted
+to hear of her good behaviour and exemplary patience under her
+affliction.  Mrs. S. told me, she never knew a better child; she had
+so won their hearts, that they not only felt the greatest interest in
+her, but had considered it a pleasure, rather than a trouble, to have
+her with them.</p>
+          <p xml:id="anon_memoir_13036">During her stay with this kind family, she was
+one day trying to teach a little boy (her senior) Watt's Catechism.
+They were in a room alone, but Mrs. S., being in an adjoining room,
+heard all that passed.  When she came to that question, "Does God love
+every thing that he has made?" and the answer, "Yes;" the little boy
+said that he was sure that must be wrong, for God did not love wicked
+people.  Elizabeth said, it was so in the book, and therefore must be
+right; and after thinking for a short time how to reconcile this
+apparent difficulty, she replied, "I will tell you, John, how it is:
+God loves people when he makes them; but when they do wicked things,
+he does not love the wicked things they do, only he loves them because
+he made them."  Mrs. S. told me she carried on quite a little
+argument, which far surpassed her years, which I cannot now remember.
+The testimony of her school-mistress is, that she was far beyond the
+generality of children, and her capacity for improvement equal to one
+who had seen twice her number of years.</p>
+          <p xml:id="anon_memoir_13037">Thus lived this happy
+and contended little girl; not only good herself, but endeavouring to
+make all around her happy and good also.  I often thought, while she
+was with us, I had read of such children, but never knew such a
+one.</p>
+          <p xml:id="anon_memoir_13038">On the Sunday evening previous to giving up the charge of
+this dear Elizabeth, our hearts felt exceedingly sorrowful at the
+thought.  It was one of those trials which only duty compelled us to
+acquiesce in; and our feelings were the more excited by her simple
+expressions of affection, and her telling me she hoped I should soon
+come back again.  O how mysterious, how unexpected at times are the
+way of Providence!  but often most merciful when most severe.  This
+should reconcile us to the otherwise depressing recollection, that on
+our return to the little garden, in the midst of the distant
+wilderness, we shall miss one of its fairest plants, one that we had
+fondly hoped would, under the genial influence of the Gospel, have
+struck its roots deep, and expanded its branches wide, bringing forth
+the fruits of righteousness; or, to drop the metaphor, we had hoped
+that though we had lost a valuable member of our little society, in
+the removal of our beloved Christiana Jones, her dear child would be
+growing up to take her place in the church and in the neighbourhood.
+But "God's ways are not our ways, neither are his thoughts our
+thoughts."  We knew not how much we loved her; but God who loved her
+better than any on earth, has, for some wise end, taken her to his
+better care and happier home in heaven.</p>
+          <lg type="stanza">
+            <l>"What can preserve my life, or what destroy?</l>
+            <l>An angel's arm can't snatch me from the grave;</l>
+            <l>Legions of angels can't confine me there."</l>
+          </lg>
+        </div>
+        <div xml:id="anon_memoir_005" n="4" type="Chapter">
+          <head>Chapter
+IV.  <lb/>ELIZABETH'S PREMATURE DEATH.</head>
+          <epigraph>
+            <p xml:id="anon_memoir_13039">"I am the resurrection and the life."--John xi,
+25.</p>
+          </epigraph>
+          <p xml:id="anon_memoir_13040">IN bringing the history of this dear child to a close, it is now my
+painful task to record the affecting circumstances that attended her
+death.  Perhaps some young persons may wonder what disease carried her
+away in the spring-time of life to an early grave.  Well do I remember
+telling her one evening of the sudden death of a neighbour, and,
+endeavouring to improve the circumstance, remarked how necessary it
+was for young and old to be prepared for death, as we did not know
+whether we should live to see another rising sun.  She looked most
+earnestly at me, and said, "Why, aunt, I am not ill!"  But, dear
+children, without the withering blast of sickness, this sweet flower
+was transplanted in an instant to a more congenial clime, in the bloom
+of health, and with a buoyancy of spirits that had excited the remarks
+of those around her; illustrating in her own history that death has
+not always sickness for its harbinger.</p>
+          <p xml:id="anon_memoir_13041">From the account
+received, it appears that a kind friend residing at the port or mouth
+of the river Credit, about a mile and a half from the Indian village,
+had requested Elizabeth's father to let her spend a short time with
+her during Mr. J. Jones's absence for a few weeks.  To this he
+consented; of which he sends the following account:--"On the 6th of
+November, dear Elizabeth followed us to the waggon."  (Mr. Jones had
+married again.)  "She kissed her mamma and me, saying, 'Good-bye,
+mamma; good-bye, papa.'  Never shall I forget the spot where she
+stood; little thinking she was bidding us a final farewell."</p>
+          <p xml:id="anon_memoir_13042">The month of November, which in England is usually very dreary, is
+quite otherwise in Canada; and it appears the morning of the 20th was
+very fine.  This dear child arose in good health, and it would seem as
+though she felt an uncommon degree of joyousness and elasticity of
+spirits, which the freshness of a clear atmosphere tends to
+inspire.</p>
+          <p xml:id="anon_memoir_13043">About noon, remarking how beautiful the day was, she
+asked if she might take her accustomed walk over the adjacent bridge,
+that being drier and smoother than any other place.  Not suspecting
+any danger, after being properly equipped by her kind friend who had
+the care of her, she sallied forth with bounding spirits and a happy
+countenance.  It is singular that on that morning she had talked much
+of her own dear mother, and expressed a wish that she was alive, as
+she wanted so much to see her.  When asked, why? she replied, "Because
+I have heard she was very beautiful."  Sweet child!  who would then
+have supposed thy passage to glory was so short; that thy wish to have
+thy mother near thee was so soon to be fulfilled; that thou wast so
+soon literally to pass the river of death, and to be landed on the
+shores of immortality?  But it was even so:  the little Elizabeth
+returned not to her home at the expected time, and was sought for, but
+sought in vain.  Inquiry was made at every house, but, alas!  to no
+purpose.  Night came on, and it was very dark and stormy; still the
+search continued, and long before day other kind friends went
+different roads toward to village, calling "Elizabeth, Elizabeth," but
+in vain; no voice answered to the anxious summons.</p>
+          <p xml:id="anon_memoir_13044">As soon as
+daylight dawned, all the men, women, and boys joined in the melancholy
+search; making the woodlands echo with her name as they went
+sorrowfully on, till they reached the lake; when the Indians said she
+must be drowned!  They then went out in their boats; and at length,
+about nine o'clock in the morning, the little bark of mortality was
+found, which had floated down the deep broad stream into an eddy near
+the pier, but the immortal spirit was landed in the haven of eternal
+rest.</p>
+          <p xml:id="anon_memoir_13045">It was found on examination that there was a hole on the
+upper part of the bridge near the centre of the stream, occasioned by
+one of the planks having slipped out of its place; and it is supposed
+(for no one saw her) that the dear child, in passing over near the
+side-railings, must have been looking another way, and thus slipped
+through the hole into a watery grave.  Thus, without a moment's
+warning, was she snatched away from the fond embraces of her mourning
+friends on earth to the bosom of her Saviour and her God.</p>
+          <p xml:id="anon_memoir_13046">As
+soon as the sad news reached her dear father, he hastened down; but,
+ah!  who can enter into the feelings of a parent on such a journey?
+None can describe them; and only parents who have lost such a child
+can fully sympathize in them.  He returns to the spot where he left
+her well and happy; but instead of the bounding step, the beaming eye,
+the cheerful tones of welcome that were wont to greet him, he is
+conducted by his sympathizing and distressed friends into the mournful
+chamber of death.  There was the form he has so often gazed on with
+delight, and it still looked like his Elizabeth; but the heart's
+pulses had ceased, the eyes were closed, the ears were stopped, the
+spirit had fled.  Such is the portion of earth; but by the eye of
+faith we turn to those blissful regions where her happy spirit has
+found admittance;</p>
+          <lg type="stanza">
+            <l>"Where she joins in the anthems for ever that rise,</l>
+            <l>Now
+dead to the earth, and new born to the skies,</l>
+            <l>And heir of the
+kingdom of heaven."</l>
+          </lg>
+          <p xml:id="anon_memoir_13047">O, dear children, what a lesson is this!  Could any thing but the
+assurance that "sudden death" to her was "sudden glory" have comforted
+the heart of her sorrowing parent, and enabled him to write, "Her
+happy spirit is returned to God, whose praises she loved to sing, whom
+she worshipped, adored, and loved?"  Surely not!  And if you wish to
+see her there, you must seek an interest in Christ, love prayer as she
+loved it, take the same delight in reading the Bible and good books,
+learn with pleasure your catechism and hymns, be obedient to your
+parents, affectionate and kind to all; then you will be loved as she
+was loved; and should an early summons call you hence, you will be
+prepared to follow where she is gone.</p>
+          <p xml:id="anon_memoir_13048">I have before noticed how
+fond Elizabeth was of singing; and I think it would be well for
+children to cultivate this habit, and imitate her in this sweet employ
+of singing and making melody in their hearts unto the Lord.  The last
+hymn she was heard to sing was the following:--</p>
+          <lg type="stanza">
+            <l>"Saw ye my Saviour?</l>
+            <l>Saw ye my Saviour?</l>
+            <l>Saw ye my
+Saviour and my God?</l>
+            <l>O! he died on Calvary</l>
+            <l>To atone for
+you and me,</l>
+            <l>And to purchase out pardon with blood."</l>
+          </lg>
+          <p xml:id="anon_memoir_13049">On Friday, the 24th, her remains were carried up to the Indian
+village, where the Missionary at the river Credit conducted the
+service, and preached a suitable sermon from Rev. i, 17, 18; in which
+he bore ample testimony to her early piety, amiable disposition, and
+remarkable intelligence.</p>
+          <p xml:id="anon_memoir_13050">Her death had excited as much interest
+as is often produced by that of persons of a maturer age; and many
+respectable white inhabitants, from the distance of two or three miles
+round, attended the funeral.  After the sermon, the Indian children
+rose up and sung the following hymn:--</p>
+          <lg type="stanza">
+            <l>"Farewell, dear friend!  a long farewell!</l>
+            <l>For we shall
+meet no more,</l>
+            <l>Till we are raised with thee to dwell</l>
+            <l>On
+Zion's happier shore.</l>
+          </lg>
+          <lg type="stanza">
+            <l>"Our friend and sister, lo!  is dead;</l>
+            <l>The cold and
+lifeless clay</l>
+            <l>Has made in dust its silent bed,</l>
+            <l>And there
+it must decay.</l>
+          </lg>
+          <lg type="stanza">
+            <l>"But she is dead!--No, no; she lives!</l>
+            <l>Her happy spirit
+flies</l>
+            <l>To heaven above; and there receives</l>
+            <l>The
+long-expected prize.</l>
+          </lg>
+          <lg type="stanza">
+            <l>"Farewell, dear friend!  again, farewell!</l>
+            <l>Soon we shall
+rise to thee;</l>
+            <l>And when we meet no tongue can tell</l>
+            <l>How
+great our joys shall be."</l>
+          </lg>
+          <p xml:id="anon_memoir_13051">Six little girls carried her coffin from the chapel to the grave;
+four following, bearing in their hands sprigs of evergreen, which they
+threw on the coffin after it was lowered into the ground.</p>
+          <lg type="stanza">
+            <l>"And there, upon her quiet tomb,</l>
+            <l>Shaded by
+forest-trees,</l>
+            <l>The wild flowers which she loved will bloom,</l>
+            <l>Fann'd by the summer's breeze.</l>
+          </lg>
+          <lg type="stanza">
+            <l>"And other little graves are there,</l>
+            <l>Water'd with fondest
+tears;</l>
+            <l>Nature still weeps,--faith cries, Forbear,</l>
+            <l>And
+hope's bright star appears.</l>
+          </lg>
+          <lg type="stanza">
+            <l>"So when our silent footsteps stray,</l>
+            <l>And watch the
+grave's repose,</l>
+            <l>This star shall point our heaven-ward way,</l>
+            <l>And dissipate our woes."</l>
+          </lg>
+        </div>
+        <div xml:id="anon_memoir_006" type="Chapter">
+          <head>
+            <seg type="short-title">LINES.</seg>
+            <lb/>
+            <hi rend="italic">Addressed by a friend to Mr. John Jones, on
+hearing that his little Girl was drowned in the River Credit.</hi>
+          </head>
+          <epigraph>
+            <p xml:id="anon_memoir_13052">"She is not dead."--Matt. ix, 24.</p>
+          </epigraph>
+          <lg type="stanza">
+            <l>THOUGH those bright eyes have lost their fire,</l>
+            <l>And those
+dear lips speak no desire,</l>
+            <l>Let this blest truth your heart
+inspire:</l>
+            <l>	"She is not dead"</l>
+          </lg>
+          <lg type="stanza">
+            <l>Though she is taken from your sight,</l>
+            <l>And slumbers in
+death's cheerless night,</l>
+            <l>Her spirit lives in glory bright:</l>
+            <l>	"She is not dead."</l>
+          </lg>
+          <lg type="stanza">
+            <l>Her voice, though like the gentle lute</l>
+            <l>It sooth'd and
+pleased you, now is mute;</l>
+            <l>She sings in strains that seraphs
+suit:</l>
+            <l>	"She is not dead."</l>
+          </lg>
+          <lg type="stanza">
+            <l>Think of the subject of her song,</l>
+            <l>And see her mingling
+in the throng</l>
+            <l>Of those who to her Lord belong:</l>
+            <l>	"She
+is not dead."</l>
+          </lg>
+          <lg type="stanza">
+            <l>Her Saviour taught her infant heart</l>
+            <l>To love and choose
+the better part;</l>
+            <l>Let this thought check the tears that
+start:</l>
+            <l>	"She is not dead."</l>
+          </lg>
+          <lg type="stanza">
+            <l>Think not upon the cold, dark wave;</l>
+            <l>Nor on the silent
+gloomy grave;</l>
+            <l>For Jesus did her spirit save:</l>
+            <l>	"She
+is not dead."</l>
+          </lg>
+          <lg type="stanza">
+            <l>O, It will sooth the bursting sigh,</l>
+            <l>To think that Jesus
+lives on high,</l>
+            <l>Who said his own, "should never die:"</l>
+            <l>	"She is not dead."</l>
+          </lg>
+          <lg type="stanza">
+            <l>Then trim your lamp, and speed your way,</l>
+            <l>To meet her in
+the realms of day;</l>
+            <l>And when your spirits sink, still say,</l>
+            <l>	"She is not dead."</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

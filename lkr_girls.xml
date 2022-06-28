@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lkr_girls_1308">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Useful Little Girls</title>
+        <author>
+          <name type="person"><choice><reg>Rogers, Loula Kendall, 1838-1931</reg><orig>Mrs. Loula Kendall Rogers</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10k</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="lkr_girls_1301">2008 Emory University. Permission is granted to
+
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>2008</date><idno type="ark">http://pid.emory.edu/ark:/25593/17czh</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Rogers, Loula Kendall, "Useful Little Girls." Loula
+
+	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
+
+	   Library, Emory University</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="lkr_girls_1302">This digital text is produced from the Loula Kendall
+
+	   Rogers Papers, generously loaned to the Beck Center by    	
+
+The Manuscript, Archives, and Rare Book Library at Emory University.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="language">American</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Poetry</rs>
+        <rs type="geography">United States</rs>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>American poetry--20th century.</item>
+            <item>American poetry--19th century.</item>
+            <item>Women authors, American--19th Century</item>
+            <item>Women authors, American--20th Century</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2008</date><label>Woodruff Graduate Fellow</label><name>Stewart Varner</name>XML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="lkr_girls_1307">
+    <body xml:id="lkr_girls_1306">
+      <pb facs="lkr_girls001" xml:id="lkr_girls_1303" n="1"/>
+      <div xml:id="lkr_girls_1305" type="poem">
+        <head rend="center">Useful Little Girls.</head>
+        <lg type="stanza">
+          <head>Minnie Tyler</head>
+          <l>A little girl I am indeed</l>
+          <l>And little do I know.</l>
+          <l>Much help and care I yet shall need</l>
+          <l>That I may ??? great</l>
+          <l>If I would ever hope to do</l>
+          <l>Things great and good and useful too.</l>
+        </lg>
+        <lg type="stanza">
+          <head>Lucile Cochrin</head>
+          <l>Yes even now I ought to try</l>
+          <l>To do what good I may</l>
+          <l>God never meant that such as I</l>
+          <l>Should only live to play</l>
+          <l>And talk and laugh, and eat and drink</l>
+          <l>And sleep and never think</l>
+        </lg>
+        <lg type="stanza">
+          <head>Grace Woodward</head>
+          <l>I may if I have but a mind</l>
+          <l>Do good in many ways</l>
+          <l>Plenty to do the young may find</l>
+          <l>In these our busy days.</l>
+          <l>Sad would it be though very small</l>
+          <l>If I was of no use at all.</l>
+        </lg>
+        <lg type="stanza">
+          <head>Bobbie Matthews</head>
+          <l>One gentle word that I may speak</l>
+          <l>Or one kind loving deed</l>
+          <l>May through a trifle poor and weak</l>
+          <l>Prove <sic>lifes</sic> a tiny seed;</l>
+          <l>And who can tell what good may spring</l>
+          <l>From such a very little thing?</l>
+        </lg>
+        <pb facs="lkr_girls002" xml:id="lkr_girls_1304" n="[2]"/>
+        <lg type="stanza">
+          <l rend="indent">All together taking each other's hands,</l>
+          <l>"And a little child shall lead them"!</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

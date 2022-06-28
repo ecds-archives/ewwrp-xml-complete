@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lest_13040">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Lest We Forget: A War Anthology, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Elliot, H. B.</reg><orig>H.B. Elliot, ed.</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>40kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="lest_1301">2002 Emory University. Permission is granted to
+	      download, transmit, or otherwise reproduce, distribute
+	      or display the contributions to the work claimed by
+	      Emory University for non-profit educational purposes,
+	      provided this header is included in its entirety.  For
+	      inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>2002</date><idno type="ark">http://pid.emory.edu/ark:/25593/17cpd</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl> Elliot, H.B. <hi rend="italic">Lest We Forget: A War Anthology</hi>.  London: <publisher>Jarrold &amp; Sons</publisher>, <date>1915</date>. 138.</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="lest_1302">This digital text is produced from a first edition
+	   volume of the World War I poetry anthology, <hi rend="italic">Lest We Forget: A War Anthology</hi>.  While
+	   this anthology includes poetry from a varied group of male
+	   and female poets, our edition includes only those poems
+	   penned by women.  Also included in this electronic edition
+	   is the forward written by Baroness Orczy.  The production
+	   of this digital text was undertaken by the Beck Center for
+	   the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">World War I</rs>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Poetry</rs>
+        <rs type="geography">Great Britain</rs>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>World War, 1914-1918--Poetry.</item>
+            <item>English poetry--Women authors--20th Century.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2002</date><label>Project Manager</label><name>Erika Farr</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="lest_13039">
+    <front xml:id="lest_1307">
+      <div xml:id="lest_front" type="Foreword">
+        <head>FOREWORD.</head>
+        <p xml:id="lest_1303">THIS book is inscribed to every individual woman and girl of Great Britain who to-day is bearing so heroically--so uncomplainingly--her own share of Britain's burden in this Great War. She is asked to give of her dearest and her best, to see the man she loves--husband, son, sweetheart or friend--go to fight his country's battles, to fight in the cause of justice and humanity and honour whilst she--mother, wife or sweetheart--must perforce stay at home and strive with all her might to hide her tears, to keep back the one little word which perhaps would shake the loved one's resolution, the one little word which might unnerve him and cause him to stay by her side. Indeed, the burden laid upon all the women and girls of Great Britain is no light one! and they are bearing it with all the heroism of their race. Their sorrow is great--and in that sorrow but one solace is left to them--that of thinking and planning and working for </p>
+        <pb xml:id="lest_1304" n="8 FOREWORD"/>
+        <p xml:id="lest_1305">those who have so bravely gone. It is their skill, their industry, their devotion which makes our gallant soldiers' and sailors' lives at the post of duty a little more happy and a little more comfortable. The warm clothing, which loving fingers at home fashion for the magnificent man who fights on land or at sea, is a comfort not only to his body, but also for his heart, for it reminds him of home, of brave hands that work while brave lips are praying for him.</p>
+        <p xml:id="lest_1306">It is to aid this work that this book has been compiled; it is to the workers that it is dedicated. Cheered by the patronage of a gracious Queen they will continue their labour of love so long as their fingers have the strength to wield needles and pins, and in the years to come, when the history of the twentieth century comes to be written, not its least heroic page will be the account of how the women and girls of Great Britain bore their part in the Great War by working for the material comfort of Britain's fighting men.</p>
+        <byline>EMMUSKA ORCZY.</byline>
+        <trailer>
+          <hi rend="italic">Snowfield, Bearsted, Kent.</hi>
+        </trailer>
+      </div>
+    </front>
+    <body xml:id="lest_13038">
+      <div xml:id="lest_01" type="Anthology">
+        <div xml:id="lest_02" type="Poem">
+          <pb xml:id="lest_1308" n="17 LEST WE FORGET"/>
+          <head rend="center">THE ROLL OF HONOUR.</head>
+          <lg type="stanza">
+            <l>YOUR faces haunt me from the printed pages,</l>
+            <l>The roll call of our valiant English dead;</l>
+            <l>What woman's hands, I wonder, clung in parting?</l>
+            <l>What woman's heart breaks now the shot is sped?</l>
+            <l>We speak of Glory and the Cause you died for,</l>
+            <l>We lay our homage on your bloodstained grave,</l>
+            <l>Will Glory help to ease the women's anguish</l>
+            <l>Or solace them for these dear dead they gave?</l>
+          </lg>
+          <lg type="stanza">
+            <l>Yea, surely. For your spirits go before them,</l>
+            <l>You, who made Death a crown about your lives!</l>
+            <l>And in the splendour of your souls that conquered</l>
+            <l>We learn this lesson. Blessed is he who strives,</l>
+          </lg>
+          <pb xml:id="lest_1309" n="18 LEST WE FORGET"/>
+          <lg type="stanza">
+            <l>For Love and Faith, for Truth and priceless Honour,</l>
+            <l>These cannot pass away with mortal breath,</l>
+            <l>God guards them safe, and in His mighty keeping</l>
+            <l>Are also those who nobly looked on Death!</l>
+          </lg>
+          <byline>MARGARET PETERSON, <hi rend="italic">Author of "The Lure of the Little Drums,""Blind Eyes," " Tony Bellew," etc.</hi></byline>
+          <trailer>
+            <hi rend="italic">Daily Chronicle.</hi>
+          </trailer>
+        </div>
+        <div xml:id="lest_03" type="Poem">
+          <pb xml:id="lest_13010" n="24 LEST WE FORGET"/>
+          <head rend="center">THE WOMEN OF BELGIUM TO THE WOMEN OF ENGLAND.</head>
+          <lg type="stanza">
+            <l>OH, English women! see, our country's dying;</l>
+            <l>Her life-blood from her gaping wounds is sighing,</l>
+            <l>Her bitter wrongs to God for vengeance crying!</l>
+          </lg>
+          <lg type="stanza">
+            <l>The Iron hand has struck, but in the smiting</l>
+            <l>Its own dishonour on the wall is writing,</l>
+            <l>And Belgium's funeral pyre the world is lighting.</l>
+          </lg>
+          <lg type="stanza">
+            <l>If we had failed or shrunk before the paying,</l>
+            <l>If we had saved our dearest from the slaying,</l>
+            <l>What price had you not paid for the delaying?</l>
+          </lg>
+          <lg type="stanza">
+            <l>Oh, mothers! who your man-grown sons are keeping,</l>
+            <l>Oh, fathers! to the patriot's duty, sleeping,</l>
+            <l>Oh, lovers! at the thought of parting, weeping,</l>
+            <l>Awake, and give us Men to do our Reaping!</l>
+          </lg>
+          <byline>MARY BOOTH.</byline>
+          <trailer>
+            <hi rend="italic">The Queen.</hi>
+          </trailer>
+        </div>
+        <div xml:id="lest_04" type="Poem">
+          <pb xml:id="lest_13011" n="25 LEST WE FORGET"/>
+          <head rend="center">LE JOUR DES MORTS.</head>
+          <lg type="stanza">
+            <l>THE day of the dead, the day of the dead,</l>
+            <l>Down on your knees and pray,</l>
+            <l>For the souls of the living, the souls of the dying,</l>
+            <l>The souls that have passed away.</l>
+          </lg>
+          <lg type="stanza">
+            <l>And the great bell tolls</l>
+            <l>For the treasure of souls</l>
+            <l>Delivered into his hand,</l>
+            <l>Gabriel, Michael, Uriel, reap</l>
+            <l>Souls as a measure of sand,</l>
+            <l>Souls from the restless deep,</l>
+            <l>Souls from the blood-red land.</l>
+          </lg>
+          <lg type="stanza">
+            <l>The day of the dead, the day of the dead, </l>
+            <l>Down on your knees and pray,</l>
+            <l>For the souls of the outcast, despised and rejected,</l>
+            <l>The heroes and victors to-day.</l>
+          </lg>
+          <pb xml:id="lest_13012" n="26 LEST WE FORGET"/>
+          <lg type="stanza">
+            <l>And the great bell rings,</l>
+            <l>And the great bell swings,</l>
+            <l>As death makes up the number</l>
+            <l>Of men's lives as grains of sand,</l>
+            <l>From the decks their bodies cumber,</l>
+            <l>From the panting shivering land,</l>
+            <l>From crash and shriek to slumber.</l>
+          </lg>
+          <lg type="stanza">
+            <l>The day of the dead, the day of the dead,</l>
+            <l>Up on your feet and stand</l>
+            <l>For the souls of the living, the fighting, the striving,</l>
+            <l>For the gun and the sword in hand.</l>
+          </lg>
+          <lg type="stanza">
+            <l>And His Transfiguration</l>
+            <l>Descends on a nation, </l>
+            <l>And death is a little thing,</l>
+            <l>And lives as a grain of sand.</l>
+            <l>Michael, Gabriel Uriel, bring</l>
+            <l>From the desolate blood-red land,</l>
+            <l>From the tall ships foundering.</l>
+          </lg>
+          <lg type="stanza">
+            <l>The day of the dead, the day of the dead,</l>
+            <l>Down on your knees and pray</l>
+            <l>For the souls of the living, the souls of the dying,</l>
+            <l>The souls that have passed away.</l>
+          </lg>
+          <byline>FRANCES CHESTERTON.</byline>
+        </div>
+        <div xml:id="lest_05" type="Poem">
+          <pb xml:id="lest_13013" n="30 LEST WE FORGET"/>
+          <head rend="center">SUSPENSE.</head>
+          <lg type="stanza">
+            <l>O'ER oceans, lands, bend down, O God to-day,</l>
+            <l>And as we ask,</l>
+            <l>Shield with Thy wings the many, far away;</l>
+            <l>Soothe those who watch and wait and do each task</l>
+            <l>With brave hands working, while their brave lips pray.</l>
+          </lg>
+          <lg type="stanza">
+            <l>'Tis but a little world, O God, to Thee,</l>
+            <l>Who rulest all!</l>
+            <l>'Tis such a little way earth-sight may see</l>
+            <l>The dusk-times fall.</l>
+            <l>Across each hour, perchance--we dare not face</l>
+            <l>Such shades alone--unstrengthened! Send us Grace.</l>
+          </lg>
+          <byline>LILLIAN GARD.</byline>
+          <trailer>
+            <hi rend="italic">The Queen.</hi>
+          </trailer>
+        </div>
+        <div xml:id="lest_06" type="Poem">
+          <pb xml:id="lest_13014" n="37 LEST WE FORGET"/>
+          <head rend="center">CALLED UP!</head>
+          <lg type="stanza">
+            <l>GIVE them a cheer as they march along!</l>
+            <l>A life is a life, so don't mistake</l>
+            <l>There's death to meet or a name to make.</l>
+            <l>Give them a cheer!</l>
+          </lg>
+          <lg type="stanza">
+            <l>Give them a song as they take the way!</l>
+            <l>There's not a bird or a passing breeze</l>
+            <l>But mingles notes in the roadside trees,</l>
+            <l>Lilt of hope is a true heartease.</l>
+            <l>Give them a song!</l>
+          </lg>
+          <lg type="stanza">
+            <l>Give them a prayer as you watch them go.</l>
+            <l>(May be lips have forgotten to pray.)</l>
+            <l>For right upheld to the end of the way,</l>
+            <l>For goal of peace at the set of the day,</l>
+            <l>Give them a prayer!</l>
+          </lg>
+          <byline>LILLIAN GARD.</byline>
+          <trailer>
+            <hi rend="italic">The Queen.</hi>
+          </trailer>
+        </div>
+        <div xml:id="lest_07" type="Poem">
+          <pb xml:id="lest_13015" n="76 LEST WE FORGET"/>
+          <head rend="center">WINTER NIGHT.</head>
+          <lg type="stanza">
+            <l>ROAMS the East wind across a midnight sky,</l>
+            <l>And shapes of cloud, transparent, curdled, white,</l>
+            <l>Like homing spirits take their lowly flight</l>
+            <l>Before his breath; but glittering on high</l>
+            <l>A throb of winter stars doth chequer heaven with light.</l>
+          </lg>
+          <lg type="stanza">
+            <l>Here, underneath the Hunter, all is still,</l>
+            <l>And silver Sirius sparkles at his feet;</l>
+            <l>While nearer, children of the earth, they fleet--</l>
+            <l>Those sad, etiolate clouds along the hill--</l>
+            <l>As though our dead returned their native land to greet.</l>
+          </lg>
+          <lg type="stanza">
+            <l>How may one slumber, how the curtain close</l>
+            <l>And shut them out and turn to blessed rest,</l>
+            <l>While, panging like a poison in the breast,</l>
+            <l>Their agony for ever flows and flows?</l>
+            <l>By day, by night they fall our bravest and our best.</l>
+          </lg>
+          <pb xml:id="lest_13016" n="77 LEST WE FORGET"/>
+          <lg type="stanza">
+            <l>O little clouds, the stars ye cannot hide,</l>
+            <l>Yet shadow in your impotence a plea</l>
+            <l>Mightier than all the night's immensity</l>
+            <l>Hath power to conjure of her pomp and pride:</l>
+            <l>The claim of men who die that man may still go free.</l>
+          </lg>
+          <lg type="stanza">
+            <l>Your vapours sink to earth; down from his height,</l>
+            <l>Flashing red gold, each ancient star departs;</l>
+            <l>Chill Eurus droops at dawn's approaching darts;</l>
+            <l>For clouds and stars and winds shall pass with night;</l>
+            <l>The ever living dead shine on within our hearts.</l>
+          </lg>
+          <byline>EDEN PHILLPOTTS.</byline>
+          <trailer>
+            <hi rend="italic">British Review.</hi>
+          </trailer>
+        </div>
+        <div xml:id="lest_08" type="Poem">
+          <pb xml:id="lest_13017" n="84 LEST WE FORGET"/>
+          <head rend="center">REASON AND HONOUR.</head>
+          <lg type="stanza">
+            <l>WAS not the bounty of the grape and corn,</l>
+            <l>Burned into ripeness by a summer sped,</l>
+            <l>Harvest enough without all they have borne</l>
+            <l>In their own aching flesh and from their bosoms fed?</l>
+          </lg>
+          <lg type="stanza">
+            <l>Shall they, the mothers of the time to be,</l>
+            <l>Create for nothing but a league-long grave,</l>
+            <l>That swallows up their immortality</l>
+            <l>And hideous yawns across a kingdom while they rave?</l>
+          </lg>
+          <lg type="stanza">
+            <l>'Tis they who forge the bolt, when nations chafe</l>
+            <l>And howl their battle cries of right and wrong;</l>
+            <l>'Tis they who lead the mighty armies safe</l>
+            <l>To manhood's threshold, brave and beautiful and strong.</l>
+          </lg>
+          <pb xml:id="lest_13018" n="85 LEST WE FORGET"/>
+          <lg type="stanza">
+            <l>For death's the only answer that we make</l>
+            <l>When hungry kingdoms rise and fall on strife;</l>
+            <l>Still one insensate spirit's greed can break</l>
+            <l>The wide world's peace, and drain her holy founts of life.</l>
+          </lg>
+          <lg type="stanza">
+            <l>And still the grandest death that man may die</l>
+            <l>Is held the death of war, at some great need</l>
+            <l>Beyond all human reason's power to try,</l>
+            <l>Since honour often spurns her sister, reason's rede.</l>
+          </lg>
+          <lg type="stanza">
+            <l>For reason's dumb while honour's thirsty blade</l>
+            <l>Still flashes to the universe how man</l>
+            <l>Remains so blind, so faltering, so afraid</l>
+            <l>That carnage yet controls his highest hope and plan.</l>
+          </lg>
+          <lg type="stanza">
+            <l>But reason, guarding well her golden light,</l>
+            <l>Denies he shall for ever sate his dearth</l>
+            <l>Like wolf or tiger; wills such futile might</l>
+            <l>Anon be banned and thrust from off the good round earth.</l>
+          </lg>
+          <pb xml:id="lest_13019" n="86 LEST WE FORGET"/>
+          <lg type="stanza">
+            <l>She dawns upon the darkness of our eyes;</l>
+            <l>Reveals that war can only hurl us back</l>
+            <l>On hostile values; whispers to the wise</l>
+            <l>How virtue in the fed is vice to them that lack.</l>
+          </lg>
+          <lg type="stanza">
+            <l>Virtue and vice are names, not qualities,</l>
+            <l>And when the baffled cry that might is right,</l>
+            <l>No smug opinion from the unconscious skies</l>
+            <l>For doubtful virtue's sake shall hold them to their plight.</l>
+          </lg>
+          <lg type="stanza">
+            <l>All nations live by ideals; but in need</l>
+            <l>They linger with no ethic obsolete;</l>
+            <l>They bend the knee to no unfriendly creed;</l>
+            <l>But tramp their values firm beneath an army's feet.</l>
+          </lg>
+          <lg type="stanza">
+            <l>Remains to man this everlasting truth:</l>
+            <l>That for his sure defence and steadfast guide,</l>
+            <l>Reason and honour, by the way of truth,</l>
+            <l>Shall yet march, hand in hand, and onward, side by side.</l>
+          </lg>
+          <pb xml:id="lest_13020" n="87 LEST WE FORGET"/>
+          <lg type="stanza">
+            <l>Again the world is meeting might with might,</l>
+            <l>And when the battle's fought and lost and won,</l>
+            <l>Pray victory decree, as primal right,</l>
+            <l>That reason also wins a kingdom in the sun.</l>
+          </lg>
+          <lg type="stanza">
+            <l>Then shall she swiftly, for our world-wide shame,</l>
+            <l>Bend to the Mother from her starry place,</l>
+            <l>And, in humanity's almighty name,</l>
+            <l>For ever dry the tears upon that sacred face.</l>
+          </lg>
+          <byline>EDEN PHILLPOTTS.</byline>
+          <trailer>
+            <hi rend="italic">English Review.</hi>
+          </trailer>
+        </div>
+        <div xml:id="lest_09" type="Poem">
+          <pb xml:id="lest_13021" n="90 LEST WE FORGET"/>
+          <head rend="center">MEDIATION IN WAR-TIME<lb/>(<hi rend="italic">After St. Anselm.</hi>)</head>
+          <lg type="stanza">
+            <l>IF Thou, Lord God, willest to judge</l>
+            <l>This Thy most piteous clay,</l>
+            <l>Which to save, Christ did not grudge</l>
+            <l>His red dying I should say:</l>
+            <l>"Now I interpose His death</l>
+            <l>'Twixt these children and Thy wrath."</l>
+          </lg>
+          <lg type="stanza">
+            <l>Then if Thou should'st say, "Their shame</l>
+            <l>Is as scarlet in Mine eyes,"</l>
+            <l>I should ask, "Who bare the blame?</l>
+            <l>Look on Thy Son's sacrifice!</l>
+            <l>His dear Blood is far more bright</l>
+            <l>That shall wash the scarlet white."</l>
+          </lg>
+          <lg type="stanza">
+            <l>Still if Thou Thy frown must keep</l>
+            <l>And Thine eyes Thou dost avert</l>
+            <l>(Ah! dear Shepherd of the Sheep)</l>
+            <l>I will say, "Who took the hurt?</l>
+            <l>I present Christ's death and pain</l>
+            <l>'Twixt Thine anger and these slain."</l>
+          </lg>
+          <pb xml:id="lest_13022" n="91 LEST WE FORGET"/>
+          <lg type="stanza">
+            <l>Dear, they die in millions</l>
+            <l>For a quarrel not their own;</l>
+            <l>Look to this poor flock, Thy Son's,</l>
+            <l>Harried all and overthrown.</l>
+            <l>See, I lay Christ's Cross between</l>
+            <l>Dear, Thy justice and their sin.</l>
+          </lg>
+          <byline>KATHERINE TYNAN.</byline>
+          <trailer>
+            <hi rend="italic">New Witness.</hi>
+          </trailer>
+        </div>
+        <div xml:id="lest_10" type="Poem">
+          <pb xml:id="lest_13023" n="95 LEST WE FORGET"/>
+          <head rend="center">MATER DOLOROSA.</head>
+          <lg type="stanza">
+            <l>WHAT have I given thee,</l>
+            <l>England, beloved of me?</l>
+            <l>I have no gold for thy desolate,</l>
+            <l>I have n spear to guard thy gate,</l>
+            <l>My hands are weak on the harp of fate</l>
+            <l>In the hour of threnody.</l>
+          </lg>
+          <lg type="stanza">
+            <l>Yet have given, I;</l>
+            <l>And England, my gifts lie</l>
+            <l>Far from thee and thy sacred strand.</l>
+            <l>I have given the hand that held my hand,</l>
+            <l>The feet that once on my palm could stand,</l>
+            <l>The hopes I was nourished by.</l>
+          </lg>
+          <lg type="stanza">
+            <l>All that I had, I give,</l>
+            <l>The life that I bade live,</l>
+            <l>The heart that my heart made to beat,</l>
+            <l>The lips erstwhile on my lips so sweet</l>
+            <l>These have I given; is it not meet</l>
+            <l>To have striven that thou mayst strive?</l>
+          </lg>
+          <pb xml:id="lest_13024" n="96 LEST WE FORGET"/>
+          <lg type="stanza">
+            <l>The day of France doth shrine</l>
+            <l>This only gift of mine;</l>
+            <l>England, be it not made in vain,</l>
+            <l>Be but thy glory great as our pain.</l>
+            <l>We are glad to have given--would give again</l>
+            <l>The light of our days for thine!</l>
+          </lg>
+          <byline>DOROTHY MARGARET STUART.</byline>
+          <trailer>
+            <hi rend="italic">British Review.</hi>
+          </trailer>
+        </div>
+        <div xml:id="lest_11" type="Poem">
+          <pb xml:id="lest_13025" n="97 LEST WE FORGET"/>
+          <head rend="center">ABI, VIATOR---.</head>
+          <lg type="stanza">
+            <l>IF thou hast seen the standard dim</l>
+            <l>Droop in its mesh of dust and grime</l>
+            <l>Above the carven hands of him</l>
+            <l>Who bore it in some ancient time;</l>
+            <l>If thou hast seen the silent sword</l>
+            <l>Rust redly in its tattered sheath,</l>
+            <l>Hast caught the echo of the word</l>
+            <l>That flung an English glove at death,</l>
+            <l>And yet thy pulses march unstirred,</l>
+            <l>And still thy breath comes calm and slow,</l>
+            <l>Pass on--no Englishman art thou!</l>
+          </lg>
+          <lg type="stanza">
+            <l>If thou canst hear and see to-day</l>
+            <l>The distant clamour and the fume </l>
+            <l>Of crimson fate, and yet canst say</l>
+            <l>"The gain is mine, be theirs the doom."</l>
+            <l>If thou thy unthrilled hands canst fold,</l>
+            <l>If thou canst check thy seaward tread, </l>
+            <l>Canst shun the dust and guard the gold,</l>
+            <l>Thou hast no kinship with thy dead;</l>
+            <l>Ah! if thy craven heart is cold,</l>
+            <l>Pause not the perilous page to scan--</l>
+            <l>Pass on--thou art no Englishman!</l>
+          </lg>
+          <pb xml:id="lest_13026" n="98 LEST WE FORGET"/>
+          <lg type="stanza">
+            <l>But if the distant unison</l>
+            <l>Of swooping sword and flying dart,</l>
+            <l>Of straining sail and muttering gun,</l>
+            <l>Touches thy spirit and thy heart;</l>
+            <l>If England's day and England's call</l>
+            <l>Find thee a son of England, then</l>
+            <l>Thou canst not falter--thou, nor all</l>
+            <l>Her noble heritage of men;</l>
+            <l>Pass on--she stands, although we fall,</l>
+            <l>Pass on unshaken though stars shake</l>
+            <l>Thyself canst tell what road to take!</l>
+          </lg>
+          <byline>DOROTHY MARGARET STUART.</byline>
+          <trailer>
+            <hi rend="italic">British Review.</hi>
+          </trailer>
+        </div>
+        <div xml:id="lest_12" type="Poem">
+          <pb xml:id="lest_13027" n="99 LEST WE FORGET"/>
+          <head rend="center">A RE ALBERTO.<lb/>Saluto Italico.</head>
+          <lg type="stanza">
+            <l>O ALBERTO, biondo e leggendario re,</l>
+            <l>Che nè lusinga menzognera ammalia</l>
+            <l>Ne ferreo pugno piega--noi vorremmo</l>
+            <l>Mietere tutti i fiori dell'Italia</l>
+            <l>E darli a te!</l>
+          </lg>
+          <lg type="stanza">
+            <l>Anche l'Italia contro l'oppressore </l>
+            <l>Magnifica e furente combattè;</l>
+            <l>Tra le antiche ferite nel suo cuore </l>
+            <l>Una nuova ferita di dolore </l>
+            <l>Aperta or s'è:</l>
+          </lg>
+          <lg type="stanza">
+            <l>Questa--che pur fremente di stupenda</l>
+            <l>Ferocia e di magnanimo fervore</l>
+            <l>Il popolo d'Italia, o eroico re,</l>
+            <l>Nell'ora tua più sacra e più tremenda</l>
+            <l>Non fu con te.</l>
+          </lg>
+          <byline>ANNIE VIVANTI CHARTRES.</byline>
+          <trailer>
+            <hi rend="italic">Times.</hi>
+          </trailer>
+        </div>
+        <div xml:id="lest_13" type="Poem">
+          <pb xml:id="lest_13028" n="100 LEST WE FORGET"/>
+          <head rend="center">A TRIBUTE FROM ITALY.</head>
+          <lg type="stanza">
+            <l>ALBERT, thou standest where the storm-cloud lowers</l>
+            <l>Unvanquished in thy glorious defeat.</l>
+            <l>Oh! to strip Italy of all her flowers</l>
+            <l>And bring them to thy feet!</l>
+          </lg>
+          <lg type="stanza">
+            <l>No deeper sorrow shall Italia know,</l>
+            <l>Whose sons for freedom's sake have fought and died,</l>
+            <l>Than this--that in thine hour of darkest woe</l>
+            <l>She was not by thy side.</l>
+          </lg>
+          <byline>A.V.C.</byline>
+          <trailer>
+            <hi rend="italic">Times.</hi>
+          </trailer>
+        </div>
+        <div xml:id="lest_14" type="Poem">
+          <pb xml:id="lest_13029" n="117 LEST WE FORGET"/>
+          <head rend="center">NON-COMBATANT.</head>
+          <lg type="stanza">
+            <l>BEFORE one drop of angry blood was shed</l>
+            <l>I was sore hurt and beaten to my knee;</l>
+            <l>efore one fighting man reeled back and died</l>
+            <l>The War-Lords struck at me.</l>
+          </lg>
+          <lg type="stanza">
+            <l>They struck me down--an idle, useless mouth,</l>
+            <l>As cumbrous--nay, more cumbrous than the dead,</l>
+            <l>With life and heart afire to give and give</l>
+            <l>I take a dole instead.</l>
+          </lg>
+          <lg type="stanza">
+            <l>With life and heart afire to give and give</l>
+            <l>I take and eat the bread of charity.</l>
+            <l>In all the length of all this eager land,</l>
+            <l>No man has need of me.</l>
+          </lg>
+          <lg type="stanza">
+            <l>That is my hurt--my burning, beating wound;</l>
+            <l>That is the spear--thrust driven through my pride!</l>
+            <l>With aimless hands, and mouth that must be fed,</l>
+            <l>I wait and stand aside.</l>
+          </lg>
+          <pb xml:id="lest_13030" n="118 LEST WE FORGET"/>
+          <lg type="stanza">
+            <l>Let me endure it, then, with stiffened lip:</l>
+            <l>I, even, I have suffered in the strife!</l>
+            <l>Let me endure it then--then I give my pride</l>
+            <l>Where others give a life.</l>
+          </lg>
+          <byline>Cicely Hamilton.</byline>
+          <trailer>
+            <hi rend="italic">Westminster Gazette</hi>
+          </trailer>
+        </div>
+        <div xml:id="lest_15" type="Poem">
+          <pb xml:id="lest_13031" n="130 LEST WE FORGET"/>
+          <head rend="center">WAR.</head>
+          <lg type="stanza">
+            <l>O HELL-SPED fury War, with wings raised high</l>
+            <l>Hawk-like that hoverest to smite!</l>
+            <l>How many eager now, stark-dead shall lie,</l>
+            <l>Ere thou hast flown thy fatal flight!</l>
+          </lg>
+          <lg type="stanza">
+            <l>O sea of strife, whose armed hosts still come on,</l>
+            <l>Like wind-urged waves across the main!--</l>
+            <l>What throes must flesh endure ere thou sink down</l>
+            <l>In smoothly flowing Peace again!</l>
+          </lg>
+          <lg type="stanza">
+            <l>O callous War! Cold-blooded game of death,</l>
+            <l>With men 'gainst men as foes arrayed,--</l>
+            <l>What pride of youth must yield life's precious breath</l>
+            <l>Ere to an end thy game be played!</l>
+          </lg>
+          <lg type="stanza">
+            <l>O devastating, desolating War, --</l>
+            <l>What dirges follow thee! what dearth</l>
+            <l>And blackened ruin, where thou goest, mar</l>
+            <l>The goodly pleasantness of Earth!</l>
+          </lg>
+          <byline>GRACE B. TOLLEMACHE.</byline>
+          <trailer>
+            <hi rend="italic">August 1st.</hi>
+          </trailer>
+        </div>
+        <div xml:id="lest_16" type="Poem">
+          <pb xml:id="lest_13032" n="131 LEST WE FORGET"/>
+          <head rend="center">SONNET.</head>
+          <lg type="sonnet">
+            <l>O YE to whom dear life is still most dear,</l>
+            <l>Heed not the sirens' soft perfidious song</l>
+            <l>That bids you barter, for a brief term here,</l>
+            <l>Abiding honour! As the martyr-throng</l>
+            <l>For love of Christ went stedfast to the stake</l>
+            <l>And by faith's rapturous power embraced the flame,</l>
+            <l>So, gladly, ye, for your own Country's sake,</l>
+            <l>Must court the fiery Fates that wound and maim!</l>
+            <l>And if on valour's path to victory's end,</l>
+            <l>Sweet life in one swift flash ye must renounce--</l>
+            <l>Rejoice that your high lot should so transcend</l>
+            <l>Man's common doom! The brave can die but once,</l>
+            <l>But in your death, thrice-gloriously ye'll die,--</l>
+            <l>For England, for men's hearths, and Liberty!</l>
+          </lg>
+          <byline>GRACE E. TOLLEMACHE.</byline>
+          <trailer>
+            <hi rend="italic">September 1st.</hi>
+          </trailer>
+        </div>
+        <div xml:id="lest_17" type="Poem">
+          <pb xml:id="lest_13033" n="132 LEST WE FORGET"/>
+          <head rend="center">SONNET.</head>
+          <lg type="sonnet">
+            <l>ENGLAND! that thou wast faint of heart we said,</l>
+            <l>Or inly thought; and that the wreath of bays</l>
+            <l>Drooped on thy brow, withered with length of days,</l>
+            <l>A dust-layered trophy of the age-long Dead:</l>
+            <l>We wronged thee much! --Myriads this month have bled</l>
+            <l>And died for thee, and though the end delays,</l>
+            <l>There's not one that a daunted spirit betrays</l>
+            <l>Nor that for thee life's last drop would not shed!</l>
+            <l>We deemed thy robes grown faded,--but fresh-dyed</l>
+            <l>We now behold them,--and their crimson dye</l>
+            <l>Is of thy sons' spilt blood, deep-hued and glowing:</l>
+            <l>O England! thou art comely in thy pride</l>
+            <l>And clad in glorious raiment, and thy going</l>
+            <l>Is as of one who goes to victory!</l>
+          </lg>
+          <byline>GRACE E. TOLLEMACHE.</byline>
+          <trailer>
+            <hi rend="italic">October 1st.</hi>
+          </trailer>
+        </div>
+        <div xml:id="lest_18" type="Poem">
+          <pb xml:id="lest_13034" n="133 LEST WE FORGET"/>
+          <head rend="center">ONE NIGHT.</head>
+          <lg type="couplet">
+            <l>I WALKED into a moon of gold last night</l>
+            <l>Across grey sands she seemed to shine so bright.</l>
+          </lg>
+          <lg type="couplet">
+            <l>Wide, wide the sands until I met the sea,</l>
+            <l>Cradle of moons, yet searchlights followed me.</l>
+          </lg>
+          <lg type="couplet">
+            <l>I asked the moon if creeping round the Zones</l>
+            <l>She had seen good, or only poor things' bones.</l>
+          </lg>
+          <lg type="couplet">
+            <l>"Pale faces I have seen, unconscious men</l>
+            <l>Bereft of struggling horror now and then.</l>
+          </lg>
+          <lg type="couplet">
+            <l>"And sinking ships I see, and floating mines,</l>
+            <l>And cries I hear, 'O God,' and choking whines.</l>
+          </lg>
+          <lg type="couplet">
+            <l>But later when the stars shine on the wave</l>
+            <l>And give more light, I know the dead die brave.</l>
+          </lg>
+          <pb xml:id="lest_13035" n="134 LEST WE FORGET"/>
+          <lg type="couplet">
+            <l>"Passing so quickly from the things that count,</l>
+            <l>Count to all mortal thoughts, to find the Fount,</l>
+          </lg>
+          <lg type="couplet">
+            <l>"Where angels pour elixir into bowls,</l>
+            <l>Drink, not for broken hearts, but thirsty souls."</l>
+          </lg>
+          <lg type="couplet">
+            <l>And what on shore?" I asked, "the great Divide</l>
+            <l>Where rivers run, and trenches side by side?"</l>
+          </lg>
+          <lg type="couplet">
+            <l>"There," the moon said, "the snow was on the ground</l>
+            <l>And the frost pinched me as I beamed around.</l>
+          </lg>
+          <lg type="couplet">
+            <l>"Red pools of gore, and ghastly shadows lay</l>
+            <l>In deep dug corners, so I sank away.</l>
+          </lg>
+          <lg type="couplet">
+            <l>"Let misty cloudlets sweep across my face</l>
+            <l>To hide the earth, and give me heart of grace.</l>
+          </lg>
+          <lg type="couplet">
+            <l>"Sudden the air seemed filled with eager breath</l>
+            <l>Of great Adventurers, released from death,</l>
+          </lg>
+          <pb xml:id="lest_13036" n="135 LEST WE FORGET"/>
+          <lg type="couplet">
+            <l>"And shaking blood from out their eyes and hair</l>
+            <l>Shouting for further knowledge here and there.</l>
+          </lg>
+          <lg type="couplet">
+            <l>"I lighted these across the treacherous Path</l>
+            <l>To reach the garden of Life's aftermath.</l>
+          </lg>
+          <lg type="couplet">
+            <l>"And as they sped in troops the great guns boomed,</l>
+            <l>With flashes lightning swift, and dark hordes loomed,</l>
+          </lg>
+          <lg type="couplet">
+            <l>"And phantom shapes of patient warrior bands--</l>
+            <l>Then more snow fell and shrouded all the lands.</l>
+          </lg>
+          <p xml:id="lest_13037">*	*	*	*	*	*	*	*	*	*</p>
+          <lg type="couplet">
+            <l>Now pondering from the moon I turned again,</l>
+            <l>Over the sands, back to our House of Pain.</l>
+          </lg>
+          <byline>MILLICENT SUTHERLAND.</byline>
+          <trailer>
+            <hi rend="italic">British Hospital, Malo, Dunkirk, France.</hi>
+          </trailer>
+          <trailer>
+            <hi rend="italic">English Review.</hi>
+          </trailer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

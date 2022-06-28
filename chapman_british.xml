@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="chapman_british_13012">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>The British India Society, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Chapman, Maria Weston, 1806-1885</reg><orig>Maria Weston Chapman</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="chapman_british_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to
+the work claimed by Emory University for non-profit educational purposes, provided 
+this header is included in its entirety.  For inquiries about commercial uses, contact
+either: Women Writers Resource Project or Lewis H. Beck Center for Electronic
+collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17b7h</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Chapman, Maria Weston.  The British India Society.  <publisher>The Liberty Bell</publisher>.  Boston: American Anti-Slavery Society.  25 Cornhill, <date>1839</date> (vol. 1).  American Periodical Series 1800-1850.  APS 1207 Liberty Bell.  Volumes 1-13 (1839-52) reel 491.</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="chapman_british_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Abolition, Freedom, and Rights</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Essay</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Women authors, American--19th Century.</item>
+            <item>Antislavery movements--United States.</item>
+            <item>Antislavery movements--Great Britain.</item>
+            <item>India.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1997</date><label>Staff</label><name>Scott Ellis</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="chapman_british_13011">
+    <body xml:id="chapman_british_13010">
+      <div xml:id="chapman_british_001" type="Article">
+        <head>THE BRITISH INDIA SOCIETY</head>
+        <p xml:id="chapman_british_1303">BY MARIA WESTON CHAPMAN</p>
+        <p xml:id="chapman_british_1305">It would seem as if a word were hardly needed, to commend this newly-formed, but most important Society, to the warmest sympathies of American abolitionists.  It is, in fact, doing their work for them, by bringing the free labor of British India in direct competition with slave labor;--by silencing the captious objector to a world-wide benevolence, when he says "why do not the English people reform their East Indian oppressions, before they speak of ours;"-by arousing the world with the grand idea of a great nation emulous of righteousness and freedom, laboring to make the beauty of its example flame out like a beacon-light to all its peers, till they shall see their cherished in
+<pb xml:id="chapman_british_1304" n="82"/>
+stitutions of oppression, fade away beneath the splendor of its moral potency.</p>
+        <p xml:id="chapman_british_1307">Even though the hearts of American abolitionists could fail to be deeply moved by this commencement of a mighty moral revolution, the heads of American statesmen will not fail to perceive its importance.  They will clearly discern how the lower elements of national character will come in to aid the noblest, for the prosecution of such an enterprise.  They see both the patriotism and the cupidity of Britain ready to aid her ph8ilanthropists, in any decided measure that would secure to British India the undivided demand of the British cotton-market.  They will not fail to mark the cloud hanging over the great southern staple and the vast northern tonnage.  Already a RUSH has hinted at the consequences of this idea, which a HUSKISSON deemed fully practicable, and a THOMPSON, a BROUGHAM, and an O'CONNELL have set in operation:--already he sees "the cotton of 
+<pb xml:id="chapman_british_1306" n="83"/>
+India brought forward to England in ways and to an extent not now dreamed of."</p>
+        <p xml:id="chapman_british_1308">The practical bearings of this Society upon the American slave-system have been happily touched upon by Wendell Phillips; at the present time, the representative of New England abolitionists in Europe.  Would that he were now here to animate them with all the encouraging considerations presented by this subject, and which the worn and wearied laborers for Freedom so greatly need.</p>
+        <p xml:id="chapman_british_1309">"We need thy blended eloquence of lip, and eye, and brow;--<lb/>
+We need the righteous as a shield:--why art thou absent now?"</p>
+      </div>
+    </body>
+  </text>
+</TEI>

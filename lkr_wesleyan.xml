@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lkr_wesleyan_13012">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>A Memory of Wesleyan College</title>
+        <author>
+          <name type="person"><choice><reg>Rogers, Loula Kendall, 1838-1931</reg><orig>Mrs. Loula Kendall Rogers</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10k</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="lkr_wesleyan_1301">2008 Emory University. Permission is granted to
+
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>2008</date><idno type="ark">http://pid.emory.edu/ark:/25593/17dnc</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Rogers, Loula Kendall, "A Memory of Wesleyan College" Loula
+
+	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
+
+	   Library, Emory University</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="lkr_wesleyan_1302">This digital text is produced from the Loula Kendall
+
+	   Rogers Papers, generously loaned to the Beck Center by    	
+
+The Manuscript, Archives, and Rare Book Library at Emory University.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="language">American</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Poetry</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Women--Education--Georgia.</item>
+            <item>Women authors, American--19th Century</item>
+            <item>Women authors, American--20th Century</item>
+            <item>Wesleyan College (Macon, Ga.)</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2008</date><label>Woodruff Graduate Fellow</label><name>Stewart Varner</name>XML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="lkr_wesleyan_13011">
+    <body xml:id="lkr_wesleyan_1307">
+      <pb facs="lkr_wesleyan001" xml:id="lkr_wesleyan_1303" n="[1]"/>
+      <div xml:id="lkr_wesleyan_1306" type="poem">
+        <head>A MEMORY OF WESLEYAN FEMALE COLLEGE.</head>
+        <stage>Dedicated to her class by MRS LOULA K. ROGERS.</stage>
+        <lg type="stanza">
+          <l>There was brightness in the dawning of that golden summer</l>
+          <l>morning</l>
+          <l>When arrayed in the snowy whiteness stood a young and timid band,</l>
+          <l>And their hearts were bowed with sadness, tho' the future</l>
+          <l>held but gladness</l>
+          <l>As the glitt'ring world before them called with syren voice</l>
+          <l>so bland,</l>
+          <l>To radiant dreams, to sparkling streams, and sunlit mountains</l>
+          <l>grand.</l>
+        </lg>
+        <lg type="stanza">
+          <l>How glad was the greeting!  And how joyful was the meeting</l>
+          <l>On that alluring threshold with the gay and brilliant throng</l>
+          <l>Who trod the halls of pleasure deeming earthly joys a treasure,</l>
+          <l>Higher than the far off glories that t' eternity belong</l>
+          <l>How blind were they the young and gay, so careless was their song!</l>
+        </lg>
+        <lg type="stanza">
+          <l>How eagerly they listened as their eyes with tear-drops glistened,</l>
+          <l>For they dreamed not of the darkness that the future held in </l>
+          <l>store.</l>
+          <l>They heard not distant thunder, they only glanced in wonder</l>
+          <l>On the dazzling world before them and the mocking smile she wore,</l>
+          <l>So merrily they could not see the miseries. <add>in store.</add></l>
+        </lg>
+        <lg type="stanza">
+          <l>Ah, we only saw the <hi rend="underline">flowers</hi> blooming in those wayside bowers,</l>
+          <l>Each holding crystal dewdrops that reflected life and light,</l>
+          <l>We know not that the morrow would bring forth grief and sorrow,</l>
+        </lg>
+        <pb facs="lkr_wesleyan002" xml:id="lkr_wesleyan_1304" n="2"/>
+        <lg type="stanza">
+          <l>Or the storm of war, unheard afar would cast a withering blight,</l>
+          <l>Transforming all our visions to a dark and cheerless night!</l>
+        </lg>
+        <lg type="stanza">
+          <l>Yet night brings out the gleaming of beauteous planets beaming</l>
+          <l>All the brighter in the darkness, lighting up the earth and sky.</l>
+          <l>So woman's strength and power in adversity's dark hour,</l>
+          <l>Should illumine hall and cottage tho' a wintry blast is nigh;</l>
+          <l>Its shadows grin can never dim her starry cross on high.</l>
+        </lg>
+        <lg type="stanza">
+          <l>Ah, well I yet remember, 'twas an evening in November</l>
+          <l>When our honored Alma Mater rose before my raptured sight,</l>
+          <l>There were zephry's softly sighing while the autumn sunset dying</l>
+          <l>A hundred fair young faces in its rosy tinted light,</l>
+          <l>The earth to them like sparkling gem reflecting love's delight.</l>
+        </lg>
+        <lg type="stanza">
+          <l>There was one among the number who often in my slumber</l>
+          <l>Rises radiantly before me like a spirit of the air,</l>
+          <l>No cloud could ever hover o'er the hearts that used to love her.</l>
+          <l>So cheerful was the smile that shed its beauty everywhere,</l>
+          <l>The dewy morn could not adorn her cheek with hues more fair.</l>
+        </lg>
+        <lg type="stanza">
+          <l>O'er these winding paths we wondered as we often deeply pondered</l>
+          <l>O'er some perplexing problem or some lesson nature taught,</l>
+          <l>And we lingered on the pages of the ancient classic sages</l>
+          <l>Interlining them with fancies that imagination wrought,</l>
+          <l>Singing ever, caring never what fate the future brought.</l>
+        </lg>
+        <lg type="stanza">
+          <l>No study room could ever be more fulll of bright endeavor,</l>
+          <l>Than that to which fond memory turns so happily tonight,</l>
+        </lg>
+        <pb facs="lkr_wesleyan003" xml:id="lkr_wesleyan_1305" n="3"/>
+        <lg type="stanza">
+          <l>Oh, the joking and the teasing e'en when Latin was displeasing,</l>
+          <l>As Fannie, Julia, Ida threw Geometry out of sight,</l>
+          <l>The Aftermath a merry path to Learning's lofty height!</l>
+        </lg>
+        <lg type="stanza">
+          <l>Dear Ida with her roses and a smile where love reposes,</l>
+          <l>Was to my childish fancy all a poet ever dreamed,</l>
+          <l>And Fannie G. enhancing every soul to her entrancing,</l>
+          <l>So joyous in her loveliness, a very sprite she seemed</l>
+          <l>To hover near with words of cheer, God's sunlight on her gleamed.</l>
+        </lg>
+        <lg type="stanza">
+          <l>Alas!  those friends are scattered!  The flowers they saw are</l>
+          <l>Shattered,</l>
+          <l>Our lives are not all sunshine - there is often grief and pain!</l>
+          <l>Death has crept with stealthy lightness taking her who was all brightness,</l>
+          <l>E'en when the bridal wreath was fresh, upon her forehead lain,</l>
+          <l>One golden tie beyond the sky for us who yet remain.</l>
+        </lg>
+        <lg type="stanza">
+          <l>Then let us cling together!  braving storm and wintry weather,</l>
+          <l>Meeting frequently in spirit where our youthful feet have trod.</l>
+          <l>And our love we still will cheerish tho' one by one we perish.</l>
+          <l>Learning thro' affliction's lessons and from beneath the sod,</l>
+          <l>That earthly joy is all alloy without the light of God</l>
+        </lg>
+        <dateline>*Miss Dinda Howard, of Columbus, Ga., July 4, 1872</dateline>
+      </div>
+    </body>
+    <back xml:id="lkr_wesleyan_13010">
+      <pb facs="lkr_wesleyan004" xml:id="lkr_wesleyan_1308" n="[4]"/>
+      <div xml:id="lkr_wesleyan_2" type="authors_note">
+        <p xml:id="lkr_wesleyan_1309">Memories of<lb/>
+
+      Wesleyan Female College</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lkr_tribute_13013">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>A Tribute of Love</title>
+        <author>
+          <name type="person"><choice><reg>Rogers, Loula Kendall, 1838-1931</reg><orig>Mrs. Loula Kendall Rogers</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10k</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="lkr_tribute_1301">2008 Emory University. Permission is granted to
+
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>2008</date><idno type="ark">http://pid.emory.edu/ark:/25593/17djz</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Rogers, Loula Kendall, "A Tribute of Love," <date>20
+
+	    October 1928</date>. Loula
+
+	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
+
+	   Library, Emory University</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="lkr_tribute_1302">This digital text is produced from the Loula Kendall
+
+	   Rogers Papers, generously loaned to the Beck Center by    	
+
+The Manuscript, Archives, and Rare Book Library at Emory University.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="language">American</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Poetry</rs>
+        <rs type="geography">United States</rs>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>United Daughters of the Confederacy.</item>
+            <item>Women authors, American--19th Century</item>
+            <item>Women authors, American--20th Century</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2008</date><label>Woodruff Graduate Fellow</label><name>Stewart Varner</name>XML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="lkr_tribute_13012">
+    <body xml:id="lkr_tribute_1306">
+      <pb facs="lkr_tribute001" xml:id="lkr_tribute_1303" n="1"/>
+      <div xml:id="lkr_tribute_1305" type="poem">
+        <head>
+          <seg type="short-title">A Tribute Of Love</seg>
+        </head>
+        <head type="sub">To The Memory Of Miss Mildred Lewis Rutherford<lb/>
+
+      State and General Historian, From The United Daughters<lb/> 
+
+      Of The Confederacy.</head>
+        <byline>By The Poet Laureate Mrs Loula Kendall Rogers.</byline>
+        <lg type="stanza">
+          <l>When all the world is beaming bright oftimes there comes a cloud,</l>
+          <l>And Nature droops in sympathy as the giant Oak is bowed,</l>
+          <l>When a favorite flower gently pleads as if in search of aid,</l>
+          <l>O tell me is there a land where Roses never fade?</l>
+        </lg>
+        <lg type="stanza">
+          <l>There is a land, a radiant Land, of one Eternal Day,</l>
+          <l>No night is there, no storm of War to dim its golden ray,</l>
+          <l>The thunder's roar, the battle shout, terrific war whoops cease,</l>
+          <l>And all the universe repeats a song of Love and Peace.</l>
+        </lg>
+        <lg type="stanza">
+          <l>Our Georgia Rose transfigured, finds congenial friends anew,</l>
+          <l>Her snow white purity acclaimed by all the great and true,</l>
+          <l>The King of Kings has placed a Crown upon her brow so fair</l>
+          <l>Then sorrow not -  but Oh, rejoice!  For her reward is there!</l>
+        </lg>
+        <lg type="stanza">
+          <l>Her service here was knowledge - transforming youthful mind</l>
+          <l>Uplifting Lucy Cobb with her learning most divine,</l>
+          <l>Then when the day was over and stars illume the night,</l>
+          <l>She was planning still for Georgia, and new ways to make it bright.</l>
+        </lg>
+        <lg type="stanza">
+          <l>Oh, who in all the world but she had ever penned a thought,</l>
+          <l>On great Historic Records which her native State had wrought?</l>
+          <l>Of the First Atlantic Steamer that ever sailed beneath the sun,</l>
+          <l>Was surely manned in Georgia!  And Georgia surely won!</l>
+        </lg>
+        <pb facs="lkr_tribute002" xml:id="lkr_tribute_1304" n="2"/>
+        <lg type="stanza">
+          <l>She then upheld the veiling where all the Southland leads</l>
+          <l>In Cotton Gins, and Missions where the Orphan sadly pleads,</l>
+          <l>And where the South was <hi rend="underline">first</hi> to grace the Presidential Chair,</l>
+          <l>For Washington our leader, was a well known Hero there.</l>
+        </lg>
+        <lg type="stanza">
+          <l>Her Truths of History are well known and prove without a doubt,</l>
+          <l>If blame was laid upon the South, she always brought it out,</l>
+          <l>For Sovereignty, the Rights of State, her heart was ever true</l>
+          <l>Her path was always blessed with Truth and Honor's unfailing glue.</l>
+        </lg>
+        <lg type="stanza">
+          <l>Then let us follow the gleam she leaves, high up on land and sea,</l>
+          <l>The Faith and Honor of noble aims for our glorious U.D.C.</l>
+          <l>And when the day beams fade away, may angles waft above</l>
+          <l>The songs with which we greet her soul in Everlasting Love!</l>
+        </lg>
+        <dateline>Tennille, Georgia<lb/>
+
+      October 20, 1928</dateline>
+      </div>
+    </body>
+    <back xml:id="lkr_tribute_13011">
+      <pb facs="lkr_tribute" xml:id="lkr_tribute_1307" n="[3]"/>
+      <div xml:id="lkr_tribute_2" type="authors_note">
+        <p xml:id="lkr_tribute_1308">For 34<hi rend="super">th</hi> Convention<lb/>
+
+      Please return these two . as I have no<lb/>
+
+      other copies</p>
+        <p xml:id="lkr_tribute_1309">L.K. Rogers</p>
+        <p xml:id="lkr_tribute_13010">memorial of Miss Mildred</p>
+      </div>
+    </back>
+  </text>
+</TEI>

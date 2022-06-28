@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="decora_sick_13024">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>The Sick Child.  A Story, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Henook-Makhewe-Kelenaka</reg><orig>Henook-Makhewe-Kelenaka (Angel De Cora)</orig></choice></name>
+
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>15kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="decora_sick_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the
+contributions to the work claimed by Emory University for non-profit
+educational purposes, provided this header is included in its
+entirety.  For inquiries about commercial uses, contact either: Emory
+Women Writers Resource Project or Lewis H. Beck Center for Electronic
+collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17bm1</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>De Cora, Angel (Henook-Makhewe-KeleNaka [sic]). The Sick Child.  A
+Story.
+<publisher>Harper's New Monthly Magazine</publisher> 98 (February <date>1899</date>): 446-448.</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="decora_sick_1302">This text is produced in conjunction with the 
+Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Native American</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Native American</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Story</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Winnebago Indians.</item>
+            <item>Women authors, American--19th Century.</item>
+            <item>American literature--19th Century--Fiction.</item>
+            <item>Childhood.</item>
+            <item>Native Americans.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2001</date><label>Staff</label><name>Scott Ellis</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck
+	   Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="decora_sick_13023">
+    <body xml:id="decora_sick_13022">
+      <div xml:id="decora_sick_001" type="Story">
+        <docAuthor>De Cora, Angel (Henook-Makhewe-KeleNaka [sic])</docAuthor>
+        <head>The Sick Child. A Story.</head>
+        
+        <bibl><title>Harper's Magazine</title>98 (February, 1899): 446-48.</bibl>
+        <p xml:id="decora_sick_1303">IT was about sunset when I, a little child, was sent with a handful
+of powdered tobacco leaves and red feathers to make an offering to the
+spirit who had caused the sickness of my little sister. It, had been a
+long, hard winter, and the snow lay deep on the prairie as far as the
+eye could reach. The medicine-woman's directions had been that the
+offering must he laid upon the naked earth, and that to find it I must
+face toward the setting sun.</p>
+        <p xml:id="decora_sick_1304">I was taught the prayer: "Spirit grandfather, I offer this to thee. I
+pray thee restore my little sister to health." Full of reverence and a
+strong faith that I could appease the anger of the spirit, I started
+out to plead for the life of our little one.</p>
+        <p xml:id="decora_sick_1305">But now where was a spot of earth to be found in all that white
+monotony? They had talked of death at the house. I hoped that my
+little sister would live, but I was afraid of nature.</p>
+        <p xml:id="decora_sick_1306">I reached a little spring. I looked down to its pebbly bottom,
+wondering whether I should leave my offering there, or keep on in
+search of a spot of earth. If I put my offering in the water, would it
+reach the bottom and touch the earth, or would it float away, as it
+had always done when I made my offering to the water spirit?</p>
+        <p xml:id="decora_sick_1307">Once more I started on in my search of the bare ground.</p>
+        <p xml:id="decora_sick_1309">The surface was crusted in some places, and walking was easy; in other
+places I would wade through a foot or more of <pb xml:id="decora_sick_1308" n="447"/>snow. Often
+I paused, thinking to clear the snow away in some place and there lay
+my offering. But no, my faith must be in nature, and I must trust to
+it to lay bare the earth.</p>
+        <p xml:id="decora_sick_13010">It was a hard struggle for so small a child.</p>
+        <p xml:id="decora_sick_13011">I went on and on; the reeds were waving their tasselled ends in the
+wind. I stopped and looked at them. A reed. whirling in the wind. had
+formed a space round its stem, making a loose socket. I stood looking
+into the opening. The reed must be rooted in the ground, and the hole
+must follow the stem to the earth. If I poured my offerings into the
+hole, surely they must reach the ground; so I said the prayer I had
+been taught, and dropped my tobacco and red feathers into the opening
+that nature itself had created.</p>
+        <p xml:id="decora_sick_13012">No sooner was the sacrifice accomplished than a feeling of doubt and
+fear thrilled me. What if my offering sbould never reach the earth?
+Would my little sister die?</p>
+        <p xml:id="decora_sick_13013">Not till I turned homeward did I realize how cold I was. When at last
+I reached the house they took me in and warmed me, but did not
+question me, and I said nothing. Every one was sad, for the little one
+had grown worse.</p>
+        <p xml:id="decora_sick_13014">The next day the medicine-woman said my little sister was beyond
+hope; she could not live. Then bitter remorse was mine, for I
+thought I had been unfaithful, and therefore my little sister
+was to be called to the spirit-land. I was a silent child, and did not
+utter my feelings; my remorse was intense.</p>
+        <p xml:id="decora_sick_13015">My parents would not listen to what the medicine-woman had said, but
+clung to hope. As soon as she had gone, they sent for a
+medicine-man who lived many miles away.</p>
+        <p xml:id="decora_sick_13016">He arrived about dark. He was a large man, with a sad, gentle
+face. His presence had always filled me with awe, and that night it
+was especially so, for he was coming as a holy man. He entered the
+room where the baby lay, and took a seat, hardly noticing any
+one. There was silence saving only for the tinkling of the little
+till ornaments on his medicine-bag. He began to speak:
+"A soul has departed from this house, gone to the spirit-land. As I came I
+saw luminous vapor above the house. It ascended, it grew less, it
+was gone on its way to tbe spirit-land. It was the spirit of the
+little child who is sick; she still breathes, but her spirit is
+beyond our reach. If medicine will ease her pain, I will do what I
+can."</p>
+        <p xml:id="decora_sick_13018">He stood up and blessed tile four cor-<pb xml:id="decora_sick_13017" n="448"/>ners of the earth
+with song. Then, according to the usual custom of medicine-doctors, he began
+reciting the vision that had given him the right to be a medicine-
+man. The ruling force of the vision bad been in the form of a
+bear. To it he addressed his prayer, saying: " Inasmuch as
+thou hast given me power to cure the sick, and in one case allowing me
+to unite spirit and body again, if thou seest fit, allow me to recall
+the spirit of this child to its body once more." He asked that
+the coverings be taken off the baby, and that it be brought into
+the middle of the room. Then, as he sang, he danced slowly around
+the little form. When the song was finished, he blessed the
+child, and then prepared the medicine, stirring into water some
+ground herbs. This he took into his mouth and sprinkled it over the
+little body. Another mixture he gave her to drink.</p>
+        <p xml:id="decora_sick_13019">Almost instantly there was a change; the little one began to breathe
+more easily, and as the night wore on she seemed to suffer
+less. Finally she opened her eyes, looked into mother's face,
+and smiled. The medicine-man, seeing it, said that the end was near,
+and though he gave her more medicine, the spirit, he said, would
+never return.</p>
+        <p xml:id="decora_sick_13020">After saying words of comfort, he took his departure, refusing to
+take a pony and some blankets that were offered him, saying that he
+had been unable to hold the spirit back, and had no right to accept
+the gifts.</p>
+        <p xml:id="decora_sick_13021">The next morning I found the room all cleared away, and my mother
+sat sewing on a little white gown. The bright red trimming caught
+my eye. I came to her and asked, "Please mother, tell me for whom is
+that, and why do you make it so pretty?" She made no answer, but bent
+over her work. I leaned forward that I might look into her face and
+repeat my question. I bent down, and, oh! the tears were falling fast
+down her cheeks. Then we were told that our little sister was gone to
+the spirit-land, and we must not talk about her. They made us look
+upon her. We felt of her and kissed her, but she made no
+response. Then I realized what death meant. Remorse again seized me,
+but I was silent.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

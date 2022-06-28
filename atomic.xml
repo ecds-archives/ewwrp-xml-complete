@@ -1,0 +1,1370 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="atomic_130211">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title><seg type="short-title">The Atomic Poems</seg> of Margaret (Lucas) Cavendish,
+	   Duchess of Newcastle, from her Poems, and Fancies, 1653, an
+	   electronic edition.  Edited with an introduction by Leigh Tillman Partington</title>
+        <author>
+          <name type="person"><choice><reg>Newcastle, Margaret Cavendish, Duchess of, 1624?-1674</reg><orig>Margaret Cavendish</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Leigh Tillman Partington</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>200kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="atomic_1301">1996 Emory University.  Permission is granted to download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For enquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory Univeristy, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/179qb</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>The Atomic Poems of Margaret (Lucas) Cavendish, Duchess of Newcastle, from her Poems, and fancies, <date>1653</date></bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="atomic_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early Modern through the 18th Century</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Edited</rs>
+        <rs type="genre">Poetry</rs>
+        <rs type="geography">Great Britain</rs>
+        <date>1600-1699</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Women and literature--England--History--17th Century.</item>
+            <item>Science fiction--Women authors.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1997</date><label>staff</label><name>Hamilton Carroll</name>Tagged according to TEI Lite conventions</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="atomic_130210">
+    <body xml:id="atomic_130208">
+      <div xml:id="atomic_000" type="critical_introduction">
+        <div xml:id="atomic_001" type="Introduction">
+          <docAuthor>Partington, Leigh Tillman. </docAuthor>
+          <head>Introduction to <title>The Life and Works of Margaret (Lucas) Cavendish</title></head>
+          <div xml:id="atomic_002" type="Introduction">
+            <p xml:id="atomic_1303">Margaret Lucas was born in 1623, the youngest of the
+	       eight children born to Thomas Lucas and Elizabeth
+	       Leighton Lucas.<ref target="#atomic.008.n1">1</ref><note xml:id="atomic.008.n1" n="1" place="end" type="ed">The
+	       biographical information included in this section,
+	       unless otherwise noted, has been drawn from: Mendelson,
+	       Sara Heller. <hi rend="italic">The Mental World of
+	       Stuart Women: Three Studies</hi>. Amherst: U
+	       Massachusetts P, 1987. The lengthiest treatment of
+	       Cavendish's life is found in: Grant, Douglas. <hi rend="italic">Margaret the First: A Biography of
+	       Margaret Cavendish, Duchess of Newcastle
+	       1623-1673</hi>. London: Rupert Hart-Davis, 1957. Grant
+	       and Mendelson offer valuable information on the life of
+	       Cavendish; however, they both pull quotations from
+	       Cavendish's creative work and present them as
+	       autobiography, an approach which I feel is
+	       problematic. My biographical sketch of Cavendish relies
+	       on Mendelson, and to a lesser extent Grant, insofar as they present facts not dependent on this approach.</note> The Lucas family had been in the process of upward mobility, yet a double scandal in Thomas Lucas's youth effectively halted the family's progression. In 1597, Thomas Lucas had killed a relative of Lord Cobham in a duel and was forced to flee to France. Elizabeth Leighton was pregnant by Lucas at the time of the duel, and his exile caused their first child to be born out of wedlock. When Lucas could finally return safely to England, he married Elizabeth, but the damage was done. Their oldest son was disbarred from inheriting his father's estate and, as Sara Heller Mendelson points out, although "[a] list of Essex royalists drawn up in 1643 ranked the Lucas rentals second in the county. . . . the same list accorded the Lucas family only sixth place in social standing" (12).</p>
+            <p xml:id="atomic_1304">Thomas Lucas died in 1625, and Elizabeth took over the family, running the estate in joint supervision with her second oldest son, John. One of her first actions was to attempt to have her poor rates reduced, an action which did not endear her to the peasants living on her land. Elizabeth arranged marriages for her children outside the county, preferring the children of courtiers and businessmen to the local gentry. This isolation affected young Margaret Lucas in two ways.</p>
+            <p xml:id="atomic_1305">First of all, her social skills were very undeveloped. Since the family was not on friendly terms with the local gentry, Margaret must have missed ample opportunities to mix with others of her social class and learn from childhood the intricate set of social codes and customs practiced by the upper classes. She was also shy; again, perhaps from not having contact with many people besides her own family. Since her brothers and sisters married out of the county, she did not see much of her extended family either.</p>
+            <p xml:id="atomic_1306">The second effect was a series of "riots" during 1640 and 1641, based on the political and religious tensions which would soon erupt in civil war. The Lucas family was staunchly Royalist and High Church, and were the targets of these riots. The worst came in August of 1642, when the manor house was looted, and John and Elizabeth nearly lynched by a local mob, stirred to riot by the rumor that John had horses and arms intended for Charles I hidden on his estate. According to accounts of the riot, at least one of John's sisters was a witness to these events, and that sister may very well have been Margaret, the youngest. Mendelson suggests that these riots, and the alienation of her family from the local gentry, culminated in Margaret Lucas's "lifelong hostility toward the local populace" (Mendelson 16).<ref target="#atomic.008.n2">2</ref><note xml:id="atomic.008.n2" n="2" place="end" type="ed">See <hi rend="italic">The Mental World of Stuart Women</hi> (Amherst: U Massachusetts P, 1987, pages 12-61) for Mendelson's complete discussion of Margaret Cavendish. I believe that Mendelson offers a thorough explanation of Margaret (Lucas) Cavendish's adult personality, and agree with her assessment that many of Cavendish's perceived eccentricities, which resulted in her being labelled "the Mad Duchess ofNewcastle," were in fact the result of her awareness of her social ineptitude, her painful shyness, and her sense of isolation.</note></p>
+            <p xml:id="atomic_1307">The most important event of Margaret Lucas's young life, occurred, however, when she successfully petitioned her mother to allow her to join the court as a Maid of Honor to Queen Henrietta Maria. Margaret was not a success in court, the intrigues and etiquette so essential to court life being beyond her realm of experience. To make matters worse, her mother, perhaps still suffering the shame of having borne an illegitimate child, filled her daughter's head with dire warnings of immodest behavior and how it could ruin your life. Young Margaret, having no real perspective on what was considered modest or immodest, simply kept her eyes on the floor and spoke only when necessary. She made one attempt to retract her error and leave the court for the safe isolation of home, but Elizabeth decided it would be less embarrassing for Margaret to stay and be considered odd than to leave altogether. When the Civil War erupted, Margaret fled to Paris with Henrietta Maria and her court. In Paris, Margaret's beauty and modesty (shyness) attracted the attention of William Cavendish, Marquis of Newcastle.</p>
+            <p xml:id="atomic_1308">Newcastle was thirty years older than Margaret Lucas, and had a reputation as a womanizer. He headed one of the twenty richest families in England, served in Charles I's Privy Council, and acted as governor to Prince Charles for three years. He had raised an army for Charles I, for which he was dubbed "Marquis." Virginia Woolf, in her essay "The Duchess of Newcastle," summed up Newcastle's military career: "[he] led the King's forces to disaster with indomitable courage but little skill" (71). The disaster occurred in 1644 at Marston Moor, when Oliver Cromwell routed the Royalist troops. Newcastle fled England, arriving at the court in Paris, where he eventually sought out Margaret Lucas, having known her brother Sir Charles Lucas in the military. Despite Margaret's lack of social skills, she managed to avoid being prematurely seduced by the dashing Marquis, and, in fact, held off his advances in just the coy manner required to assure his falling completely in love with her. They married in 1645, despite the general opinion of the court that the Marquis of Newcastle was marrying beneath him (Bazeley 1).</p>
+            <p xml:id="atomic_1309"> Earlier in his life, Newcastle had married a rich widow, and had three daughters and two sons from his first marriage. He had also managed to spend most of his fortune, mostly in trying to increase his influence at court. The first seventeen years of his marriage to Margaret Lucas were spent in exile, moving from Paris, to Rotterdam, to Antwerp, living lavishly on credit. Newcastle's diligence paid off in some sense -- he was awarded a dukedom in 1665 for services rendered to the king (Bazeley 2).</p>
+            <p xml:id="atomic_13010">Newcastle, and his brother Sir Charles Cavendish, were both patrons of the arts and sciences. Sir Charles, in particular, was interested in science, and was a dedicated amateur mathematician. Newcastle was more serious about the training and breeding of horses than almost anything else, but his lavish and generous hospitality attracted a group of intellectuals to his table, and thus the Newcastle Circle was formed in Paris in the 1640s. During this time, Margaret Cavendish met and sat in on discussions with: Thomas Hobbes, René Descartes, Marin Mersenne, Pierre Gassendi, John Pell, Sir Kenelm Digby, and Sir William Petty (Bazeley 2). Her interest in science dates from this period, although she did not begin to write about science until 1652.</p>
+            <p xml:id="atomic_13011">After the battle of Worcester in 1651, when Cromwell defeated the Scots and, it seemed, any hopes for restoring Charles II to the throne, the financial situation of the Marquis of Newcastle looked bleak. Cavendish and her brother-in-law, Sir Charles, sailed for London in November. Sir Charles was to travel to England to compound for William's lands, and Margaret went along to petition, as the dependent of a delinquent, for a share of the Newcastle estate (Mendelson 28). While in London, she wrote and published her first book, the 1653 edition of <title>Poems, and Fancies</title>.</p>
+            <p xml:id="atomic_13012">Between 1653 and 1671, Cavendish published fourteen books about "atoms, matter and motion, butterflies, fleas, magnifying glasses, distant worlds, and infinity" (Merchant 270). She wrote poems, plays, philosophies, orations, and discourses (Woolf 69). Deborah Bazeley suggests, based on Patricia Crawford's study of the impact of the Civil Wars and the Interregnum on women's published writings, <ref target="#atomic.008.n3">3</ref><note xml:id="atomic.008.n3" n="3" place="end" type="ed">Patricia Crawford. "Women's Published Writings 1600-1700." <hi rend="italic">Women in English Society 1500-1800</hi>. Ed. Mary Prior. London: Methuen,1985.</note> that Cavendish was encouraged by the increasing number of publications by women during this time period:</p>
+            <p xml:id="atomic_13013">The half-decade 1646-50 produced the greatest number of women's first editions in any half-decade of the century. Equally important, the range of subjects addressed by women in print after the Civil War years broadened from the customarily "feminine" to include political controversy (pamphlets, petitions, feminist criticism) and instructional matter (almanacs, cookery books, herbals, medical texts) (2).</p>
+            <p xml:id="atomic_13014">Despite this surge in women's writing, Cavendish was the only woman who "dared to speculate publicly in print on the most relevant scientific issues of the day"<ref target="#atomic.008.n4">4</ref><note xml:id="atomic.008.n4" n="4" place="end" type="ed">Deborah Bazeley points out that the only other woman writing extensively on scientific theory was Anne Finch, Viscountess of Conway (1631-1679): "Although Finch's writings circulated in manuscript form among the Cambridge Platonists, and her theories were espoused by the likes of Francis von Helmont and Leibniz, only one of her works (Principles of the Most Ancient and Modern Philosophy) was ever published. Translated into Latin and edited by her friend van Helmont, it was first published posthumously (and anonymously) in Amsterdam; two years later it was retranslated into English and published in London as the work of an (again anonymous) English countess 'learned beyond her sex.' Carolyn Merchant has written extensively on Finch and the significance of her scientific thought, contending that Leibniz's concept of the 'monad' derives from Finch's work. Jane Duran has recently supplemented Merchant's study with a follow-on piece contrasting Finch's version of monistic vitalism with Descartes' epistemology and metaphysics. Duran argues the 'superiority' of Finch's theory in numerous areas. Finch's New Science doctrine is at key points startlingly similar to that of Margaret Cavendish, and systematic comparison of their similarities and differences in articulating themes central from that point on to feminist philosophy could prove fascinating. Notably, certain key themes broached by Cavendish and Finch resurface at century end in the writings of the next feminist generation, in particular Damaris Cudworth Masham (1659-1708).. . . Even with the proliferation of 'she-philosophers' dating from about the 1690s on, there were, significantly, no further original contributions by English women in the field of scientific theory during the seventeenth century, and none at all during the first half of the eighteenth century" (Bazeley cf. 3).</note> (Bazeley 3). She published voluminously, despite the fact that her education had not been rigorous.</p>
+            <p xml:id="atomic_13015">Many of Cavendish's creative works contain references to the lack of education for women, and many of her female characters long for a "male" education in the arts and sciences. Mendelson selects a number of quotations from these works and presents them as autobiographical; although I question her practice, I find the quotations interesting enough to include a few here : "As for tutors, although we had for all sort of Vertues, as singing, dancing, playing on Musick, reading, writing, working [i.e. needlework] and the like, yet we were not kept strictly thereto, they were rather for formalitie than benefit" (14). Mendelson goes on to note that "[r]eading and writing were taught by an 'ancient decay'd gentlewoman' whose incompetence Margaret blamed for her own 'ill hand' and extraordinary orthography" (14).</p>
+            <p xml:id="atomic_13016">Douglas Grant also addresses the shortcomings of Cavendish's education, and the subsequent effect on her writing:</p>
+            <p xml:id="atomic_13017">Once they were unkindly pointed out, she excused herself for her many errors by generally asserting that it was rather by the spirit than by the form that any work should be judged; or she offered separate excuses for particular faults. As for spelling, she admitted that she could not spell and thought it was "against nature for a woman to spell right"; and as for grammar, she confessed that she was unable to understand it, but that the little she did know was enough to make her "renounce it"(112).</p>
+            <p xml:id="atomic_13018">The issue of women's writing, and women's education, during the seventeenth century, is complex. <ref target="#atomic.008.n5">5</ref><note xml:id="atomic.008.n5" n="5" place="end" type="ed">The list of books and articles dealing with this topic is far too lengthy to be included here. A brief list of helpful books, both in terms of content and bibliography, would include Beilin, Fraser, Haselkorn and Travitsky, Henderson and McManus, Stone, Warnicke, and Wilson.</note> Although Renaissance humanists like Sir Thomas More advocated education for women, it was mainly to ensure that they could tutor their children properly (male children particularly, of course.) Lawrence Stone points out that:</p>
+            <p xml:id="atomic_13019">As a result of this active propaganda by influential English Humanists educators, there appeared for a short time a handful of aristocratic women who were as expert as men in classical grammar and language. . . . [however, i]n 1561 there appeared in translation Castiglione's <title>The Courtier</title>, which put forward a different ideal of womanhood, one who had a sprinkling of letters, but whose prime qualities were now the social graces -- skill in music, painting, drawing, dancing and needlework. This new courtly ideal, and the Protestant, especially Puritan, ideal of the woman as the docile housewife, the diligent upholder of holy matrimony in a subservient role to the husband, spelt the end of the learned lady. . . . To the late seventeenth-century playwrights, would-be learned ladies like the Duchess of Newcastle became figures of fun, to be satirized and ridiculed for their pedantic and unattractive folly (143).<ref target="#atomic.008.n6">6</ref><note xml:id="atomic.008.n6" n="6" place="end" type="ed">Stone's example is not an unusual one. In my research for this project, I have found Margaret Cavendish named as an example of a ridiculous learned lady more often than any other. Again, I think Mendelson's chapter on Cavendish takes positive steps toward dismissing the "mad Duchess" myth, but finally, it is only in the criticism which considers Cavendish as an important part of the history of science (Bazeley and Sarasohn) that Cavendish is presented as having a completely sane, albeit imaginative and curious, mind.</note></p>
+            <p xml:id="atomic_13020">The story of women writing mirrors that of their
+	       education. Women began by writing and translating
+	       religious works, and slowly branched into a few other
+	       areas -- religious poetry, memorial poetry, prose
+	       prayers, meditations, confessions, and professions of
+	       faith metamorphosed into treatises on motherhood,
+	       breast feeding, prefaces, defenses of a woman's right
+	       to write, preach, and learn, and finally, into
+	       imaginative literature, including masques, closet
+	       drama, plays, long poems, and fictional prose.<ref target="#atomic.008.n7">7</ref><note xml:id="atomic.008.n7" n="7" place="end" type="ed">This list is drawn in part from the genres included in Travitsky's <hi rend="italic">The Paradise of Women: Writings by Englishwomen of the Renaissance</hi>.</note> When women wrote, they prefaced their work with apologies for writing. The convention of this apologetic preface is apparent in Poems, and Fancies. The volume begins with "The Epistle Dedicatory: To Sir Charles Cavendish, My Noble Brother-in-law" and, in asking for Charles's protection, Cavendish writes:</p>
+            <p xml:id="atomic_13021">True it is, Spinning with the Fingers is more proper to our Sexe, then studying or writing Poetry, which is the Spinning with the braine: but I having no skill in the Art of the first (and if I had, I had no hopes of gaining so much as to make me a Garment to keep me from the cold) made me delight in the latter; since all braines work naturally, and incessently, in some kinde or other; which made me endeavour to Spin a Garment of Memory, to lapp up my Name, that it might grow to after Ages: I cannot say the Web is strong, fine, or evenly Spun, for it is a Course peice; yet I had rather my Name should go meanly clad, then dye with cold. . . ( see Appendix A, page A3-A3v).</p>
+            <p xml:id="atomic_13022">However, when faced by fourteen volumes of Cavendish's published work one might conclude that her apologies for writing are strictly a formality. The fact that women are writing much more these days, as noted by Bazeley and Crawford, is reflected in the next dedication in Poems, and Fancies, "To all Noble, and Worthy Ladies":</p>
+            <p xml:id="atomic_13023">Condemne me not as a dishonour of your Sex, for setting forth this Work; for it is harmlesse and free from all dishonesty; I will not say from Vanity: for that is so naturall to our Sex,as it were unnaturall, not to be so. Besides, Poetry, which is built upon Fancy, Women may claim, as a worke belonging most properly to themselves: for I have observ'd, that their Braines work usually in a Fantasticall motion . . . For all I desire, is Fame, and Fame is nothing but a great noise, . . . wherefore I wish my Book may set a worke every Tongue. But I imagine I shall be censur'd by my owne Sex; and Men will cast a smile of scorne upon my Book, because they think thereby, Women incroach too much upon their Prerogatives; for they hold Books as their Crowne . . . Therefore [ladies] pray strengthen my Side, in defending my Book; for I know Womens Tougns are as sharp, as two-edged Swords, and wound as much, when they are anger'd. And in this Battell may your Wit be quick, and your Speech ready, and your Arguments so strong,as to beat them out of the Feild of Dispute. So shall I get Honour.. . (A4-A4v).</p>
+            <p xml:id="atomic_13024">Unlike her contemporaries, Cavendish does not excuse her writing by claiming "maternal or religious altruism" (Mendelson30). She admits frankly that she desires "Fame," a most immodest ambition for a seventeenth-century woman.<ref target="#atomic.008.n8">8</ref><note xml:id="atomic.008.n8" n="8" place="end" type="ed">For a more complete discussion of the idea of women writing as "masculine" and  "immodest," see Mendelson's section "Writing as a Vocation" in her chapter on Cavendish in <hi rend="italic">The Mental World of Stuart Women</hi> (pages 34-45).</note> Cavendish also acknowledges that men feel threatened by women writing, but hopes that other women will defend her right to publish. She employs several rhetorical strategies to defend herself. She claims that poetry is a fanciful genre, and therefore a natural outlet for women's fanciful brains. Thus, Cavendish uses the popular belief that women are intellectually inferior to men to "excuse"her writing. By this same argument that poetry is fanciful, Cavendish will excuse any errors in her scientific theory: ". . . the Reason why I write [Poems, and Fancies] in Verse, is, because I thought Errours might better passe there, then in Prose, since Poets write most Fiction, and Fiction is not given for Truth, but Pastime" (B3).</p>
+            <p xml:id="atomic_13025">Grant conjectures that Cavendish "was always in such hot pursuit of the idea that to pause was unbearable, and rather than correct what she had composed, she let it pass in the hope that errors had been avoided by instinct" (112). Grant supports this idea with a quotation from Cavendish's Life: "for besides that I want also the skill of scholarship and true writing, I did many times not peruse the copies that were transcribed, lest they should disturb my following conceptions; by which neglect. . . many errors are slipped into my works" (Life B qtd.Grant 112). Because of these errors, Cavendish chose to express her early scientific writings, as she says, in Verse.</p>
+            <p xml:id="atomic_13026">Grant also offers a brief but thorough examination of Cavendish's theory of poetry. He finds five earlier poets mentioned by name in her works: Ovid, Shakespeare, Jonson, Donne, and Davenant; he assumes "that she had also read Spenser, Daniel, and Drayton"(113). In The Worlds Olio, Cavendish writes that Poetry:</p>
+            <p xml:id="atomic_13027">is the finest work that Nature hath made for it animates the spirits to devotion, it fires the spirits to action, it begets love, it abates hate, it tempers anger, it assuageth grief, it easeth pain, increaseth joy, allays fear, and sweetens the whole life of man, by playing so well upon the brain as it strikes the strings of the heart with delight, which makes the heart to dance and keep the mind in tune, whereby the thoughts move equally in a round circle where Love sits in the midst as mistress, and judges (The Worlds Olio 65 qtd. Grant 111).</p>
+            <p xml:id="atomic_13028">Grant also quotes from Sociable Letters, where Cavendish describes poets and philosophers as being one and the same, the wisest of men, "having so deep an insight as to pierce even into the secrets of nature" and the happiest, "having all the delights of the mind" (Sociable Letters 21-22 qtd. Grant111). This rapturous art seems far from the realm of "fancy" suitable for women writers Cavendish describes at the beginning of Poems, and Fancies. Perhaps her definition of poetry has changed,or perhaps she felt that strongly about the powers of poetry from the beginning.</p>
+            <p xml:id="atomic_13029">Cavendish returned to Antwerp before the publication of Poems,and Fancies, her reason being that could no longer bear to be apart from Newcastle. Perhaps she felt apprehensive about the book's reception. <title>Poems, and Fancies</title> did cause a sensation. Dorothy Osborne, who disliked Cavendish because of her somewhat eccentric behavior and dress, wrote to William Temple on April 14th, 1653: "And first let me ask you if you have seen a book of Poems newly come out, made by Lady Newcastle. . . . for god sake if you meet with it send it me, they say 'tis ten times more extravagant than her dress" (Grant 126).</p>
+            <p xml:id="atomic_13030">Sir Charles died in 1654, and his death brought some financial relief to Newcastle and Cavendish. Both indulged in publishing "lavish" editions of their work. The first edition of Newcastle's book of horsemanship cost £1,300 to print; Cavendish published five books between 1653 and 1656 (Mendelson 39). In 1659, with the Restoration of Charles II to the throne, the Marquis and the Marchioness returned to England. Newcastle found his influence at court greatly reduced; Charles II preferring to surround himself with younger, less morally restrained courtiers. Although Newcastle was deeply hurt by his exclusion from court matters, he made the best of the situation. He petitioned to have his estates restored, and having succeeded, retired to the country with Margaret. Immersed in their writing, their estate, and their happy marriage, they seldom left the country from that time forward.</p>
+            <p xml:id="atomic_13031">There is one further incident in the life of Cavendish which deserves description, particularly since she is possibly more famous as the first woman to visit the Royal Society than she is as a writer. Newcastle and Cavendish took an extended trip to London in the spring of 1667, and Cavendish asked the Royal Society if she might be allowed to visit (Mendelson 45). The Royal Society had been formed in 1662 as a Baconian institution and a forum for experiments and essays to be shared by its members. The Society was, of course, all male, but after much debate, they invited the now-Duchess of Newcastle to their May 23rd meeting. Cavendish's many volumes on natural science were not seen as a reason to invite her; in fact, Mendelson suggests that she was invited in spite of her writing (46). Her rank, and the fact that Newcastle had many influential friends in the Society, assured her invitation. Cavendish was escorted to the Society meeting by Newcastle's friends Lord Berkeley and the Earl of Carlisle. Her dress was embellished by a train so long that six maids had to carry it in (Mendelson 46). Samuel Pepys, who had been racing around London for several days trying to catch a glimpse of the famous recluse, was disappointed by her appearance, and the fact that she said nothing except to express her admiration (47). The experiments which the Society had arranged for that day included the weighing of air, the dissolution of mutton in sulfuric acid, the demonstration of the power of a sixty-pound magnet, Robert Boyle illustrating his theory of colors, and Robert Hooke demonstrating his microscope (Mendelson 47).</p>
+            <p xml:id="atomic_13032">Three hundred years would pass before the Royal Society invited another woman to visit one of their meetings.</p>
+            <p xml:id="atomic_13033">Mendelson suggests that the visit had a profoundly negative effecton Cavendish:</p>
+            <p xml:id="atomic_13034">The year before, in the preface to <title>Observations Upon Experimental Philosophy</title>, Margaret had asserted that Hooke's microscopic investigations set forth in his <title>Micrographia</title> were the product of delusions. But the testimony of her own eyes proved that her methodology of "rational conjecture" was mistaken. . . . Margaret made her last attempt at a comprehensive synthesis of her theories in <title>Grounds of Natural Philosophy</title> (1668), a much revised version of <title>Philosophical and Physical Opinions</title> (1655). But after her visit to the Royal Society Margaret's succeeding scientific publications were second or third editions, not original works: she printed no new revelations on natural philosophy (47-48).</p>
+            <p xml:id="atomic_13035">Mendelson does admit, eleven pages later, that Cavendish's chief occupation during the last years of her life was the management of her husband's estate, rather than science (59). Cavendish suffered from amenorrhea and melancholy, and despite her doctor's advice to the contrary, she bled herself regularly as treatment for these two conditions. This habit of bleeding might have hastened her death, and would have weakened her considerably in her later years. Regardless, Cavendish died in December of 1673, at age fifty. Newcastle outlived her by three years.</p>
+          </div>
+          <div xml:id="atomic_003" type="Section">
+            <head>The New Science and Cavendish</head>
+            <p xml:id="atomic_13036">In order to fully understand Cavendish's atomic poems, one must understand the state of science in the seventeenth century. Reading the poems in the light of twentieth century science renders them ridiculous, and supports the idea that Cavendish was mentally unstable. A brief overview of the science of the times, however, allows a more contemporary reading of Cavendish.</p>
+            <p xml:id="atomic_13037">The Scientific Revolution was a revolution in both thought and methodology. European science in the fifteenth and sixteenth centuries had been heavily involved in alchemy, astrology, and magic.<ref target="#atomic.008.n9">9</ref><note xml:id="atomic.008.n9" n="9" place="end" type="ed">The information in this introduction to Renaissance and Reformation science, unless otherwise noted, has been drawn from notes from Maxine van de Wetering's course in the History and Philosophy of Science, April 12th - May 5th, 1994.</note> The Renaissance brought about the dissolution of boundaries, as exemplified by the quintessential Renaissance man, Leonardo da Vinci. da Vinci was not a good scientist by modern standards because he left behind no inventions, no scientific theory, no mathematical innovations. What da Vinci did have was a brilliant scientific imagination and instinct, and the patience to observe the world around him very carefully. One legacy he bequeathed to later science was the method of scientific illustration (Gardner 530). He left behind notebooks filled with sketches and conjectures on every subject: hydraulics, aerodynamics, anatomy, medicine, optics, meterology, architecture, sculpture, perspective, light, color, mechanics, botany, geology, zoology, and military engineering. In terms of the history of art, his application of mathematics and geometry to painting resulted in innovations in linear perspective and aerial perspective. He also reintroduced and refined the fifteenth century technique of chiaroscuro, the play of light and shadow(Gardner 527).</p>
+            <p xml:id="atomic_13038">One other lasting legacy da Vinci left to modern science was the idea of the centrality of motion. After having read Galen, da Vinci became obsessed with the idea of motion -- almost all of his sixteenth century drawings portray objects or humans in motion. Although today we may think of da Vinci primarily as a painter, he is very important to the understanding of Margaret Cavendish, and the Scientific Revolution. He dabbled in all areas of intellectual interest and allowed his knowledge of one field to influence another (his observations of optics and light are applied to painting, for example); and, his vivid imagination allowed him to dissolve the boundaries between disciplines and encouraged him to range freely through all the areas of life in which he felt interest.</p>
+            <p xml:id="atomic_13039">Paracelsus, a sixteenth-century Swiss alchemist, is another figure from the Renaissance who crossed boundaries; in his case, the boundary between chemistry and medicine. Until Paracelsus, chemistry was an occult science, used mainly in the alchemists' search for the Philosopher's Stone, the element so much purer than gold that it could raise any other substance to the perfection of gold. Paracelsus believed "in the existence of one undiscovered element common to all, of which the four elements of the ancients were merely derivative forms. This prime element of creation Paracelsus termed alkahest, and he maintained that if it were found, it would prove to be the philosopher's stone, the universal medicine, and the irresistible solvent" (<title>Encarta</title>). In his search for alkahest, Paracelsus combined alchemy, medicine, astrology, philosophy, and chemistry. His mystical philosophy was written in the vernacular, and so became very popular. Paracelsus connected the known planets to known minerals to known human organs, creating definitive correlations between the celestrial and terrestrial spheres. His only important contribution to modern medicine was the combination of mineralology and medicine, but again, by looking at Paracelsus, one sees that science had no defined boundaries in this time period, and imagination was an accepted part of the scientist's method. This idea of change leads into Carolyn Merchant's discussion of the shifting of the metaphors of science in the seventeenth century.<ref target="#atomic.008.n10">10</ref><note xml:id="atomic.008.n10" n="10" place="end" type="ed">What follows is a very brief description of one of Merchant's main points, that the changing scientific method in the seventeenth century brought about not only a metaphoric shift in language, but a change in how we perceive and employ our environment. Merchant argues that our current environmental crises stemmed from this seventeenth century shift. <hi rend="italic">The Death of Nature: Women, Ecology, and the Scientific Revolution</hi> provides an in-depth analysis of these connections.</note></p>
+            <p xml:id="atomic_13040">Merchant begins her discussion just prior to the Scientific Revolution: "for sixteenth-century Europeans the root metaphor binding together the self, society, and the cosmos was that of an organism. . . "(1). Humans looked on their world as a system, which they usually personified into a nurturing female, i.e. Mother Earth and Mother Nature. As technology changed, however, so did language:</p>
+            <p xml:id="atomic_13041">The metaphor of the earth as a nurturing mother was gradually to vanish as a dominant image as the Scientific Revolution proceeded to mechanize and to rationalize the world view. The second image, nature as disorder, called forth an important modern idea, that of power over nature. Two new ideas, those of mechanism and of the domination and mastery of nature, became core concepts of the modern world. . . . Society needed these new images as it continued the processes of commercialism and industrialization,which depended on activities directly altering the earth . . .(2).</p>
+            <p xml:id="atomic_13042">Capitalism and colonialism, plus the explosion of technological advancements, caused man<ref target="#atomic.008.n11">11</ref><note xml:id="atomic.008.n11" n="11" place="end" type="ed">I use the word "man" deliberately. Women were not responsible for national, or international, policy in the seventeenth century any more than they are at the end of the twentieth.</note> to look at the earth and the environment as something to be exploited, rather than something to be cherished.</p>
+            <p xml:id="atomic_13043">Johannes Kepler felt the need for a metaphoric shift; he wrote in 1605 that he intended to "show that the celestial machine is to be likened not to a divine organism but to a clockwork "(Merchant 128). This overall tendency toward discussing science in terms of manipulation and machinery was reinforced by the empiricist exhortations of Francis Bacon. Although not everyone adopted Bacon's hands-on approach, our modern scientific method did develop during the Scientific Revolution, as did the strangely sexual language of the laboratory, "language still used today in praising a scientist's 'hard facts,' 'penetrating mind,' or the 'thrust of his argument'" (Merchant 174). Merchant also discusses the newly emerging body of New Science imagery which posits "nature as a feminine Other, in an adversarial relation of opposition to the male scientist" (Bazeley 151).</p>
+            <p xml:id="atomic_13044">Deborah Bazeley continues this argument by citing a quotation from a letter to Margaret Cavendish from the Master and Fellows at St. John's College, Cambridge: "We men find Nature and Truth very coy and sullen, alas how we vex, persecute, and chase her, who yet still outruns us. . . . But she willingly shews herself all bare and naked to your Grace (Bazeley 151). Peep-show implications aside, Bazeley suggests that the male scientist in the seventeenth century "perceived himself fairly consistently as nature's would-be 'master' (often 'rapist'), seeking ultimately to appropriate nature's power and render 'her' duly subservient to God and man" (151). Cavendish, however, escapes this masculinization of science,and explains her idea of Science as a more courtly process.</p>
+            <p xml:id="atomic_13045">Cavendish's Nature is feminine, as we see in the first line of the first poem of Poems, and Fancies: "When Nature first this World she did create" (Appendix A C2). But, as Bazeley points out, the difference is that Cavendish is also a female, and therefore not "Other" than Nature, but "Same"(151); thus Cavendish's portrayal is based on terms familiar to her; she "imagined the (still male) scientist as nature's 'Platonic Lover' (Orations 161). Her ideal scientist sought .. . 'to be acquainted with nature, and to observe the course of her works, yet in a humble and respectful manner' (1655 Philosophical and Physical Opinions A2)" (Bazeley 153).</p>
+            <p xml:id="atomic_13046">These differences in language cannot rescue Cavendish from the theological debate surrounding New Science. In 1633, the Church proved just how seriously it considered science when it imprisoned Galileo, who was in his seventies, until he withdrew his support of the Copernican, heliocentric universe. In the selection of poems which appear in this edition, God is mentioned only in "Of the Subtlety of Motion:"</p>
+            <lg type="stanza">
+              <l>COuld we the severall Motions of Life know,</l>
+              <l>The Subtle windings, and the waies they go:</l>
+              <l>We should adore God more, and not dispute,</l>
+              <l>How they are done, but that great God can doe't.</l>
+              <l>But we with Ignorance about do run, [5]</l>
+              <l>To know the Ends, and how they first begun.</l>
+              <l>Spending that Life, which Natures God did give</l>
+              <l>Us to adore him, and his wonders with,</l>
+              <l>With fruitlesse, vaine, impossible pursuites,</l>
+              <l>In Schooles, Lectures, and quarrelling Disputes. [10]</l>
+              <l>But never give him thanks that did us make,</l>
+              <l>Proudly, as petty Gods, our selves do take</l>
+            </lg>
+            <p xml:id="atomic_13047">(Appendix A E2v - E3).</p>
+            <p xml:id="atomic_13048">Cavendish clearly states that there are parts of God's creation that humans cannot understand, and shouldn't try to understand. She was particularly dismayed by the endless debating she saw taking place among different schools of thought, and expresses her disapproval again and again. In The Blazing World, for example, she describes all of the philosophers as animal-men: bear-men,worm-men, fish-men, bird-men, fly-men, fox-men, lice-men, magpie-men, etc. (World 261). In an argument with the bird-men, who are astonomers, the Empress of the Blazing World commands them to destroy their telescopes, as she blames their equipment for their differences in opinion. After hearing their defence, she allows them to keep their telescopes, "upon the condition that their disputes and quarrels should remain within their schools and cause no factions or disturbances in state or government" (269). Her vehemence may have stemmed from being a silent observer at those dinners in Paris. Although Cavendish did not speak or understand French, Sir Charles or Newcastle would have explained Descartes's ideas to her. Hearing all these brilliant scientific minds squabbling during the soup course might have led Cavendish to wonder what sort of answers they could come up with if they worked cooperatively rather than combatively. We will see this tendency toward unity reflected in much of Cavendish's work.</p>
+            <p xml:id="atomic_13049">The question of which parts of God's creation humans can understand becomes an issue both with Cavendish, and in any atomic theory. Critics have two opinions of the role of God in Cavendish's atomic theory, either that He isn't there at all, or that He is a given. Robert Kargon's brief digression concerning Cavendish concludes with the claim that her atomic theory was clearly atheist:</p>
+            <p xml:id="atomic_13050">that she admitted that atoms, of themselves, could make a world was near heresy. She compounded her seeming apostasy by adhering to very unorthodox ideas about the soul and about atheism. Like the ancient atomists (and Hobbes), Margaret held that the soul is corporeal, albeit rare and pure. . . . Lady Margaret evinced a tenderness towards atheism which was dangerous for one so closely tied to the suspect atomic philosophy.</p>
+            <p xml:id="atomic_13051">It is better to be an atheist [she wrote in 1650] than a superstitious man; for in Atheisme there is humanitie, and civility towards man to man; but superstition regards no humanity, but begets cruelty to all things, even to themselves.</p>
+            <p xml:id="atomic_13052">. . . [S]he obviously laid the atomists open to attack on the charge of impiety, a charge made more serious by the "excesses" of Hobbes (75-76).</p>
+            <p xml:id="atomic_13053">As I will point out again, Kargon associates Cavendish with Hobbes in several ways, and he faults her severely for thoughts and actions which actually mirror Hobbes' thoughts and actions. Lisa Sarasohn also identifies Cavendish's "atheism" as the shocking element in her writing:</p>
+            <p xml:id="atomic_13054">The duchess's system, although it may sound strange to modern ears, is not very different from the corpuscular philosophies advocated by Descartes, Hobbes, and Gassendi. The shocking element of Cavendish's atomism was the almost complete lack of theological qualifiers necessary to dissociate mechanism from the charge of atheistic materialism. . . . The duchess's atoms are eternal and infinite, two attributes which the proponents of corpuscular philosophy were careful to separate from their doctrines of matter, because in a Christian cosmology only God can be eternal and infinite. Furthermore the atoms, as the duchess described them, seem to act out of their own volition; whether they are ordered by God is left a very open question. . . .</p>
+            <p xml:id="atomic_13055">This casual attitude toward divine providence is complemented by similar neglect of the concept of the immortal soul: the soul the duchess describes is material, although she suggests it can somehow continue after death. . . .This heterodoxy was emphasized when she suggested that there are an infinity of worlds, probably populated, not only outside our world, but inside it as well (291).</p>
+            <p xml:id="atomic_13056">Other critics do not accuse Cavendish of atheism. Instead, they locate God outside the text. Bazeley suggests that Cavendish's removal of God from the "realm of inquistive speculation" reflected her piety rather than her disbelief:</p>
+            <p xml:id="atomic_13057">Her reliance on the teachings of " the Orthodox Church" rather than "the opinions of particular persons" (herself included) for the "tru interpretation" of God's word resulted from the usual political imperatives. Too many opinions, Cavendish felt, "being so different and various," would leave the people "puzzled which to adhere to" (Philosophical Letters 210). As a result, structures of authority in social and political matters would be undermined. Cavendish was certain that the recent Civil War had been the horrific result of following too "many pathes" in theology (1655 Philosophical and Physical Opinions A1v). Because of the "dangerous" political repercussions of religious dissent, and her dread of contributing to it, Cavendish was deathly "afraid to meddle with Divinity in the least thing" (Philosophical Letters 316). Indeed, she wrote, "if I knew that my Opinions should give any offence to the Church, I should be ready every minute to alter them"(Philosophical Letters 17). . . . In her world, faith in God was simply a given; Cavendish refused to be troubled by questions of what, how, or why (63-64).</p>
+            <p xml:id="atomic_13058">This interpretation seems very logical; it dovetails nicely with our earlier discussion of Cavendish's dislike for debate among scientists. She believed in strength through unity, and this belief is also reflected in her atomic theory, as we shall see shortly. Bazeley, incidently, also cites the "It is better, to be an Atheist" quotation, as an instance of Cavendish being unaware that she was being inflammatory. While the other English atomists were carefully Christianizing their theories, Cavendish was not, either because she was oblivious to the consequences,or because she assumed everyone knew she was a pious woman. It seems to me that one of Cavendish's weaknesses is that she simply does not think things through; for example, she changes her mind about atomic theory within eight months of publishing Poems, and Fancies. The "Atheist" quotation might have been a passionate, immediate response to a number of things: Giordano Bruno's martyrdom at the hands of the Church in 1600, Galileo's imprisonment by the Inquisition, the continuing execution of women accused of "witchcraft."</p>
+            <p xml:id="atomic_13059">Margaret Alic interprets Cavendish's theology as a well-calculated omission on the writer's part:</p>
+            <p xml:id="atomic_13060">unlike many seventeenth-century science writers, Margaret seldom mixed theology with her hazy natural philosophy. At the conclusion of Philosophical and Physical Opinions she explained that matter and motion expressed God's Divine Plan, but that the Deity would remain incomprehensible and was therefore of no concern to scientists. In the following centuries many natural philosophers would adopt similar arguments to avoid religious controversy (84).</p>
+            <p xml:id="atomic_13061">As mentioned, this question of atheism arises in any atomic theory. Before discussing the specifics of Cavendish's atomic theory, a sketch of the state of atomic theory in her lifetime may be helpful.</p>
+            <p xml:id="atomic_13062">The atom was an important construct in seventeenth-century England, and one of the most important texts on atomism was the Physica Peripatetica by Johannes Magirus, which Newton studied during his days at Cambridge (Kargon 1). To summarize briefly, according to Magirus, matter exists as four elements (air, earth, fire, and water) and each element is associated with "manifest qualities," which are evident to the eye, and "obscure qualities" which are not easily classified, such as magnetism and electrical attraction. Manifest qualities fall into two categories: Primary (hotness, wetness, coldness, dryness) and Secondary, which implies a mix of various qualitites (color, odor, taste, rarity, density, levity, gravity, hardness, and softness) (Kargon 2).</p>
+            <p xml:id="atomic_13063">Also popular was the Corps de philosophie by Scipion du Pleix. du Pleix followed the Aristotlean division of matter into prime matter and secondary matter. Prime matter cannot be found in nature; it can be found only by reason. Secondary matter exists only in nature. du Pleix also offers four elements which make up secondary matter, and these four elements are formed from combinations of four primary qualities in matter (heat, cold, wetness, dryness). Fire is made of heat and dryness, air is wet and hot, water is cold and wet, earth is dry and cold (Kargon 2).</p>
+            <p xml:id="atomic_13064">Robert Kargon offers a succinct explanation of the popularity of atomism in seventeenth-century England, although he admits he is over-simplifying:</p>
+            <p xml:id="atomic_13065">1) The causal relationship posited by atomism was closest to what they were observing in their vacuum experiments -- bodies are moved by pressure or collision.</p>
+            <p xml:id="atomic_13066">2) A sub-visible mechanism was useful for explaining phenomena that seemed non-mechanical at the visible level (as Merchant pointed out, the metaphor of machine had become the primary way scientists described their world).</p>
+            <p xml:id="atomic_13067">3) Atoms were a classical idea, and a return to the classical texts for inspiration and ideas was a very natural step for the scientists.</p>
+            <p xml:id="atomic_13068">4) The new scientific advances, the vacuum, and some aspects of chemistry, could be more easily explained by atomism than by any other theory (Kargon 3-4).</p>
+            <p xml:id="atomic_13069">In the 1620s, three French natural philosophers began to discuss the atomic theory. Marin Mersenne (1588-1648), Pierre Gassendi(1592-1655), and René Descartes (1596-1650):</p>
+            <p xml:id="atomic_13070">initially a mutually supportive social group, began to construct a mechanical philosophy that ultimately presented a solution to the problems of certainty, social stability, and individual responsibility. In reinstating moral and intellectual order, they revived the corpuscular philosophies of the ancient atomists, but placed them in a Christian context, and attempted to devise criteria for certainty in knowledge" (Merchant 194).</p>
+            <p xml:id="atomic_13071">These three men would be responsible for the spread of popular atomic theory in England, due to their interaction with the Newcastle Circle in Paris.</p>
+            <p xml:id="atomic_13072">Kargon devotes a chapter of his Atomism in England from Hariotto Newton to Descartes, Gassendi,<ref target="#atomic.008.n12">12</ref><note xml:id="atomic.008.n12" n="12" place="end" type="ed">Kargon refers to Gassendi as Gassend, and I came across this scientist and mathematician referred to by both spellings in various books. I have chosen to refer to him as Gassendi, based on Microsoft® <hi rend="italic">Encarta</hi> TM.</note> and the Newcastle Circle, who Kargon credits with bringing atomism to wide acceptance in England (after earlier attempts by Hariot and the Northumberland coterie) (Kargon 63). The combination of the "French giants of the mechanical philosophy," Decartes and Gassendi, with the already mechanical inclinations of the Royalists living abroad -- Hobbes, Newcastle, Sir Charles Cavendish, and John Pell -- resulted in atomism becoming "a living issue in English natural philosophy" (63). Descartes' theory of matter is based on bodies and their motion. Gassendi's system is based on atoms and the void. Both the particles which make up Descartes's bodies and the atoms which make up Gassendi's have various shapes, weights, or other qualitites which give characteristics to these bodies (Kargon 65-67).</p>
+            <p xml:id="atomic_13073">Kargon actually devotes a few pages to Cavendish and her atomic theory. He describes her interest in motion, and her atomic system, and then notes that "psychological as well as physical phenomena have their origin in atomic motion. . . . a doctrine closely resembling that which Hobbes taught [Newcastle] as early as 1630" (74). Here is yet another idea which seems strange to the modern reader, but the greatest scientific minds of the seventeenth century were thinking in this fashion -- creativity still had a place in science. However, as I noted in my earlier exploration of Cavendish's "atheism," Kargon is again associating her with Hobbes, and excusing Hobbes for what he condemns in Cavendish.<ref target="#atomic.008.n13">13</ref><note xml:id="atomic.008.n13" n="13" place="end" type="ed">Just as an aside, Copernicus also subscribed to the theoretical school of science. Although he was interested in "saving the appearances," or explaining empirical data to a certain point, his construction of the universe was based on the circle for mathematical and aesthetic reasons; he added epicycles to planetary orbits in order to reconcile his beloved circle to the actual appearance of planetary orbits. For Copernicus, truth was something one found through mathematics, geometry, and logic.</note></p>
+            <p xml:id="atomic_13074">Douglas Grant situates Cavendish firmly in the non-empirical scientific tradition:</p>
+            <p xml:id="atomic_13075">Sitting alone in her study, with only her contemplations for company, she surveyed nature without the guide of books; and without verifying her conjectures by experiment, concluded arbitrarily about its order. The habit was dangerous, though common. The importance of experiment was widely recognized by the time that Margaret published her first speculations in 1653, but many natural philosophers, while accepting Francis Bacon's injunction to put everything to the test, failed to apply it rigorously, especially in matters which they believed they could sufficiently demonstrate by argument and analogy (192).</p>
+            <p xml:id="atomic_13076">So, what exactly did Margaret come up with in her study?</p>
+            <p xml:id="atomic_13077">In Cavendish's atomic theory, all matter is composed of four elements, either in a pure form or mixed in various ratios. The four elements are fire, earth, air, and water, and they are comprised of atoms of different shapes. Fire's atoms are sharp; earth's are square and flat; air's are long, straight, and hollow; and water's are round and hollow. The longer atoms, fire and air, are more active than the squatter atoms, earth and water. Fire atoms are the most active, earth, the least. All of the atoms have the same weight and the same amount of matter, but they vary in size or shape. When the atoms join together in harmonious unity, they form various parts of the natural world. However, if the joined atoms begin to disagree and fight, illness or change occurs.</p>
+            <p xml:id="atomic_13078">Atoms are closely related to health for Cavendish. Not only does sickness result from squabbling atoms, she also supposes that duration of life depends on how tightly the atoms are packed together. Vegetables are packed most loosely, animals more tightly, and humans tightest of all. A loose atomic structure, therefore, is undesirable. However, loose atoms do have their uses: loose fire and air atoms in the brain result in a nimble, creative mind (loose earth and water atoms cause dullness and sleepiness). Motion determines which atoms will be where, and how tightly they are packed --she compares motion to a shepherd, and atoms to sheep. Atoms also cause human diseases, such as consumption, and human emotions,such as melancholy.</p>
+            <p xml:id="atomic_13079">Again, unity and harmony are the keys to happiness. A healthy atom dances, while Motion directs the steps. Cavendish's system is a cooperative, unified system, where dissention causes illness, earthquakes, and death. Considering the political and religious upheaval in England during this time, her insistence on unity seems all the more wistful. She ends her series of poems with some speculation on motion, which she considers the life of all things, and infinity, which we've seen is dangerous ground.</p>
+            <p xml:id="atomic_13080">In the context of seventeenth-century science, Cavendish's ideas are not that absurd.<ref target="#atomic.008.n14">14</ref><note xml:id="atomic.008.n14" n="14" place="end" type="ed">Cavendish's insistence on unity and harmony is interesting in the light of quantum mechanics, particularly as interpreted by Gary Zukav's <hi rend="italic">The Dancing Wu Li Masters: An Overview of the New Physics</hi> and Fritjof Capra's <hi rend="italic">The Tao of Physics</hi>. Both men stress the importance of seeing the world as intricately inter-connected on a sub-atomic level, a system in which unity and harmony are also important.</note> Douglas Grant draws a couple of specific comparisons:</p>
+            <p xml:id="atomic_13081">Reading through the works of the seventeenth-century natural philosophers who founded our knowledge, we can find speculations which superficially resemble those advanced by Margaret; and in the writings of the lesser men, who had the advantage of education and the opportunities for discussion denied to her, worlds are disclosed which approximate no closer to reality than hers. She thought, for example, that the earth's magnetic force could be explained by the emission of sharp atoms which transfixed the duller ones and returned home with them like laden bees making for the hive; but her friend, Dr. Walter Charleton, a most intelligent man, explained the properties of the magnet on a similar system of hooked atoms, and postulated as well atoms of divers shapes to account for other phenomena. She explained the sparks which can be struck from a flint by supposing that the sharp atoms were imprisoned by the sluggish ones until released by friction, and her explanation was at least plausible until Robert Hooke published twenty years later his microscopical observations on the particles dropped by a flint when fire is struck from it (117).</p>
+            <p xml:id="atomic_13082">Cavendish's second book, <title>Philosophicall Fancies</title>, was published at the end of 1653, and in this new volume, she recanted her atomic theory. There are several reasons she might have done so, charges of atheism stemming from her first book not being the least of those reasons. Another reason might be that Cavendish simply reasoned out her atomic theory to a further extent, saw its flaws, and decided that she was more interested in the implications of motion which "became the cornerstone of her imaginative natural philosophy" (Alic 84).</p>
+            <p xml:id="atomic_13083">Regardless, she does not fully explain the change until 1663, in her <title>Philosophical Opinions</title>.<ref target="#atomic.008.n15">15</ref><note xml:id="atomic.008.n15" n="15" place="end" type="ed">In his essay "Author and Hero in Aesthetic Activity, "Mikhail Bakhtin warns against the danger of "confounding the author-creator  (a constituent in a work) with the author-person (a consituent in the ethical, social event of life)" (10). Bakhtin's main objection is to what he calls "the author's confession" (6). He claims that anything valid that the artist has to say about the process of creation is contained within the created work (7). When an artist "undertakes to speak about his act of creation independently of and as a supplement to the work he has produced, he usually substitutes a new [his later and more receptive] relationship for his actual creative relationship to the work" (7). Bahktin specifically mentions author's prefaces to new editions as suspect, because the author is taking into account, consciously or not, the public and/or critical reception of the work, and shaping his thoughts about his creative process accordingly. I think these points are particularly relevant in the case of Cavendish, and thus present several interpretations of why she abandoned atomic theory, rather than just her own explanation.</note> Margaret Alic summarizes this explanation on page 84 of Hypatia's Heritage:</p>
+            <p xml:id="atomic_13084">By 1663 she had decided that if atoms were 'Animated matter', they must have 'Free will and Liberty'. Thus, like human nations, they would always be at war and could never cooperate to create complex animals, vegetables and minerals: 'And as for Atoms, after I had reasoned with my Self, I concluded that it was not probable, that the Universe and all the Creatures therein could be Created and Disposed by the Dancing and Wandering and Dusty motion of Atoms' (C2).</p>
+            <p xml:id="atomic_13085">Sarasohn adds another quotation from <title>Philosophical and Physical Opinions</title> in reference to the atoms having free will: "if each separate part of matter was endowed with consciousness, 'they would hardly agree in one government, which is as unlikely as several kings would agree in one kingdom, or rather as men, if every one should have an equal power, would make a good government.. . '" (297). Again, the political events in England may explain Cavendish's skepticism about unity.</p>
+            <p xml:id="atomic_13086">Sarasohn also analyzes Cavendish's new theory which depends on motion, which proves interesting since Isaac Newton is only eighteen years old in 1661 (and a student at Cambridge, where Cavendish's books could be found in the library):</p>
+            <p xml:id="atomic_13087">. . . Cavendish abandoned atomism by 1661, instead developing a scientific theory where a hierarchy of matter, integrated into an organic whole, composed the entire natural world. According to her theory the universe is composed of matter and motion, which are inseparable. There are three kinds of matter, differing in figure and type of motion, but inextricably integrated in composed forms of matter: rational matter, the most excellent, which is self-moving, the seat of conception, and the director of the rest of matter; sensible matter, which carries out the commands of rational matter, and is the vehicle for sensual perception; and inanimate matter, which is the least excellent because it lacks perception, although it is self-conscious and the material substratum of all being (294).</p>
+            <p xml:id="atomic_13088">Finally, Margaret Cavendish's atomic theory is a small but valuable part of the history of science. Not only could it have been seen as a theory in flux in response to cultural and political pressures around it, but it is also vital to the understanding of the role of women in the history of science, and in the examination of alternate visions of the Scientific Revolution, as Merchant, Sarasohn, and Bazeley have illustrated. A final quotation from Sarasohn sets Cavendish firmly in the context of New Science:</p>
+            <p xml:id="atomic_13089">The organic and vitalistic quality of Margaret Cavendish's natural philosophy distinguished it from the mechanistic systems of Hobbes and Descartes. While the duchess shared their fascination with matter and motion, she denied that insensible matter, without self-movement, could produce an ordered universe. Likewise, she rejected the argument of the Cambridge Platonists who claimed that the universe was animated and moved by an immaterial spirit. It was impossible in her view that an immaterial spirit could affect and cause alteration in material being. Cavendish's natural philosophy is much more closely related to the organic theories of the Renaissance natural magicians and the vitalistic thought of the chemists of the sixteenth and seventeenth century, and to some aspects of the thought of Pierre Gassendi, with whose works she was probably familiar through the intermediacy of Charles Cavendish and Walter Charleton.</p>
+            <p xml:id="atomic_13090">The implicit unity of her own system circumvented the anarchy of pure atomism: hierarchy therefore replaces egalitarianism as the best ordering device in both nature and society (297).</p>
+            <p xml:id="atomic_13091">The atomic poems may be read without the context of Cavendish's life and the Scientific Revolution as background, but I think an understanding of the seventeenth century is vital to a true understanding of the science of Margaret Cavendish and why she should not be dismissed, either from the history of literature, nor from the history of science. As a woman writing poetry about atomic theory in the seventeenth century, she is assuredly unique, but as a woman re-visioning her environment and creating various utopian visions of both her world and other worlds, she allows the twentieth-century reader a picture of a creative, and sadly under-educated, seventeenth-century mind.</p>
+          </div>
+          <div xml:id="atomic_004" type="Section">
+            <head>A Note on the Text </head>
+            <p xml:id="atomic_13092">I have modernized the lowercase "s" and "f," and regulated the spacing. All spelling, capitalization, italics, and punctuation are faithful to the 1653 original. The footnotes were written by Margaret Cavendish and printed as marginalia only in the 1653 edition. I have used the margin for glossing vocabulary and line numbers, and so moved Cavendish's notes to the bottom of the page. Although later editions of texts are generally considered more authoritative, this does not hold true for Cavendish's early manuscripts. In the 1660s, Cavendish, according to Mendelson, hired an "anonymous drudge to 'correct' the stylistic errors of her earliest works for second editions" (42). We cannot be sure how closely she supervised this editing process, and considering her opinion of her own grammatical skills, I think she would have left it in the hands of an expert. Also, as noted earlier in the introduction, by the time <title>Philosophicall Fancies </title>was published later in 1653, Cavendish had discarded her theory of atoms. Therefore, if she was responsible for any changes made in the later two editions, those changes might reflect her disinterest, and in fact, disbelief, in atomic theory. I have chosen to work with the 1653 edition for these reasons: the poems are purely Cavendish's work, reflecting her enthusiasm for her own interpretation of atomic theory.<ref target="#atomic.008.n18">18</ref><note xml:id="atomic.008.n18" n="18" place="end" type="ed">Douglas Grant assumes that Cavendish corrected her earlier editions herself, but he also prefers the earliest editions:  "The revisions were technically an improvement but, as they were insufficient in themselves to raise her poetry higher, they hindered the sincerity and spontaneity of her expression by their superficial polish. Rough and ragged though they are, her poems are to be preferred in their earlier shape" (113)</note> Comparing the same poem from each edition illustrates the minor differences:</p>
+            <p xml:id="atomic_13093">Cavendish:  <hi rend="bold"><hi rend="italic">Of</hi> Aire. </hi></p>
+            <lg type="stanza">
+              <l><hi rend="bold">T</hi>HE reason, why <hi rend="italic">Aire</hi> doth so equall spred, </l>
+              <l>Is <hi rend="italic">Atomes long, </hi>at each end ballanced. </l>
+              <l>For being <hi rend="italic">long, </hi>and each end both alike, </l>
+              <l>Are like to <hi rend="italic">Weights, </hi>which keep it steady, right: </l>
+              <l>For howsoere it moves, to what <hi rend="italic">Forme </hi>joyne, </l>
+              <l>Yet still that <hi rend="italic">Figure </hi>lies in every line.</l>
+              <l>For <hi rend="italic">Atomes long, </hi>their <hi rend="italic">Formes </hi>are like a <hi rend="italic">Thread, </hi></l>
+              <l>Which interveaves like to a Spiders <hi rend="italic">Web: </hi></l>
+              <l>And thus being thin, it so subtle growes, </l>
+              <l>That into every empty place it goes.</l>
+            </lg>
+            <p xml:id="atomic_13094">Cavendish:  <hi rend="italic">Of</hi> Air.</p>
+            <lg type="stanza">
+              <l><hi rend="bold">T</hi>He reason, why <hi rend="italic">Air</hi> is so equal spread, </l>
+              <l>
+                <hi rend="italic">ls <hi rend="italic">Atomes long, </hi>at each end ballanced: </hi>
+              </l>
+              <l>For being <hi rend="italic">Long, </hi>their ends alike withall, </l>
+              <l>Make th'<hi rend="italic">Air</hi> as <hi rend="italic">Weights </hi>into just Measures fall; </l>
+              <l>And let it move, joyn to what <hi rend="italic">Form </hi>it will, </l>
+              <l>Yet lies in every Line that <hi rend="italic">Figure </hi>still:</l>
+              <l>For <hi rend="italic">Atomes long, </hi>their <hi rend="italic">Forms </hi>as thread are spun, </l>
+              <l>And like a <hi rend="italic">Cobweb</hi> interwoven run;</l>
+              <l>And thus <hi rend="italic">Air </hi>being thin, so subtile grows, </l>
+              <l>That into every empty place it goes.</l>
+            </lg>
+            <p xml:id="atomic_13095">The meaning does not change, but the spelling improves somewhat, the rhymes are polished, and the meter flows a little more smoothly. The later version may be a better poem, but it lacks the spontaneity of the poet tacking "right" onto the fourth line in pursuit of a rhyme for "alike." It isn't a good rhyme, but it adds the energy and joy to the first edition that I think the second edition lacks. In the interest of editorial fairness, however, a facsimile reproduction of both editions of these selected poems appears in Appendices A and B.</p>
+          </div>
+        </div>
+        <div xml:id="atomic_005" type="Timeline">
+          <docAuthor>Partington, Leigh Tillman. </docAuthor>
+          <head>Timeline for Margaret (Lucas) Cavendish</head>
+          <div xml:id="atomic_006" type="Timeline">
+            <head><seg type="short-title">Selected Western Events</seg> Surrounding
+	       the Life of Margaret (Lucas) Cavendish, Duchess of
+	       Newcastle<ref target="#atomic.008.n16">16</ref><note xml:id="atomic.008.n16" n="16" place="end" type="ed">All
+	       events and dates in this timeline are from the
+	       following sources: Issac Asimov's <hi rend="italic">Asimov's Chronology of Science and
+	       Discovery, updated and illustrated</hi>; David
+	       M. Brownstone and Irene M. Franck's<hi rend="italic">Timelines of the Arts and Literature: A
+	       Chronology of Culturein Human History -- from the
+	       Magdalenian Cave Paintings to Madonna</hi>; Bryan Bunch and Alexander Hellemans's <hi rend="italic">The Timetables of Technology: A Chronology of the Most Important People and Events in the History of Technology</hi>; Douglas Grant's <hi rend="italic">Margaret the First: A Biography of Margaret Cavendish, Duchess of Newcastle 1623-1673</hi>; and Carolyn Merchant's <hi rend="italic">The Death of Nature: Women, Ecology, and the Scientific Revolution</hi>. In addition, some discrepancies were checked against the Microsoft ® Encarta TM Multimedia Encyclopedia</note></head>
+            <p xml:id="atomic_13096"><hi rend="bold">1613</hi> William
+            Shakespeare dies.</p>
+            <p xml:id="atomic_13097"><hi rend="bold">1616</hi> Jakob Le Maire sails around the southern end of Tierra del Fuego, naming the southern most point Cape Horn.</p>
+            <p xml:id="atomic_13098"><hi rend="bold">1619</hi> The first black slaves arrive in Virginia.</p>
+            <p xml:id="atomic_13099"><hi rend="bold">1620</hi> Francis Bacon's <hi rend="italic">Novum Organum</hi> (New Organon). Bacon argues that deduction might be a practical method for working with mathematics, but that the laws of science must be induced, or established as generalizations drawn out of a vast mass of specific observation; this provides the theoretical backing for what we now call the scientific method. The <hi rend="italic">Mayflower</hi> lands at Plymouth, and the first permanent English settlement in New England is established.</p>
+            <p xml:id="atomic_130100"><hi rend="bold">1623</hi> Margaret Lucas Cavendish born. Publication of the first complete collection of Shakespeare's works, called the First Folio. Francis Bacon's <hi rend="italic">De Dignitate et Augmentis Scientarium</hi> and <hi rend="italic">Historia Vitae et Mortis</hi>. Philip Massinger's <hi rend="italic">The Bondmen</hi>. Inigo Jones begins the Queen's Chapel, St. James (completed in 1668). The Statute of Monopolies, which lays down laws for granting patents to inventors, is passed; previously, the king had granted monopolies. Wilhelm Schickhardt builds a mechanical calculator based on the idea of Napier's bones; it can add, subtract, multiply, and divide, and is intended to aid in astronomical calculations.</p>
+            <p xml:id="atomic_130101"><hi rend="bold">1624</hi> John Donne's <hi rend="italic">Devotions upon Emergent Occasions</hi>. Massinger's <hi rend="italic">The Renegado</hi>. John Fletcher's <hi rend="italic">Rule a Wife and Have a Wife</hi> and <hi rend="italic">A Wife for a Month</hi>. Francis Pilkington's <hi rend="italic">Second Set of Madrigals</hi>. Frans Hals's painting <hi rend="italic">The Laughing Cavalier</hi>. Anthony Van Dyck's painting <hi rend="italic">Madonna of the Rosary</hi>. Peter Paul Rubens's painting <hi rend="italic">Vladislav Sigismund IV, King of Poland</hi>. Louis XIII decides to build a new palace around his hunting lodge at Versailles. Jan Baptista van Helmont decides that the vapors with which he has been working need a name; because they had no specific volume but filled any container, they seemed to be matter in chaos. van Helmont called the vapors chaos, but spelled the word according to its Flemish pronunciation -- <hi rend="italic">gas</hi>.</p>
+            <p xml:id="atomic_130102"><hi rend="bold">1625</hi> Bacon's <hi rend="italic">Apophthagmes New and Old</hi> and <hi rend="italic">The Translation of Certaine Psalmes into English Verse</hi>. Charles I suppresses all news sheets in England. Massinger's <hi rend="italic">A New Way to Pay Old Debts</hi>. Francis Beaumont, John Fletcher, and Philip Massinger's <hi rend="italic">Love Cures All</hi>. Fletcher and Massinger's <hi rend="italic">The Elder Brother</hi> and <hi rend="italic">A Very Woman</hi>. John Fletcher dies. Dutch potters in Delft begin to imitate imported blue-and-white Chinese porcelain. Jan Brueghel dies.</p>
+            <p xml:id="atomic_130103"><hi rend="bold">1626</hi> Francis Bacon dies. Shirley's <hi rend="italic">The Maid's Revenge</hi>. Massinger's <hi rend="italic">The Roman Actor</hi>. Pappenheim invents a gear pump that is still used as a fuel pump in automobiles. Rembrandt van Rijn paints <hi rend="italic">The Angel and the Prophet Balaam</hi>. Nicolas Poussin paints <hi rend="italic">The Assumption of the Virgin</hi>. Peter Minuit buys Manhattan Island from the Algonquain Indians.</p>
+            <p xml:id="atomic_130104"><hi rend="bold">1627</hi> John Ford's <hi rend="italic">'Tis Pity She's A Whore</hi>. Massinger's <hi rend="italic">The Great Duke of Florence</hi>. Bacon's <hi rend="italic">New Atlantis</hi>. Rembrandt paints <hi rend="italic">The Flight into Egypt</hi> and <hi rend="italic">The Money-Changers</hi>. Heinrich Schütz's <hi rend="italic">Dafne</hi>, the first German opera. Kepler's <hi rend="italic">Rudolphine Tables</hi> (planetary tables based on Kepler's elliptical orbits and Napier's logarithmic tables) are published; the publication includes a star map of over one thousand stars.</p>
+            <p xml:id="atomic_130105"><hi rend="bold">1628</hi> Shirley's <hi rend="italic">The Witty Fair One</hi>. Ford's <hi rend="italic">The Lover's Melancholy</hi>. William Harvey's <hi rend="italic">De Motu Cordis et Sanguinis</hi> (Concerning the motion of the heart and blood) describes circulation of the blood. Benedetto Castelli's <hi rend="italic">Della misura dell'acque correnti</hi> (On the measurement of running waters) lays the foundation of hydraulic technology. Diego Velázquez paints <hi rend="italic">The Triumph of Bacchus</hi>. Gian Lorenzo Bernini begins the tomb of Urban VIII. Salem, Massachusetts is founded.</p>
+            <p xml:id="atomic_130106"><hi rend="bold">1629</hi> Francis Quarles's poetic work <hi rend="italic">Argalus and Parthenia</hi>. Ben Jonson's <hi rend="italic">The Newe Inne, or The Light Heart</hi>. Ford's <hi rend="italic">The Broken Heart</hi>. Giovanni Branca's <hi rend="italic">Le machine</hi>, which describes a steam turbine in which steam is directed at vanes on a wheel.</p>
+            <p xml:id="atomic_130107"><hi rend="bold">1630</hi> Johannes Kepler dies. John Smith's autobiography <hi rend="italic">The True Travels, Adventures, and Observations of Captaine John Smith in Europe, Asia, Africa, and America, from . . . 1593 to 1629. . . .</hi> Disputed biblical writings called the Apocrypha dropped from the <hi rend="italic">King James</hi> or <hi rend="italic">Authorized Version</hi> of the Bible. The first dining fork in the Massachusetts Bay colony, and possibly the only fork in North America, is imported by Governor John Winthrop.</p>
+            <p xml:id="atomic_130108"><hi rend="bold">1631</hi> John Donne, Michael Drayton, and John Smith die. Shirley's <hi rend="italic">Love's Cruelty</hi> and <hi rend="italic">The Traitor</hi>. Pierre Corneille's <hi rend="italic">Cliandre</hi> and <hi rend="italic">La Veuve</hi>. Katherine Philips born. Pierre Vernier invents his scale for precise measurement, known today as the Vernier scale.</p>
+            <p xml:id="atomic_130109"><hi rend="bold">1632</hi> John Milton's poetic companion pieces <hi rend="italic">L'Allegro</hi> and <hi rend="italic">Il Penseroso</hi>.<ref target="#atomic.008.n17">17</ref><note xml:id="atomic.008.n17" n="17" place="end" type="ed">"When [Cavendish's] dialogue between Melancholy and Mirth [from <hi rend="italic">Poems, and fancies</hi>] was reprinted a hundred years later, Mr. Town praised it extremely in the <hi rend="italic">Connoisseur</hi>, No.69. He saw Margaret as in a vision leap upon Pegasus, her old-fashioned fantastic habit fluttering in the wind, and gallop off helter-skelter. 'However, it was aknowledged, that she kept a firm seat, even when the horse when at his deepest rate; and that she wanted nothing but to ride with a curb-bridle.' He watched Shakespeare and Milton step forward to hand her down and suggested darkly, and wildly, that Milton had collected some hints for <hi rend="italic">L'Allegro</hi> and <hi rend="italic">Il Penseroso</hi> from the dialogue between Melancholy and Mirth" (Grant 121)</note> Shirley's <hi rend="italic">Hyde Park</hi>. Massinger's <hi rend="italic">The City Madam</hi>. Anton Van Leeuwenhoek born. Galileo publishes his <hi rend="italic">Dialogue on the Two Chief World Systems</hi>, which argues for the Copernican helio-centric universe, in the vernacular rather than in Latin.</p>
+            <p xml:id="atomic_130110"><hi rend="bold">1633</hi> Donne's poems are published. George Herbert dies. Shirley's <hi rend="italic">The Gamester</hi>. Massinger's <hi rend="italic">The Guardian</hi>. Galileo is forced by the Catholic Inquisition to deny the Copernican teaching that the earth moves around the sun.</p>
+            <p xml:id="atomic_130111"><hi rend="bold">1634</hi> Jonson's <hi rend="italic">English Grammar</hi>. Milton's masque <hi rend="italic">Comus</hi>, with music by Henry Lawes, is presented at Ludlow Castle on September 29th. John Marston and John Webster die. A craze for tulips provokes speculation in bulbs in Holland; this "tulipmania" results in prices higher than $5000 for single bulbs of the most desired varieties of tulip. Claude's painting <hi rend="italic">Harbour Scene</hi>. Anthony Van Dyck's painting <hi rend="italic">Lamentation for Christ</hi>.</p>
+            <p xml:id="atomic_130112"><hi rend="bold">1635</hi> Shirley's <hi rend="italic">The Lady of Pleasure</hi>. Corneille's <hi rend="italic">Médée</hi>. Académie Française is established to maintain a dictionary of French and make judgments about usage, grammar, and vocabulary. Rubens is painting <hi rend="italic">The Rape of the Sabines, Venus and Adonis, Bathsheba Receiving David's Letter, Christ on the Cross</hi>, and <hi rend="italic">The Massacre of the Innocents</hi>. Henry Geillibrand publishes his argument and evidence that the compass needle has shifted direction by seven degrees in the past half-century; indicating that the magnetic poles exist separately from the geographic poles, and they shift position.</p>
+            <p xml:id="atomic_130113"><hi rend="bold">1636</hi> Thomas Killigrew's <hi rend="italic">The Princess; or, Love at First Sight</hi> and <hi rend="italic">Claracilla</hi>. Claudio Monteverdi's ballet <hi rend="italic">Volgendo il ciel</hi>.</p>
+            <p xml:id="atomic_130114"><hi rend="bold">1637</hi> Milton's <hi rend="italic">Lycidas</hi>. <hi rend="italic">A Decree of Starre-Chamber Concerning Printing</hi> limits the number of print shops and type foundries. Ben Jonson dies. Francesco Borromini designs the Oratory of St. Philip Neri, Rome. Poussin's painting <hi rend="italic">The Adoration of the Shepherds</hi>. André Le Nôtre is named royal gardener to Louis XIII. Corneille's <hi rend="italic">Le Cid</hi> premieres at the Marais Theatre. René Descartes publishes his <hi rend="italic">Discours de la méthode</hi>, which describes the finding of scientific truth through good reasoning; the appendix combines algebra and geometry, producing analytic geometry, and laying the foundation for the development of calculus.</p>
+            <p xml:id="atomic_130115"><hi rend="bold">1638</hi> The ban on English news sheets is lifted; Nathanial Butter and Nicholas Bourne (publishers of the First Folio) are granted the sole right to print the news in England. Inigo Jones completes the design for rebuilding St. Paul's Church in London. Francis Pilkington dies. Galileo's <hi rend="italic">Discoursi e dimonstrazioni matemetiche, intorno à due nuove scienze</hi> (Dialogues concerning two new sciences), which includes a study of the breaking strengths of beams that is flawed in parts, but is extremely influential.</p>
+            <p xml:id="atomic_130116"><hi rend="bold">1639</hi> John Ford dies.</p>
+            <p xml:id="atomic_130117"><hi rend="bold">1640</hi> Philip Massinger dies. Aphra Behn probably born.</p>
+            <p xml:id="atomic_130118"><hi rend="bold">1641</hi> Shirley's <hi rend="italic">The Cardinal</hi>. Killigrew's The Parson's Wedding. Ferdinand II, the Grand Duke of Tuscany, invents a thermometer that uses liquid in a glass tube that has one end sealed; this is a slight improvement on Galileo's thermometer. Vincenzio Galilei (Galileo's son) builds a clock with a pendulum (based on one of Dad's concepts). William Gascoigne places cross hairs in his telescope to aid in measuring angles, turning the telescope from a viewing toy into an instrument of precision; but he is killed in battle before he can completely develop his idea, and cross hairs must be rediscovered twenty years later.</p>
+            <p xml:id="atomic_130119"><hi rend="bold">1642</hi> Galileo Galilei dies. Shirley's <hi rend="italic">The Sisters</hi>. The 55-km-long Briare Canal, begun in 1605, is completed. The canal links the Loire to the Seine with a system of forty locks. Blaine Pascal develops a mechanical calculator that can add and subtract; he produces about 50 different versions of the calculator over the next ten years, and offers some for sale, beginning in 1645. Rembrandt paints <hi rend="italic">Nightwatch</hi>. The cello first comes into use. Abel Tasman discovers Tasmania.</p>
+            <p xml:id="atomic_130120"><hi rend="bold">1643</hi> Isaac Newton born. Corneille's <hi rend="italic">Le Mort de Pompée</hi> and <hi rend="italic">Le Menteur</hi>. Evangelista Torricelli, on a suggestion from Galileo, invents the barometer. Torricelli uses mercury as a fluid in a glass column sealed at the top; when the tube is upended in a dish the mercury sinks to about 76 cm, leaving a partial vacuum at the top. This produces the first vacuum known to science. Louis XIII dies.</p>
+            <p xml:id="atomic_130121"><hi rend="bold">1644</hi> Milton's <hi rend="italic">Areopagitica</hi> -- the text of his 1643 speech before Parliament for freedom of the press and against licensing of printed materials by censors. Francesco Cavelli's opera <hi rend="italic">Ormindo</hi>. In the years 1644-45, several hundred women identified as having witch marks, often within the <hi rend="italic">labia majora</hi>, were put to death by Matthew Hopkins, an English lawyer whose campaign to exterminate witches earned him the title, "the witch-finder general."</p>
+            <p xml:id="atomic_130122"><hi rend="bold">1645</hi> Milton's Poems. Aemilia Lanyer dies. Bernini's sculpture <hi rend="italic">The Ecstasy of St. Teresa</hi>. Hals's painting <hi rend="italic">Portrait of a Young Man</hi>. Sir Richard Weston, having observed crop rotation practiced successfully in Flanders, publishes a description of the method. Otto von Guericke invents the air pump. He uses it to produce vacuums, and gives public demonstrations in the 1650s and 1660s; the most famous demonstrations use teams of horses that are unable to break apart spheres held together by a vacuum.</p>
+            <p xml:id="atomic_130123"><hi rend="bold">1646</hi> Corneille's <hi rend="italic">Héraclitus</hi>. Athanasius Kircher invents the magic lantern and describes it in his <hi rend="italic">Ars magna lucis et umbrae</hi> (The great art of light and shadows); he also invents a distance-recording device, or milometer, for carriages.</p>
+            <p xml:id="atomic_130124"><hi rend="bold">1647</hi> Rembrandt paints <hi rend="italic">Susanna and the Elders</hi> and <hi rend="italic">Rest on the Flight into Egypt</hi>. Andreas Gryphius's tragedy <hi rend="italic">Cardenio and Celinde</hi>.</p>
+            <p xml:id="atomic_130125"><hi rend="bold">1648</hi> Robert Herrick's "To the Virgins, to Make Much of Time," "Corinna's Going A-Maying," and "Delight in Disorder." Academy of Painting and Sculpture is founded in Paris.</p>
+            <p xml:id="atomic_130126"><hi rend="bold">1649</hi> Milton, assisted by Andrew Marvell, becomes Latin secretary to Oliver Cromwell. Antonio Cesti's opera <hi rend="italic">Orontea</hi>.</p>
+            <p xml:id="atomic_130127"><hi rend="bold">1650</hi> Marvell's "To His Coy Mistress." Rembrandt paints <hi rend="italic">The Man with the Golden Helmet</hi>. Georges de la Tour paints <hi rend="italic">St. Sebastian</hi> and <hi rend="italic">The New-Born Child</hi>. Otto von Guericke demonstrates in 1650 that electricity can be used to produce light, obtaining a luminous glow from a rotating globe of sulphur by applying pressure from his hand to the globe. The Taj Mahal is completed. Giambattista Riccioli observes Mizar, the first double star.</p>
+            <p xml:id="atomic_130128"><hi rend="bold">1651</hi> Katherine Philips's poem in memory of William Cartwright appears in his <hi rend="italic">Comedies, Tragi-Comedies</hi>. Lady Mary Wroth dies either this year or in 1653. Velázquez's painting <hi rend="italic">The Toilet of Venus</hi>. <hi rend="italic">Calisto</hi> and <hi rend="italic">Rosinda</hi>, two operas by Cavalli.</p>
+            <p xml:id="atomic_130129"><hi rend="bold">1652</hi> Milton's "When I Consider How My Light is Spent." Inigo Jones dies.</p>
+            <p xml:id="atomic_130130"><hi rend="bold">1653</hi> Shirley's <hi rend="italic">Cupid and Death</hi>. Margaret Cavendish's <hi rend="italic">Poems, and Fancies</hi> and <hi rend="italic">Philosophicall Fancies</hi>. <hi rend="italic">La Nuit</hi>, Jean-Baptiste Lully's ballet, opens February 25th; Louis XIV dances the role of the sun and earns the nickname "The Sun King." Dutch engineer Cornelius Vermuyden, commissioned by Charles I, drains and reclaims 124,000 hectares in the Fenns region of England.</p>
+            <p xml:id="atomic_130131"><hi rend="bold">1654</hi> James Ussher, Archbishop of Armagh, publishes <hi rend="italic">Annales veteris et novi testamenti</hi>, a work on Biblical chronology that dates the Creation to 4004 B.C. (English theologian John Lightfoot will soon amend this calculation to October 26th, 4004 B.C. at 9 a.m.) Ferdinand II invented the sealed thermometer; improvements on this basic design by Fahrenheit 60 years later result in the modern thermometer. Chevalier de Mere, a habitual gambler, asks Pascal to figure out why he kept losing money at a certain game of dice; Pascal consulted mathematician Pierre de Fermat and they laid the foundations for the theory of probability.</p>
+            <p xml:id="atomic_130132"><hi rend="bold">1655</hi> Cavendish's <hi rend="italic">The World's Olio</hi> and <hi rend="italic">The Philosophical and Physical Opinions</hi>. Poussin paints <hi rend="italic">The Arcadian Shepherds</hi>. Johann Shultes's <hi rend="italic">Armementarium chirugicum</hi> (The hardware of the surgeon) describes a procedure for removing a female breast.</p>
+            <p xml:id="atomic_130133"><hi rend="bold">1656</hi> William Davenant's <hi rend="italic">The Siege of Rhodes</hi>, the first all-sung English opera. Bernini begins work on the piazza and colonnade at St. Peters'. Jan Vermeer's painting <hi rend="italic">A Girl Asleep</hi>. Dutch astronomer Christiaan Huygens identifies the rings of Saturn, discovers and names Saturn's moon Titan, announces that the middle star of Orion's sword is a cloud of luminous gas rather than a star, and invents the first accurate pendulum clock. Cavendish's <hi rend="italic">Nature's Pictures drawn by Fancies Pencil to the Life</hi>. Cyrano de Bergerac's <hi rend="italic">L'histoire comique des états et empires de la lune</hi> suggests seven ways for travelling from the Earth to the Moon; six of the ways would not have worked, but the seventh is by means of a rocket.</p>
+            <p xml:id="atomic_130134"><hi rend="bold">1657</hi> William Harvey dies. Salomon de Coster, working off of Huygen's pendulum clock, begins to construct a series of spring-driven clocks that use a pendulum rather than a foliot balance or balance wheel. Robert Hooke creates a vacuum large enough to perform an experiment dropping a feather and a coin from the top of the vacuum; they fall at the same rate, proving Galileo's theory that all bodies fall at equal rates. Cromwell allows Jews to return to England; they had been officially expelled by Edward I 350 years earlier.</p>
+            <p xml:id="atomic_130135"><hi rend="bold">1658</hi> Davenant's <hi rend="italic">The Spaniards in Peru</hi>. Vermeer paints <hi rend="italic">The Kitchen-Maid</hi> and <hi rend="italic">Young Woman with a Water Jug</hi>. On October 24th, Molière appears before Louis XIV and his court at the Louvre as an actor in Corneille's <hi rend="italic">Nicomède</hi>. Robert Hooke invents the spiral spring for watches. Jan Swammerdam discovers the red blood corpuscle.</p>
+            <p xml:id="atomic_130136"><hi rend="bold">1659</hi> Davenant's <hi rend="italic">Sir Francis Drake</hi>. Pieter de Hooch paints <hi rend="italic">A Mother Beside a Cradle</hi>. Huygens constructs a chronometer for use at sea; however, it is influenced by the motion of the ship and does not keep correct time.</p>
+            <p xml:id="atomic_130137"><hi rend="bold">1660</hi> Samuel Pepys begins keeping a diary. John Dryden's "Astraea Redux." Royal Society is founded. Charles II grants patents to two theatre companies: Killigrew's King's Company, and Davenant's Duke's Company. Actresses first appear on stage. The first bassoons are developed in France. von Guericke develops a way to charge a ball of sulfur with static electricity, producing the greatest amount of electricity gathered in one place to this time; von Guericke also uses a barometer to forecast weather. Marcello Malpighi, using a microscope, completes Harvey's theory of circulation by discovering capillaries.</p>
+            <p xml:id="atomic_130138"><hi rend="bold">1661</hi> Lincoln's Inn Fields Theatre opens. Huygens invents a manometer for measuring the elasticity of gases. Claude's painting <hi rend="italic">The Rest on the Flight to Egypt</hi>. Louis XIV commissions the first of three major reconstructions of Versailles. Molière's <hi rend="italic">The School for Husbands</hi> premieres in Paris. Robert Boyle publishes <hi rend="italic">The Skeptical Chymist</hi>, divorces chemistry from medicine and alchemy, and declares that it must be an experimental science, rather than a deductive one. Louis XIV, now twenty-three, takes his throne.</p>
+            <p xml:id="atomic_130139"><hi rend="bold">1662</hi> Revised <hi rend="italic">Book of Common Prayer</hi> restored to use. Wren begins Oxford University's Sheldonian Theatre (completed in 1669). Charles II decrees actresses must play all female parts on stage. Cavendish's <hi rend="italic">Plays and Orations of Divers Sorts, Accomodated to Divers Places</hi>. Molière's <hi rend="italic">School for Wives</hi>. Vermeer's paintings include: <hi rend="italic">A Woman Weighing Gold</hi>, <hi rend="italic">Young Lady with a Pearl Necklace</hi>, and <hi rend="italic">Young Woman Reading a Letter</hi>. The "Printing Act," exerting strict controls on publishing is ratified by Parliament; it is "An Act for preventing the frequent abuses in printing seditious, treasonable and unlicensed books and pamphlets and for regulating of printing and of printing presses." van Helmont's <hi rend="italic">Oriatrike</hi> (Physics refined). Blaine Pascal proposes a system of public transportation in Paris, whereby coaches would travel along predetermined routes and take passengers for a small fee; the first coach went into service in 1663. By experimenting with the volumes of compressed gases, Boyle develops Boyle's Law, the volume of gas varies inversely with the pressure applied. Boyle's experiments were strong evidence in favor of atomism.</p>
+            <p xml:id="atomic_130140"><hi rend="bold">1663</hi> Samuel Butler's <hi rend="italic">Hudibras</hi>. Roger L'Estrange begins publishing the newspaper <hi rend="italic">Publick Intelligencer</hi>. Wren begins the Pembroke College Chapel at Cambridge. The Drury Lane Theatre opens as the Theatre Royal, with a production of Beaumont and Fletcher's <hi rend="italic">The Humorous Lieutenant</hi>. Cavendish's <hi rend="italic">Philosophical and Physical Opinions</hi>, second edition. Philips's translation of <hi rend="italic">La Mort de Pompee</hi> is produced in Dublin. The Marquis of Worcester claims to have discovered the power of steam to raise water from wells and to burst cannons. James Gregory's <hi rend="italic">Optica Promota</hi> describes a reflecting telescope.</p>
+            <p xml:id="atomic_130141"><hi rend="bold">1664</hi> Cavendish's CCXI. <hi rend="italic">Sociable Letters and Philosophical Letters: or, Modest Reflections upon some Opinions in Natural Philosophy, maintained by several famous and learned Authors of this Age, expressed by way of Letters</hi>. Also the second "corrected" edition of <hi rend="italic">Poems, and Fancies</hi>. Unauthorized publication of <hi rend="italic">Poems. By the Incomparable Mrs. K. P.</hi> (Katherine Philips). Katherine Philips dies. Vermeer paints <hi rend="italic">The Lacemaker</hi>. Hals paints <hi rend="italic">Governors of the Old Men's Home at Haarlem</hi>. Molière's <hi rend="italic">Tartuffe, ou l'imposteur</hi>. Robert Hooke observes Jupiter's Great Red Spot.</p>
+            <p xml:id="atomic_130142"><hi rend="bold">1665</hi> Henry Muddiman begins publication of the <hi rend="italic">Oxford Gazette</hi>, soon to become the <hi rend="italic">London Gazette</hi>. John Bunyan's <hi rend="italic">The Holy City, or the New Jerusalem</hi>. Lully's ballets <hi rend="italic">La Naissance de Vénus and L'Amour médecin</hi>. The Great Plague kills an estimated 65,000 - 75,000 Londoners. In the country to escape the plague, Isaac Newton sits under an apple tree and "discovers" gravity, which he muses over, then publishes the law of universal gravity in 1682. Newton also begins his experiments with prisms and light. Hooke proposes that artificial silk might be manufactured by extruding a solution of gum, and publishes his <hi rend="italic">Micrographia</hi>, which describes, among other things, the cell. Nicolas Poussin dies. Gian Domenico Cassini observes that Mars rotates every twenty-four hours forty minutes, and Jupiter rotates every nine hours fifty-six minutes.</p>
+            <p xml:id="atomic_130143"><hi rend="bold">1666</hi> Dryden's <hi rend="italic">Secret Love, or the Maiden Queen</hi>. Frans Hals and James Shirley die. Great Fire of London. Cavendish's <hi rend="italic">Observations upon Experimental Philosophy</hi>. To which is added, <hi rend="italic">The Description of a new Blazing World</hi>. Molière's <hi rend="italic">Le Misanthrope</hi> and <hi rend="italic">Le Médecin malgré lui</hi>. Cheddar cheese is invented in Cheddar, England. Because almost all European paper is made from recycled cloth rags, which are becoming increasingly scarce as books and other materials are printed, the Parliament bans burial in cotton so as to preserve the cloth for paper manufacture. Richard Lower demonstrates the direct transfusion of blood between two dogs. Physician Thomas Sydenha, "the English Hippocrates," publishes <hi rend="italic">Methodus curandi febres</hi>, advocating the use of opium to relieve pain, chinchona bark (quinine) to relieve malaria, and iron to relieve anemia. Jean de Thévenot describes his concept of the carpenter's level, a bubble floating in a thin glass tube filled with liquid. Hooke designs a new type of escapement for clocks, resulting in a more accurate clock.</p>
+            <p xml:id="atomic_130144"><hi rend="bold">1667</hi> Milton's <hi rend="italic">Paradise Lost</hi>. Dryden's <hi rend="italic">Annus Mirabilis</hi> and <hi rend="italic">The Indian Emperor</hi>. Cavendish's <hi rend="italic">The Life of the Thrice Noble, High and Puissant Prince William Cavendish</hi> (a second edition was printed in 1675). Authorized collection of Philips's works is published. Racine's <hi rend="italic">Andromaque</hi>. In a demonstration in front of the Royal Society, Robert Boyle proves that an animal can be kept alive by artificial respiration. Hooke invents the anemometer, an instrument for measuring the force or speed of the wind.</p>
+            <p xml:id="atomic_130145"><hi rend="bold">1668</hi> Dryden's <hi rend="italic">Of Dramatick Poesie</hi>. George Etherege's comedy <hi rend="italic">She Would If She Could</hi>. Charles Sedley's <hi rend="italic">The Mulberry-Garden</hi>. William Davenant dies. Cavendish's <hi rend="italic">De Vita et Rebus Gestis Nobilissimi Illustrissimique Principis, Guilielmi Ducis Novo-castrensis</hi> (the Duke's life trans. into Latin); <hi rend="italic">Grounds of Natural Philosophy: . . . The Second Edition, much altered from the First, which went under the name of Philosophical and Physical Opinions</hi>; also the second edition of <hi rend="italic">Observations upon Experimental Philosophy: To which is added, The Description of a new Blazing World</hi>; the separate publication of <hi rend="italic">The Description of a New World, called the Blazing-World</hi>; the third edition of <hi rend="italic">Poems, and Fancies</hi> titled <hi rend="italic">Poems, or, Several Fancies in Verse: with the Animal Parliament, in Prose</hi> ; the second edition of <hi rend="italic">Orations of Divers Sorts, Accomodated to Divers Places</hi> and, finally, <hi rend="italic">Plays, never before Printed</hi>. John Wallis proposes the Law of Conservation of Momentum (the total momentum of a closed system remains always unchanged). Francesco Redi disproves the theory of spontaneous generation through a series of experiments with flies and rotting meat. Newton builds the first reflecting telescope.</p>
+            <p xml:id="atomic_130146"><hi rend="bold">1669</hi> Second edition of Philips's collected works. Rembrandt dies. Racine's <hi rend="italic">Les Plaideurs</hi> and <hi rend="italic">Britannicus</hi>. Royal Academy of Music founded in Paris. Newton begins to develop the calculus at about the same time Gottfried Wilhelm Leibniz begins work on the calculus. Nicolaus Steno proposes that fossils are the remains of creatures long dead which had petrified into stone (popular alternate theories at the time include fossils as practice attempts by God to create living creatures; failed attempts by Satan to imitate God; and the remains of the animals drowned in the Flood). Erasmus Bartholin observes double refraction, but the phenomenon remains unexplained for 150 years. Lower notes that blood is dark in the veins but turns bright red on contact with air, but the phenomenon remains unexplained for one hundred years.</p>
+            <p xml:id="atomic_130147"><hi rend="bold">1670</hi> Wren's works include the St. Mary Aldermanbury church (completed in 1676), St. Mary-le-Bow church, Cheapside (completed in 1677), and the St. Michael's church, Cornhill (completed in 1672). Dryden's <hi rend="italic">Tyrannick Love, or the Royal Martyr</hi>. Aphra Behn's <hi rend="italic">The Forc'd Marriage; or, the Jealous Bridegroom</hi>. Molière's <hi rend="italic">Le Bourgeois gentilhomme</hi>. William Clement invents the recoil, or anchor escapement, which controls the amplitude of the pendulum (a smaller arc makes for a more accurate clock); he also invents the minute hand. Francesco de Lana, a Jesuit monk, designs an airship (never built) that would be lifted by four copper spheres containing a near vacuum. Anthony Deane's Doctrine of naval architecture.</p>
+            <p xml:id="atomic_130148"><hi rend="bold">1671</hi> Milton's <hi rend="italic">Paradise Regained</hi> and <hi rend="italic">Samson Agonistes</hi>. Wren begins the church of St. Lawrence Jewry (completed 1677) and the church of St. Magnus the Martyr (completed 1676). Molière's <hi rend="italic">Psyché</hi> and Lully's <hi rend="italic">Psyché</hi>. Dryden's <hi rend="italic">An Evening's Love, or the Mock-Astrologer</hi>. William Wycherley's <hi rend="italic">Love in a Wood, or St. James Park</hi>. Behn's <hi rend="italic">The Amorous Prince</hi>. Cavendish's <hi rend="italic">Natures Pictures drawn by Fancies Pencil to the Life</hi>, second edition, and <hi rend="italic">The Worlds Olio</hi>, second edition.</p>
+            <p xml:id="atomic_130149"><hi rend="bold">1672</hi> Bunyan's <hi rend="italic">A Confession of My Faith, and a Reason of My Practice</hi>. Wren begins St. Stephen's church, Walbrook (completed 1679). Molière's <hi rend="italic">Les Femmes savantes</hi>. Racine's <hi rend="italic">Bajazet</hi>. Dryden's <hi rend="italic">The Conquest of Granada by the Spaniards</hi> and <hi rend="italic">Of Heroick Plays</hi>. Wycherley's <hi rend="italic">The Gentleman Dancing-Master</hi>. Lully establishes Académie Royale de Musique. <hi rend="italic">Covent Garden Drolery</hi>, an anthology edited by Behn. Cassini in Paris, working with French astronomer Jean Richer in French Guiana, calculates the parallax of Mars, and subsequently, the distances between the Earth and the other planets. When it becomes clear that the orbit of Saturn is over 1,600,000,000 miles across, humans have the first shocking realization of their small world and its place in the vast universe.</p>
+            <p xml:id="atomic_130150"><hi rend="bold">1673</hi> Margaret Cavendish dies. Dryden's <hi rend="italic">Marriage A-la-Mode</hi>. Behn's <hi rend="italic">The Dutch Lover</hi>. Molière dies. Matthew Locke's <hi rend="italic">The Empress of Morocco</hi>. Gottfried Wilhelm von Leibniz invents a computer that uses Pascal's adding machine as its basis but can also multiply and divide; he builds several copies of the device over the next four years. Louis Joliet and Jacques Marquette reach the northern Mississippi River.</p>
+            <p xml:id="atomic_130151"><hi rend="bold">1674</hi> John Milton dies. Robert Herrick dies.</p>
+            <p xml:id="atomic_130152"><hi rend="bold">1675</hi> Jan Vermeer dies. Wren begins St. Paul's Cathedral. Racine's <hi rend="italic">Iphigénie</hi>. First known purely musical use of horns, previously only for hunting. Tenor oboe first made in France. The Royal Observatory at Greenwich is established, and John Flamsteed placed in charge as the first Royal Astronomer. Cassini notes the dark line in Saturn's rings, which is still called Cassini's division, and we still refer to the rings as plural. Olaus Roemer makes the first calculation of the speed of light (141,000 miles per second, which is only three-fourths of its actual speed).</p>
+            <p xml:id="atomic_130153"><hi rend="bold">1676</hi> van Leeuwenhoek, after having ground perfect single lenses for his microscope, discovers what he calls "animalcules," what we call microorganisms, swimming in pond water.</p>
+            <p xml:id="atomic_130154"><hi rend="bold">1677</hi> van Leeuwenhoek discovers spermatozoa in semen.</p>
+            <p xml:id="atomic_130155"><hi rend="bold">1678</hi> Dom Pérignon invents champagne. Edmond Halley publishes a catalogue of 341 southern stars, the first systematic astronomical observations of the skies over the far southern hemisphere.</p>
+            <p xml:id="atomic_130156"><hi rend="bold">1682</hi> Isaac Newton's <hi rend="italic">Philosophiae Naturalis principia mathematica</hi>, establishes Newton's three laws of motion and the law of universal gravity; the Principia becomes the basis for the development of theoretical mechanics over the next 200 years. First sighting of Halley's comet.</p>
+          </div>
+          <div xml:id="atomic_007" type="Chronology">
+            <head>Chronology of Military and Political Events in Seventeenth-Century England </head>
+            <p xml:id="atomic_130157">The seventeenth century was a tumultuous time in England, and this study, although mainly concered with science and literature, does not pretend to exist in a vacuum. For those interested in a general outline of the military and political events, I have included the following chronology, compiled by Antonia Fraser for her book The Weaker Vessel, which may be used as an orienting device for those familiar with the history of the seventeenth century or a starting point for those wishing to explore the topic more thoroughly:</p>
+            <p xml:id="atomic_130158"><hi rend="bold">1603</hi> Death of Elizabeth I; accession of James I</p>
+            <p xml:id="atomic_130159"><hi rend="bold">1605</hi> Discovery of the Gunpowder Plot</p>
+            <p xml:id="atomic_130160"><hi rend="bold">1611</hi> Publication of the Authorized Version of the Bible</p>
+            <p xml:id="atomic_130161"><hi rend="bold">1614</hi> The Addled Parliament</p>
+            <p xml:id="atomic_130162"><hi rend="bold">1620</hi> Pilgrim Fathers sail for America</p>
+            <p xml:id="atomic_130163"><hi rend="bold">1621</hi> Parliament issues Protestation against James I's excesses</p>
+            <p xml:id="atomic_130164"><hi rend="bold">1625</hi> Death of James I; accession of Charles I</p>
+            <p xml:id="atomic_130165"><hi rend="bold">1628</hi> Assassination of the Duke of Buckingham; the Petition of Right issued</p>
+            <p xml:id="atomic_130166"><hi rend="bold">1629</hi> Charles I dissolves Parliament (and rules without one until1640)</p>
+            <p xml:id="atomic_130167"><hi rend="bold">1634</hi> Raising of ship-money; imprisonment of Prynne</p>
+            <p xml:id="atomic_130168"><hi rend="bold">1638</hi> Scottish National Covenant drawn up</p>
+            <p xml:id="atomic_130169"><hi rend="bold">1639</hi> End of the First Bishop's War</p>
+            <p xml:id="atomic_130170"><hi rend="bold">1640</hi> The Short Parliament; the Second Bishops's War; first sitting of the Long Parliament</p>
+            <p xml:id="atomic_130171"><hi rend="bold">1641</hi> Execution of Stafford; the Grand Remonstrance issued</p>
+            <p xml:id="atomic_130172"><hi rend="bold">1642</hi> Beginning of the First Civil War; Battle of Edgehill (Oct.23rd)</p>
+            <p xml:id="atomic_130173"><hi rend="bold">1643</hi> Battles of Roundway Down (July 13th) and first Newbury (Sept. 20th); Parliament signs Solemn League and Covenant with Scots; first meeting of the Westminster Assembly</p>
+            <p xml:id="atomic_130174"><hi rend="bold">1644</hi> Battles of Cheriton (Mar. 29th), Marston Moor (July 2nd), Lostwithiel (Sept 2nd) and second Newbury (Oct. 27th)</p>
+            <p xml:id="atomic_130175"><hi rend="bold">1645</hi> Introduction to the Self-Denying Ordinance and formation of the New Model Army; Battle of Naseby (June 14th); execution of Laud</p>
+            <p xml:id="atomic_130176"><hi rend="bold">1646</hi> Charles I surrenders to the Scots; end of First Civil War</p>
+            <p xml:id="atomic_130177"><hi rend="bold">1647</hi> Charles I imprisoned at Carisbrooke</p>
+            <p xml:id="atomic_130178"><hi rend="bold">1648</hi> Start of Second Civil War; Battle of Preston (Aug. 17th); end of Second Civil War; Pride's Purge</p>
+            <p xml:id="atomic_130179"><hi rend="bold">1649</hi> Execution of Charles I; formation of the Commonwealth; Cromwell's expedition to Ireland</p>
+            <p xml:id="atomic_130180"><hi rend="bold">1650</hi> Cromwell leads campaign against Scots; Battle of Dunbar (Sept. 3rd)</p>
+            <p xml:id="atomic_130181"><hi rend="bold">1651</hi> Battle of Worcester (Sept. 3rd); escape of Charles II</p>
+            <p xml:id="atomic_130182"><hi rend="bold">1652</hi> Start of the First Dutch War</p>
+            <p xml:id="atomic_130183"><hi rend="bold">1653</hi> Dissolution of the Rump Parliament; the Barebones Parliament; Cromwell becomes Lord Protector</p>
+            <p xml:id="atomic_130184"><hi rend="bold">1654</hi> End of First Dutch War</p>
+            <p xml:id="atomic_130185"><hi rend="bold">1658</hi> Death of Cromwell</p>
+            <p xml:id="atomic_130186"><hi rend="bold">1660</hi> Declaration of Breda; Restoration of Charles II; Act of Indemnity and Oblivion; marriage of the Duke of York and Anne Hyde</p>
+            <p xml:id="atomic_130187"><hi rend="bold">1661-5</hi> Enactment of the 'Clarendon Code'; Corporation Act (1661); Act of Uniformity (1662); first Conventicle Act (1664); Five Mile Act (1665)</p>
+            <p xml:id="atomic_130188"><hi rend="bold">1662</hi> Marriage of Charles II and Catherine of Braganza; foundation of the Royal Society [other sources, including The Death of Nature, date the Royal Society to the year 1660.]</p>
+            <p xml:id="atomic_130189"><hi rend="bold">1665</hi> The Great Plague; start of the Second Dutch War</p>
+            <p xml:id="atomic_130190"><hi rend="bold">1666</hi> The Fire of London</p>
+            <p xml:id="atomic_130191"><hi rend="bold">1667</hi> End of the Second Dutch War; fall of Clarendon</p>
+            <p xml:id="atomic_130192"><hi rend="bold">1670</hi> Enactment of the second Conventicle Act</p>
+            <p xml:id="atomic_130193"><hi rend="bold">1672</hi> Charles II's Declaration of Indulgence; start of the Third Dutch War</p>
+            <p xml:id="atomic_130194"><hi rend="bold">1673</hi> The First Test Act; marriage of Duke of York and Mary of Modena</p>
+            <p xml:id="atomic_130195"><hi rend="bold">1674</hi> End of Third Dutch War</p>
+            <p xml:id="atomic_130196"><hi rend="bold">1677</hi> Marriage of Princess Mary and William of Orange</p>
+            <p xml:id="atomic_130197"><hi rend="bold">1678</hi> The Popish Plot</p>
+            <p xml:id="atomic_130198"><hi rend="bold">1682</hi> The Rye House Plot</p>
+            <p xml:id="atomic_130199"><hi rend="bold">1685</hi> Death of Charles II; accession of James II; the Monmouth Rebellion; the Bloody Assizes</p>
+            <p xml:id="atomic_130200"><hi rend="bold">1687</hi> James II dismisses Parliament and issues his first Declaration of Indulgence</p>
+            <p xml:id="atomic_130201"><hi rend="bold">1688</hi> James II's second Declaration of Indulgence; imprisonment of the Seven Bishops; birth of James's son; overthrow of James II and arrival of William and Mary</p>
+            <p xml:id="atomic_130202"><hi rend="bold">1689</hi> Start of joint rule of William III and Mary II; Bill of Rights and Toleration Act passed; start of the War of the Grand Alliance</p>
+            <p xml:id="atomic_130203"><hi rend="bold">1694</hi> Death of Mary II; Triennial Act passed</p>
+            <p xml:id="atomic_130204"><hi rend="bold">1697</hi> End of the War of the Grand Alliance</p>
+            <p xml:id="atomic_130205"><hi rend="bold">1701</hi> Act of Settlement passed</p>
+            <p xml:id="atomic_130206"><hi rend="bold">1702</hi> Death of William III; accession of Anne</p>
+          </div>
+        </div>
+      </div>
+      <div xml:id="atomic_009" type="Texts">
+        <p xml:id="atomic_130207">The Atomic Poems: Margaret (Lucas) Cavendish</p>
+        <div xml:id="atomic_010" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head>To<hi rend="italic"> Natural </hi>Philosophers. </head>
+          
+          <lg type="stanza">
+            <l>IF any <hi rend="italic">Philosophers</hi> have written of these <hi rend="italic">Subjects</hi>, as I</l>
+            <l>make no question, or doubt, but they have, of all that </l>
+            <l><hi rend="italic">Nature</hi> hath discover'd<hi rend="italic"><hi rend="bold">, </hi></hi>either in meere <hi rend="italic">Thought</hi>, and <hi rend="italic">Spe-</hi></l>
+            <l><hi rend="italic">culation</hi>, or other waies in <hi rend="italic">Observation</hi>; yet it is more then</l>
+            <l>I know of: for I never read, nor heard of any <hi rend="italic">English Booke</hi>[5]</l>
+            <l>to Instruct me: and truly I understand no other <hi rend="italic">Language</hi>;not</l>
+            <l><hi rend="italic">French</hi>, although I was in <hi rend="italic">France</hi> five years.Neither do I un-</l>
+            <l>derstand my owne <hi rend="italic">Native Language</hi> very well; for thereare </l>
+            <l>many words, I know not what they signifie; so as I have one-</l>
+            <l>ly the <hi rend="italic">Vulgar part</hi>, I meane, that which is most <hi rend="italic">usually spoke</hi>. I [10]</l>
+            <l>do not mean that which is us'd to be spoke by <hi rend="italic">Clownes</hi> in e-</l>
+            <l>very <hi rend="italic">Shire</hi>, where in some <hi rend="italic">Parts</hi> their <hi rend="italic">Language</hi> is knowne to</l>
+            <l>none, but those that are bred there. And not onely every <hi rend="italic">Shire</hi></l>
+            <l>hath a severall <hi rend="italic">Language</hi>, but every <hi rend="italic">Family</hi>, giving <hi rend="italic">Marks</hi> for</l>
+            <l>things according to their <hi rend="italic">Fancy</hi>. But my <hi rend="italic">Ignorance</hi> of the <hi rend="italic">Mother</hi> [15]</l>
+            <l><hi rend="italic">Tongues</hi> makes me ignorant of the <hi rend="italic">Opinions</hi>, and <hi rend="italic">Discourses</hi> in</l>
+            <l>former times; wherefore I may be <hi rend="italic">absurd</hi>, and erre <hi rend="italic">grossely</hi>. I can-</l>
+            <l>not say, I have not heard of <hi rend="italic">Atomes</hi>, and <hi rend="italic">Figures</hi>, and <hi rend="italic">Motions</hi></l>
+            <l>and <hi rend="italic">Matter</hi>; but not throughly <hi rend="italic">reason'd</hi> on: but if I do erre, </l>
+            <l>it is no great matter; for my <hi rend="italic">Discourse</hi> of them is not to be ac- [20]</l>
+            <l>counted <hi rend="italic">Authentick</hi>: so if there be any thing worthy of no-</l>
+            <l>ting, it is a good Chance; if not, there is no harm done, nor</l>
+            <l>time lost. For I had nothing to do when I wrot it, and I sup-</l>
+            <l>pose those have nothing, or little e'se to do, that read it. And </l>
+            <l>the Reason why I write it in <hi rend="italic">Verse</hi>, is, because I thought <hi rend="italic">Er- </hi>[25]</l>
+            <l><hi rend="italic">rours</hi> might better passe there, then in <hi rend="italic">Prose</hi>; since <hi rend="italic">Poets</hi> write</l>
+            <l>most <hi rend="italic">Fiction</hi>, and <hi rend="italic">Fiction</hi> is not given for <hi rend="italic">Truth</hi>, but <hi rend="italic">Pastime</hi>;</l>
+            <l>and I feare my <hi rend="italic">Atomes</hi> will be as small <hi rend="italic">Pastime</hi>, as themselves:</l>
+            <l>for nothing can be lesse then an <hi rend="italic">Atome</hi>. But my desire that</l>
+            <l>they should please the <hi rend="italic">Readers</hi>, is as big as the <hi rend="italic">World</hi> they [30]</l>
+            <l>make; and my <hi rend="italic">Feares</hi> are of the same <hi rend="italic">bulk</hi>; yet my <hi rend="italic">Hopes</hi> fall to </l>
+            <l>a single <hi rend="italic">Atome</hi> agen: and so shall I remaine an unsettled <hi rend="italic">Atome</hi>, </l>
+            <l>or a confus'd heape, till I heare my <hi rend="italic">Censure</hi>. If I be prais'd, it</l>
+            <l>fixes them; but if I am condemn'd, I shall be <hi rend="italic">Annihilated</hi> to</l>
+            <l>nothing: but my <hi rend="italic">Ambition</hi> is such, as I would either be a [35]</l>
+            <l><hi rend="italic">World</hi>, or nothing.</l>
+            <l>I desire all that are not quick in apprehending, or will not</l>
+            <l>trouble themselves with such small things as <hi rend="italic">Atomes</hi>, to skip</l>
+            <l>this part of my <hi rend="italic">Book</hi>, and view the <hi rend="italic">other</hi>, for feare these</l>
+            <l>may seem <hi rend="italic">tedious</hi>: yet the <hi rend="italic">Subject</hi> is <hi rend="italic">light</hi>, and the <hi rend="italic">Chapters</hi> [40]</l>
+            <l>short. Perchance the <hi rend="italic">other</hi> may please better; if not the second, </l>
+            <l>the third, if not the third, the fourth; if not the fourth, the </l>
+            <l>fifth: and if they cannot please, for lack of <hi rend="italic">Wit</hi>, they may please</l>
+            <l>in <hi rend="italic">Variety</hi>, for most <hi rend="italic">Palates</hi> are greedy after <hi rend="italic">Change</hi>. And though</l>
+            <l>they are not of the choicest <hi rend="italic">Meates</hi>, yet there is none <hi rend="italic">dangerous</hi>; [45]</l>
+            <l>neither is there so much of particular <hi rend="italic">Meat</hi>, as any can feare a </l>
+            <l><hi rend="italic">Surfet</hi>; but the better pleas'd you are, the better <hi rend="italic">Welcome</hi>. I</l>
+            <l>wish heartily my <hi rend="italic">Braine</hi> had been <hi rend="italic">Richer</hi>, to make you a fine</l>
+            <l><hi rend="italic">Entertainment</hi>: truly I should have spar'd no <hi rend="italic">Cost</hi>, neither have</l>
+            <l>I spar'd any <hi rend="italic">Paines</hi>: for my <hi rend="italic">Thoughts</hi> have been very busily im- [50]</l>
+            <l>ployed, these eight, or nine <hi rend="italic">Months</hi>, when they have not been </l>
+            <l>taken away by <hi rend="italic">Worldly Cares</hi>, and <hi rend="italic">Trouble</hi>, which I confesse hath </l>
+            <l>been a great <hi rend="italic">hinderance</hi> to this <hi rend="italic">Work</hi>. Yet have they sat up late,</l>
+            <lb/>
+            <l>and risen earely, running about untill they have been in a <hi rend="italic">fiery</hi></l>
+            <l><hi rend="italic">heat</hi>, so as their <hi rend="italic">Service</hi> hath not been wanton, nor their <hi rend="italic">In- </hi>[55]</l>
+            <l><hi rend="italic">dustry</hi> slack. What is amisse, excuse it as a <hi rend="italic">Fault</hi> of too much</l>
+            <l><hi rend="italic">Care</hi>; for there may be <hi rend="italic">Faults</hi> committed withbeing over-bu-</l>
+            <l>sie, as soon as for want of <hi rend="italic">Diligence</hi>. But those that are poore, </l>
+            <l>have nothing but their labour to bestow; and though I cannot</l>
+            <l>serve you on <hi rend="italic">Agget Tables</hi>, and <hi rend="italic">Persian Carpets</hi>, with <hi rend="italic">Golden Di-</hi> [60]</l>
+            <l><hi rend="italic">shes</hi>, and <hi rend="italic">Chrystall Glasses</hi>, nor feast you with <hi rend="italic">Ambrosia</hi>, and <hi rend="italic">Nectar</hi>,</l>
+            <l>yet perchance my <hi rend="italic">Rye Loafe</hi>, and new <hi rend="italic">Butter</hi> may tast more sa-</l>
+            <lb/>
+            <l>voury, then those that are sweet, and delicious.</l>
+            <l>
+              <hi rend="italic">If you dislike, and rise to go away,</hi>
+            </l>
+            <l><hi rend="italic">Pray do not</hi> Scoff, <hi rend="italic">and tell what I did say. </hi>[65]</l>
+            <l>
+              <hi rend="italic">But if you do, the matter is not great,</hi>
+            </l>
+            <l><hi rend="italic">For tis but</hi> foolish words <hi rend="italic">you can repeat.</hi></l>
+            <lb/>
+            <l>
+              <hi rend="italic">Pray do not censure all you do not know,</hi>
+            </l>
+            <l><hi rend="italic">But let my</hi> Atomes <hi rend="italic">to the</hi> Learned <hi rend="italic">go.</hi></l>
+            <l><hi rend="italic">If you</hi> judge<hi rend="italic">, and</hi> understand <hi rend="italic">not, you may take </hi>[70]</l>
+            <l><hi rend="italic">For</hi> Non-sense <hi rend="italic">that which</hi> learning Sense <hi rend="italic">will make.</hi></l>
+            <l><hi rend="italic">But I may say, as</hi> Some <hi rend="italic">have said before,</hi></l>
+            <l><hi rend="italic">I'm not bound to fetch you</hi> Wit <hi rend="italic">from</hi> NaturesStore. </l>
+          </lg>
+        </div>
+        <div xml:id="atomic_011" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">A World made by</hi> Atomes. </head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">S</hi>Mall <hi rend="italic">Atomes</hi> of themselves a <hi rend="italic">World </hi>may make,</l>
+            <l>As being subtle, and of every shape:</l>
+            <l>And as they dance about, fit places finde,</l>
+            <l>Such <hi rend="italic">Formes</hi> as best agree, make every kinde.</l>
+            <l>For when we build a house of Bricke, and Stone, [5]</l>
+            <l>We lay them even, every one by one:</l>
+            <l>And when we finde a gap that's big, or small,</l>
+            <l>We seeke out Stones, to fit that place withall.</l>
+            <l>For when not fit, too big, or little be,</l>
+            <l>They fall away, and cannot stay we see. [10]</l>
+            <l>So <hi rend="italic">Atomes</hi>, as they dance, finde places fit,</l>
+            <l>They there remaine, lye close, and fast will sticke.</l>
+            <l>Those that unfit, the rest that rove about,</l>
+            <l>Do never leave, untill they thrust them out.</l>
+            <l>Thus by their severall <hi rend="italic">Motions</hi>, and their<hi rend="italic"> Formes</hi>, [15]</l>
+            <l>As severall work-men serve each others turnes.</l>
+            <l>And thus, by chance, may a <hi rend="italic">New World</hi> create:</l>
+            <l>Or else predestined to worke my <hi rend="italic">Fate</hi>.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_012" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">The foure principall</hi> Figur'd Atomes <hi rend="italic">make</hi><lb/><hi rend="italic">the foure</hi> Elements, <hi rend="italic">as</hi> Square, Round,<lb/> Long, <hi rend="italic">and</hi> Sharpe. </head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">T</hi>HE <hi rend="italic">Square flat Atomes</hi>, as dull <hi rend="italic">Earth</hi> appeare,</l>
+            <l>The <hi rend="italic">Atomes Round</hi> do make the <hi rend="italic">Water</hi> cleere.</l>
+            <l>The<hi rend="italic"> Long streight Atomes</hi> like to Arrowes fly,</l>
+            <l>Mount next the points, and make the <hi rend="italic">Aiery Skie</hi>;</l>
+            <l>The <hi rend="italic">Sharpest Atomes</hi> do into <hi rend="italic">Fire</hi> turne, [5]</l>
+            <lb/>
+            <l>Which by their peircing quality they burne:</l>
+            <l>That <hi rend="italic">Figure</hi> makes them <hi rend="italic">active</hi>, active, Light;</l>
+            <l>Which makes them get aboue the rest in flight;</l>
+            <l>And by this <hi rend="italic">Figure</hi> they stick fast, and draw</l>
+            <l>Up other <hi rend="italic">Atomes</hi> which are <hi rend="italic">Round</hi> and <hi rend="italic">Raw</hi>: [10]</l>
+            <l>As <hi rend="italic">Waters are round drops</hi>, though nere so small,</l>
+            <l>Which shew that <hi rend="italic">water</hi> is all <hi rend="italic">sphæricall</hi>,</l>
+            <lb/>
+            <l>That <hi rend="italic">Figure</hi> makes it <hi rend="italic">spungy</hi>, spungy, wet,</l>
+            <l>For being hollow, softnesse doth beget.</l>
+            <l>And being soft, that makes it run about; [15]</l>
+            <l>More solid <hi rend="italic">Atomes</hi> thrust it in, or out;</l>
+            <l>But <hi rend="italic">sharpest Atomes</hi> have most power thereon,</l>
+            <l>To nip it up with <hi rend="italic">Cold</hi>, or <hi rend="italic">Heate</hi> to run.</l>
+            <l>But <hi rend="italic">Atomes Flat</hi>, are heavy, dull, and slow,</l>
+            <l>And sinking downward to the bottome go: [20]</l>
+            <l>Those <hi rend="italic">Figur'd Atomes</hi> are not active, Light,</l>
+            <l>Whereas the <hi rend="italic">Longe</hi> are like the <hi rend="italic">Sharp</hi> in flight.</l>
+            <l>For as the <hi rend="italic">Sharpe</hi> do pierce, and get on high,</l>
+            <l>So do the long shoot streight, and evenly.</l>
+            <l>The <hi rend="italic">Round</hi> are next the <hi rend="italic">Flat</hi>, the <hi rend="italic">Long</hi> next <hi rend="italic">Round</hi>, [25]</l>
+            <l>Those which are <hi rend="italic">sharp</hi>, are still the highest found:</l>
+            <l>The <hi rend="italic">Flat</hi> turne all to <hi rend="italic">Earth</hi>, which lye most low,</l>
+            <l>The <hi rend="italic">Round</hi>, to <hi rend="italic">Water</hi> cleer, which liquid flow.</l>
+            <l>The <hi rend="italic">Long</hi> to <hi rend="italic">Aire</hi> turne, from whence Clouds grow,</l>
+            <l>The <hi rend="italic">Sharp</hi> to <hi rend="italic">Fire</hi> turne, which hot doth glow, [30]</l>
+            <l>These <hi rend="italic">Foure Figures foure Elements</hi> do make, </l>
+            <l>And as their <hi rend="italic">Figures</hi> do incline, they take.</l>
+            <l>For those are perfect in themselves alone,</l>
+            <l>Not taking any shape, but what's their owne.</l>
+            <l>What <hi rend="italic">Forme</hi> is else. must still take from each part, [35]</l>
+            <l>Either from <hi rend="italic">Round</hi>, or <hi rend="italic">Long</hi>, or <hi rend="italic">Square</hi>, or <hi rend="italic">Sharp</hi>;</l>
+            <l>As those that are like to <hi rend="italic">Triangulars</hi> cut,</l>
+            <l>Part of three <hi rend="italic">Figures</hi> in one <hi rend="italic">Forme</hi> is put.</l>
+            <l>And those that bow and bend like to a Bow;</l>
+            <l>Like to the <hi rend="italic">Round</hi>, and <hi rend="italic">joynted Atomes</hi> shew. [40]</l>
+            <l>Those that are <hi rend="italic">Branch'd</hi>, or those which <hi rend="italic">crooked</hi> be,</l>
+            <l>You may both the <hi rend="italic">Long</hi>, and <hi rend="italic">sharp Figures</hi> see.</l>
+            <lb/>
+            <l>Thus severall <hi rend="italic">Figures</hi>, severall tempers make,</l>
+            <l>But what is mixt, doth of the <hi rend="italic">Four</hi> partake.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_013" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">Of</hi> Aiery Atomes. </head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">T</hi>HE <hi rend="italic">Atomes long</hi>, which streaming Aire makes,</l>
+            <l>Are hollow, from which <hi rend="italic">Forme Aire</hi> softnesse takes.</l>
+            <l>This makes that <hi rend="italic">Aire</hi>, and <hi rend="italic">water</hi> neer agree,</l>
+            <l>Because in hollownesse alike they be.</l>
+            <l>For <hi rend="italic">Aiery Atomes</hi> made are like a <hi rend="italic">Pipe</hi>, [5]</l>
+            <l>And <hi rend="italic">watry Atomes</hi>, <hi rend="italic">Round</hi>, and <hi rend="italic">Cimball</hi> like.</l>
+            <l>Although the one is <hi rend="italic">Long</hi>, the other <hi rend="italic">Round</hi>;</l>
+            <l>Yet in the midst, a hollownesse is found.</l>
+            <l>This makes us thinke, <hi rend="italic">water</hi> turnes into <hi rend="italic">Aire</hi>,</l>
+            <l>And <hi rend="italic">Aire</hi> often runs into <hi rend="italic">water</hi> faire. [10]</l>
+            <l>And like two <hi rend="italic">Twins</hi>, mistaken they are oft;</l>
+            <l>Because their hollownesse makes them both soft.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_014" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">Of </hi>Aire. </head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">T</hi>HE reason, why <hi rend="italic">Aire</hi> doth so equall spred,</l>
+            <l>Is <hi rend="italic">Atomes long</hi>, at each end ballanced.</l>
+            <l>For being <hi rend="italic">long</hi>, and each end both alike,</l>
+            <l>Are like to <hi rend="italic">Weights</hi>, which keep it steddy, right:</l>
+            <l>For howsoere it moves, to what <hi rend="italic">Forme</hi> joyne, [5]</l>
+            <l>Yet still that <hi rend="italic">Figure</hi> lies in every line.</l>
+            <l>For <hi rend="italic">Atomes long</hi>, their <hi rend="italic">Formes</hi> are like a <hi rend="italic">Thread</hi>,</l>
+            <l>Which interveaves like to a Spiders <hi rend="italic">Web</hi>:</l>
+            <l>And thus being thin, it so subtle growes,</l>
+            <l>That into every empty place it goes. [10]</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_015" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">Of </hi>Earth. </head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">W</hi>HY <hi rend="italic">Earth's</hi> not apt to move, but slow and dull,</l>
+            <l>Is, <hi rend="italic">Atomes flat</hi> no <hi rend="italic">Vacuum</hi> hath but full.</l>
+            <l>That <hi rend="italic">Forme</hi> admits no empty place to bide</l>
+            <l>All parts are fil'd, having no hollow side.</l>
+            <l>And where no <hi rend="italic">Vacuum</hi> is,<ref target="#atomic.056.an1">1</ref><note xml:id="atomic.056.an1" n="1" place="end" type="auth"><hi rend="italic">As Round and Long have.</hi></note><hi rend="italic">Motion</hi> is slow, <hi rend="italic"/>[5]</l>
+            <l>Having no empty places for to go.</l>
+            <l>Though <hi rend="italic">Atomes</hi> all are small, as small may bee,</l>
+            <l>Yet by their <hi rend="italic">Formes</hi>, <hi rend="italic">Motion</hi> doth disagree.</l>
+            <l>For <hi rend="italic">Atomes sharp</hi> do make themselves a <hi rend="italic">Way</hi><ref target="#atomic.056.an2">2</ref><note xml:id="atomic.056.an2" n="2" place="end" type="auth"><hi rend="italic">As the numbers of</hi> Sharpe Atomes <hi rend="italic">do peirce and make way through greater numbers, as a </hi> Sparke <hi rend="italic">of fire will kindle, and burn up a house.</hi></note>, </l>
+            <l>Cutting through other <hi rend="italic">Atomes</hi> as they stray. [10]</l>
+            <l>But <hi rend="italic">Atomes flat</hi> will dull, and lazy lay,</l>
+            <l>Having no Edge, or point to make a <hi rend="italic">Way</hi>.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_016" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">The weight of </hi>Atomes. </head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">I</hi>F <hi rend="italic">Atomes</hi> are as small, as small can bee,</l>
+            <l>They must in <hi rend="italic">quantity</hi> of <hi rend="italic">Matter</hi> all agree:</l>
+            <l>And if consisting <hi rend="italic">Matter</hi> of the same (be right,)</l>
+            <l>Then every <hi rend="italic">Atome</hi> must weigh just alike.</l>
+            <l>Thus <hi rend="italic">Quantity</hi>, <hi rend="italic">Quality</hi> and <hi rend="italic">Weight</hi>, all [5]</l>
+            <l>Together meets in every <hi rend="italic">Atome</hi> small.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_017" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">The bignesse of</hi> Atomes: </head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">M</hi>HEN I say <hi rend="italic">Atomes</hi> small, as small can bee;</l>
+            <l>I mean <hi rend="italic">Quantity</hi>, <hi rend="italic">quality</hi>, and <hi rend="italic">Weight</hi> agree</l>
+            <l>Not in the <hi rend="italic">Figure</hi>, for some may shew</l>
+            <l>Much bigger, and some lesser: so</l>
+            <l>Take <hi rend="italic">Water</hi> fluid, and <hi rend="italic">Ice</hi> thats firme, [5]</l>
+            <l>Though the <hi rend="italic">Weight</hi> be just the <hi rend="italic">Bulke</hi> is not the same.</l>
+            <l>So <hi rend="italic">Atomes</hi> are some soft, others more knit,</l>
+            <l>According as each <hi rend="italic">Atome's Figured</hi>;</l>
+            <l><hi rend="italic">Round</hi> and <hi rend="italic">Long Atomes</hi> hollow are, more slacke</l>
+            <l>Then <hi rend="italic">Flat</hi>, or <hi rend="italic">Sharpe</hi>, for they are more compact: [10]</l>
+            <l>And being hollow they are spread more thin,</l>
+            <l>Then other <hi rend="italic">Atomes</hi> which are close within:</l>
+            <l>And <hi rend="italic">Atomes</hi> which are thin more tender far,</l>
+            <l>For those that are more close, they harder are.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_018" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">The joyning of severall</hi> Figur'd Atomes<hi rend="italic">make other</hi> Figures. </head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">S</hi>everal <hi rend="italic">Figur'd Atomes</hi> well agreeing,</l>
+            <l>When joyn'd do give another <hi rend="italic">Figure</hi> being.</l>
+            <l>For as those <hi rend="italic">Figures</hi> joyned, severall waies,</l>
+            <l>The <hi rend="italic">Fabrick</hi> of each severall <hi rend="italic">Creature</hi> raise.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_019" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">What</hi> Atomes <hi rend="italic">make</hi> Change. </head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">T</hi>IS severall <hi rend="italic">Figur'd Atomes</hi> that make <hi rend="italic">Change</hi>,</l>
+            <l>When severall <hi rend="italic">Bodies</hi> meet as they do range.</l>
+            <l>For if they sympathise, and do agree,</l>
+            <l>They joyne together, as one <hi rend="italic">Body</hi> bee.</l>
+            <l>But if they joyne like to a <hi rend="italic">Rabble-rout</hi>, [5]</l>
+            <l>Without all order running in and out;</l>
+            <l>Then <hi rend="italic">disproportionable</hi> things they make,</l>
+            <l>Because they did not their right places take.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_020" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head>  All things last, or dissolve, according to the 
+Composure <hi rend="italic">of</hi> Atomes. </head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">T</hi>Hose <hi rend="italic">Atomes</hi> loosely joyn'd, do not remaine</l>
+            <l>So long as those, which <hi rend="italic">Closenesse</hi> do maintaine.</l>
+            <l>Those make all things i'th World ebb, and flow;</l>
+            <l>According as the <hi rend="italic">moving Atomes</hi> go.</l>
+            <l>Others in <hi rend="italic">Bodies</hi>, they do joyne so close, [5]</l>
+            <l>As in long time, they never stir, nor loose:</l>
+            <l>And some will joyne so close, and knit so fast,</l>
+            <l>As of unstir'd, they would for ever last.</l>
+            <l>In smallest <hi rend="italic">Vegetables</hi>, loosest <hi rend="italic">Atomes</hi> lye,</l>
+            <l>Which is the reason, they so quickly dye. [10]</l>
+            <l>In <hi rend="italic">Animals</hi>, much closer they are laid,</l>
+            <l>Which is the cause, <hi rend="italic">Life</hi> is the longer staid.</l>
+            <l>Some <hi rend="italic">Vegetables</hi>, and <hi rend="italic">Animals</hi> do joyne</l>
+            <l>In equall strength, if <hi rend="italic">Atomes</hi> so combine.</l>
+            <l>But <hi rend="italic">Animals</hi>, where <hi rend="italic">Atomes</hi> close lay in, [15]</l>
+            <l>Are stronger, then some <hi rend="italic">Vegetables</hi> thin.</l>
+            <l>But in <hi rend="italic">Vegetables</hi>, where <hi rend="italic">Atomes</hi> do stick fast,</l>
+            <l>As in strong <hi rend="italic">Trees</hi>, the longer they do last.</l>
+            <l>In <hi rend="italic">Minerals</hi>, they are so hard wedg'd in,</l>
+            <l>No space they leave for <hi rend="italic">Motion</hi> to get in: [20]</l>
+            <l>Being <hi rend="italic">Pointed</hi> all, the closer they do lye,</l>
+            <l>Which make them not like <hi rend="italic">Vegetables</hi> dye.</l>
+            <l>Those <hi rend="italic">Bodies</hi>, where <hi rend="italic">loose Atomes</hi> most move in,</l>
+            <l>Are <hi rend="italic">Soft</hi>, and <hi rend="italic">Porous</hi>, and many times thin.</l>
+            <l>Those <hi rend="italic">Porous Bodies</hi> never do live long, [25]</l>
+            <l>For why, <hi rend="italic">loose Atomes</hi> never can be strong.</l>
+            <l>There <hi rend="italic">Motion</hi> having power, tosses them about,</l>
+            <l>Keeps them from their right places, so <hi rend="italic">Life</hi> goes out.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_021" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">Of Loose</hi> Atomes. </head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">I</hi>N every <hi rend="italic">Braine loose Atomes</hi> there do lye,</l>
+            <l>Those which are <hi rend="italic">Sharpe</hi>, from them do <hi rend="italic">Fancies</hi> flye.</l>
+            <l>Those that are <hi rend="italic">long</hi>, and <hi rend="italic">Aiery</hi>, nimble be.</l>
+            <l>But <hi rend="italic">Atomes Round</hi>, and <hi rend="italic">Square</hi>, are dull, and sleepie.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_022" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas).</docAuthor>
+          <head><seg type="short-title">Change</seg> <hi rend="italic">is made by several</hi>-figur'd Atomes, <hi rend="italic">and</hi> Motion. </head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">I</hi>F <hi rend="italic">Atomes</hi> all are of the selfe same <hi rend="italic">Matter</hi>;</l>
+            <l>As <hi rend="italic">Fire, Aire, Earth,</hi> and <hi rend="italic">Water</hi>:</l>
+            <l>Then must their severall <hi rend="italic">Figures</hi> make all <hi rend="italic">Change</hi></l>
+            <l>By <hi rend="italic">Motions</hi> helpe, which orders, as they range.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_023" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">Of</hi> Sharpe Atomes. </head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">T</hi>Hen <hi rend="italic">Atomes Sharpe</hi><hi rend="italic">Motion</hi> doth mount up high;</l>
+            <l>Like Arrowes sharpe, <hi rend="italic">Motion</hi> doth make them flye.</l>
+            <l>And being <hi rend="italic">sharpe</hi> and <hi rend="italic">swift</hi>, they peirce so deep,</l>
+            <l>As they passe through all <hi rend="italic">Atomes</hi>, as they meet:</l>
+            <l>By their swift motion, they to bright <hi rend="italic">Fire</hi> turne; [5]</l>
+            <l>And being <hi rend="italic">Sharpe</hi>, they peirce, which we call <hi rend="italic">Burne</hi>.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_024" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><seg type="short-title"><hi rend="italic">What</hi> Atomes</seg> <hi rend="italic">make</hi> Flame.</head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">T</hi>Hose <hi rend="italic">Atomes</hi>, which are <hi rend="italic">Long</hi><ref target="#atomic.056.an3">3</ref><note xml:id="atomic.056.an3" n="3" place="end" type="auth"><hi rend="italic">These </hi> Atomes <hi rend="italic">are halfe</hi> aiery Atomes, <hi rend="italic">and halfe</hi> Fiery.</note>, <hi rend="italic">sharp</hi> at each end,</l>
+            <l>Stream forth like <hi rend="italic">Aire</hi>, in <hi rend="italic">Flame</hi>, which <hi rend="italic">Light</hi> doth seem:</l>
+            <l>For <hi rend="italic">Flame</hi> doth flow, as if it fluid were,</l>
+            <l>Which shewes, part of that <hi rend="italic">Figure</hi> is like Aire.</l>
+            <l>Thus <hi rend="italic">Flame</hi> is joyne'd, two <hi rend="italic">Figures</hi> into one: [5]</l>
+            <l>But <hi rend="italic">Fire</hi> without <hi rend="italic">Flame</hi>, is <hi rend="italic">sharpe</hi> alone.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_025" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">Of</hi> Fire <hi rend="italic">and</hi> Flame. </head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">A</hi>Lthough we at a distance stand; if great</l>
+            <l>The <hi rend="italic">Fire</hi> be, the <hi rend="italic">Body</hi> through will heat.</l>
+            <l>Yet those <hi rend="italic">sharpe Atomes</hi> we do no perceive;</l>
+            <l>How they flye out nor how to us they cleave.</l>
+            <l>Nor do they flame, nor shine they cheere and bright, [5]</l>
+            <l>When they flie out, and on our Bodies strike.</l>
+            <l>The reason is, they loose, and scattered flye.</l>
+            <l>And not in <hi rend="italic">Troupes</hi>, not do they on heaps lye.</l>
+            <l>Like small dust rais'd, which scatter'd all about;</l>
+            <l>We see it not, nor doth it keep <hi rend="italic">Light</hi> out: [10]</l>
+            <l>When gathered thick up to a Mountaine high,</l>
+            <l>We see them thin in solid <hi rend="italic">Earth</hi> to lye.</l>
+            <l>Just so do <hi rend="italic">Atomes sharpe</hi> looke, cleere, and bright,</l>
+            <l>When in heaps lye, or in a streaming flight.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_026" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">Of</hi> Fire <hi rend="italic">in the Flint</hi>.</head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">T</hi>HE reason, <hi rend="italic">Fire</hi> lies in <hi rend="italic">Flint</hi> unseene;</l>
+            <lb/>
+            <l>Is, other <hi rend="italic">Figur'd Atomes</hi> lye betweene:</l>
+            <l>For being bound, and overpowred by</l>
+            <l>A <hi rend="italic">Multitude</hi>, they do in Prison lye.</l>
+            <l>Unlesse that <hi rend="italic">Motion</hi> doth release them out, [5]</l>
+            <l>With as strong power, which make them flye about</l>
+            <l>But if that <hi rend="italic">Flint</hi> be beat to powder small;</l>
+            <l>To sep'rate the <hi rend="italic">grossest</hi>, release'd are all.</l>
+            <lb/>
+            <l>But when they once are out, do not returne,</l>
+            <lb/>
+            <l>But seeke about to make another <hi rend="italic">Forme</hi>. [10]</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_027" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">Of the</hi> Sympathy <hi rend="italic">of</hi> Atomes. </head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">B</hi>Y <hi rend="italic">Sympathy, Atomes</hi> are fixed so,</l>
+            <l>As past some <hi rend="italic">Principles</hi> they do not go.</l>
+            <l>For count the <hi rend="italic">Principles</hi> of all their workes,</l>
+            <l>You'le find, there are not many severall sorts.</l>
+            <l>For when they do dissolve, and new <hi rend="italic">Formes</hi> make, [5]</l>
+            <l>They still to their first <hi rend="italic">Principles</hi> do take.</l>
+            <l>As Animals, Vegetables, Minerals;</l>
+            <l>So Aire, Fire, Earth, Water falls.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_028" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">Of the</hi> Sympathy <hi rend="italic">of their</hi> Figures. </head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">S</hi>Uch <hi rend="italic">Sympathy</hi> there is in every <hi rend="italic">Figure</hi>,<ref target="#atomic.056.an4">4</ref><note xml:id="atomic.056.an4" n="4" place="end" type="auth"><hi rend="italic">Long, Round, Sharpe, Flat.</hi></note></l>
+            <l>That every severall sort do flock together.</l>
+            <l>As <hi rend="italic">Aire, Water, Earth</hi> and <hi rend="italic">Fire</hi>;</l>
+            <l>Which make each <hi rend="italic">Element</hi> to be entire:</l>
+            <l>Not but <hi rend="italic">loose Atomes</hi>, like <hi rend="italic">Sheep</hi> stray about, [5]</l>
+            <l>And into severall places go in, and out:</l>
+            <l>And some as <hi rend="italic">Sheep</hi> and <hi rend="italic">Kineº</hi> do mixe together; ºcattle</l>
+            <l>Which when they mixe, tis severall change of weather.</l>
+            <l>But <hi rend="italic">Motion</hi>, as their <hi rend="italic">Shepheard</hi>, drives them so,</l>
+            <l>As not to let them out of order go. [10]</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_029" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">What</hi> Atomes <hi rend="italic">make</hi> Vegetables, Minerals, <hi rend="italic">and</hi> Animals. </head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">T</hi>HE <hi rend="italic">Branched Atomes Formes</hi> each <hi rend="italic">Planted</hi> thing,</l>
+            <l>The hooked points pull out, and makes them spring,</l>
+            <l>The <hi rend="italic">Atomes Round</hi> give Juice, the <hi rend="italic">Sharpe</hi> give heate;</l>
+            <l>And those grow <hi rend="italic">Hearbs</hi>, and <hi rend="italic">Fruits</hi>, and <hi rend="italic">Flowers</hi> sweet.</l>
+            <l>Those that are <hi rend="italic">Square</hi>, and <hi rend="italic">Flat</hi>, not rough withall, [5]</l>
+            <l>Make those which <hi rend="italic">Stone</hi>, and <hi rend="italic">Minerals</hi> we call.</l>
+            <l>But in all <hi rend="italic">Stones</hi>, and <hi rend="italic">Minerals</hi>, (no doubt,)</l>
+            <l><hi rend="italic">Sharpe</hi> points do lye, which <hi rend="italic">Fire</hi> makes strike out.</l>
+            <l>Thus <hi rend="italic">Vegetables, Minerals</hi> do grow,</l>
+            <l>According as the severall <hi rend="italic">Atomes</hi> go. [10]</l>
+            <l>In <hi rend="italic">Animals</hi>, all <hi rend="italic">Figures</hi> do agree;</l>
+            <l>But in <hi rend="italic">Mankinde</hi>, the best of <hi rend="italic">Atomes bee</hi>.</l>
+            <l>And thus, in <hi rend="italic">Nature</hi>, the whole World may be,</l>
+            <l>For all we know, unto Eternitie.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_030" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">What</hi> Atomes <hi rend="italic">make</hi> Heate <hi rend="italic">and</hi> Colde. </head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">S</hi>Such kinde of <hi rend="italic">Atomes</hi>, which make <hi rend="italic">Heat</hi>, make <hi rend="italic">Cold</hi>:</l>
+            <l>Like Pincers sharpe, which nip, and do take hold.</l>
+            <l>But <hi rend="italic">Atomes</hi> that are pointed <hi rend="italic">sharpe</hi>, peirce through:</l>
+            <l>And <hi rend="italic">Atomes</hi> which are <hi rend="italic">sharpe</hi>, but <hi rend="italic">Hookt</hi>, pull to.</l>
+            <l>Yet, all must into pointed <hi rend="italic">Figures</hi> turne; [5]</l>
+            <l>For <hi rend="italic">Atomes blunt</hi> will never freeze, nor burne.</l>
+            <l>'Cause <hi rend="italic">Blunt Figures</hi> do to a soft <hi rend="italic">Forme</hi> bend;</l>
+            <l>And <hi rend="italic">Soft</hi> do unto <hi rend="italic">wet</hi>, or <hi rend="italic">Liquid</hi> tend.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_031" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">What</hi> Atomes <hi rend="italic">make</hi> Fire <hi rend="italic">to burne, and what</hi>Flame. </head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">W</hi>Hat makes a <hi rend="italic">Sparke</hi> of <hi rend="italic">Fire</hi> to burne more quick,</l>
+            <l>Then a great <hi rend="italic">Flame</hi>? because 'tis small to stick.</l>
+            <l>For <hi rend="italic">Fire</hi> of it selfe, it is so dry,</l>
+            <l>Falls into parts, as crowds of <hi rend="italic">Atomes</hi> lye.</l>
+            <l>The <hi rend="italic">Sharpest Atomes</hi> keepe the Body hot, [5]</l>
+            <l>To give out <hi rend="italic">Heat</hi>, some <hi rend="italic">Atomes</hi> forth are shot.</l>
+            <l>Sometimes for anger, the <hi rend="italic">Sparkes</hi> do fly about;</l>
+            <l>Or want of roome, the weakest are thrust out.</l>
+            <l>They are so sharpe, that whatsoere they meet,</l>
+            <l>If not orepowr'd, by other <hi rend="italic">Atomes</hi>,<ref target="#atomic.056.an5">5</ref><note xml:id="atomic.056.an5" n="5" place="end" type="auth"><hi rend="italic">This is, when some</hi> Atomes<hi rend="italic"> overpower others by their</hi> Numbers, <hi rend="italic">for they cannot change their</hi> Formes.</note> eate: [10] </l>
+            <l>As <hi rend="italic">Ants</hi>, which small, will eate up a dead Horse:<hi rend="italic"> </hi></l>
+            <l>So <hi rend="italic">Atomes sharpe</hi>, on <hi rend="italic">Bodies</hi> of lesse force.</l>
+            <l>Thus <hi rend="italic">Atomes sharpe</hi>, yet sharper by degrees;</l>
+            <l>As Stings in <hi rend="italic">Flies</hi>, are not so sharpe as <hi rend="italic">Bees</hi>.</l>
+            <l>And when they meet a <hi rend="italic">Body</hi>, <hi rend="italic">solid</hi>, <hi rend="italic">flat</hi>, [15] </l>
+            <l>The weakest Flye, the <hi rend="italic">Sharpest</hi> worke on that.</l>
+            <l>Those that are not so <hi rend="italic">sharpe</hi>, do flye about,</l>
+            <l>To seeke some lighter matter, to eate out.</l>
+            <l>So lighter <hi rend="italic">Atomes</hi> do turn <hi rend="italic">Aire </hi>to<hi rend="italic"> Flame</hi>,</l>
+            <l>Because more <hi rend="italic">Thin</hi>, and <hi rend="italic">Porous</hi> is the same [20]</l>
+            <l>Thus <hi rend="italic">Flame</hi> is not so hot as <hi rend="italic">Burning Coale</hi>;</l>
+            <l>The <hi rend="italic">Atomes</hi> are too weake, to take fast hold.</l>
+            <l>The <hi rend="italic">sharpest</hi> into firmest <hi rend="italic">Bodies</hi> flye,</l>
+            <l>But if their strength be small, they quickly dye.</l>
+            <l>Or if their <hi rend="italic">Number</hi> be not great, but small; [25]</l>
+            <l>The <hi rend="italic">Blunter Atomes</hi> beate and quench out all.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_032" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">What </hi>Atomes<hi rend="italic"> make the </hi>Sun<hi rend="italic">, and the </hi>Sea<hi rend="italic">, go</hi><lb/><hi rend="italic">round.</hi></head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">A</hi>LL pointed <hi rend="italic">Atomes</hi>, they to <hi rend="italic">Fire</hi> turne;</l>
+            <l>Which by their drinesse, they so light become:</l>
+            <l>Above the rest do flye, and make a <hi rend="italic">Sun</hi>.</l>
+            <l>Which by consent of parts, a <hi rend="italic">Wheele of Fire</hi> growes,</l>
+            <l>Which being <hi rend="italic">Sphæricall</hi>, in a round motion goes; [5]</l>
+            <l>And as it turnes round, <hi rend="italic">Atomes</hi> turne about;</l>
+            <l>Which <hi rend="italic">Atomes</hi><hi rend="italic">round</hi>, are <hi rend="italic">Water</hi>, without doubt.</l>
+            <l>This makes the <hi rend="italic">Sea</hi> go round, like Water-Mill;</l>
+            <l>For as the <hi rend="italic">Sun</hi> turnes round, so doth the <hi rend="italic">water</hi> still.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_033" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">What </hi>Atomes<hi rend="italic"> make </hi>Life. </head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">A</hi>LL pointed <hi rend="italic">Atomes</hi> to <hi rend="italic">Life</hi> do tend</l>
+            <l>Whether pointed <hi rend="italic">all</hi> or at one <hi rend="italic">end</hi>.</l>
+            <l>Or whether <hi rend="italic">Round</hi>, are set like to a <hi rend="italic">Ring</hi>;</l>
+            <l>Or whether <hi rend="italic">Long</hi>, are roul'd as on a <hi rend="italic">String</hi>.</l>
+            <l>Those which are <hi rend="italic">pointed</hi>, straight, quick <hi rend="italic">Motion</hi> give; [5]</l>
+            <l>But those that bowe and bend, more dull do live.</l>
+            <l>For <hi rend="italic">Life</hi> lives dull, or merrilie,</l>
+            <l>According as <hi rend="italic">Sharpe Atomes</hi> be.</l>
+            <l>The <hi rend="italic">Cause</hi> why things do live and dye,</l>
+            <l>Is, as the mixed <hi rend="italic">Atomes</hi> lye. [10]</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_034" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">What</hi> Atomes <hi rend="italic">make</hi> Death. </head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">L</hi>Ife is a <hi rend="italic">Fire</hi>, and burnes full hot,</l>
+            <l>But when <hi rend="italic">Round watry Atomes</hi> power have got:</l>
+            <l>Then do they quench <hi rend="italic">Lifes Atomes</hi> out,</l>
+            <l>Blunting their <hi rend="italic">Points</hi>, and kill their courage stout.</l>
+            <l>Thus they sometimes do quite thrust out each other,<ref target="#atomic.056.an6">6</ref><note xml:id="atomic.056.an6" n="6" place="end" type="auth"><hi rend="italic">Over power'd</hi>.</note> [5]</l>
+            <l>When equall mix'd, live quietly together.</l>
+            <l>The <hi rend="italic">cause</hi> why things do <hi rend="italic">live</hi> and <hi rend="italic">dye</hi>,</l>
+            <l>Is as the <hi rend="italic">mixed Atomes </hi>lye.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_035" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">What</hi> Atomes <hi rend="italic">cause</hi> Sicknesse.</head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">W</hi>Hen sicke the <hi rend="italic">Body</hi> is, and well by fits,</l>
+            <l><hi rend="bold">Atomes</hi> are fighting, but none the better gets.</l>
+            <l>If they agree, then <hi rend="italic">Health</hi> returnes againe,</l>
+            <l>And so shall live as long as <hi rend="italic">Peace</hi> remaine.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_036" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">What</hi> Atomes <hi rend="italic">make a</hi> Dropsie.</head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">W</hi>Hen <hi rend="italic">Atomes</hi><hi rend="italic">round</hi> do meet, joyne in one <hi rend="italic">Ball</hi>,</l>
+            <l>Then they swell high, and grow <hi rend="italic">Hydropicall</hi>.</l>
+            <l>Thus joyning they come strong, so powerfull grow,</l>
+            <l>All other <hi rend="italic">Atomes</hi> they do overflow.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_037" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">What</hi> Atomes <hi rend="italic">make a</hi> Consumption. </head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">T</hi>HE <hi rend="italic">Atomes sharpe</hi>, when they together meet,</l>
+            <l>They grow so hot, all other <hi rend="italic">Atomes</hi> beate.</l>
+            <l>And being hot, becomes so very dry,</l>
+            <l>They drinke <hi rend="italic">Lifes moisture</hi> up, make <hi rend="italic">motion</hi> dye.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_038" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">What</hi> Atomes <hi rend="italic">make the</hi> wind Collick. </head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="italic"><hi rend="bold">L</hi>Ong aiery Atomes</hi>, when they are combin'd,</l>
+            <l>Do spread themselves abroad, and so make <hi rend="italic">Wind</hi>:</l>
+            <l>Making a <hi rend="italic">Length</hi> and <hi rend="italic">Breadth</hi> extend so far,</l>
+            <l>That all the rest can neither go nor stir.</l>
+            <l>And being forc'd, not in right places lye; [5]</l>
+            <l>Thus press'd too hard, <hi rend="italic">Man</hi> in great paine doth lye.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_039" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">What</hi> Atomes <hi rend="italic">make a</hi> Palsey, <hi rend="italic">or</hi> Apoplexy. </head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">D</hi>Ull <hi rend="italic">Atomes flat</hi>, when they together joyne,</l>
+            <l>And with each other in a heape combine;</l>
+            <l>This <hi rend="italic">Body thicke</hi> doth stop all passage so,</l>
+            <l>Keeps <hi rend="italic">Motion</hi> out, so num'd the <hi rend="italic">Body</hi> grow.</l>
+            <l><hi rend="italic">Atomes</hi> that are sharpe, in which <hi rend="italic">Heate</hi> dothlive, [5]</l>
+            <l>Being smothered close, no heate can give:</l>
+            <l>But if those <hi rend="italic">Atomes flat</hi> meet in the <hi rend="italic">Braine</hi>,</l>
+            <l>They choake the <hi rend="italic">Spirits</hi>, can no heate obtaine.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_040" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><seg type="short-title"><hi rend="italic">In all other</hi> Diseases</seg> <hi rend="italic">they are mixed, taking</hi>
+parts, <hi rend="italic">and</hi> factions.</head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">B</hi>UT in all other <hi rend="italic">Diseases</hi> they are mix'd,</l>
+            <l>And not in one consisting <hi rend="italic">Body</hi> fix'd.</l>
+            <l>But do in <hi rend="italic">factions</hi> part, then up do rise;</l>
+            <l>Striving to beate each other out, <hi rend="italic">Man</hi> dies.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_041" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">All things are govern'd by</hi> Atomes.</head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">T</hi>Hus <hi rend="italic">Life</hi> and <hi rend="italic">Death</hi>, and <hi rend="italic">young</hi> and <hi rend="italic">old</hi>,</l>
+            <l>Are, as the severall <hi rend="italic">Atomes</hi> bold.</l>
+            <l>So <hi rend="italic">Wit</hi>, and <hi rend="italic">Understanding</hi> in the <hi rend="italic">Braine</hi>,</l>
+            <l>Are as the severall <hi rend="italic">Atomes</hi> reigne:</l>
+            <l>And <hi rend="italic">Dispositions</hi> good, or ill, [5]</l>
+            <l>Are as the severall <hi rend="italic">Atomes</hi> still.</l>
+            <l>And every <hi rend="italic">Passion</hi> which doth rise,</l>
+            <l>Is as the severall <hi rend="italic">Atomes</hi> lies.</l>
+            <l>Thus <hi rend="italic">Sicknesse</hi>, <hi rend="italic">Health</hi>, and <hi rend="italic">Peace</hi>, and <hi rend="italic">War</hi>;</l>
+            <l>Are alwaies as the severall <hi rend="italic">Atomes</hi> are. [10]</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_042" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">A</hi> warr <hi rend="italic">with</hi> Atomes. </head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">S</hi>Ome factious <hi rend="italic">Atomes</hi> will agree, combine,</l>
+            <l>They strive some <hi rend="italic">form'd</hi><hi rend="italic">Body</hi> to unjoyne.</l>
+            <l>The <hi rend="italic">Round</hi> beate out the <hi rend="italic">Sharpe</hi>: the <hi rend="italic">Long</hi></l>
+            <l>The <hi rend="italic">Flat</hi> do fight withall, thus all go wrong.</l>
+            <l>Those which make <hi rend="italic">Motion Generall</hi> in their war, [5]</l>
+            <l>By his direction they much stronger are.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_043" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head>  Atomes <hi rend="italic">and</hi> Motion <hi rend="italic">fall out</hi>.</head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">W</hi>Hen <hi rend="italic">Motion</hi>, and all <hi rend="italic">Atomes</hi> disagree,</l>
+            <l><hi rend="italic">Thunder</hi> in Skies, and sicknesse in <hi rend="italic">Men</hi> bee,</l>
+            <l><hi rend="italic">Earthquakes</hi>, and <hi rend="italic">Windes</hi> which make disorder great,</l>
+            <l>Tis when that <hi rend="italic">Motion</hi> all the <hi rend="italic">Atomes</hi> beate.</l>
+            <l>In this confusion a horrid noise they make, [5]</l>
+            <l>For <hi rend="italic">Motion</hi> will not let them their right places take.</l>
+            <l>Like frighted <hi rend="italic">Flocks</hi> of <hi rend="italic">Sheepe</hi> together run,</l>
+            <l>Thus <hi rend="italic">Motion</hi> like a <hi rend="italic">Wolfe</hi> doth worry them.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_044" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><seg type="short-title"><hi rend="italic">The agreement of some kinde of</hi> Motion</seg>, <hi rend="italic">with</hi><lb/><hi rend="italic">some kinde of</hi> Atomes.</head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">S</hi>Ome <hi rend="italic">Motion</hi> with some <hi rend="italic">Atomes</hi> well agree;</l>
+            <l>Fits them to <hi rend="italic">places right</hi>, as just may bee.</l>
+            <l>By <hi rend="italic">Motions</hi> helpe, they so strong joyne each to.</l>
+            <l>That hardly <hi rend="italic">Motion</hi> shall againe undo.</l>
+            <l><hi rend="italic">Motions</hi> inconstancy oft gives such power [5]</l>
+            <l>To <hi rend="italic">Atomes</hi>, as they can <hi rend="italic">Motion</hi> devoure.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_045" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head>  Motion <hi rend="italic">directs, while</hi> Atomes <hi rend="italic">dance</hi>. </head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">A</hi><hi rend="italic">Tomes</hi> will dance, and measures keep just time;</l>
+            <l>And one by one will hold round circle line,</l>
+            <l>Run in and out, as we do dance the <hi rend="italic">Hay</hi>;</l>
+            <l>Crossing about, yet keepe just time and way:</l>
+            <l>While <hi rend="italic">Motion</hi>, as <hi rend="italic">Musicke</hi> directs the <hi rend="italic">Time</hi>: [5]</l>
+            <l>Thus by consent, they altogether joyne.</l>
+            <l>This <hi rend="italic">Harmony</hi> is <hi rend="italic">Health</hi>, makes <hi rend="italic">Life</hi> live long;</l>
+            <l>But when they're out, 'tis <hi rend="italic">death</hi>, so dancing's done.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_046" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><seg type="short-title"><hi rend="italic">The difference of</hi> Atomes</seg> <hi rend="italic">and</hi> Motion, <hi rend="italic">in</hi> youth<lb/><hi rend="italic">and</hi> age.</head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">I</hi>N all things which are <hi rend="italic">young</hi>, <hi rend="italic">Motion</hi> is swift:</l>
+            <l>But moving long, is tir'd, and groweth stiff.</l>
+            <l>So <hi rend="italic">Atomes</hi> are, in <hi rend="italic">youth</hi>, more nimble, strong,</l>
+            <l>Then in <hi rend="italic">old Age</hi>, but apt more to go wrong.</l>
+            <l>Thus <hi rend="italic">Youth</hi> by false <hi rend="italic">Notes</hi> and wrong <hi rend="italic">Steps</hi> doth dye, [5]</l>
+            <l>In <hi rend="italic">Age Atomes</hi>, and <hi rend="italic">Motion</hi>, weary downe do lye.</l>
+            <l><hi rend="italic">Motions Ease</hi> is <hi rend="italic">Change</hi>, weary soone doth grow,</l>
+            <l>If in one <hi rend="italic">Figure</hi> she doth often go.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_047" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head>  Motion <hi rend="italic">makes</hi> Atomes <hi rend="italic">a</hi> Bawd <hi rend="italic">for</hi> Figure. </head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">D</hi>ID not wild <hi rend="italic">Motion</hi> with his subtle wit,</l>
+            <l>Make <hi rend="italic">Atomes</hi> as his <hi rend="italic">Bawd</hi>º, new <hi rend="italic">Formes</hi> to get. ºprocurer, go-between</l>
+            <l>They still would constant be in one <hi rend="italic">Figure</hi>,</l>
+            <l>And as they place themselves, would last for ever.</l>
+            <l>But <hi rend="italic">Motion</hi> she perswades new <hi rend="italic">Formes</hi> to make, [5]</l>
+            <l>For <hi rend="italic">Motion</hi> doth in <hi rend="italic">Change</hi> great pleasure take.</l>
+            <l>And makes all <hi rend="italic">Atomes</hi> run from place to place;</l>
+            <l>That <hi rend="italic">Figures young</hi> he might have to imbrace.</l>
+            <l>For some short time, she will make much of <hi rend="italic">one</hi>,</l>
+            <l>But afterwards away from <hi rend="italic">them</hi> will run. [10]</l>
+            <l>And thus are most things in the World undone,</l>
+            <l>And by her Change, do <hi rend="italic">young ones</hi> take <hi rend="italic">old's</hi> roome.</l>
+            <l>But tis butt like unto a <hi rend="italic">Batch</hi> of <hi rend="italic">Bread</hi>,</l>
+            <l>The <hi rend="italic">Floure</hi> is the same of such a <hi rend="italic">Seed</hi>.</l>
+            <l>But <hi rend="italic">Motion she</hi> a <hi rend="italic">Figure</hi> new mould, bak'd, [15]</l>
+            <l>Because that <hi rend="italic">She</hi> might have a new hot <hi rend="italic">Cake</hi>.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_048" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">Motion</hi> and <hi rend="italic">Figure</hi></head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">A</hi><hi rend="italic">Figure Spherical</hi>, the <hi rend="italic">Motion's </hi>so,</l>
+            <l><hi rend="italic">Streight Figures </hi>in a darting <hi rend="italic">Motion </hi>go:</l>
+            <l>As severall <hi rend="italic">Figures</hi> in small <hi rend="italic">Atomes</hi> bee,</l>
+            <l>So several <hi rend="italic">Motions</hi> are, if we could see.</l>
+            <l>If <hi rend="italic">Atomes</hi> joyne, meet in another <hi rend="italic">Forme</hi>, [5]</l>
+            <l>Then <hi rend="italic">Motion</hi> alters as the <hi rend="italic">Figures</hi> turne.</l>
+            <l>For if the <hi rend="italic">Bodies weighty</hi> are, and <hi rend="italic">great</hi>,</l>
+            <l>Then <hi rend="italic">Motion's </hi>slow, and goes upon lesse feet.</l>
+            <l>Out of a <hi rend="italic">Shuttle-cocke</hi> a feather pull,</l>
+            <l>And flying strike it, as when it was full; [10]</l>
+            <l>The <hi rend="italic">Motion</hi> alters which belongs to that,</l>
+            <l>Although the <hi rend="italic">Motion</hi> of the hand do not.</l>
+            <l>Yet <hi rend="italic">Motion</hi>, <hi rend="italic">Matter</hi>, can new <hi rend="italic">Figures</hi> find,</l>
+            <l>And the <hi rend="italic">Substantial Figures</hi> turne and wind.</l>
+            <l>Thus severall <hi rend="italic">Figures</hi>, severall <hi rend="italic">Motions</hi> take, [15]</l>
+            <l>And severall <hi rend="italic">Motions</hi>, severall <hi rend="italic">Figures</hi> make.</l>
+            <l>But <hi rend="italic">Figure</hi>, <hi rend="italic">Matter</hi>, <hi rend="italic">Motion</hi>, all is one,</l>
+            <l>Can never separate, not be alone.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_049" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">Of the</hi> Subtlety <hi rend="italic">of</hi> Motion. </head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">C</hi>Ould we the severall <hi rend="italic">Motions</hi> of <hi rend="italic">Life </hi>know,</l>
+            <l>The Subtle windings, and the waies they go:</l>
+            <l>We should adore <hi rend="italic">God</hi> more, and not dispute,</l>
+            <l>How they are done, but that great <hi rend="italic">God</hi> can doe't.</l>
+            <l>But we with <hi rend="italic">Ignorance</hi> about do run, [5]</l>
+            <l>To know the <hi rend="italic">Ends</hi>, and how they first begun.</l>
+            <l>Spending that <hi rend="italic">Life</hi>, which <hi rend="italic">Natures</hi> God did give</l>
+            <l>Us to adore him, and his wonders with,</l>
+            <l>With fruitlesse, vaine, impossible pursuites,</l>
+            <l>In <hi rend="italic">Schooles</hi>, <hi rend="italic">Lectures</hi>, and quarrelling <hi rend="italic">Disputes.</hi> [10]</l>
+            <l>But never give him thanks that did us make,</l>
+            <l>Proudly, as petty <hi rend="italic">Gods</hi>, our selves do take.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_050" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head>  Motion <hi rend="italic">is the </hi>Life <hi rend="italic">of all things.</hi></head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">A</hi>s <hi rend="italic">darknesse </hi>a <hi rend="italic">privation</hi> is of <hi rend="italic">Light</hi>;</l>
+            <l>That's when the <hi rend="italic">Optick Nerve</hi> is stopt from <hi rend="italic">Light</hi>:</l>
+            <l>So <hi rend="italic">Death</hi> is even a <hi rend="italic">cessation</hi> in</l>
+            <l>Those <hi rend="italic">Formes</hi>, and <hi rend="italic">Bodies</hi>, wherein <hi rend="italic">Motions</hi> spin.</l>
+            <l>As <hi rend="italic">Light</hi> can only shine but in the <hi rend="italic">Eye</hi>, [5]</l>
+            <l>So <hi rend="italic">Life</hi> doth only in a <hi rend="italic">Motion</hi> lye.</l>
+            <l>Thus <hi rend="italic">Life</hi> is out, when <hi rend="italic">Motion</hi> leaves to bee,</l>
+            <l>Like to an <hi rend="italic">Eye</hi>, that's shut, no <hi rend="italic">Light</hi> can see.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_051" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">Of the</hi> Center. </head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">I</hi>N <hi rend="italic">Infinites</hi> no <hi rend="italic">Center</hi> can be laid,</l>
+            <l>But if the <hi rend="italic">World</hi> has <hi rend="italic">Limits</hi>, <hi rend="italic">Center's</hi> made.<ref target="#atomic.056.an7">7</ref><note xml:id="atomic.056.an7" n="7" place="end" type="auth"><hi rend="italic">Unless there be Infinities of Worlds; then there may be infinities of</hi> Centers, <hi rend="italic">although not a </hi>Center <hi rend="italic">in Infiniteies.</hi></note></l>
+            <l>For whatsoe're's with <hi rend="italic">Circumference</hi> fac'd,</l>
+            <l>A <hi rend="italic">Center</hi> in the midst must needs be plac'd.</l>
+            <l>This makes all <hi rend="italic">Formes</hi> that <hi rend="italic">Limit</hi> have; and <hi rend="italic">Bound</hi>, [5]</l>
+            <l>To have a <hi rend="italic">Center</hi>, and <hi rend="italic">Circumference</hi> round.</l>
+            <l>This is the <hi rend="italic">Cause</hi>; the <hi rend="italic">World</hi> in <hi rend="italic">circle</hi> runs,</l>
+            <l>Because a <hi rend="italic">Center</hi> hath whereon it turnes.</l>
+            <l>The <hi rend="italic">Center</hi> small, <hi rend="italic">Circumference</hi> big without,</l>
+            <l>Which by the <hi rend="italic">weight</hi> doth make it turne about. [10]</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_052" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><seg type="short-title"><hi rend="italic">All</hi> sharpe Atomes</seg> <hi rend="italic">do run to the </hi>Center, <hi rend="italic">and</hi><lb/><hi rend="italic">those that settle not, by reason of the straitnesse</hi><lb/><hi rend="italic">of the </hi>Place,<hi rend="italic"> flye out to the </hi>Circumference.<lb/>Sharpe Atomes <hi rend="italic">to the</hi> Center, <hi rend="italic">make a </hi><lb/>Sun.</head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">A</hi>LL <hi rend="italic">Atomes sharpe</hi> to every <hi rend="italic">Center</hi> flye,</l>
+            <l>In midst of Earth, and midst of Planets lye;</l>
+            <l>And in those <hi rend="italic">Planets</hi><ref target="#atomic.056.an8">8</ref><note xml:id="atomic.056.an8" n="8" place="end" type="auth"><hi rend="italic">The </hi>Sun <hi rend="italic">in the midst of the</hi> Planets, <hi rend="italic">which are sharpe</hi> Atomes.</note> there are <hi rend="italic">Centers</hi> too,</l>
+            <l>Where the <hi rend="italic">sharpe Atomes</hi> with quicke <hi rend="italic">Motion</hi> go.</l>
+            <l>And to the <hi rend="italic">Center</hi> of the <hi rend="italic">Earth</hi> they run, [5]</l>
+            <l>There gathering close, and so become a <hi rend="italic">Sun</hi>.</l>
+            <l>This is the <hi rend="italic">Axe</hi> whereon the <hi rend="italic">Earth </hi>turnes round,</l>
+            <l>And gives the <hi rend="italic">heat</hi> which in the <hi rend="italic">Earth</hi> is found;</l>
+            <l>A <hi rend="italic">World</hi> of <hi rend="italic">Fire</hi>: thus may we guesse the <hi rend="italic">Sun</hi>;</l>
+            <l>If all <hi rend="italic">sharpe Atomes</hi> to the <hi rend="italic">Center</hi> run. [10]</l>
+            <l>For why, the <hi rend="italic">Sun</hi> amongst the <hi rend="italic">Planets</hi> round,</l>
+            <l>Just as a <hi rend="italic">Center</hi>, in the midst is found.</l>
+            <l>And <hi rend="italic">fixed Stars</hi>, which give a twinckling <hi rend="italic">Light</hi>,</l>
+            <l>Are <hi rend="italic">Center Worlds</hi> of <hi rend="italic">Fire</hi>, that shineth bright.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_053" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">In the</hi> Center Atomes <hi rend="italic">never</hi> Separate. </head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">J</hi>Ust at the <hi rend="italic">Center</hi> is a <hi rend="italic">point</hi> that'ssmall,</l>
+            <l>Those <hi rend="italic">Atomes</hi> that are there are wedg'd in all;</l>
+            <l>They lye so close, <hi rend="italic">firme</hi> in one <hi rend="italic">Body</hi> binde,</l>
+            <l>No other <hi rend="italic">Forme</hi>, or <hi rend="italic">Motion</hi> can unwinde:</l>
+            <l>For they are wreath'd so hard about that <hi rend="italic">point</hi>, [5]</l>
+            <l>As they become a <hi rend="italic">Circle</hi> without <hi rend="italic">joynt</hi>.<ref target="#atomic.056.an9">9</ref><note xml:id="atomic.056.an9" n="9" place="end" type="auth"><hi rend="italic">As it were without partition, but it is but one.</hi></note></l>
+          </lg>
+        </div>
+        <div xml:id="atomic_0541" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">If</hi> Infinite Worlds, Infinite Centers.</head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">I</hi>f <hi rend="italic">Infinites</hi> of <hi rend="italic">Worlds</hi>, they must be plac'd</l>
+            <l>At such a distance, as between lies waste.</l>
+            <l>If they were joyned close, moving about,</l>
+            <l>By justling they would push each other out.</l>
+            <l>And if they swim in <hi rend="italic">Aire</hi>, as <hi rend="italic">Fishes</hi> do [5]</l>
+            <l>In <hi rend="italic">Water</hi>, they would meet<ref target="#atomic.056.an10">10</ref><note xml:id="atomic.056.an10" n="10" place="end" type="auth"><hi rend="italic">They would beat against each other.</hi></note> as they did go.</l>
+            <l>But if the <hi rend="italic">Aire</hi> each <hi rend="italic">World</hi> doth inclose</l>
+            <l>Them all about, then like to <hi rend="italic">Water</hi> flowes;</l>
+            <l>Keeping them <hi rend="italic">equall</hi>, and in <hi rend="italic">order</hi> right.</l>
+            <l>That as they move, shall not each other strike. [10]</l>
+            <l>Or like to <hi rend="italic">water wheels</hi> by <hi rend="italic">water</hi> turn'd,</l>
+            <l>So <hi rend="italic">Aire</hi> round about those <hi rend="italic">Worlds</hi> do run:</l>
+            <l>And by that <hi rend="italic">Motion</hi> they do turne about,</l>
+            <l>No further then that <hi rend="italic">Motions</hi> strength runs out.</l>
+            <l>Like to a <hi rend="italic">Bowle</hi>, which will no further go, [15]</l>
+            <l>But runs according as that strength do throw.</l>
+            <l>Thus like as <hi rend="italic">Bowles</hi>, the <hi rend="italic">Worlds</hi> do turne, andrun,</l>
+            <l>But still the <hi rend="italic">Jacke</hi>, and <hi rend="italic">Center</hi> is the<ref target="#atomic.056.an11">11</ref><note xml:id="atomic.056.an11" n="11" place="end" type="auth"><hi rend="italic">They are stinted according to the severall strengths of their motion. They trune as they go. A jacke Bowle is the marke.</hi></note><hi rend="italic">Sun</hi>.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_0542" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">The</hi> Infinites <hi rend="italic">of</hi> Matter</head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">I</hi>f all the <hi rend="italic">World</hi> were a <hi rend="italic">confused heape</hi>,</l>
+            <l>What was beyond? for this <hi rend="italic">World</hi> is not great:</l>
+            <l>We finde it <hi rend="italic">Limit</hi> hath, and <hi rend="italic">Bound</hi>,</l>
+            <l>And like a <hi rend="italic">Ball</hi> in compasse is made round:</l>
+            <l>And if that <hi rend="italic">Matter</hi>, with which the <hi rend="italic">World's</hi> made, [5]</l>
+            <l>Be <hi rend="italic">infinite</hi>, then more <hi rend="italic">Worlds</hi> may be said;</l>
+            <l>Then <hi rend="italic">Infinites</hi> of <hi rend="italic">Worlds</hi> may we agree,</l>
+            <l>As well, as <hi rend="italic">Infinites</hi> of <hi rend="italic">Matters</hi> bee.</l>
+          </lg>
+        </div>
+        <div xml:id="atomic_055" type="Poem">
+          <docAuthor>Cavendish, Margaret (Lucas). </docAuthor>
+          <head><hi rend="italic">A World made by foure</hi> Atomes. </head>
+          
+          <lg type="stanza">
+            <lb/>
+            <l><hi rend="bold">S</hi><hi rend="italic">Harpe Atomes Fire subtle</hi>, quicke, and dry,</l>
+            <l>The <hi rend="italic">Long</hi>, like Shafts still into <hi rend="italic">Aire</hi> fly.</l>
+            <l>The <hi rend="italic">Round</hi> to <hi rend="italic">Water</hi> moist, (a hollow <hi rend="italic">Forme</hi>,)</l>
+            <l>The <hi rend="italic">Figure square</hi> to heavy dull <hi rend="italic">Earth</hi> turne.</l>
+            <l>The <hi rend="italic">Atomes sharpe</hi> hard <hi rend="italic">Mineralls</hi> do make, [5]</l>
+            <l>The <hi rend="italic">Atomes round</hi> soft <hi rend="italic">Vegetables</hi> take.</l>
+            <l>In <hi rend="italic">Animals</hi> none <hi rend="italic">singly</hi> lye alone,</l>
+            <l>But the <hi rend="italic">foure Atomes</hi> meet, and joyne as <hi rend="italic">one</hi>.</l>
+            <l>And thus <hi rend="italic">four Atomes</hi> the <hi rend="italic">Substance</hi> is of <hi rend="italic">all</hi>;</l>
+            <l>With their <hi rend="italic">foure Figures</hi> make a <hi rend="italic">worldly</hi><hi rend="italic">Ball</hi>. [10]</l>
+            <l>
+              <hi rend="italic">Thus the Fancy of my Atomes is, that the foure PrincipallFigures, </hi>
+            </l>
+            <l>
+              <hi rend="italic">as Sharpe, Long, Round, Square, make the foure Elements;not that </hi>
+            </l>
+            <l>
+              <hi rend="italic">they are of severall matters, but are all of<ref target="#atomic.056.an12">12</ref><note xml:id="atomic.056.an12" n="12" place="end" type="auth"><hi rend="italic">The severall Elements are all but one matter.</hi></note> one matter,onely their se-</hi>
+            </l>
+            <l>
+              <hi rend="italic">verall Figures do give them severall Proprieties; so likewisedo the </hi>
+            </l>
+            <l>
+              <hi rend="italic">mixt Figures give them mixt Proprieties, &amp; their several composures </hi>
+            </l>
+            <l>
+              <hi rend="italic">do give them other Proprieties, according to their Formesthey put</hi>
+            </l>
+            <l>
+              <hi rend="italic">themselves into, by their severall Motions. This I do repeate,that </hi>
+            </l>
+            <l>
+              <hi rend="italic">the ground of my Opinion may be understood.</hi>
+            </l>
+          </lg>
+        </div>
+      </div>
+    </body>
+    <back xml:id="atomic_130209">
+      <div xml:id="atomic_057" type="bibliography">
+        <docAuthor>Partington, Leigh Tillman. </docAuthor>
+        <head>Cavendish Bibliography</head>
+        <bibl>
+          <title level="a">Alchemy.</title>
+          <title level="m">Microsoft Encarta Multimedia Encyclopedia.</title>
+          <date>1994</date>
+        </bibl>
+        <bibl><author>Alic, Margaret.</author><title level="a">Hypatia's Heritage: A History of Women in Science from Antiquity to the Late Nineteenth Century.</title><pubPlace>London</pubPlace>: <publisher>The Women's Press, Ltd.</publisher>,<date>1986</date></bibl>
+        <bibl><author>Bazeley, Deborah Taylor.</author><title level="a">An Early Challenge to the Precepts and Practice of Modern Science: The Fusion of Fact, Fiction, and Feminism in the Works of Margaret Cavendish, Duchess of Newcastle (1623-1673). Diss. </title><pubPlace>U of California, San Diego</pubPlace>, <date>1990</date><pubPlace>Ann Arbor UMI</pubPlace>, <date>1990.</date> 9023994.</bibl>
+        <bibl><author>Beilin, Elaine.</author><title level="a">Redeeming Eve: Women Writers of the English Renaissance.</title><pubPlace>Princeton</pubPlace>: <publisher>Princeton UP</publisher>, <date>1987.</date></bibl>
+        <bibl><author>Brownstone, David M. and Irene M. Franck.</author><title level="a">Timelines of the Arts and Literature: A Chronology of Culture in Human History -- from the Magdalenian Cave Paintings to Madonna. </title><pubPlace>New York</pubPlace>: <publisher>Harper Collins Publishers,Inc.</publisher>, <date>1994.</date></bibl>
+        <bibl><author>Bunch, Bryan and Alexander Hellemans.</author><title level="a">The Timetables of Technology: A Chronology of the Most Important People and Events in the History of Technology. </title><pubPlace>New York</pubPlace>: <publisher>Simon &amp; Schuster, Inc.</publisher>, <date>1993.</date></bibl>
+        <bibl><author>Butterfield, Herbert.</author><title level="a">The Origins of Modern Science 1300-1800, revised edition.</title><pubPlace>New York</pubPlace>: <publisher>The Free Press/Macmillan Publishing Co., Inc.</publisher>, <date>1957.</date></bibl>
+        <bibl><author>Capra,Fritjof.</author><title level="a">The Tao of Physics. </title><edition>3rd ed.</edition><pubPlace>Boston</pubPlace>: <publisher>Shambhala</publisher>, <date>1991.</date></bibl>
+        <bibl><author>Cavendish, Margaret.</author><title level="a">The Blazing World. An Anthology of Seventeenth-Century Fiction. </title><editor role="editor">Ed. Paul Salzman.</editor><pubPlace>New York</pubPlace>: <publisher>Oxford UP</publisher>, <date>1991.</date></bibl>
+        <bibl><author>Cavendish, Margaret.</author><title level="a">Poems, and Fancies. </title><date>1653</date>, <edition>N869; anr edn,</edition><date>1664</date>,<edition> N870</edition>.</bibl>
+        <bibl><author>Fraser, Antonia.</author><title level="a">The Weaker Vessel. </title><pubPlace>New York</pubPlace>: <publisher>Vintage Books/Random House, Inc.</publisher><date>1985.</date></bibl>
+        <bibl><author>Gardner, Helen.</author><title level="a">Art Through the Ages. </title><editor role="editor">Ed. Horst de la Croix and Richard G. Tansey</editor>. <edition>7th ed.</edition><pubPlace>New York</pubPlace>: <publisher>Harcourt</publisher>, <date>1980</date>.</bibl>
+        <bibl><author>Grant, Douglas.</author><title level="a">Margaret the First: A Biography of Margaret Cavendish, Duchess of Newcastle 1623-1673. </title><pubPlace>London</pubPlace>: <publisher>Rupert Hart-Davis</publisher>, <date>1957.</date></bibl>
+        <bibl><author>Haraway, Donna.</author><title level="a">Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective.</title><title level="m">Feminist Studies 14</title><date>1988</date>: <biblScope>575-599.</biblScope></bibl>
+        <bibl><editor role="editor">Haselkorn, Anne and Betty Travitsky, ed.</editor><title level="a">The Renaissance Englishwoman in Print: Counterbalancing tbe Canon.</title><pubPlace>Amherst</pubPlace>: <publisher>U Massachusetts P</publisher>, <date>1990.</date></bibl>
+        <bibl><author>Hunter, Michael.</author><title level="a">Science and Society in Restoration England. </title><pubPlace>Cambridge</pubPlace>: <publisher>Cambridge UP</publisher></bibl>
+      </div>
+    </back>
+  </text>
+</TEI>

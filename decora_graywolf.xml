@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="decora_graywolf_13023">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Gray Wolf's Daughter, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Henook-Makhewe-Kelenaka</reg><orig>Hinook-Mahiwi-Kilinaka(Angel De Cora)</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>15kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="decora_graywolf_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Emory Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17bjr</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>De Cora, Angel (Hinook-Mahiwi-Kilinaka). "Gray Wolf's Daughter." <publisher>Harper's New Monthly Magazine</publisher> 99 (<date>1899</date>): 860-62.</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="decora_graywolf_1302">This text is produced in conjunction with the 
+Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Native American</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Native American</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Story</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Winnebago Indians.</item>
+            <item>American literature--19th Century--Fiction.</item>
+            <item>Women authors, American--19th Century.</item>
+            <item>Native Americans.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1999</date><label>Anna Engle</label><name/>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck
+	   Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="decora_graywolf_13022">
+    <body xml:id="decora_graywolf_13021">
+      <div xml:id="decora_graywolf_001" type="Story">
+        <head>Gray Wolf's Daughter</head>
+        <p xml:id="decora_graywolf_1303">The fire was burning steadily, but the mother stirred it with a stick to a brighter flame. It snapped and crackled and sent a myriad of sparks flying upward through the opening at the top of the lodge. This roused the daughter a little as she sat gazing into the fire. Her mind had been wandering here and there to this and that one of her associates-to one who had been to school, to another who had staid at home and was a thorough Indian, comparing the life of the one with the life of the other.</p>
+        <p xml:id="decora_graywolf_1304">She herself had for a long time desired knowledge of the white man's ways, and now her family had given their consent to her going to school. To-morrow was to be the first day of a new life in the boarding-school.</p>
+        <p xml:id="decora_graywolf_1305">Thinking of all these things, the girl had forgotten that her father and three of the leading medicine-men were making ready for the vapor bath, in purification for the coming sacred festival.</p>
+        <p xml:id="decora_graywolf_1306">"Are you not going to dance with the other girls?" asked her mother. "Why do you not? Do, for the last time. It will please your father."</p>
+        <p xml:id="decora_graywolf_1307">The grandmother was sitting on the opposite side of the fire. Now she spoke up rather sharply:</p>
+        <p xml:id="decora_graywolf_1308">"The last time! You talk as if this was her last day on earth! Are you not going for her every festival dance? If not, she will forget how to dance before the winter is over."</p>
+        <p xml:id="decora_graywolf_1309">So far she had spoken without looking around. Now she turned about and addressed the girl directly: "Schoolgirls can't dance, because they have to wear white men's shoes. If they ask you to wear shoes at school, don't you do it-don't you do it!"</p>
+        <p xml:id="decora_graywolf_13010">The grandmother had been the last of the family to give her consent to the girl's going to school, and had at last yielded much against her will. Her chief objection had been that the girl was too old for school life, and ought now to be given away in marriage.</p>
+        <p xml:id="decora_graywolf_13011">Just then came the sound of many voices outside. A girl lifted up the door-flap and peeped in. She asked the young girl if she was ready. The girl smiled, but did not move until her mother said, "Hurry, they are waiting for you."</p>
+        <p xml:id="decora_graywolf_13012">As she spoke, the mother drew out a basket from under the blankets and took from it a great pile of beads. These she hung around her daughter's neck till they reached half-way up to her ears. Then she hung in her ears silver ear-rings that jingled with every movement of their head. Silver rings were on her fingers and silver bracelets on her arms, and then she was ready to join her friends.</p>
+        <p xml:id="decora_graywolf_13013">While the men inside the vapor-bath lodge were clearing their throats and trying their voices in several songs, the young girls stood about talking and laughing. Now the men in the vapor lodge began beating their hands in time to their singing. The noise of talking and laughter ceased, and the girls began dancing around the lodge. The fire flamed up, lighting up the faces of the dancing girls and those of the older women who had come to look on.</p>
+        <p xml:id="decora_graywolf_13014">The girl's mother came, after a little while, to look on with the rest. As she passed a group of women she heard one tell the others that Gray Wolf's pretty daughter was going away to school. They all exclaimed with regretful voices, and one said: "Such a graceful dancer! Why does her mother let her go?"</p>
+        <p xml:id="decora_graywolf_13015">Gray Wolf's wife thought her daughter was not as gay as she was used to be at such festivals, but to the mother's eyes she seemed more beautiful than ever. How could she let her go!</p>
+        <p xml:id="decora_graywolf_13016">When the dance was over, the people scattered. Mother and daughter went back to their wigwam and retired for the night.</p>
+        <p xml:id="decora_graywolf_13017">The next morning the girl took all her beautiful things from the basket and told her mother to give them to her sister-in-law; her pony, she said, was to be given to her brother. She put on her plainest dress, one little silver ring on her finger, and that was all. Gray Wolf brought the ponies, and all was ready. The girl took her best blanket to wear on the journey, but told her mother she would sent it back by her father and that she might have it.</p>
+        <p xml:id="decora_graywolf_13018">Not many words were said at parting, nor did she and her father say much upon the journey.</p>
+        <p xml:id="decora_graywolf_13019">When they got in sight of the schoolhouse the girl's courage fell a little, and she begged her father to come and see her often, and to bring her mother and grandmother, and the father promised.</p>
+        <p xml:id="decora_graywolf_13020">She had been the joy and life of their home, and he longed to have her go back with him, but she had always had her own way.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

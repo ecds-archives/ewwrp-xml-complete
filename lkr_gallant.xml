@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lkr_gallant_13010">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>The Gallant Old Boys in Gray</title>
+        <author>
+          <name type="person"><choice><reg>Rogers, Loula Kendall, 1838-1931</reg><orig>Mrs. Loula Kendall Rogers</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10k</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="lkr_gallant_1301">2008 Emory University. Permission is granted to
+
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>2008</date><idno type="ark">http://pid.emory.edu/ark:/25593/17cxc</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Rogers, Loula Kendall, "The Gallant Old Boys in Gray" Loula
+
+	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
+
+	   Library, Emory University</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="lkr_gallant_1302">This digital text is produced from the Loula Kendall
+
+	   Rogers Papers, generously loaned to the Beck Center by    	
+
+The Manuscript, Archives, and Rare Book Library at Emory University.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="language">American</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Poetry</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Women poets, American--Georgia.</item>
+            <item>Women authors, American--19th Century</item>
+            <item>Women authors, American--20th Century</item>
+            <item>Civil War, U.S., 1861-1865--Poetry</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2008</date><label>Woodruff Graduate Fellow</label><name>Stewart Varner</name>XML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="lkr_gallant_1309">
+    <body xml:id="lkr_gallant_1305">
+      <pb facs="lkr_gallant001" xml:id="lkr_gallant_1303" n="[1]"/>
+      <div xml:id="lkr_gallant_1304" type="poem">
+        <head>The Gallant<lb/>
+
+      Old Boys in Gray</head>
+        <lg type="stanza">
+          <l>They are marching today in their armor of gray,</l>
+          <l rend="indent">Where proudly in youth they so gallantly trod,</l>
+          <l>E're Sherman invaded in battle array</l>
+          <l rend="indent">And swore each "Rebel should sleep in the sod."</l>
+          <l>But the strife and such boasting are all cast aside,</l>
+          <l>As they glance on their banner with joy and with pride</l>
+          <l>Still beaming with Justice and Mercy and Right,</l>
+          <l>For it waved o'er Lee in heaven's own light!</l>
+        </lg>
+        <lg type="stanza">
+          <l>No cause that is just and guarded with trust</l>
+          <l rend="indent">Can ever be lost to a patriot soul,</l>
+          <l>Nor the rights of a state be  trampled in dust</l>
+          <l rend="indent">When honorable valor leads on to the goal.</l>
+          <l>Then bravely look upward with conscience unstained</l>
+          <l>By reckless disorder, or vice unrestrained,</l>
+          <l>For you won that glory which never shall fade</l>
+          <l>It's pure as thy banner, thy musket and blade.</l>
+        </lg>
+        <lg type="stanza">
+          <l>Four wars have displayed of what  metal they're made,</l>
+          <l rend="indent">Old Guilford, Monterey and Manassas proclaim,</l>
+          <l>Then Spain with her heraldry, her pomp and her power</l>
+          <l rend="indent">Eclipsed as Hobson won honor and fame.</l>
+          <l>This God-given spirit came down to the son</l>
+          <l>When Germans retreated and Victory won;</l>
+          <l>Then cheer upon cheer for our Veterans in Gray</l>
+          <l>Who honor both flags of America today!</l>
+        </lg>
+        <lg type="stanza">
+          <l>All hail to Atlanta! Queen city of light!</l>
+          <l rend="indent">Whose ministering love gives welcome and rest</l>
+          <l>To all who battle for justice and right,</l>
+          <l rend="indent">From the north and the south, the east and west.</l>
+          <l>Encamped on her soil, by thousands they came</l>
+          <l>And Gordon won chaplets and crosses of fame,</l>
+          <l>Who are welcomed today with peans so gay,</l>
+          <l>And deem it an honor to march with the Gray!</l>
+        </lg>
+        <byline>LOULA KENDALL ROGERS.</byline>
+      </div>
+    </body>
+    <back xml:id="lkr_gallant_1308">
+      <div xml:id="lkr_gallant_002" type="note">
+        <p xml:id="lkr_gallant_1306">Mrs. Loula Kendall Rogers, of Tennille, author of the above, was a "girl of the sixties" and is the widow of a splendid Confederate soldier, a captain in the Third Georgia regiment.  Her son, too, followed his soldier father's example and remains overseas.</p>
+        <p xml:id="lkr_gallant_1307">Mrs. H.M Franklin, president of the Georgia division U.D.C. is
+
+      the only daughter of Mrs. Rogers.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

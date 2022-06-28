@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="danvers_1306">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title><seg type="short-title">A Poem Upon His Sacred Majesty</seg>, His Voyage For Holland: By way of Dialogue, Between Belgia and Britannia, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>D'Anvers, Alicia</reg><orig>Alicia D'Anvers</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center </name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>15kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="danvers_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to
+the work claimed by Emory University for non-profit educational purposes, provided 
+this header is included in its entirety.  For inquiries about commercial uses, contact
+either: Women Writers Resource Project or Lewis H. Beck Center for Electronic
+collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17bgg</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>A Poem Upon His Sacred Majesty, His Voyage For Holland: By way of Dialogue, Between Belgia and Britannia.  December 23, <date>1690</date>.  London, <publisher>Printed for Tho. Bever</publisher>, at the Hand and Star, near Temple Barr, in Fleet-street, MDCXCI</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="danvers_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early Modern through the 18th Century</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Poetry</rs>
+        <rs type="geography">Great Britain</rs>
+        <date>1600-1699</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>English poetry--Women authors--17th Century.</item>
+            <item>Grand Alliance, War of the, 1689-1697--Poetry.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1997</date><label>Staff</label><name>Scott Ellis</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="danvers_1305">
+    <body xml:id="danvers_1304">
+      <div xml:id="danvers_001" type="Poem">
+        <head><seg type="short-title">A<lb/>
+POEM<lb/>
+UPON<lb/>
+His Sacred Majesty</seg>, <lb/>
+His Voyage for Holland: <lb/>
+By way of<lb/>
+DIALOGUE, <lb/>
+BETWEEN<lb/>
+Belgia and Britannia. <lb/><lb/></head>
+        <byline>By Mrs. D'ANVERS. 
+LICENS'D, December 23. 1690. J. F. LONDON, Printed for Tho. Bever, at the
+Hand and Star, near Temple Barr, in Fleet-Street, MDCXCI.</byline>
+        <p xml:id="danvers_1303">TO THE<lb/>
+High and Mighty PRINCESS<lb/>
+MARY<lb/>
+Queen of Great Britain, *c. <lb/><lb/>
+ALICIA D'ANVERS<lb/>
+Humbly Dedicates this POEM. <lb/></p>
+        <lg type="stanza">
+          <head rend="bold">BRITANNIA.</head>
+          <l>Wretched Britannia! Hapless and undone!</l>
+          <l>How have my Follies call'd this Vengeance down,</l>
+          <l>And anger'd Heav'n to so severe a Frown? </l>
+          <l>Shall a Curst Nicety of Honours Law,</l>
+          <l>Tug from these Fondling Arms, my Dear Nassaw? </l>
+          <l>Councils, or hated business, call thee hence!</l>
+          <l>To Love, and Me, nothing's a just pretence. </l>
+          <l>Injurious War! Curse on the very Word;</l>
+          <l>Unkind Bellona, if thou'st call'd my Lord,</l>
+          <l>Shield that dear Bosom from the ungentle Sword.</l>
+          <l>Gods!--Should Britannia find that Rival there;</l>
+          <l>What ill remains? What is there left to fear?</l>
+          <l>Had not rough Sounds, and Groans of Dying Foes,</l>
+          <l>Charm'd thy brave Youth, I had ignor'd these Woes.</l>
+          <l>Now less belov'd, and fewer Charms I wear</l>
+          <l>Than Wounds, or Death it self receiv'd in War;</l>
+          <l>Ah me! Why was he born a conquerour?</l>
+        </lg>
+        <lg type="stanza">
+          <head rend="bold">BELGIA.</head>
+          <l>What Damon fills thy boding Soul with Fears</l>
+          <l>Nymph, What has rais'd the Storm of Sighs and Tears?</l>
+        </lg>
+        <lg type="stanza">
+          <head rend="bold">BRITANNIA.</head>
+          <l>Oh you demand. 'Tis a Discourteous part,</l>
+          <l>To give the Wound, and Wonder at the Smart.</l>
+          <l>Have you not rent my Heart, and stab'd my Soul,</l>
+          <l>And all my Joys with my dear Albion stole?</l>
+          <l>By you at once of Love, and guard berest,</l>
+          <l>And to the triumphs of proud Gallia left</l>
+          <l>Cruel---yet to such Griefs you'd add Restraint,</l>
+          <l>And check the Ecchoes of my loud Complaint.</l>
+        </lg>
+        <lg type="stanza">
+          <head rend="bold">BELGIA.</head>
+          <l>Thou Rav it, Fond Maid, such Idle Dreams as these</l>
+          <l>Assist thy Impatience to o'erthrow thy Peace;</l>
+          <l>Gave I not first thy Albion to thy Arms,</l>
+          <l>Bold, and Undaunted, full of martial Charm</l>
+          <l>In Armour were his first Approaches made,</l>
+          <l>And Warlike Sounds the only Serenade:</l>
+          <l>Your Infant Loves by War more Sinewy grew,</l>
+          <l>While Mars on Albion smil'd, no less than you.</l>
+          <l>Here could I tell the Everlasting Story,</l>
+          <l>Of my Nassaw, and Noble Albion's Glory.</l>
+          <l>Had not the dazling lustre of his Name,</l>
+          <l>Already fill'd the wondering World with fame.</l>
+          <l>To you, 'twere but Impertinence to prove,</l>
+          <l>The sole Inducement of Your Heart to Love;</l>
+          <l>Can you forget what Charms in Honour dwells?</l>
+          <l>Honour, Divinest of all Magick Spells!</l>
+          <l>By which my Dastard Soul's secur'd from fear,</l>
+          <l>And the hoarse Sounds of War delight my Ear.</l>
+          <l>Suppose our lov'd Nassaw, by fierce Alarms</l>
+          <l>(The Voice of Glory) summon'd to his Arms.</l>
+          <l>My Tears were an unpardonable Wrong,</l>
+          <l>What general e'er was harm'd, who Honour won?</l>
+          <l>Must such fond Sorrows injure Albion?</l>
+          <l>Have I less Love than you? Is he less mine?</l>
+          <l>Yet I can hold a Grief like yours a Crime;</l>
+          <l>I'd scorn to own, nay Blush, to think a Sin,</l>
+          <l>You've indulg'd your Heart so fondly in,</l>
+          <l>Methinks you're bold indeed, who dare Repine</l>
+          <l>At the Commission of the powers Divine;</l>
+          <l>Since they are pleas'd to honour Albion so,</l>
+          <l>While Heaven directs as Generalissimo,</l>
+          <l>But e'er I push these Martial Thoughts too far,</l>
+          <l>Which I perceive so ungrateful to Your Ear.</l>
+          <l>Least your mad Passion by mistake be sand,</l>
+          <l>Know I've not call'd your Albion to Command,</l>
+          <l>But to Consult, and to secure your ease,</l>
+          <l>His business!--Belgia and Britannia's Peace--</l>
+          <l>And can his Absence, such well manag'd Hours,</l>
+          <l>Admit of such Ungrateful Signs as yours?</l>
+          <l>Blush at the foolish Fondness of a Bride--</l>
+        </lg>
+        <lg type="stanza">
+          <head rend="bold">BRITANNIA.</head>
+          <l>Blush at the wild excursion of your pride.</l>
+          <l>My Albion! Could my Albion come from you,</l>
+          <l>Be my kind Lord, and not ungentle too.</l>
+          <l>Well, my Step-Mother, now too late I've seen,</l>
+          <l>What all Your Actions, and your drifts have been.</l>
+          <l>Why were my Praises spoke to Albion,</l>
+          <l>Call'd Fair, and Lov'd, and Courted, and Undone?</l>
+          <l>Malicious Gallia could but Curse my Joys,</l>
+          <l>Which Belgia gave, and she alone destroys</l>
+          <l>Now the Fantastick Ape, Laughs, shews her Teeth,</l>
+          <l>While the dull Croud resounds my killing Grief;</l>
+          <l>But since my tears must buy you Gallia's smile,</l>
+          <l>No more let me be call'd the Happy Isle:</l>
+          <l>My tears--Alas! your Cruelties are more,</l>
+          <l>You'd quench her thirsty Vengeance with my Gore.</l>
+          <l>No sooner shall my dear Nassaw be gone,</l>
+          <l>Neatly retir'd, by yuor Pretences home,</l>
+          <l>But Gallia claps her Ponyard in my side,</l>
+          <l>And clears the way for a more Beauteous bride.</l>
+          <l>Fonder--More Foolish Belgia, to suppose</l>
+          <l>That my Remove shall not increase your Foes.</l>
+          <l>Mine shall despise thee, for the Inhuman Deed,</l>
+          <l>But for thy Crimes, Why should my Albion bleed?</l>
+          <l>For whom you spread your Machavillian Snares,</l>
+          <l>And fill with dull (to me dull) States Affairs.</l>
+          <l>Frown not, my Albion, though I disapprove,</l>
+          <l>The kindness of my dear mistaken Love,</l>
+          <l>I shake not for my worthless self so much,</l>
+          <l>As I can die to think thy dangers such.</l>
+          <l>Can Belgia boast in thee a larger share?</l>
+          <l>She may--but not her Love with mine compare,</l>
+          <l>Should Albion fall her Honour's Sacrifice,</l>
+          <l>Could her harsh Voice adorn his Obsequies,</l>
+          <l>Like the soft Mournings of my tender Crys?</l>
+        </lg>
+        <lg type="stanza">
+          <head rend="bold">BELGIA.</head>
+          <l>Then my harsh Voice offends your curious Ear,</l>
+          <l>In your fair Eyes, I'm Ridicul'd, I fear,</l>
+          <l>But since you've been pleas'd to affront me so,</l>
+          <l>No fears of mine forbid to let you know,</l>
+          <l>That you Britannia have been found of late,</l>
+          <l>Soft to a Scorn, Nice, and Effeminate,</l>
+          <l>From your Brave Ancestors degenerate.</l>
+        </lg>
+        <lg type="stanza">
+          <head rend="bold">BRITANNIA.</head>
+          <l>Hold Angry Matron, hold, What have I done?</l>
+          <l>Pardon the hasty Errors of my Tongue,</l>
+        </lg>
+        <lg type="stanza">
+          <head rend="bold">BELGIA.</head>
+          <l>'Tis your Erroneous Zeal for Albion,</l>
+          <l>Which, I believe has offer'd me the wrong;</l>
+          <l>But your Blind Love for him shall never be</l>
+          <l>Pretence, thus to reproach and injure me.</l>
+          <l>Britannia, the just Gods, as well as thee,</l>
+          <l>Could ne'er forget so black a Perjury;</l>
+          <l>Wou'd I please Gallia with thy Overthrow,</l>
+          <l>Could Hell contrive, and break so strict a Vow?</l>
+          <l>You hear'd when I again the Strumpet swore,</l>
+          <l>Then let her Name offend my Ear no more.</l>
+          <l>Nor is this all, you'r bolder yet, and dare</l>
+          <l>Censure the Love I to your Albion bear,</l>
+          <l>You're Young, and Smooth, and scorn these rough old Hands,</l>
+          <l>Which wrapt his tender Sides in Swadling Bands;</l>
+          <l>Tis true, proud Nymph, what you disdain to own,</l>
+          <l>These Wither'd Breasts gave suck to Albion.</l>
+          <l>While on my Careful Knee Heaven's Darling sate,</l>
+          <l>By this Knee rais'd to a more Glorious Fate</l>
+          <l>The Child with Lawrels play'd, and smil'd on Bays,</l>
+          <l>While in his Ear I sung his future praise.</l>
+          <l>this hoarse rough Voice, which you so much despise,</l>
+          <l>Oft brought kind Morpheus to his half-clos'd Eyes,</l>
+          <l>Shall not a Nurse, and tender Mother too,</l>
+          <l>Feel Pangs of Love as sharp and strong as you.</l>
+          <l>Shall Nuptial Vows, or fair Britannia's Charms</l>
+          <l>For ever lock my Albion in her Arms.</l>
+          <l>Lock him for ever from these Longing Eyes,</l>
+          <l>Belgia (ye Gods!) with Expectations dies.</l>
+          <l>Why have I Wish'd, and Sigh'd so long in vain?</l>
+          <l>Partakes Nassaw of his soft Brides Disdain,</l>
+          <l>And fears to see this Wrinkled Face so long,</l>
+          <l>'Till I'm scorn'd as much by Albion,--</l>
+          <l>But see he comes, spight of thy Wrath he'll come.</l>
+          <l>Nassaw, now to the Gods I'll trust again,</l>
+          <l>Those Gods I never trusted yet in vain;</l>
+          <l>When poor Hibernia call'd him to her aid,</l>
+          <l>(Whose gashly Wounds, made Mars himself afraid.)</l>
+          <l>'Twas those kind Gods return'd the Mortal Blow,</l>
+          <l>Heaven will not spare him yet--I Belgia know</l>
+          <l>There's greater things for Albion yet to do:</l>
+          <l>But hold--Britannia, you've forgot, I find,</l>
+          <l>How dear a Pledge your Lord has left behind;--</l>
+          <l>Thou Smil'st again, How fast thy Sorrow dies,</l>
+          <l>Sorrow, the fair Britannia's worst Disguise!</l>
+          <l>Fresh Beauties in thy Cheeks themselves display!</l>
+          <l>What can the Lovely change pretend to say?</l>
+        </lg>
+        <lg type="stanza">
+          <head rend="bold">BRITANNIA.</head>
+          <l>That I no more can for his Absence mourn,</l>
+          <l>Who leaves so dear a Pledge of his return,</l>
+          <l>Belgia 'twas cruel, and your fault indeed,</l>
+          <l>To let my Soul so long with Sorrows bleed,</l>
+          <l>You've wrong'd my Heart, (Belg.) Then there was wrong for wrong,</l>
+          <l>Give me your hand, be Friends, and let's a'done.</l>
+          <l>FINIS.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

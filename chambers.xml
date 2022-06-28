@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="chambers_1200">
+  <teiHeader xml:id="chambers.1201"><fileDesc>
+      <titleStmt>
+        <title>The Ladies Best Companion, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Chambers, Amelia</reg><orig>Amelia Chambers</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by Gitanjali Shahani</resp>
+          <name>The Lewis H. Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent/>
+      <publicationStmt><publisher>The Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="chambers_1301">© 2006 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to
+the work claimed by Emory University for non-profit educational purposes, provided 
+this header is included in its entirety.  For inquiries about commercial uses, contact
+either: Women Writers Resource Project or Lewis H. Beck Center for Electronic
+collections and services, Emory University, Atlanta, Georgia 30322.</p>
+        </availability><date>2006</date><idno type="ark">http://pid.emory.edu/ark:/25593/17b6c</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Chambers, Amelia, <title>The Ladies Best Companion; or, a Golden treasure for the fair sex. Containing the whole arts of cookery ... With plain instructions for making English wines, etc</title>London, Printed for J.COOKE, No. 17, in
+	    Paster-Noster Row</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="chambers_1302">This text is produced in conjunction with the 
+Women Writers Resource Project at Emory University.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early Modern through the 18th Century</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Prose</rs>
+        <rs type="geography">Great Britain</rs>
+        <date>1700-1799</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Home economics --Early works to 1800.</item>
+            <item>Cookery, English --Early works to 1800.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2006</date><label>Staff</label><name>Gitanjali Shahani</name>XML tags inserted in compliance with TEI guidelines using TEILITE.</change></revisionDesc></teiHeader>
+  <text xml:id="chambers_1202">
+    <front xml:id="chambers_1203">
+      <titlePage xml:id="chambers_1303">
+        <docTitle>
+          <titlePart type="main">THE LADIES BEST COMPANION;</titlePart>
+          <titlePart type="alt">OR, A Golden Treasure for the Fair Sex.</titlePart>
+          <titlePart type="desc">
+
+Containing the Arts of<lb/><lb/>
+COOKERY, POTTING, CANDYING,<lb/>
+PASTRY, PICKLING, COLLARING,<lb/>
+CONFECTIONARY, PRESERVING, BREWING, &amp;c.<lb/>
+With plain Instructions for making English Wines, from Fruits,
+Flowers, &amp;c.
+</titlePart>
+          <titlePart type="desc"><lb/>To which is added
+<lb/>The ART of preserving BEAUTY.
+Containing the best and easiest Methods of preparing and making
+Washes, Essences, perfumes, &amp;c. for the Hanes, Neck, Face, and
+Hair, in such a Manner as in great Measure to delay the Ravages of
+Time on the Features of the Fair Sex.<lb/><lb/>
+Likewise Directions for sweetening the Breath, curing the
+Tooth-ache, preserving the Teeth and Gums, &amp;c. With many other
+Articles equally useful to the Fair Sex in general.
+</titlePart>
+        </docTitle>
+        <epigraph>
+          <l>
+            <hi rend="italic">Here cooks may learn with wond'rous Ease</hi>
+          </l>
+          <l>
+            <hi rend="italic">The longing Appetite to please;</hi>
+          </l>
+          <l>
+            <hi rend="italic">The Art of Beauty how to reach,</hi>
+          </l>
+          <l>
+            <hi rend="italic">By skillful Methods too we teach;</hi>
+          </l>
+          <l>
+            <hi rend="italic">The Fair who with our Rules comply,</hi>
+          </l>
+          <l><hi rend="italic">May</hi> catch the Heart,<hi rend="italic">and</hi> charm the Eye.</l>
+        </epigraph>
+        <byline>By Mrs. <hi rend="italic">AMELIA CHAMBERS.</hi></byline>
+        <titlePart type="desc">
+To which are added
+<lb/>Every Lady her own and Family's Physician.
+Consisting of approved physical Receipts for most Disorders that grown
+People and young Children are subject to.
+</titlePart>
+        <titlePart type="desc">
+Also the Family Instructor.<lb/>
+Containing Directions for cleaning Silks, Lace and Furniture, taking
+out Spots from Linen and Cloaths, &amp;c. &amp;c. And great Variety of
+other Articles too numerous to be inserted in a Title Page.
+</titlePart>
+        <docImprint><lb/><pubPlace><hi rend="italic">LONDON.</hi></pubPlace><lb/>Printed for <name>J. COOKE,</name> No.17 in <pubPlace>Paster-Noster Row</pubPlace><lb/>[Price Two Shillings Sewed.]
+</docImprint>
+      </titlePage>
+      <div xml:id="chambers_001" type="Preface">
+        <pb xml:id="chambers_1304" n="[iii]"/>
+        <head>PREFACE</head>
+        <p xml:id="chambers_1305">AS the following collection of receipts cannot fail of being useful, both to families and private persons, I can only assure the reader that they are the result of long experience, every one of them having been many times tried, and none of them ever proved ineffectual.</p>
+        <p xml:id="chambers_1307">It is well known, that the woman who is ignorant of cookery is
+neither qualified to be a mistress or a servant; for the dressing of
+victuals, either in a plain or a more polite manner it so essential a
+part of female education, that those who neglect to acquire some
+knowledge of it, labour under many difficulties in their advanced
+years, and many have lost very <choice><sic>valuables</sic><corr>valuable</corr></choice> places for the want of such
+necessary qualifications. But as it too often happens that women
+neglect to learn those accomplishments in their younger years, and as
+the memory is not able to retain every thing, I have undertaken this
+work for the use of my Countrywomen, and
+<seg type="catch">am</seg><pb xml:id="chambers_1306" n="iv PREFACE"/>
+am well convinced that it will answer the most valuable purposes, let their situation in life be either high or low.</p>
+        <p xml:id="chambers_1308">With respect to cookery, every thing has been inserted according to the practice of the present age, and nothing left out that could be useful, so that either the mistress, housekeeper, cook, or servant may at all times find directions for the dressing of victuals in any manner whatever.</p>
+        <p xml:id="chambers_1309">By this assistance, the mistress of a family will be enabled to
+give proper directions for preparing every necessary entertainment and
+those under them will be directed how to act in a proper manner, by
+only turning to the receipt in the book, where they will find the
+quantities of the ingredients properly arranged, so that no mistake
+can happen, unless they <choice><sic>wilfully</sic><corr>willfully</corr></choice> neglect to abide by the instructions.</p>
+        <p xml:id="chambers_13011">But besides cookery, which is, absolutely necessary, less or more in every family, there are proper directions given for all sorts of confectionary; the best methods for preparing made wines, and the most approved rules for pickling. The brewing of such malt liquors as are used in families, is pointed out in the clearest manner,
+<seg type="catch">so</seg><pb xml:id="chambers_13010" n="v PREFACE"/>
+so that the person who attends to the different directions will be enabled to discharge all sorts of domestick duties.</p>
+        <p xml:id="chambers_13012">The rules laid down for the preservation of beauty are, not only
+simple, but all of them have been tried, and may be used at any time
+without the least danger, they having never been known to fail of
+success<choice><corr>.</corr><sic>,</sic></choice></p>
+        <p xml:id="chambers_13013">As many families are situated at a distance from gentlemen of the physical profession, and as some disorders may be cured in an easy manner, I have here inserted receipts for such diseases and complaints, as are common in general, both in children, and those of more advanced years; to all which I have added proper instructions, to servants in cleaning furniture, washing, smoothing, and many other articles, absolutely necessary to be known by those who would acquire the character either of industrious house-wives, or good servants.</p>
+        <p xml:id="chambers_13014">Upon the whole, nothing has been wanting to make this the most
+complete <unclear reason="faded ink" resp="#gs">book</unclear> of the kind ever yet offered to the public, and the
+author doubts not of meeting with the approbation of those who peruse
+it.</p>
+        <ab type="catch">THE</ab>
+      </div>
+    </front>
+    <body xml:id="chambers_1204">
+      <pb xml:id="chambers_13015" n="[153]"/>
+      <div xml:id="chambers_002" n="1" type="Section">
+        <head>THE LADIES COMPANION FOR THE DRESSING ROOM.
+<lb/><choice><sic>CHAP XVIII.</sic><corr>CHAP XVII</corr></choice></head>
+        <div xml:id="chambers_101" n="1" type="Recipe">
+          <head rend="italic">To make Pomatum for beautifying the Face.</head>
+          <p xml:id="chambers_13016">TAKE a handful of oats, and stick them in the fat of a bacon hog,
+newly killed, without any salt; let it melt before a slow fire, and
+when it is quite dissolved, put to the dripping a spoonful of the oil
+of cinnamon, with the same quantity of the oil of sweet almonds; when
+you have mixed all these together, let it be laid up, and it will make
+a most excellent pomatum.</p>
+        </div>
+        <div xml:id="chambers_102" n="2" type="Recipe">
+          <head rend="italic">To make Water for beautifying the Face.</head>
+          <p xml:id="chambers_13018">Take a quart of white wine, and the same quantity of goat's milk,
+mix them together, and grate over them a penny loaf, and a pound of
+double refined loaf sugar; squeeze into it the juice of four lemons,
+and add to the whole a great house-leek, three ounces of roach allum,
+a few-water lillies; a handful of white poppy seeds, as many bean
+blossoms, and a few violets; when all the materials are bruised in the
+liquid, let them be put into a glass alembic and distilled. It is not
+only useful in beautifying the face, but will also give a fine colour
+to
+<seg type="catch">the</seg><pb xml:id="chambers_13017" n="154 THE LADIES COMPANION"/>
+the hands and neck, making them, appear white and transparent.</p>
+        </div>
+        <div xml:id="chambers_103" n="3" type="Recipe">
+          <head rend="italic"><seg type="short-title">To preserve the Complexion</seg>, and restore such as are decayed.</head>
+          <p xml:id="chambers_13019">Take two scruples of saffron the same quantity of camphire, two
+drams of dried quinces, as much water lillies, blew violets, vine
+leaves, mint, tendrels, red roses, and myrtle berries. Mix all these
+together, then make them up in little balls, let them dry a day in the
+sun, then beat them together as small as possible, in strong vinegar
+that has been boiled; squeeze the materials out of the vinegar, and
+make it up in little balls of the size of a hazle nut, which when dry
+you must dissolve in a gill of Benjamin water, and it will either
+preserve or restore the complexion.</p>
+        </div>
+        <div xml:id="chambers_104" n="4" type="Recipe">
+          <head rend="italic">TO take off red Spots from the Face.</head>
+          <p xml:id="chambers_13020">Take a lemon, and lay it before a slow fire, in a flat earthen
+plate, to receive the liquor that sweats out of it; when all the juice
+is out, pour it into a glass to <unclear reason="partial ink blot" resp="#gs">cool</unclear>and rub the face with a few drops of it,
+which will <unclear reason="partial ink blot" resp="#gs">remove</unclear> all sorts of red spots.</p>
+        </div>
+        <div xml:id="chambers_105" n="5" type="Recipe">
+          <head rend="italic">To soften the Lips.</head>
+          <p xml:id="chambers_13021">Take an equal quantity of fresh butter and fine virgin wax, put
+them in as much rose-water as will cover them; put them in an earthen
+dish over a slow fire, and when they are melted thoroughly, let them
+be put into an earthen pot to cool; a small bit of it rubbed over
+chapped lips, will soften them and make them quite easy and
+agreeable.</p>
+        </div>
+        <div xml:id="chambers_106" n="6" type="Recipe">
+          <head rend="italic">To remove Pimples from the Face.</head>
+          <p xml:id="chambers_13022">Take an ounce of burnt copperas, the same quantity. of starch, and
+as much brimstone; beat all these together, then dissolve them in
+rose-water, put them up in a chrystal bottle, let them stand a week,
+and when you want to use them shake the bottle, and rub your face with
+a little of it, laid upon a soft linen cloth.</p>
+          <ab type="catch">
+            <hi rend="italic">To</hi>
+          </ab>
+        </div>
+        <pb xml:id="chambers_13023" n="155 For the DRESSING ROOM"/>
+        <div xml:id="chambers_107" n="7" type="Recipe">
+          <head rend="italic">To make fine wash Balls.</head>
+          <p xml:id="chambers_13024">Mix two ounces of cloves with the same quantity of sanders, and
+four pounds of the best white soap cut into small pieces; put to it
+twenty grains of musk, dissolve the whole in rose-water, then make it
+up in balls for use.</p>
+        </div>
+        <div xml:id="chambers_108" n="8" type="Recipe">
+          <head rend="italic">To take away Wrinkles.</head>
+          <p xml:id="chambers_13025">Take two ounces of the powder of myrrh, lay it in a small fire
+shovel till it be red hot, then take a mouthful of white wine and let
+it fall gently upon the myrrh, which will smoke up, when you must hold
+your face over it, so as to receive as much of the smoke ,as
+possible. "If you hold your face over it till the whole is wasted, it
+will have a wonderful effect; but if that is too painful, you may
+cover your face with a cloth.</p>
+        </div>
+        <div xml:id="chambers_109" n="9" type="Recipe">
+          <head rend="italic">To make fine Imperial Water.</head>
+          <p xml:id="chambers_13026">Take an ounce of gum arabic, the same quantity. of frankincense, mastick, and benjamin, which you must dissolve in five pints of French brandy; put to it four grains of musk, two ounces of the kernels of pine apples, the same quantity of sweet almonds, half an ounce of cloves, and as much nutmeg grated small; when all these are beaten and mixed together, let them be distilled in the brandy over a slow fire, and bottled up for use.</p>
+        </div>
+        <div xml:id="chambers_110" n="10" type="Recipe">
+          <head rend="italic"><seg type="short-title">To make a Water</seg> for giving the Countenance a most beau-blooming Colour.</head>
+          <p xml:id="chambers_13027">Distil four ounces of honey, in five pints of vinegar; while it is
+over the fire, put to it an ounce of red sanders, then let it be set
+to cool and bottled up. Let the face be washed clean before you use
+it, then take a little in a cup, and when you have dipped a fine linen
+cloth in it, rub your face gently, and it will have a beautiful
+blooming colour.</p>
+          <ab type="catch">
+            <hi rend="italic">To</hi>
+          </ab>
+        </div>
+        <pb xml:id="chambers_13028" n="156 THE LADIES COMPANION."/>
+        <div xml:id="chambers_111" n="11" type="Recipe">
+          <head rend="italic"><seg type="short-title">To make the Face</seg>, when over red, appear fair and
+transparent.</head>
+          <p xml:id="chambers_13029">Mix two drams of camphire, with two ounces of borax and one ounce of roach allom; add to them a pound of allom that has been burnt, put all these in water, after you have beaten them together, mix with it the white of two eggs, and when the whole has boiled an hour, pour into the vessel a pint of vinegar, then let it be taken off and let to cool; after it has stood about three weeks it will be fit for use in the following Manner. Wash your face with fine white soap, and when you have dried it, dip a linen cloth in a cup full of the liquor; rub it all over your face with your eyes shut, but do not wash it with water any more that day.</p>
+        </div>
+        <div xml:id="chambers_112" n="12" type="Recipe">
+          <head rend="italic">To remove slight marks made by the Small-pox.</head>
+          <p xml:id="chambers_13030">Take half an ounce of Venice turpentine, the fame quantity of
+sperma ceti, and one ounce of olive oil; melt all these together over
+a slow fire, until it is beginning to boil, then take it off and let
+it stand a few days to settle. When you use it, rub it over your face
+gently and the marks of the small-post will disappear.</p>
+        </div>
+        <div xml:id="chambers_113" n="13" type="Recipe">
+          <head rend="italic">To hide deep marks made with the Small-pox.</head>
+          <p xml:id="chambers_13031">Boil an ounce of sperna ceti in a pint of malmsey, until it is
+quite dissolved, then put to it the juice of a house-leek and that of
+plantane leaves, mix with them half an ounce of peach-kernels, and
+when they are all properly mixed, let them be let to cool, strain off
+the liquor through a fine cloth, and when you rub the face with it,
+let it be warmed gently in a cup.</p>
+        </div>
+        <div xml:id="chambers_114" n="14" type="Recipe">
+          <head rend="italic">To make an Ointment for a Ring-Worm.</head>
+          <p xml:id="chambers_13032">Mix a spoonful of in mustard with two ounces of Honey, half an
+ounce of popillion, with as much ceruse; mix the whole together, and
+when you use it, rub the face over three times.</p>
+          <ab type="catch">
+            <hi rend="italic">A fine</hi>
+          </ab>
+        </div>
+        <pb xml:id="chambers_13033" n="157 For the DRESSING ROOM"/>
+        <div xml:id="chambers_115" n="15" type="Recipe">
+          <head rend="italic">A fine Ointment to make the Hair grow.</head>
+          <p xml:id="chambers_13034">Take a pint of sweet-oil, and mix with it a handful of fern-roots burnt to ashes, put to it for ounces of linseed-oil, an ounce of bruised almonds, with as Much mastick and fine honey, put the whole into an earthen. dish; let it stand over a slow still fire till it is so hot that all the ingredients are properly mixed, then let it be let to cool; when it grows stiff, dip it in clean spring water, and make it into a roll for use. When you use it, take a piece of thin leather, and lay it at night to the place where the hair has fallen off, in the morning when you take it off, wash the place, then comb out the hair gently, and after you have repeated it three or four times it will begin to grow.</p>
+        </div>
+        <div xml:id="chambers_116" n="16" type="Recipe">
+          <head rend="italic">To make the Hair grow thick.</head>
+          <p xml:id="chambers_13035">Take of southernwood, hazel, bark, rosemary, myrtle berries, and maiden hair, each two ounces, lay them on a red hearth, or in an oven till they are reduced to ashes; put the ashes into a quart of white wine, so as to work it into a strong lye; then let it to cool, and rub the hair with it as hard as you can.</p>
+        </div>
+        <div xml:id="chambers_117" n="17" type="Recipe">
+          <head rend="italic">To make a fine wash for the Teeth.</head>
+          <p xml:id="chambers_13036">Mix an ounce of bole-armenic in a gill of hungary-water; put these into a quart of claret, with two ounces of honey, an ounce of myrrh, a dram of allom, and ten grains of salt of vitriol; let them stand in an earthen vessel, or in the jar three days, then set it up to settle. When you use it, put a spoonful into a cup of water, and wash your teeth with it every morning; it will keep them white and preserve them clean.</p>
+        </div>
+        <div xml:id="chambers_118" n="18" type="Recipe">
+          <head rend="italic">To fasten such Teeth as are loosened.</head>
+          <p xml:id="chambers_13037">Take a handful of the leaves of a damson tree, and boil them in
+white wine, then strain off the liquor and let it to cool; bottle it
+up, and wash your mouth with it twice every day until the teeth are
+fastened.</p>
+          <ab type="catch">
+            <hi rend="italic">To</hi>
+          </ab>
+        </div>
+        <pb xml:id="chambers_13038" n="158 THE LADIES COMPANION."/>
+        <div xml:id="chambers_119" n="19" type="Recipe">
+          <head rend="italic">To take away Freckles from the Face.</head>
+          <p xml:id="chambers_13039">Take four spoonsful of bean-flower water, and the same quantity of elder-flower water; mix with them one spoonful of oil of tartar, when they have stood two or three days, and are properly fettled, rub a little over your face and let it dry upon it.</p>
+        </div>
+        <div xml:id="chambers_120" n="20" type="Recipe">
+          <head rend="italic">To make Sweet Bags to put among Linen.</head>
+          <p xml:id="chambers_13040">Take a clean bag, put into it four ounces of roses in powder, two ounces and half of labdanum, four ounces of marjoram and orrice; calamus aromat, benjamin, cypress, suffis, white saunders and sprignal, each two ounces, civet and musk each one dram, lay the bag among the linen and it will smell sweet.</p>
+        </div>
+        <div xml:id="chambers_121" n="21" type="Recipe">
+          <head rend="italic">To make a Powder of the same Nature.</head>
+          <p xml:id="chambers_13041">Take an equal quantity of the following articles, so as the whole does not exceed a pound, viz. Lavender, white sanders, basil, marjoram, cypress, calamus, calaminat, benjamin, orrice storax and cloves; mingle with them a handful of dried leaves of roses, put them in a bag and let them lay among the linen.</p>
+        </div>
+        <div xml:id="chambers_122" n="22" type="Recipe">
+          <head rend="italic">To restore the Face from Sun burning.</head>
+          <p xml:id="chambers_13043">Take half a pound of tartar, and beat it up with the same quantity of salt-petre, lay it upon a polished marble stone, and set fire to it with a hot iron, take up what remains after it has burnt two minutes, and put it in a bag which must be hung up in a cellar, with a vessel under it, for it will dissolve into a fine oil; put to it four ounces of vinegar, with half a pint of clear spring water, four ounces of lithrage of gold, mix all these together; when they have stood a day, they will be fit for use, and look as clear as rock water. Rub your face with it when you go to bed, let it dry in, and when you get up in the morning, take a piece of scarlet cloth, rub your face with it, and the whole will come off; then wash it with fresh barley water that has been boiled
+<seg type="catch">with</seg><pb xml:id="chambers_13042" n="159 For the DRESSING ROOM"/>
+with plantain leaves. Repeat it every night during one week, and the face will regain its former colour.</p>
+        </div>
+        <div xml:id="chambers_123" n="23" type="Recipe">
+          <head rend="italic">To make an oil for the Face.</head>
+          <p xml:id="chambers_13044">Mix the flowers of beans, water lillies and roses, in a pint and a half of new cream. Put them in an earthen pot, over a slow fire, and let it boil about ten minutes, take off the finest of the oil that rises up, set it to cool in the air and then bottle it up for use. It is an excellent composition for cleansing the face at any time.</p>
+        </div>
+        <div xml:id="chambers_124" n="24" type="Recipe">
+          <head rend="italic">To make a fine Pomatum for the Skin.</head>
+          <p xml:id="chambers_13045">Cut two pounds of hogs lard into thin slices, wash it clean, and let it soak ten days in water, only remember that the water must be as cold as possible; and changed once every day; then melt it over a slow fire, skim off any impurity that rises to the top, when melted pour it into cold water; wash it clean with rose-water, and rub your skin a little with it.</p>
+        </div>
+        <div xml:id="chambers_125" n="25" type="Recipe">
+          <head rend="italic">To make the Eyebrows appear Beautiful.</head>
+          <p xml:id="chambers_13046">Mix with the blood of a young cock, half an ounce of emmets eggs, the same quantity of gum of ivy, colsphonia and burnt leaches when they are all dissolved and mingled, put them up close in a wide mouthed glass, then take a pencil, dip it in, and touch with it those parts of, the eyebrows where you want the hair to come off.</p>
+        </div>
+        <div xml:id="chambers_126" n="26" type="Recipe">
+          <head rend="italic">To make the Hair of the Eyebrows grow regular.</head>
+          <p xml:id="chambers_13047">Take two ounces of linseed-oil, half an ounce of lead filed as
+small as you can, with a dram of maiden-hair; mix with them, two drams
+of henbane-seed; beat them up together in a marble morter, then put it
+up in a vessel and use it in the following manner. Take a small piece
+of black silk, dip it in the ointment, lay it upon the eyebrows when
+you, go to bed, and when you take it off in the morning, take some
+white wine, wherein myrtle-berries have been soaked and wash
+them.</p>
+          <ab type="catch">
+            <hi rend="italic">To</hi>
+          </ab>
+        </div>
+        <pb xml:id="chambers_13048" n="160 THE LADIES COMPANION."/>
+        <div xml:id="chambers_127" n="27" type="Recipe">
+          <head rend="italic"><seg type="short-title">To change the Colour</seg> of red Eyebrows, to a fine black.</head>
+          <p xml:id="chambers_13049">Burn a handful of cherry Bones, and the same quantity of ivory saw-dust, when they are almost thoroughly burnt, grind them as small as flour, mix with this powder as much oil of amber as will make them a thick liquid, was the eyebrows with water in which black cherries have been boiled, let it dry in, then take a pencil, dip it in the composition, and rub over the eye-brows three different times, letting it dry between each, when it will appear as black as jet.</p>
+        </div>
+        <div xml:id="chambers_128" n="28" type="Recipe">
+          <head rend="italic"><seg type="short-title">To make the Forehead</seg> appear extremely Beautiful, and enaging.</head>
+          <p xml:id="chambers_13050">Take an ounce of mastick, and dissolve it to a jelly in half a pint of piony-water, take it out, and spread a piece of it on leather, lay it on the forehead, with a ribbon tied to it to keep it tight; this must be done when you go to bed, let it be pulled off in the morning as quick as possible, and the scattered hairs will come, up by the roots, so that in a few days the forehead will appear very comely.</p>
+        </div>
+        <div xml:id="chambers_129" n="29" type="Recipe">
+          <head rend="italic">To prevent the Hair from growing on the Forehead.</head>
+          <p xml:id="chambers_13051">Take a colewort leaf, and put in it two ounces and a half of henbane-seed, then put it into a piece of brown paper that has been dipped in water, put it into embers that are not so hot as to scorch it, let it lie till it burns soft, then take it out and beat the seed together in a morter, mix with it a little oil of walnuts so as to moisten it, strain the whole through a fine linen cloth, put to it two grains of orpiment beaten to powder; lay it on a linen cloth, and tic a fillet round the head to keep it on during the night. In the morning when you take it off, rub the forehead over with pomatum, and wash it with bean-flower water.</p>
+        </div>
+        <div xml:id="chambers_130" n="30" type="Recipe">
+          <head rend="italic">To make the Nose appear Beautiful.</head>
+          <p xml:id="chambers_13053">Take one grain of musk, a scruple of spikenard, dried roses, and cloves, of each two drams, beat them together, with a little white sugar, and mix the whole with
+<seg type="catch">a glass</seg><pb xml:id="chambers_13052" n="161 For the DRESSING ROOM"/>
+a glass of white wine, then make up small boluses, and when you have occasion to use it take one, which you must dissolve in rose-water, hold a little to your nose, and wash it with the rose-water. It will remove all disagreeable impurities in the nose, and make the breath smell sweet.</p>
+        </div>
+        <div xml:id="chambers_131" n="31" type="Recipe">
+          <head rend="italic">To take Worme. from the Nose.</head>
+          <p xml:id="chambers_13054">Take one dram of the powder of sulphur, two drams of unslack'd lime, and infuse both into a gill of lemon juice; put them in an earthen vessel over a slow fire, until they are dissolved and properly mixed. When you use it, dip a feather into it and rub it all over the nose, when the worms will die and fall off, but as they will leave pores in the skin, rub your nose with oil of almonds which you must wash off with juice of lemons, and you will not be troubled with them again.</p>
+        </div>
+        <div xml:id="chambers_132" n="32" type="Recipe">
+          <head rend="italic">To make fee red Pomatum for the Lips.</head>
+          <p xml:id="chambers_13055">Take an ounce of bullock's marrow, the same quantity of fine white
+wax, and melt both together with three ounces of pomatum, put to it a
+dram of alkanet, and let it stand in an earthen vessel over the fire
+till it has acquired a fine <choice><sic>redish</sic><corr>reddish</corr></choice> colour, take it off to cool, rub the lips with it, and they will appear of a fine blooming colour.</p>
+        </div>
+        <div xml:id="chambers_133" n="33" type="Recipe">
+          <head rend="italic">To make a fine Water for the Gums.</head>
+          <p xml:id="chambers_13056">Take six ounces of spirits of wine, half a pint of water, four
+ounces of scurvy-grass, one ounce of cinnamon, two drams of cloves, of
+red roses and lemon, peel, each half an ounce, mix the whole together,
+then beat them in a morter, where they must stand a day; then let them
+be distilled in a glass over a slow fire. When it has been set to
+cool, let it stand some days, then take a linen cloth, which you must
+dip in it and rub the gums.</p>
+          <ab type="catch">
+            <hi rend="italic">To</hi>
+          </ab>
+        </div>
+        <pb xml:id="chambers_13057" n="162 THE LADIES COMPANION."/>
+        <div xml:id="chambers_134" n="34" type="Recipe">
+          <head rend="italic">To strengthen the Gums.</head>
+          <p xml:id="chambers_13058">Mix a dram of allom burnt, with two drams of the peel of Seville oranges, an ounce of cloves, half an ounce of cinnamon, a pint of Malaga wine, and the same quantity of water distilled from briar leaves; put them into a glass bottle, and mix with them two ounces of virgin honey; set the bottle over a slow fire, or rather on embers, where it must remain five days, then let the liquor be poured out, into an earthen dish, through a thick linen cloth, and bottled close up. When it has stood a week, wash the gums with a little of it, and they will regain their former strength.</p>
+        </div>
+        <div xml:id="chambers_135" n="35" type="Recipe">
+          <head rend="italic">To make the Breath smell Sweet.</head>
+          <p xml:id="chambers_13059">Mix half an ounce of sanders, with cloves, nutmeg, and cinamon, of each an ounce, put to them half a dram of musk, and the same quantity of aloes, dry them before a slow fire, then beat them to a small powder, which must be fitted through a very fine sieve made of lawn; then put to it tome rose-water, double refined sugar, and gum-fragrant; make the whole composition into small pills,and hold one of them in your mouth at least an hour every morning, or during the time you are dressing, which will make your breath sweet all the day.</p>
+        </div>
+        <div xml:id="chambers_136" n="36" type="Recipe">
+          <head rend="italic">To make an Ointment to beautify the Neck.</head>
+          <p xml:id="chambers_13060">Take two ounces of the marrow of calves feet, one dram of camphire,
+half an ounce of the oil of myrrh, and the same quantity of the oil of
+spikenard, put to them two ounces of the oil of sweet almonds, and one
+ounce of the water of tartar; when the whole is properly mixed let it
+be put into a canvas bag, through, which you must strain it, and when
+it has stood a few days to thicken, let it be put into boxes for
+use. Rub a little of it over the neck, and it will give it a fine
+colour, of a mixture of red and white.</p>
+          <ab type="catch">
+            <hi rend="italic">To</hi>
+          </ab>
+        </div>
+        <pb xml:id="chambers_13061" n="163 For the DRESSING ROOM"/>
+        <div xml:id="chambers_137" n="37" type="Recipe">
+          <head rend="italic">To make the Shoulders and Breast appear white.</head>
+          <p xml:id="chambers_13062">Take a quart of dew gathered in May, with half a pint of sumitory-water; put to them two ounces of lavender-water then let all the ingredients be properly mixed, and put up in a vessel to settle. Wash your neck, breast and shoulders, first in water that camomile flowers has been boiled in, mixed with white wine, let it dry in, and then rub this liquid upon it, and the skin will appear quite transparent.</p>
+        </div>
+        <div xml:id="chambers_138" n="38" type="Recipe">
+          <head rend="italic"><seg type="short-title">To beautify the Face</seg> after the Person has been afflicted with the Scurvy.</head>
+          <p xml:id="chambers_13063">Take of rose-mary flowers, camphire, and frankincense, each a dram, infuse them into an ounce of fumitory-water, mixed with half a pint of, white wine. When they have stood a night and a day, let them simmer in an earthen vessel half an hour over a slow fire, then pour off the liquid, and when it is cool, rub the face with it.</p>
+        </div>
+        <div xml:id="chambers_139" n="39" type="Recipe">
+          <head rend="italic">To prevent the returns of Eruptions by the Scurvy.</head>
+          <p xml:id="chambers_13064">Take half an ounce of the roots of jelly-flowers, one ounce of the
+juice of lemons, a dram of aloes, and two ounces of pellitory-water;
+when they are all properly mixed, put to them two drams of oil of
+myrrh; let the whole <choice><sic>soke</sic><corr>soak</corr></choice> together twenty-four hours, then strain, the liquor through a cloth, set it to cool, and rub the parts offended with it.</p>
+        </div>
+        <div xml:id="chambers_140" n="40" type="Recipe">
+          <head rend="italic">To make the Hands Soft and White.</head>
+          <p xml:id="chambers_13065">Beat in a morter two ounces of blanched almonds, with four ounces of the flowers of beans; put to them four ounces of Castile soap, with a pint of rose-water; then let them be all beat up together, and when you use them for your hands, moisten them with warm milk.</p>
+        </div>
+        <div xml:id="chambers_141" n="41" type="Recipe">
+          <head rend="italic">To prevent the Skin from peeling off the Hands.</head>
+          <p xml:id="chambers_13067">Take four drams of pomatum, half an ounce of fine red wax, two drams of oil of roses, two drams of borax,
+<seg type="catch">with</seg><pb xml:id="chambers_13066" n="164 THE LADIES COMPANION."/>
+with four ounces of venison fever; hold them over a gentle fire till they begin to melt, then make them, up into an ointment, which. you must lay upon the hands when you go to bed, and in the morning let it be washed off with warm milk. Continue to do so three nights successively, and then the hand will appear white and beautiful.</p>
+        </div>
+        <div xml:id="chambers_142" n="42" type="Recipe">
+          <head rend="italic">To secure Nails that are likely to fall of.</head>
+          <p xml:id="chambers_13068">Take a gill of white wine, two drams of powder of acrimony, and the white of an egg, beat them all up together in a morter, then strain the liquid into a wide mouthed bottle where it must stand to settle, then take a linen cloth dipped in this and rub the nails, with that part of the finger above them, and the nails will remain firm.</p>
+        </div>
+        <div xml:id="chambers_143" n="43" type="Recipe">
+          <head rend="italic">To prevent the Skin from growing, over the Nails.</head>
+          <p xml:id="chambers_13069">Take a scruple of salt-petre, two drams of barley meal, a dram of sugar-candy, and half a dram of powder of castus; put to them as much honey as will make a thick liquid for a plaister, put it upon a piece of leather, and clap it upon that part of the finger where the skin is like to grow over the nail. It has been often used with great success, and seldom ever failed, nor is it attended with any danger to the person who tries it.</p>
+        </div>
+        <div xml:id="chambers_144" n="44" type="Recipe">
+          <head rend="italic">To take Spots out of the Nails.</head>
+          <p xml:id="chambers_13070">Take two drams of Venice turpentine with one dram of myrrh, mix them together over a slow fire in an earthen vessel; then set it to cool, when you must spread a small piece upon leather, and keep it all night upon your nails. Do it three nights successively, and the spots will disappear.</p>
+        </div>
+        <div xml:id="chambers_145" n="45" type="Recipe">
+          <head rend="italic"><seg type="short-title">To recover the Colour of Nails</seg>, that have become black by bruising.</head>
+          <p xml:id="chambers_13072">Mix two scruples of flour of sulphur, with two drams of capons grease, and the same quantity of oil of camo-
+<seg type="catch">mile;</seg><pb xml:id="chambers_13071" n="165 For the DRESSING ROOM"/>
+mile; put to it a dram of the. oil of roses, and a few grains of cummin-seed; mix the whole together, and lay a small bit on leather, which. must be put to the nails when you go to bed.</p>
+        </div>
+        <div xml:id="chambers_146" n="46" type="Recipe">
+          <head rend="italic">To make a fine Water for whitening the Skin.</head>
+          <p xml:id="chambers_13073">Grate the crumb of a penny roll into a pint of new milk warm from the cow, put to it one ounce of the roots of daffodil, and two ounces of the roots off snake-weed, let them distil in a glass over a slow fire two hours; then put to the ingredients one pint of hungary-water; when you have strained out the liquid, set it to cool, and mix with it a few grains of musk, with a half a pint of fennel-water, then rub the skin all over and it will appear transparent.</p>
+        </div>
+        <div xml:id="chambers_147" n="47" type="Recipe">
+          <head rend="italic">To make fine balsamic Water.</head>
+          <p xml:id="chambers_13074">Take four ounces of borax, a dram of musk, a scruple of <choice><sic>ambergrease</sic><corr>ambergris</corr></choice>, three ounces of white dittany, with an ounce of each of the following articles, viz. aloes, aloes wood, ginger, cloves, myrrh, frankincense, gum-arabic, gum-ivy, oil of bays, and a pound of Venice turpentine; infuse the whole into four quarts of brandy, and beat them together in a morter, then squeeze the liquor out, and put it up in bottles for use. When rubbed on the skin it makes it look soft and agreeable.</p>
+        </div>
+        <div xml:id="chambers_148" n="48" type="Recipe">
+          <head rend="italic">To make fine Water to soften the Skin.</head>
+          <p xml:id="chambers_13075">Mix together the flowers of lavender and fumitory each two ounces,
+one ounce of frankincense, and a quarter of an ounce of camphire; put
+to them two ounces of orange flowers, three ounces of rosemary, and
+one ounce and a half of the flowers of balm pour upon them half a pint
+of the spirits of wine, and fix pints of white wine, let the whole
+steep together twenty-four hours, then take it and rub the shoulders,
+breasts, and neck; it will make the skin feel as smooth as sattin.</p>
+          <ab type="catch">
+            <hi rend="italic">To</hi>
+          </ab>
+        </div>
+        <pb xml:id="chambers_13076" n="166 THE LADIES COMPANION."/>
+        <div xml:id="chambers_149" n="49" type="Recipe">
+          <head rend="italic">To make a swarthy Complexion appear agreeable.</head>
+          <p xml:id="chambers_13077">Sift the flour out of half a peck of wheat bran, then, put to the bran eight new laid eggs, and six pints of white wine vinegar; let the eggs be beaten as small as possible, and when the whole is properly mixed, let its distil over a slow fire; when it has stood a day to settle, take a little of it and rub your face every day for a fortnight, and it will look extremely fair.</p>
+        </div>
+        <div xml:id="chambers_150" n="50" type="Recipe">
+          <head rend="italic"><seg type="short-title">To make fine wash Balls</seg> to beautify the Hands and Face.</head>
+          <p xml:id="chambers_13078">Mix together a dram of nutmeg grated small, four ounces of benjamin, one of orrice, three of storax, one of dried peel of citron, half an ounce of cinnamon, and the same quantity of cloves, put to them one ounce of pomander, and half an ounce of yellow sanders; beat all up with four ounces of Castile soap, to which must be added as much rose-water as will make the whole into a fine paste; then make it up into little balls; which to preserve the scent must be rolled in almond powder, then let them be tied up in fine writing paper, and put in boxes till you use them.</p>
+        </div>
+        <div xml:id="chambers_151" n="51" type="Recipe">
+          <head rend="italic"><seg type="short-title">To make a Perfume</seg> for taking away all Sorts of disagreeable Smells.</head>
+          <p xml:id="chambers_13079">Take an ounce of the oil of turpentine, half an ounce of wood of sassafras, one dram of sulphur, and an ounce of frankincense, with the same quantity of cedar wood; when you have rasped the wood small, let the whole be mixed up properly into balls, and when you smell any thing disagreeable in your chamber, burn one of them, and that will remove it.</p>
+        </div>
+        <div xml:id="chambers_152" n="52" type="Recipe">
+          <head rend="italic">To make fine scented Snuff</head>
+          <p xml:id="chambers_13080">Take a morter, hold it over the fire till it is warm, put in it a
+pound of snuff that has been mixed with herbs, when you have melted
+upon it a few grains of ambergrease, beat the whole. together till it
+is properly mixed, then rub such as sticks together with your hands
+till it is soft, fill it up in tin boxes, already prepared for the
+purpose, and keep it for use.</p>
+          <ab type="catch">
+            <hi rend="italic">To</hi>
+          </ab>
+        </div>
+        <pb xml:id="chambers_13081" n="167 For the DRESSING ROOM"/>
+        <div xml:id="chambers_153" n="53" type="Recipe">
+          <head rend="italic">To make fine liquid Snuff for the Brain.</head>
+          <p xml:id="chambers_13082">Take eight drops of oil of lavender, and the same quantity of mace, six drops of marjoram, two pounds of rosemary flowers, and let the whole be steeped three days in a pint of benjamin water; keep it closed up, and when you are seized with a weakness in the brain, or find the approach of dizziness or other fits, hold your nose to the vessel, and you will, in less than a minute, find yourself perfectly well.</p>
+        </div>
+        <div xml:id="chambers_154" n="54" type="Recipe">
+          <head rend="italic">To make a fine washing Powder.</head>
+          <p xml:id="chambers_13083">Take four ounces of the flour of French barley, two ounces of the oil of sweet almonds, six drams of benjamin, and a handful of the leaves of white roses, half an ounce of sperma-ceti, one ounce of white chalk beaten to a powder, and a quarter of an ounce of white tartar; one scruple of the oil of cloves and lavender; mix all these together, then beat them to powder in a morter, and keep it in a box to be ready when you wash your hands.</p>
+        </div>
+        <div xml:id="chambers_155" n="55" type="Recipe">
+          <head rend="italic">To make perfumed Paste for Bracelets.</head>
+          <p xml:id="chambers_13084">Take half an ounce of turpentine, four grains of ambergrease, and the same quantity of musk, put to them a dram and a half of calamita, two drams of benjamin, and of the following articles half a scruple each, <hi rend="italic">viz.</hi> flowers of lavender, cloves, mace, and wood of aloes; let the whole be dissolved in as much rose-water as will turn them to a paste, then let them be beaten together in a morter, and put up in paper for use.</p>
+        </div>
+        <div xml:id="chambers_156" n="56" type="Recipe">
+          <head rend="italic"><seg type="short-title">To make a Perfume</seg> to carry in a Box in your Pocket.</head>
+          <p xml:id="chambers_13085">Take two scruples of the flowers of benjamin, half a scruple of the
+flowers of roses, one scruple of orange peel, a little nutmeg grated
+small, essence of cinnamon and orange, each a scruple; mix with these
+half an ounce of jessamine butter, a few grains of musk and
+amber; beat them all together till they are properly mixed in a
+morter, then put the powder in a box.</p>
+          <ab type="catch">
+            <hi rend="italic">An</hi>
+          </ab>
+        </div>
+        <pb xml:id="chambers_13086" n="168 THE LADIES COMPANION."/>
+        <div xml:id="chambers_157" n="57" type="Recipe">
+          <head rend="italic"><seg type="short-title">An excellent Perfume</seg> to be used when you are afraid of noxious Air.</head>
+          <p xml:id="chambers_13087">To one dram of musk of Alexandria, add an equal quantity of ambergrease, two scruples of the oil of rhodium, and as much balsam of Peru; one dram of yellow sanders, half a dram of calamita, cinnamon, cloves and mace; when you have beaten them all together, put to them two drams of civet, then let the whole be put into a box and kept in your pocket.</p>
+        </div>
+        <div xml:id="chambers_158" n="58" type="Recipe">
+          <head rend="italic"><seg type="short-title">An excellent Remedy for Freckles</seg> in the Face, that seldom fails of Success.</head>
+          <p xml:id="chambers_13088">Mix an ounce of lemon-juice with two ounces of Venice soap, add to it half an ounce of oil of almonds, and the same quantity of oil of tartar; set it in the sun, and keep stirring it every day till it becomes hard, then soften it with oil of rhodium, and keep it for use.</p>
+        </div>
+        <div xml:id="chambers_159" n="59" type="Recipe">
+          <head rend="italic"><seg type="short-title">Another Remedy for Freckles</seg>, of a more simple Nature, which may be used when the Complaint is not so inveterate.</head>
+          <p xml:id="chambers_13089">Mix with oil of rhodium, half an ounce of oil of tartar, and an ounce of oil of sweet almonds. Let them stand together in a vessel three days, then rub the face over with it, and it will regain its primitive colour; only take notice, that altho' it makes your skin smart, yet it will not do it any hurt, for that smarting is a sure sign that it has operated.</p>
+        </div>
+        <div xml:id="chambers_160" n="60" type="Recipe">
+          <head rend="italic">To remove from the face, Spots of a long Standing.</head>
+          <p xml:id="chambers_13090">Dissolve in a quart of barley-water, two ounces of benjamin, and
+the same quantity of storax; put to it a pint of brandy, which will
+give it a fine redish colour. When you use it take a <choice><sic>bason</sic><corr>basin</corr></choice>  filled with clear spring water, and
+pour a few drops into it, which you must mix with the water, and then
+rub it on your face.</p>
+          <ab type="catch">EVERY</ab>
+        </div>
+      </div>
+      <pb xml:id="chambers_13091" n="[169]"/>
+      <div xml:id="chambers_1422" n="2" type="Section">
+        <lb/>
+        <head>EVERY LADY HER OWN PHYSICIAN.</head>
+        <lb/>
+        <head>CHAP XVIII.</head>
+        <div xml:id="chambers_161" n="1" type="Recipe">
+          <head rend="italic"><seg type="short-title">To prevent a Consumption</seg>, where you have Reason to fear its Approach.</head>
+          <p xml:id="chambers_13092">TAKE two eggs new laid, and let them stand in the embers, until
+they are quite hot, but not hard, then take them out, and when you
+have made a hole in one end pour out the whites; put into the empty
+part of the eggs cinnamon, sugar and rose water, then set them again
+in the embers, and when they are enough take them up and eat
+them.</p>
+        </div>
+        <div xml:id="chambers_162" n="2" type="Recipe">
+          <head rend="italic">To prevent lowness of Spirits.</head>
+          <p xml:id="chambers_13093">Mix a gill of sack with an ounce of syrup of cloves, a pint of mint water, and a pennyworth of saffron, put then all together into a bottle, and let them stand about a week, when you may drink a glass of the liquor as often as you find a return of the complaint.</p>
+        </div>
+        <div xml:id="chambers_163" n="3" type="Recipe">
+          <head rend="italic">To prevent fainting Fits.</head>
+          <p xml:id="chambers_13095">Take of orange flowers, and damask roses each a dram, compound piony-waters, and strong cinnamon, two drams each; mix with them a scruple of Gascoign's
+<seg type="catch">powder,</seg><pb xml:id="chambers_13094" n="170 EVERY LADY"/>
+powder, three drams of syrup of gilly flowers, and a drop of oil of cloves, put the whole ingredients into a bottle of two ounces of water wherein black cherries have been steeped, and let it stand a few days, then it will be ready for use, and a glass must be taken when you dread the return of the fit.</p>
+        </div>
+        <div xml:id="chambers_164" n="4" type="Recipe">
+          <head rend="italic"><seg type="short-title">To create an Appetite</seg>, and prevent the want of Rest.</head>
+          <p xml:id="chambers_13096">Put an ounce of bark to a quart of the infusion of bitter simple, and mix therewith two ounces of stypticum helvetic, let it stand closed up in a bottle a week; and take four spoonsful of it about, two hours before dinner, repeating the same practice ten days, and you will have a good appetite for dinner.</p>
+        </div>
+        <div xml:id="chambers_165" n="5" type="Recipe">
+          <head rend="italic"><seg type="short-title">A fine Powder to strengthen the Brain</seg>, and prevent Hysteric Fits.</head>
+          <p xml:id="chambers_13097">Take two drams of white piony root, one dram of white briony, two scruples of salt of amber, the same quantity of castor, and four drops of oil of amber; beat them all into a powder, and keep it to take in the nose like snuff.</p>
+        </div>
+        <div xml:id="chambers_166" n="6" type="Recipe">
+          <head rend="italic"><seg type="short-title">To make a fine Cordial</seg> to prevent the Palpitation of the Heart.</head>
+          <p xml:id="chambers_13098">Take eighteen grains of saffron, clipped small, two scruples of cochineal, four ounces of black cherry water; digest the whole together for an hour over a slow fire, in an earthen vessel, then pour upon it a gill of good canary; when you have squeezed the liquor thro' a clean linen cloth, add to it cloves, nutmeg, and oil of cinnamon, each two drops, one yolk of an egg, a dram of the spirit of lavender, half an ounce of the spirit of rasberries, and one ounce of gilly-flowers, mix the whole up together in a glass morter, and it will be ready for use.</p>
+        </div>
+        <div xml:id="chambers_167" n="7" type="Recipe">
+          <head rend="italic">For Aguish Complaints in general.</head>
+          <p xml:id="chambers_130100">Mix ten grains of powder of crabs claws with fifteen grains of salt of wormwood, when you have beaten
+<seg type="catch">them</seg><pb xml:id="chambers_13099" n="171 HER OWN PHYSICIAN"/>
+them together, pour upon them some cordial water, and take a few drops at a time, when you expect the return of the fit.</p>
+        </div>
+        <div xml:id="chambers_168" n="8" type="Recipe">
+          <head rend="italic"><seg type="short-title">For a Tertian Ague</seg>, or that Sort which returns once in three Days.</head>
+          <p xml:id="chambers_130101">When the third fit is over, and you begin to expect a return, infuse two scruples of jesuits bark into a glass of wine, and drink it up; continue to do so after the fit is over, and when you have taken it about fifteen times you will find the ague beginning to leave you. As some persons may not like the bark upon, account of its bitterness, they may put to it as much sugar as will sweeten it to your taste.</p>
+        </div>
+        <div xml:id="chambers_169" n="9" type="Recipe">
+          <head rend="italic">An electuary for intermiting Fevers.</head>
+          <p xml:id="chambers_130102">Mix one ounce of snake root with a pound of jesuit's bark, both beaten into a powder, and infused into as much syrup of cloves as will make an electuary. Between the fits take about the bigness of a chesnut, and when you have repeated that about three or four days, you will find yourself growing better, and will soon be well.</p>
+        </div>
+        <div xml:id="chambers_170" n="10" type="Recipe">
+          <head rend="italic">To strengthen the Stomach.</head>
+          <p xml:id="chambers_130103">Take of Spanish angelica root one dram, the same quantity of calamus aromaticus two drams of gentian root, roman wormwood, and tops of centuary, each a quarter of a handful; put to them half a dram of coriander seed, and let the whole simmer in an earthen vessel over a slow fire, with a pint of clear spring water; then let the liquor be strained off, and put to it four ounces of gentian water, set it to cool in a bottle, and drink two spoonsful of it in the day, one when you get up in the morning, and the other about five in the afternoon but you must not eat any thing till an hour afterwards.</p>
+        </div>
+        <div xml:id="chambers_171" n="11" type="Recipe">
+          <head rend="italic">A useful Receipt to prevent an Asthama.</head>
+          <p xml:id="chambers_130105">Take half a pound of elecampane, roots of fennel and parsley each two ounces, white horehound, maiden-
+<seg type="catch">hair,</seg><pb xml:id="chambers_130104" n="172 EVERY LADY"/>
+hair, hysop and scabious, each an ounce, nettle and cress seeds with orrice each half an ounce, four ounces of bay berries, half an ounce of cummin-seeds and two drams of spikenard; steep the whole in a gallon of white wine, then pour off the liquor and distil it; drink one gill every morning when you get up, and you will find great benefit from it.</p>
+        </div>
+        <div xml:id="chambers_172" n="12" type="Recipe">
+          <head rend="italic">An Electuary for a violent Asthama.</head>
+          <p xml:id="chambers_130106">Take half an ounce of liquorice powder, four ounces of purified honey, flower of sulphur, aniseed, and elecampane, each three drams; mix all these together, and take about the quantity of a nutmeg three or four times a day.</p>
+        </div>
+        <div xml:id="chambers_173" n="13" type="Recipe">
+          <head rend="italic">For a violent Cough, arising from an Asthama.</head>
+          <p xml:id="chambers_130107">Infuse three drams of garlick, and half an ounce of mustard seed into a, quart of white wine, let it stand a week closed up, and drink at glass of it as often as you please.</p>
+        </div>
+        <div xml:id="chambers_174" n="14" type="Recipe">
+          <head rend="italic"><seg type="short-title">An excellent Elixir</seg> for the Chin-cough in Children.</head>
+          <p xml:id="chambers_130108">Take of liquorice root and honey, each four ounces, flowers of benjamin one dram, half a dram of anniseed, two scruples of camphire, and an ounce of salt of tartar; infuse the whole into a quart of rectified spirits of wine; let it digest in the liquor about four weeks, only that you must take care to shake it once every day; then let it be strained off and bottled up for use. Give the child from five to twenty drops, according to its age and strength.</p>
+        </div>
+        <div xml:id="chambers_175" n="15" type="Recipe">
+          <head rend="italic">To make pectoral Pills for an Asthma.</head>
+          <p xml:id="chambers_130109">Mix of orrice, liquorice, and powder of elecampane, each one
+scruple; two scruples of sugar candy, and half a scruple of flower of
+benjamin; put to these as much balsam of sulphur as will make it into
+pills; then take three in the morning and the same number when you go
+to bed.</p>
+          <ab type="catch">
+            <hi rend="italic">A Remedy</hi>
+          </ab>
+        </div>
+        <pb xml:id="chambers_130110" n="173 HER OWN PHYSICIAN"/>
+        <div xml:id="chambers_176" n="16" type="Recipe">
+          <head rend="italic">A Remedy for a fresh Bruise.</head>
+          <p xml:id="chambers_130111">Mix a large handful of parsley with half a pound of fresh butter; chop the whole together, and let it be applied warm to the wound.</p>
+        </div>
+        <div xml:id="chambers_177" n="17" type="Recipe">
+          <head rend="italic">To cure inward Bruises.</head>
+          <p xml:id="chambers_130112">Take two drams of white sugar candy, one dram of sperma ceti, when you have grinded them together, take as much balsam of syrup, as is necessary to make it into pills, then beat the whole in a morter with a warm pestle, and take four of the pills at different times of the day.</p>
+        </div>
+        <div xml:id="chambers_178" n="18" type="Recipe">
+          <head rend="italic">For stopping the Blood of a Wound.</head>
+          <p xml:id="chambers_130113">Take two drams of the colcothar of vitriol, wash it clean from the salts, and apply into the cut or wound; it seldom fails of success; but where that cannot be had, take a cobweb with a little chalk, and put to the cut, tie it close up in a linen rag.</p>
+        </div>
+        <div xml:id="chambers_179" n="19" type="Recipe">
+          <head rend="italic">To cure a Burn.</head>
+          <p xml:id="chambers_130114">Beat two drams of salt with two raw onions, in a morter, and when they are properly mixed, apply some of it to the part affected.</p>
+        </div>
+        <div xml:id="chambers_180" n="20" type="Recipe">
+          <head rend="italic"><seg type="short-title">An Ointment for Chilblains</seg>, Kibes, Whitlows, &amp;c. in Children.</head>
+          <p xml:id="chambers_130115">Take six drams of wheat flour, ten drams of honey, seven ounces of good fresh butter, rosin and wax each four ounces; when all these are properly mixed, spread some of it upon a piece of leather, and apply it to the part affected, taking care to change it as often as it grows hard.</p>
+        </div>
+        <div xml:id="chambers_181" n="21" type="Recipe">
+          <head rend="italic">Another approved Remedy for Chilbains, &amp;c.</head>
+          <p xml:id="chambers_130116">Pare off the outsides of half a dozen of turnips fresh pulled and
+lay them on a plate before the fire till they grow soft, then let them
+be tied on the sore as hot as the patient can bear them. It is used in
+many places of the country with very great success.</p>
+          <ab type="catch">
+            <hi rend="italic">To</hi>
+          </ab>
+        </div>
+        <pb xml:id="chambers_130117" n="174 EVERY LADY"/>
+        <div xml:id="chambers_182" n="22" type="Recipe">
+          <head rend="italic">To cure Chaps.</head>
+          <p xml:id="chambers_130118">Mix three ounces of beef suet with one ounce of bee's wax, half an
+ounce of Strasburgh turpentine, and as much oil of bitter almonds, as
+will make it as into an ointment; when the whole is melted, anoint the
+chaps with it as hot as the patient can bear, and the parts wall be whole in few days.</p>
+        </div>
+        <div xml:id="chambers_183" n="23" type="Recipe">
+          <head rend="italic">A useful Poultice for Whitlows.</head>
+          <p xml:id="chambers_130119">Take eight drops of balsam of Peru, two drams of common rosin in fine powder, mix with them the yolk of a new laid egg: let the whole be beaten together, and made into a poultice to lay to the sore.</p>
+        </div>
+        <div xml:id="chambers_184" n="24" type="Recipe">
+          <head rend="italic">A Poultice for kibed Hide.</head>
+          <p xml:id="chambers_130120">Roast two turnips, and two onions, then put to them an ounce of turpentine, make the whole into a poultice and lay it on the sore.</p>
+        </div>
+        <div xml:id="chambers_185" n="25" type="Recipe">
+          <head rend="italic">For Gripes and Worms in Children.</head>
+          <p xml:id="chambers_130121">Take two drams of rhubarb, anniseeds and liquorice each two scruples, two ounces of stoned raisins, and put the whole into a bottle with a quart of mild ale; when it has stood a week, let it be strained into another bottle, and give the child a spoonful in the morning.</p>
+        </div>
+        <div xml:id="chambers_186" n="26" type="Recipe">
+          <head rend="italic">An excellent Remedy for the Cholic.</head>
+          <p xml:id="chambers_130122">Take of orange-peel what quantity you please, and when it has dried as much as possible, let it be beaten small to a powder; when the fit comes on, take from half a dram to two scruples.</p>
+        </div>
+        <div xml:id="chambers_187" n="27" type="Recipe">
+          <head rend="italic">To make Tincture of Rhubarb for the Cholic.</head>
+          <p xml:id="chambers_130123">Infuse into a quart of brandy two ounces of rhubarb, cut into thin
+slices, and let it stand a week: when the fit comes on, take three
+ounces of it for a dose; but if the patient has an aversion to brandy,
+then take the same quantity of cinnamon water.</p>
+          <ab type="catch">
+            <hi rend="italic">For</hi>
+          </ab>
+        </div>
+        <pb xml:id="chambers_130124" n="175 HER OWN PHYSICIAN"/>
+        <div xml:id="chambers_188" n="28" type="Recipe">
+          <head rend="italic">For such Cholics as are attended with Vomitting.</head>
+          <p xml:id="chambers_130125">Take of compound wormwood and black cherry water, each two ounces; an ounce and a half of lemon juice, one dram of salt of wormwood, one ounce of syrup of poppies, one dram of spirit of mint, and the same quantity of compound lavender; mix all these together, and take three spoonsful when the vomiting ceases, and in most cases it will prevent the return of the fit.</p>
+        </div>
+        <div xml:id="chambers_189" n="29" type="Recipe">
+          <head rend="italic"><seg type="short-title">A Medicine for the Use of those Ladies</seg> who are afflicted with a consumptive Cough by taking too much Physic.</head>
+          <p xml:id="chambers_130126">Take a dozen of fine raisins of the sun, slit them open and take out the kernels, then fill them up with small tender leaves of rue, and let the person afflicted take them as soon as she awakes in the morning and net eat anything till two hours after, or if the can fast till noon it will be the better.</p>
+        </div>
+        <div xml:id="chambers_190" n="30" type="Recipe">
+          <head rend="italic">A nourishing Medicine for consumptive Ladies.</head>
+          <p xml:id="chambers_130127">Take a dozen of cray fish of the smallest sort, gut them clean, and
+let them be boiled in barley water, until they become of a <choice><sic>redish</sic><corr>reddish</corr></choice> colour, then take them out, and beat them with the shells in a mortar till they are as soft as mash; let the juice be poured out, and given to the patient in an equal quantity of chicken broth, or any other broth that is not too strong.</p>
+        </div>
+        <div xml:id="chambers_191" n="31" type="Recipe">
+          <head rend="italic">To make artificial Asses Milk.</head>
+          <p xml:id="chambers_130128">Take two ounces of sarsaparilla, six drams of thin shavings of ivory; two drams of saffafras cut thin, an ounce of antimony beaten to a powder, and tied up in a thin linen rag; put the whole into two quarts of spring water, which must be boiled till it is reduced one half, then strain off the liquor, and put to it two drams of bruised liquorice; take a gill of it three times a day mixed with a spoonful of warm milk.</p>
+          <ab type="catch">
+            <hi rend="italic">A</hi>
+          </ab>
+        </div>
+        <pb xml:id="chambers_130129" n="176 EVERY LADY"/>
+        <div xml:id="chambers_192" n="32" type="Recipe">
+          <head rend="italic">A fine Water useful in Consumptions.</head>
+          <p xml:id="chambers_130130">Take two pounds of snails in the shells, six nutmegs sliced thin, leaves of penny-royal, hysop and ground ivy, four handfuls of each; mix the whole together, and pour upon them a gallon of new milk from the cow, then distil the ingredients over a slow fire, and sweeten it with sugar-candy; when it has stood to cool, strain off the liquor, and let it be bottled up for use. Three gills of it maybe taken at different times in the day.</p>
+        </div>
+        <div xml:id="chambers_193" n="33" type="Recipe">
+          <head rend="italic">For a dry Consumptive Cough.</head>
+          <p xml:id="chambers_130131">Take four ounces of conserve of red roses, two ounces of the spirit
+of turpentine, mix them together as well as possible, and take a dram
+fasting in the morning, and the same quantity at going to
+bed.</p>
+        </div>
+        <div xml:id="chambers_194" n="34" type="Recipe">
+          <head rend="italic">Another Receipt for a Consumption.</head>
+          <p xml:id="chambers_130132">Take three spoonsful of red rose water, and beat in it the yolk of a new laid egg, put it in half a pint of red cows milk, add to it a little grated nutmeg, and sweeten it with sugar of roses. It must be taken every morning for a month, and the patient must be sure to fast two hours after.</p>
+        </div>
+        <div xml:id="chambers_195" n="35" type="Recipe">
+          <head rend="italic">A good Ointment for the Itch.</head>
+          <p xml:id="chambers_130133">Mix an ounce of brimstone, and the same quantity of oil of almonds, with two ounces of hog's lard; put to it half an ounce of white hellebore, race-ginger. and salt-petre, of each a dram and a half; one scruple of the essence of lemons, let them be all mixed properly into a linement, with which the persons skin must be anointed every night until the disorder is removed.</p>
+        </div>
+        <div xml:id="chambers_196" n="36" type="Recipe">
+          <head rend="italic">An Ointment for a dry Itch.</head>
+          <p xml:id="chambers_130134">Take three ounces of turpentine, and wash it in rose water; put to
+it six drams of the oil of roses, the yolks of three eggs, and the
+juice of three oranges; beat the whole together in a morter, then make
+it up into an ointment, and rub the persons body over with it.</p>
+          <ab type="catch">
+            <hi rend="italic">To</hi>
+          </ab>
+        </div>
+        <pb xml:id="chambers_130135" n="177 HER OWN PHYSICIAN"/>
+        <div xml:id="chambers_197" n="37" type="Recipe">
+          <head rend="italic">To cure Pains in the Ears.</head>
+          <p xml:id="chambers_130136">Roast a large head of garlick, then take out the softest part, and mix with it a little mithridate; when the Patient goes to bed let it be tied to tied to the ear as hot as she can bear it, and continue to repeat it till the complaint is removed.</p>
+        </div>
+        <div xml:id="chambers_198" n="38" type="Recipe">
+          <head rend="italic">A Remedy for inflamed Eyes.</head>
+          <p xml:id="chambers_130137">Mix one dram of salt of tartar, with a pint of frogs spawn; let them dissolve together, and anoint the eyes, with the composition several times every day the till inflamation is removed.</p>
+        </div>
+        <div xml:id="chambers_199" n="39" type="Recipe">
+          <head rend="italic">To remove Films from the Eyes.</head>
+          <p xml:id="chambers_130138">Take of powder of pearls, and powder of coral, each an ounce, one dram of crabs eyes, two ounces of virgin honey, and let them be all mixed together as an
+ointment, which must be applied to the eyes morning and evening, and oftner if necessary.</p>
+        </div>
+        <div xml:id="chambers_200" n="40" type="Recipe">
+          <head rend="italic">An excellent Eye-water</head>
+          <p xml:id="chambers_130139">Take three spoonsful of eye-bright water, and the same quantity of rose-water, put to it as much sugar candy sifted, as will lye on a silver threepence, with an equal quantity of sifted aloes, shake them all together in a bottle, and anoint the eyes with the water when you go to bed.</p>
+        </div>
+        <div xml:id="chambers_201" n="41" type="Recipe">
+          <head rend="italic">A Drink necessary to be taken in Fevers</head>
+          <p xml:id="chambers_130140">Take four ounces of stoned raisins, two ounces of tamarinds, boil them in three pints of spring water till it is reduced to a quart, then strain off the liquor and give it to the patient.</p>
+        </div>
+        <div xml:id="chambers_202" n="42" type="Recipe">
+          <head rend="italic">Another Drink useful in Fevers.</head>
+          <p xml:id="chambers_130141">Take four handfuls of the leaves of rue, and let them boil in fair
+water, till the liquor begins to taste strong of the plant; then let
+it be strained off and sweetened with sugar to the patient's
+taste.</p>
+          <ab type="catch">
+            <hi rend="italic">A</hi>
+          </ab>
+        </div>
+        <pb xml:id="chambers_130142" n="178 EVERY LADY"/>
+        <div xml:id="chambers_203" n="43" type="Recipe">
+          <head rend="italic">A cordial Bolus to be taken in Fevers.</head>
+          <p xml:id="chambers_130143">Take half a scruple of Goa stone and the same quantity of crabs
+claws, five grains of powdered saffron; mix the whole together and
+make it up in a bolus for the patient.</p>
+        </div>
+        <div xml:id="chambers_204" n="44" type="Recipe">
+          <head rend="italic">Wafers to be taken in Fevers.</head>
+          <p xml:id="chambers_130144">Take one ounce of tamarinds, the same quantity of the juice of Spanish liquorice, mash the whole together in a morter with two drams of gum tragacinth; then lay the composition on troches, and let them be set to dry in a slow oven. They are to be given one at time to the patient, to be held in the mouth, as they contribute to alleviate drought, by keeping the mouth moist.</p>
+          <p xml:id="chambers_130145"><hi rend="italic">N.B.</hi>The above medicines are useful in fevers in general, and are all less or more useful, but there being so many different sorts of fevers, and attended with such a variety of symptoms, that the person who would prescribe for particular ones, ought to be well acquainted with the constitution of the patient, othertwise he may do more harm than goo. In such cases, therefore, it is the duty of the person afflicted, or their friends to send for a physician, who upon examining into the nature of the disorder, and the patients constitution will know what to apply.</p>
+        </div>
+        <div xml:id="chambers_205" n="45" type="Recipe">
+          <head rend="italic">Remedy for the yellow Jaundice.</head>
+          <p xml:id="chambers_130146">Mix two ounces of fumitory, with the same quantity of the syrap of borage, and a handful of round headed meadow fennel, let them be boiled up together, and the liquor given to the patient to drink.</p>
+        </div>
+        <div xml:id="chambers_206" n="46" type="Recipe">
+          <head rend="italic">An excellent Receipt for the Rheumatism.</head>
+          <p xml:id="chambers_130147">Take purstain, water lillies, and water of lettuce, each four
+ounces; syrup of violets and syrup at lemon one ounce each ; let the
+whale be Mixed togethe and given to the patient to drink.</p>
+          <ab type="catch">
+            <hi rend="italic">Another</hi>
+          </ab>
+        </div>
+        <pb xml:id="chambers_130148" n="179 HER OWN PHYSICIAN"/>
+        <div xml:id="chambers_207" n="47" type="Recipe">
+          <head rend="italic">Another Remedy that seldom fails of Success.</head>
+          <p xml:id="chambers_130149">Take grains of paradise powdered, and long pepper, each half a dram, one dram of Venice makes the whole up into boluses, of which one must be taken when you go to bed; and when you begin to sweat, keep drinking sage posset, taking great care too avoid catching cold.</p>
+        </div>
+        <div xml:id="chambers_208" n="48" type="Recipe">
+          <head rend="italic"><seg type="short-title">Another Remedy, cheap, and useful</seg> in poor Families.</head>
+          <p xml:id="chambers_130150">Make pills of Scio turpentine that has been washed clean, and
+mixed with powdered liquorice; take two or three first in the morning
+and last at night.</p>
+        </div>
+        <div xml:id="chambers_209" n="49" type="Recipe">
+          <head rend="italic">A Remedy for the Scurvy in Winter.</head>
+          <p xml:id="chambers_130151">Take four handfuls of pine or fir tops, and let them be cut small, half an ounce of winters bark, put one quart of water to every twenty ounces, and when it boils, pour into it four ounces of juice of dandelion; when it has boiled half an hour let it be taken off and set to cool, then put to it half an ounce of spirit of scurvy-grass, horse-raddish-water, and syrup of elder berries, of each four ounces, let it stand a day to dissolve, then let the liquor be strained off, and a quarter of a pint taken twice in the day.</p>
+        </div>
+        <div xml:id="chambers_210" n="50" type="Recipe">
+          <head rend="italic"><seg type="short-title">To strengthen the Stomach</seg> by an external Application.</head>
+          <p xml:id="chambers_130152">Take mint, wormwood, and mugwort, an ounce each, beat them together in a glass or stone mortar, then take a little of the mixture, and lay it upon the stomach when you go to bed.</p>
+        </div>
+        <div xml:id="chambers_211" n="51" type="Recipe">
+          <head rend="italic">Medicine for the Gravel.</head>
+          <p xml:id="chambers_130153">Take two spoonsful of the juice of onions, and mix it with half a pint of white wine when it has stood a few hours, let the patient drink of it, and it will give him immediate relief.</p>
+        </div>
+        <div xml:id="chambers_212" n="52" type="Recipe">
+          <head rend="italic">Another Medicine for the same.</head>
+          <p xml:id="chambers_130155">Take a glass of water, and put in it a spoonful of oatmeal, when it has stood an hour strain the liquor,
+<seg type="catch">and</seg><pb xml:id="chambers_130154" n="180 EVERY LADY"/>
+and put to it a spoonful of clarified honey; take it at four different times in the morning fasting, mixed with a little water, and it will give immediate ease.</p>
+        </div>
+        <div xml:id="chambers_213" n="53" type="Recipe">
+          <head rend="italic">For a sore Mouth.</head>
+          <p xml:id="chambers_130156">Take half a pint of clear water, and boil in it a leaf of sage; when it has boiled ten minutes, set it to cool, then put to it four ounces of white wine vinegar, two ounces of honey, and fix drams of roch-allom set it on the fire to boil again, taking care to scum it half an hour, then set it to cool, and wash the mouth with it in the morning.</p>
+        </div>
+        <div xml:id="chambers_214" n="54" type="Recipe">
+          <head rend="italic">Another for the same.</head>
+          <p xml:id="chambers_130157">Mix with one pint of red wine, two drams of powdered myrrh, and drink a little of it in the morning when you get up.</p>
+        </div>
+        <div xml:id="chambers_215" n="55" type="Recipe">
+          <head rend="italic">For a Whitloe.</head>
+          <p xml:id="chambers_130158">Beat a dozen of snails in a stone morter, then lay them on a piece of leather and apply them to the parts affected, keeping the plaister to it about twenty hours, when you take it off you may put another to it of the same, unless the pain be removed.</p>
+        </div>
+        <div xml:id="chambers_216" n="56" type="Recipe">
+          <head rend="italic">Remedy for Worms in Children.</head>
+          <p xml:id="chambers_130159">Take two ounces of distilled water of goats rue, and put in one dram of clean quick-silver; let it stand all night, then drain it through a fine linen cloth, to prevent any dregs getting into it, and give it at one doze to the child.</p>
+        </div>
+        <div xml:id="chambers_217" n="57" type="Recipe">
+          <head rend="italic">A Worm Powder for Children.</head>
+          <p xml:id="chambers_130160">Take mineral of ethiops, and powder of coralline, each fifteen grains, two grains of saffron, and mix the whole into a powder to be taken at one doze.</p>
+        </div>
+        <div xml:id="chambers_218" n="58" type="Recipe">
+          <head rend="italic">For Worms in grown Persons.</head>
+          <p xml:id="chambers_130162">Take two ounce of alexiterial milk-water, twenty drops, of elixir proprietaris, made with sallt of tartar,
+<seg type="catch">epide-</seg><pb xml:id="chambers_130161" n="181 HER OWN PHYSICIAN"/>
+epidemic-water, and compound wormwood, each one dram, let them be mixed into one draught and taken when you waken.</p>
+        </div>
+        <div xml:id="chambers_219" n="59" type="Recipe">
+          <head rend="italic">For an extreme Cough in children.</head>
+          <p xml:id="chambers_130163">Take three spoonsful of hysop-water, and one ounce of fine sugar candy beaten to a powder, keep it on the fire till the is dissolved, but it must not boil, when it has stood to cool put to it an ounce of the oil of sweet almonds, when the whole has stood about two hours shake them together, and give the child two or three spoonsful every day according to the severity of the cough.</p>
+        </div>
+        <div xml:id="chambers_220" n="60" type="Recipe">
+          <head rend="italic">An internal Remedy for the Rickets in Children.</head>
+          <p xml:id="chambers_130164">Take harts-tongue-water four spoonsful, of the syrup of cloves, clove gilly-flower, and hysop-water, each two spoonsful, twenty drops of oil of sulphur, and it child's spoonful of alkermes; mix the whole together in a bottle, and give three spoonsful to the child every morning till it be all used, and if it has not succeeded, you may repeat it again.</p>
+        </div>
+        <div xml:id="chambers_221" n="61" type="Recipe">
+          <head rend="italic">A external Cure for the Rickets.</head>
+          <p xml:id="chambers_130165">Take one pint of the oil of neats feet, a handful of dwarf elder, and as much cammomile flowers, beat the herbs in a morter, with the oil, then let it be set over a slow fire; when it has boiled half an hour let it be taken off, and the oil strained through a cloth; when you use it, anoint the child all over before the fire, except the head, and give to drink hysop boiled in spring water.</p>
+        </div>
+        <div xml:id="chambers_222" n="62" type="Recipe">
+          <head rend="italic">For hoarsness in Children</head>
+          <p xml:id="chambers_130166">Take of crab verjuice, half a pint, two spoonsful of the juice of
+sage put to them half a pound of loaf sugar grated down, when your
+have mixed them together, let them boil till they come to syrup, give
+the child a little before it sucks, and if it is troubled with a
+phlegm give it some morning and evening.</p>
+          <ab type="catch">
+            <hi rend="italic">For</hi>
+          </ab>
+        </div>
+        <pb xml:id="chambers_130167" n="180 EVERY LADY"/>
+        <div xml:id="chambers_223" n="63" type="Recipe">
+          <head rend="italic">For a stoppage in the Ear.</head>
+          <p xml:id="chambers_130168">Take half a pint of barley water, two ounces of hungary-water, an ounce and a half of honey of roses; mix them together, and when you have syringed a little into the ear, dip a piece of cotton in the oil of almonds, and stop it up for a day.</p>
+        </div>
+        <div xml:id="chambers_224" n="64" type="Recipe">
+          <head rend="italic">For a Noise or Ringing in the Ears.</head>
+          <p xml:id="chambers_130169">Drop oil of bitter almonds, mixed with oil of cloves on a little cotton, squeeze it into the ear, and lie some time on the contrary side; do this when you go to bed, and drink wine mixed with rosemary to make you sweat, keep yourself warm, and the ear closed up.</p>
+        </div>
+        <div xml:id="chambers_225" n="62" type="Recipe">
+          <head rend="italic">To take an Insect out of the Ear.</head>
+          <p xml:id="chambers_130170">Take oil of bitter almonds, and tincture of myrrh each two drams,
+oil of savine, and wormwood, each ten drops, when you have mixed all
+these together, pour a few drops in the ear, and it will either draw
+out the insect or kill it.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

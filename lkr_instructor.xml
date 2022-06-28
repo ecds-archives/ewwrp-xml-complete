@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lkr_instructor_13010">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>General R. E. Lee as an Instructor of Youth</title>
+        <author>
+          <name type="person"><choice><reg>Rogers, Loula Kendall, 1838-1931</reg><orig>Mrs. Loula Kendall Rogers</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10k</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="lkr_instructor_1301">2008 Emory University. Permission is granted to
+
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>2008</date><idno type="ark">http://pid.emory.edu/ark:/25593/17d6k</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Rogers, Loula Kendall, "General R. E. Lee as an Instructor of Youth" Loula
+
+	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
+
+	   Library, Emory University</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="lkr_instructor_1302">This digital text is produced from the Loula Kendall
+
+	   Rogers Papers, generously loaned to the Beck Center by    	
+
+The Manuscript, Archives, and Rare Book Library at Emory University.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="language">American</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Poetry</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Civil War, U.S., 1861-1865--Poetry</item>
+            <item>Women authors, American--19th Century</item>
+            <item>Women authors, American--20th Century</item>
+            <item>Lee, Robert E. (Robert Edward), 1807-1870.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2008</date><label>Woodruff Graduate Fellow</label><name>Stewart Varner</name>XML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="lkr_instructor_1309">
+    <body xml:id="lkr_instructor_1305">
+      <pb facs="lkr_instructor001" xml:id="lkr_instructor_1303" n="[1]"/>
+      <div xml:id="lkr_instructor_1304" type="poem">
+        <head>General R.E. Lee<lb/>
+
+      As An Instructor Of Youth</head>
+        <q>
+          <lg>
+            <l rend="indent">The golden chords attuned by thee</l>
+            <l>Not as each alone, but through the limitless</l>
+            <l>Expanse of all Eternity shall throb.</l>
+            <byline>Southwick</byline>
+          </lg>
+        </q>
+        <lg type="stanza">
+          <l>A Prince among men!  A Hero great</l>
+          <l>Who peerless stand on mountain height,</l>
+          <l>Far, far above the <unclear>---</unclear>,</l>
+          <l>A soul illumed in Heaven's own light!</l>
+          <l>With manhood's noblest gifts bestowed,</l>
+          <l>He might have held illustrious reign</l>
+          <l>In pomp and power, and homage due</l>
+          <l>A world wide statesman free of stain.</l>
+        </lg>
+        <lg type="stanza">
+          <l>And yet he chose what Kings may deem</l>
+          <l>A lowly sphere.   From lofty height</l>
+          <l>He saw ahead the future gleam</l>
+          <l>That onward led to Wisdom's light,</l>
+          <l>Thus patiently his work was wrought</l>
+          <l>On <hi rend="underline">Mind</hi> immortal, ever free,</l>
+          <l>And thus America's citizenship</l>
+          <l>Grow 'neath the Godlike soul of Lee!</l>
+        </lg>
+        <byline>Mrs. Loula Kendall Rogers</byline>
+        <dateline>Tennille, Georgia</dateline>
+      </div>
+    </body>
+    <back xml:id="lkr_instructor_1308">
+      <pb facs="lkr_instructor002" xml:id="lkr_instructor_1306" n="[2]"/>
+      <div xml:id="lkr_instructor_2" type="authors_note">
+        <p xml:id="lkr_instructor_1307">About General Lee<lb/>
+
+      For the UDC Program</p>
+      </div>
+    </back>
+  </text>
+</TEI>

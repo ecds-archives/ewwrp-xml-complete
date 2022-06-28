@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="child_charity_13057">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Charity Bowery, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Child, Lydia Maria Francis, 1802-1880</reg><orig>Lydia Maria Child</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>25kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="child_charity_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to
+the work claimed by Emory University for non-profit educational purposes, provided 
+this header is included in its entirety.  For inquiries about commercial uses, contact
+either: Women Writers Resource Project or Lewis H. Beck Center for Electronic
+collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17bbx</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emoy Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Child, Lydia Maria.  Charity Bowery.  <publisher>The Liberty Bell</publisher>, 25 Cornhill, <date>1839</date> (vol. 1).  American Periodical Series 1800-1850 microfilm.  APS 1207 Liberty Bell Volumes 1-13 (1839-52) reel 491. </bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="child_charity_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Abolition, Freedom, and Rights</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Article</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Bowery, Charity.</item>
+            <item>Women slaves--United States--Biography.</item>
+            <item>Women authors, American--19th Century.</item>
+            <item>Motherhood.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1997</date><label>Staff</label><name>Scott Ellis</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck
+	    Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="child_charity_13056">
+    <body xml:id="child_charity_13055">
+      <div xml:id="child_charity_001" type="Article">
+        <head>CHARITY  BOWERY.</head>
+        <byline>By LYDIA MARIA CHILD.</byline>
+        <p xml:id="child_charity_1303">THE following story was told me by an aged colored woman in New Nork. I shall endeavor to relate it precisely in her own words, so often repeated that they are tolerably well impressed on my memory. Some confusion of names, dates, and incidents, I may very naturally make. I profess only to give "the pith and marrow" of Charity's story, deprived of the highly dramatic effect it received from her swelling emotions, earnest looks, and changing tones.</p>
+        <p xml:id="child_charity_1306">"I am about sixty-five years old. I was born on an estate called Pembroke, about three miles from Edenton, North Carolina. My master was very kind to his slaves. If an overseer whipped them, he turned him away. He used to whip
+<pb xml:id="child_charity_1304" n="27"/>
+them himself sometimes, with hickory switches as large as my little finger. My mother suckled all his children. She was reckoned a very good servant; and our mistress made it a point to give one of my mother's children to each of hers. I fell to the lot of Elizabeth, her second daughter. It was my business to wait upon her. Oh, my old mistress was a kind woman. She was all the same as a mother to poor Charity. If Charity wanted to learn to spin, she let her learn; if Charity wanted to learn to knit, she let her learn; if Charity wanted to learn to weave, she let her learn. I had a wedding when I was married; for mistress didn't like to have her people take up with one another, without any minister to marry them. When my dear good mistress died, she charged her children never to separate me and my husband; ' For,' said she, 'if ever there was a match made in heaven, it was Charity and her husband.' My husband was a nice good man; and
+<pb xml:id="child_charity_1305" n="28"/>
+mistress knew we set stores by one another. Her children promised her they never would separate me from my husband and children. Indeed, they used to tell me they would never sell me at all; and I am sure they meant what they said. But my young master got into trouble. He used to come home and sit leaning his head on his hand by the hour together, without speaking to any body. I see something was the matter; and I begged of him to tell me what made him look so worried. He told me he owed seventeen hundred dollars that he could not pay; and he was afraid he should have to go to prison. I begged him to sell me and my children rather than go to jail. I see the tears come to his eyes. 'I don't know, Charity,' said be; 'I'll see what can be done. One thing you may feel easy about; I will never separate you from your husband and children, let what will come.'</p>
+        <p xml:id="child_charity_1308">"Two or three days after, be come to me, 
+<pb xml:id="child_charity_1307" n="29"/>
+and says he, 'Charity, how should you like to be sold to Mr. McKinley?' I told him I would rather be sold to him than to anybody else, because my husband belonged to him.	My husband was a nice good man, and we set stores by
+one another.  Mr. McKinlev agreed to buy us; and so I and my children went there to live.  He was a kind master; but as for mistress McKinley--she was a devil! Mr. McKinley died a few years after he bought us; and in his Will he give me and my husband free; but I never knowed anything about it for years
+afterward.	I don't know how they managed it. My poor husband died, and never knowed that he was free. But it's all the same now.	He's
+among the ransomed.  He used to say,' Thank God, it's only a little way home; I shall soon be with Jesus.' Oh, he had a fine old Christian heart."</p>
+        <p xml:id="child_charity_13010">Here the old woman sighed deeply, and remained silent for a moment, while her right
+<pb xml:id="child_charity_1309" n="30"/>
+hand slowly rose and fell upon her lap, as if her thoughts were mournfully busy. At last, she resumed:</p>
+        <p xml:id="child_charity_13011">"Sixteen children I've had, first and last; and twelve I've nursed for my mistress. From the time my first baby was born, I always set my heart upon buying freedom for some of my children. I thought it was of more consequence to them than to me; for I was old, and used to being a slave. But mistress McKinley wouldn't let me have my children. One after another--one after another--she sold 'em away from me. Oh, how many times that woman 's broke my heart!"</p>
+        <p xml:id="child_charity_13013">Here her voice choked, and the tears began to flow. She wiped them quickly with the corner of her apron, and continued: " I tried every way I could to lay up a copper to buy my children; but I found it pretty hard; for mistress kept me at work all the time. It was 'Charity! Charity! Charity!' from morn
+<pb xml:id="child_charity_13012" n="31"/>
+ing till night. 'Charity, do this,' and 'Charity, do that.'</p>
+        <p xml:id="child_charity_13015">"I used to do the washings of the family and large washings they were. The public road run right by my little hut, and I thought to myself, while I stood there at the wash-tub, I might just as well as not be earning something to buy my children. So I set up a little oyster board; and when anybody come along that wanted a few oysters and a cracker, I left my wash-tub and waited upon him. When I got a little money laid up, I went to my mistress and tried to buy one of my children. She knew how long my heart had been set upon it, and how hard I had worked for it.  But she wouldn't let me have one! --She wouldn't let me have one! So, I went to work again; and I set up late o' nights, in hopes I could earn enough to tempt her. When I had two hundred dollars, I went to her again; but she thought she could find a better market, and she wouldn't
+<pb xml:id="child_charity_13014" n="32"/>
+let me have one. At last, what do you think that woman did? She sold
+me and five of my children to the speculators! Oh, how I did feel when
+I heard my children was sold to the speculators!"<ref target="#child_charityn1">*</ref><note xml:id="child_charityn1">*Men who make a trade of buying up coffles[?] of slaves for sale, as speculators buy up droves of cattle for the Brighton market.</note></p>
+        <p xml:id="child_charity_13016">After a short pause, her face brightened up, and her voice suddenly changed to a gay and sprightly tone.</p>
+        <p xml:id="child_charity_13018">"Surely, ma'am, there's always some good comes of being kind to folks. While I kept my oyster-board, there was a thin, peaked-looking man used to come and buy of me. Sometimes he would say, 'Aunt Charity, (he always called me Aunt Charity,) you must fix me up n nice little mess, for I feel poorly to-day. I always made something good for him; and if he didn't happen to have any change, I always
+
+<pb xml:id="child_charity_13017" n="33"/>
+trusted him. He liked my messes mighty well. Now, who do you think that should turn out to be, but the very speculator that bought me!  He come to me, and says he, 'Aunt Charity, (be always called me Aunt Charity,) you've been very good to me, and fixed me up many a nice little mess when I've been poorly; and now you shall have your freedom for it; and I'll give you your youngest child.'"</p>
+        <p xml:id="child_charity_13019">"That was very kind, ' said I; " but I wish be had given you all of them."</p>
+        <p xml:id="child_charity_13020">With a look of great simplicity, and in tones of expostulation, the slave-mother replied, "Oh, he couldn't afford that, you know."</p>
+        <p xml:id="child_charity_13022">"Well," continued she, "After that, I concluded I 'd come to the Free states. But mistress McKinley had one child of mine; a boy about twelve years old. I had always set my heart upon buying Richard. He was the image of his father; and my husband was a nice good man; and we set stores by one another. Be-
+<pb xml:id="child_charity_13021" n="34"/>
+sides, I was always uneasy in my mind about Richard. He was a spirity lad; and I knew it was hard for him to be a slave. Many a time I have said to him, 'Richard, let what will happen, never lift your hand against your master.'</p>
+        <p xml:id="child_charity_13024">"But I knew it would always be bard work for him to bring his mind to be a slave. I carried all my money to my mistress, and told her I had more due to me; and if all of it wasn't enough to buy my poor boy, I'd work hard and send her all my earnings, till she said I had paid enough. She knew she could trust me. She knew Charity always kept her word. But she was a hard-hearted woman. She wouldn't let me have my boy. With heavy heart, I went to work to earn more, in hopes I might one day be able to buy him. To be sure, I didn't get much more time than I did when I was a slave; for mistress was always calling upon me; and I didn't like to disoblige her. I wanted to keep the right side of her, in hopes
+<pb xml:id="child_charity_13023" n="35"/>
+she'd let me have my boy.  One day, she sent me of an errand. I had to wait some time.  When I come back, mistress was counting a heap of bills in her lap. She was a rich woman, -- she rolled in gold.  My little girl stood behind her chair; and as mistress counted the money, --ten dollars, --twenty dollars, --fifty dollars, --I see that she kept crying. I thought may be mistress had struck her. But when I see the tears keep rolling down her cheeks all the time, I went up to her, and whispered, 'What's the matter?' Sho pointed to mistress's lap, and said 'Broder's money!  Broder's money!' Oh, then I understood it all, I said to mistress McKinley, 'Have you sold my boy?'  Without looking up from counter her money, she drawled out, 'Yea, Charity; and I got a great price for him!'" [Here the colored woman imitated to perfection the languid, indolent tones common to Southern ladies.]</p>
+        <p xml:id="child_charity_13026">"Oh, my heart was too full!  She had sent
+<pb xml:id="child_charity_13025" n="36"/>
+me away of an errand, because she didn't want to be troubled with our cries. I hadn't any chance to see my poor boy. I shall never see him again in this world. My heart felt as if it were under a great load of lead. I couldn't speak a word to reproach her. I never reproached her, from that day to this. As I went out of the room, I lifted up my hands, and all I could say was, 'Mistress, how could you do it?'"</p>
+        <p xml:id="child_charity_13027">The poor creature's voice had grown more and more tremulous as she proceeded, and was at length stifled with sobs.</p>
+        <p xml:id="child_charity_13029">In a few moments, she resumed her story: "When my boy was gone, I thought I might sure enough as well go to the Free States. But mistress McKinley had a little grandchild of mine. His mother died when he was born. I thought it would be some comfort to me, if I could buy little orphan Sammy. So I carried all the money I had to my mistress again, and
+<pb xml:id="child_charity_13028" n="37"/>
+asked her if she would let me buy my grandson. But she wouldn't let me have him. Then I had nothing more to wait for; so I come on to the Free States. Here I have taken in washing; and my daughter is smart at her needle; and we get a very comfortable living."</p>
+        <p xml:id="child_charity_13030">"Do you ever hear from any of your children?" said I.</p>
+        <p xml:id="child_charity_13031">"Yes, ma'am, I hear from one of them. Mistress McKinley sold one to a lady that comes to the North every summer; and she brings my daughter with her."</p>
+        <p xml:id="child_charity_13032">"Don't she know that it is a good chance to take her freedom, when she comes to the North?" said I.</p>
+        <p xml:id="child_charity_13034">"To be sure she knows that," replied Charity, with significant emphasis.  "But my daughter is pious. She's member of a church. Her mistress knows she wouldn't tell a lie for her right hand. She makes her promise on the Bible, that she won't try to run away, and that
+<pb xml:id="child_charity_13033" n="38"/>
+she will go back to the South with her; and so, ma'am, for her honor and her Christianity's sake, she goes back into slavery."</p>
+        <p xml:id="child_charity_13035">"Is her mistress kind to her?"</p>
+        <p xml:id="child_charity_13036">"Yes, ma'am; but then everybody likes to be free. Her mistress is very kind. She says I may buy her for four hundred dollars; and that's a low price for her,--two hundred paid down, and the rest as we can earn it. Kitty and I are trying to lay up enough to buy her."</p>
+        <p xml:id="child_charity_13037">"What has become of your mistress McKinley? Do you ever hear from her?"</p>
+        <p xml:id="child_charity_13039">"Yes, ma'am, I often hear from her; and summer before last, as I was walking up Broadway, with a basket of clean clothes, who should I meet but my old mistress McKinley! She gave a sort of a start, and said in her drawling way, 'O, Charity, is it you?'  Her voice sounded deep and hollow, as if it come from under the ground; for she was far gone in consumption. If I wasn't mistaken, there was a little
+<pb xml:id="child_charity_13038" n="39"/>
+something about here, (laying her hand on her heart,) that made her feel strangely when she met poor Charity.  Says I, 'How do you do, mistress McKinley? How does little Sammy do?' (That was my little grandson, you know, that she wouldn't let me buy.)</p>
+        <p xml:id="child_charity_13040">"'I'm poorly, Charity,' says she; 'very poorly.  Sammy's a smart boy. He's grown tall, and tends table nicely. Every night I teach him his prayers.'"</p>
+        <p xml:id="child_charity_13041">The indignant grandmother drawled out the last word in a tone, which Garrick himself could not have surpassed. Then suddenly changing both voice and manner, she added, in tones of earnest dignity, "Och! I couldn't stand that! Good morning, ma'am!" said I.</p>
+        <p xml:id="child_charity_13042">I smiled, as I inquired whether she had heard from Mrs. McKinley since.</p>
+        <p xml:id="child_charity_13044">"Yes, ma'am.  The lady that brings my daughter to the North every summer, told me last Fall she didn't think she could live long.
+<pb xml:id="child_charity_13043" n="40"/></p>
+        <p xml:id="child_charity_13045">When she went home' she asked me if I had any message to send to my old mistress McKinley. I told her I had a message to send. Tell her, says I, to prepare to meet poor Charity at the judgment seat."</p>
+        <p xml:id="child_charity_13047">About a year after this conversation, I again visited New York, and called to see Charity Bowery. I asked her if she had heard any further tidings of her scattered children. The tears came to her eyes. "You know I told you," said she, "that I found out my poor Richard was sold to a Mr. Mitchell, of Alabama. A white gentleman, who has been very kind to me, went to them parts lately, and brought me back news of Richard. His master ordered him to be flogged, and he wouldn't come up to be tied. 'If you don't come up, you black rascal, I'll shoot you,' said his master. 'Shoot away,' said Richard; 'I won't come to be flogged.' His master pointed a pistol at him,-- and,-- in two hours my poor boy was dead!
+<pb xml:id="child_charity_13046" n="41"/>
+Richard was a spirity lad. I always knew it was hard for him to be a slave. Well, he's free now. God be praised, he's free now; and I shall soon be with him."</p>
+        <milestone rend="stars" unit="section"/>
+        <p xml:id="child_charity_13048">In the course of my conversations with this interesting woman, she told me much about the patrols, who, armed with arbitrary power, and frequently intoxicated, break into the houses of the colored people, and subject them to all manner of outrages. But nothing seemed to have excited her imagination so much as the insurrection of Nat Turner. The panic that prevailed throughout the Slave States on that occasion of course reached her ear in repeated echoes, and the reasons are obvious why it should have awakened intense interest. It was in fact a sort of Hegira to her mind; from which she was prone to date all important events in the history of her limited world.</p>
+        <p xml:id="child_charity_13050">"On Sundays," said she, "I have seen the
+<pb xml:id="child_charity_13049" n="42"/>
+negroes up in the country going away under large oaks, and in secret places, sitting in the woods with spelling books. The brightest and best men were killed in Nat's time. Such ones are always suspected. All the colored folks were afraid to pray in the time of the old Prophet Nat. There was no law about it; but the whites reported it round among themselves that, if a note was heard, we should have some dreadful punishment; and after that, the low whites would fall upon any slaves they heard praying, or singing a hymn, and often killed them before their masters or mistress could get to them."</p>
+        <p xml:id="child_charity_13051">I asked Charity to give me a specimen of their hymns. In a voice cracked with age, but still retaining considerable sweetness, she sang:</p>
+        <lg type="stanza">
+          <l>A few more beatings of the wind and rain,</l>
+          <l>Ere the winter will be over-</l>
+          <l rend="right">Glory, Hallelujah!</l>
+          <pb xml:id="child_charity_13052" n="48"/>
+          <l>Some friends has gone before me,--</l>
+          <l>I must try to go and meet them--</l>
+          <l rend="right">Glory, Hallelujah!</l>
+          <l>A few more risings and settings of the sun</l>
+          <l>Ere the winter will be over-</l>
+          <l rend="right">Glory, Hallelujah!</l>
+          <l>There's a better day a coming--</l>
+          <l>There's a better day a coming-</l>
+          <l rend="right">Oh, Glory, Hallelujah!"</l>
+        </lg>
+        <p xml:id="child_charity_13053">With a very arch expression, she looked up, as she concluded, and said, " They wouldn't let us sing that. They wouldn't let us sing that. They thought we was going to rise, because we sung 'better days are coming.'"</p>
+        <p xml:id="child_charity_13054">It is now more than a year since poor Charity went where "the wicked cease from troubling, and the weary are at rest."</p>
+      </div>
+    </body>
+  </text>
+</TEI>

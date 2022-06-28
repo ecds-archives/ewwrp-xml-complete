@@ -1,0 +1,623 @@
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xml:id="fbclose_0000">
+  <teiHeader xml:id="fbclose0001"><fileDesc>
+      <titleStmt>
+        <title>In the Closed Room, an electronic edition</title>
+        <author><name><choice><sic><name type="person">Frances Hodgson Burnett</name></sic><reg>Burnett, Frances Hodgson, 1849-1924</reg></choice></name></author>
+      </titleStmt>
+      <extent>75kb</extent>
+      <publicationStmt><publisher>Emory University, Lewis H. Beck Center</publisher><pubPlace>Atlanta, Georgia</pubPlace><date>2006</date><availability>
+          <p xml:id="fbclose_1301">© 2006, Lewis H. Beck Center, Emory University.  Emory University makes a claim of copyright only to original contributions made by the Women's Genre Fiction Project participants.  Emory University makes no claim of copyright to the original text.  Permission is granted to download, transmit, or otherwise reproduce, distribute, or display the contributions to this work claimed by Emory University for non-profit educational purposes, provided that this header is included in its entirety.  For further inquiries about this text's availability, please contact:
+<address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruff Library</addrLine><addrLine>Atlanta, GA  30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email:  beckctr@emory.edu</addrLine></address></p>
+        </availability><idno type="ark">http://pid.emory.edu/ark:/25593/171qh</idno></publicationStmt>
+      <seriesStmt>
+        <title>Women's Genre Fiction, 1860-1920</title>
+        <respStmt>
+          <name>Sheila T. Cavanagh</name>
+          <name>Charles D. Spornick</name>
+          <resp>Principal Investigators</resp>
+        <name/></respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl><author><name><choice><sic/><reg/></choice></name></author>. <title>In the Closed
+Room</title>. <pubPlace>New York</pubPlace>: <publisher>McClure, Phillips &amp; Co.</publisher>, <date>1904</date>.</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="fbclose_1302">This text was created by the Lewis H. Beck Center as a part of the
+Women's Genre Fiction Project.  Project participants intend for this
+encoded text, as well as all texts produced by this project, to be
+made available on the web for educational, scholarly and pedagogical
+purposes. This project is funded by a grant from the National
+Endowment for the Humanities.</p>
+      </projectDesc>
+      <samplingDecl>
+        <p xml:id="fbclose_1303">The title page, selected front matter, and body text of novels and
+stories have been transcribed and encoded. Paratextual elements such
+as covers, illustrations, front matter, and advertisements are
+provided as digital images only, with some exceptions.</p>
+      </samplingDecl>
+      <editorialDecl>
+        <p xml:id="fbclose_1304">Processing this electronic text file began by creating TIFF images
+of each page using either a flatbed scanner or a PowerPhase FX digital
+camera. Text pages were captured in grayscale at 400dpi while
+illustrations and covers were captured in color at 300dpi. These
+digital images were converted to an electronic text file by Optical
+Character Recognition (OCR) software. The text files produced by the
+OCR software have been proofread against the original novel or TIFF
+images of the original novel. This proofread text file has then been
+encoded using the recommendations for Level 3 of the TEI in Libraries
+Guidelines. For the details of Level 3 encoding, please see the
+webpage for TEI Guidelines for Best Encoding practices at
+http://www.indiana.edu/~letrs/tei/. Encoders silently replaced em
+dashes with two dashes.  Page numbers displayed in brackets have been
+added by the encoder and do not appear in the original text.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Genre Fiction</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Novel</rs>
+        <rs type="geography">United States</rs>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>American literature--20th Century--Fiction.</item>
+            <item>Women authors, American--20th Century.</item>
+            <item>Young adult fiction.</item>
+            <item>Mystery.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><date>2006-February-08</date><label>project manager.</label><name>Erika Farr, </name>XML tags inserted in compliance with TEI guidelines.</change></revisionDesc></teiHeader>
+  <text xml:id="fbclose_0002">
+    <front xml:id="fbclose_0003">
+      <div xml:id="fbclose_000" type="covers">
+        <figure><graphic url="ENTITY_fbclosefc" rend="inline"/>
+          <figDesc>Front cover of Burnett's In the Closed Room.</figDesc>
+        </figure>
+      </div>
+      <pb pages="Half-Title Page" facs="fbclosehtp"/>
+      <titlePage xml:id="fbclose_1306" type="half">
+        <docTitle>
+          <titlePart type="main">IN THE CLOSED ROOM</titlePart>
+        </docTitle>
+      </titlePage>
+      <pb xml:id="fbclose_1307"/>
+      <div xml:id="fbclose_3001" type="frontispiece">
+        <figure><graphic url="ENTITY_fbclosefp" rend="inline"/>
+          <figDesc>Frontispiece included in Burnett's In the Closed
+Room.</figDesc>
+        </figure>
+      </div>
+      <pb n="[i]" pages="Title Page" facs="fbclosetp"/>
+      <titlePage xml:id="fbclose_1309" type="full">
+        <docTitle>
+          <titlePart type="main">IN <lb/>THE CLOSED <lb/>ROOM</titlePart>
+        </docTitle>
+        <byline>BY <lb/><docAuthor>FRANCES HODGSON BURNETT</docAuthor>
+AUTHOR OF LITTLE LORD FAUNTLEROY <lb/> AND THE LITTLE PRINCESS</byline>
+        <titlePart type="desc">ILLUSTRATIONS BY <lb/><name type="person">JESSIE
+WILLCOX SMITH</name></titlePart>
+        <docImprint>
+          <pubPlace>NEW YORK</pubPlace>
+          <publisher>McCLURE, PHILLIPS &amp; CO.</publisher>
+          <docDate>MCMIV</docDate>
+        </docImprint>
+      </titlePage>
+      <pb xml:id="fbclose_13010" n="[ii]"/>
+      <pb xml:id="fbclose_13011"/>
+      <div xml:id="fbclose_3002" type="copyright">
+        <figure><graphic url="ENTITY_fbclosecr" rend="inline"/>
+          <figDesc>Copyright information for Burnett's In the Closed
+Room.</figDesc>
+        </figure>
+      </div>
+      <pb xml:id="fbclose_13012" n="iii"/>
+      <div xml:id="fbclose_3003" type="list of illustrations">
+        <figure><graphic url="ENTITY_fbcloselist" rend="inline"/>
+          <figDesc>List of illustrations for Burnett's In the Closed Room.</figDesc>
+        </figure>
+      </div>
+    </front>
+    <body xml:id="fbclose_0010">
+      <pb n="3" pages="3" facs="fbclose003"/>
+      <div xml:id="fbclose_3011" n="1" type="part">
+        <head>PART ONE</head>
+        <p xml:id="fbclose_13017">IN the fierce airless heat of the small square room the child Judith panted as she lay on her bed. Her father and mother slept near her, drowned in the heavy slumber of workers after their day's labour. Some people in the next flat were quarrelling, irritated probably by the appalling heat and their miserable helplessness against it. All the hot emanations of the sun-baked
+<pb n="4 IN THE CLOSED ROOM" pages="4" facs="fbclose004"/>
+city streets seemed to combine with their clamour and unrest, and rise to the flat in which the child lay gazing at the darkness. It was situated but a few feet from the track of the Elevated Railroad and existence seemed to pulsate to the rush and roar of the demon which swept past the windows every few minutes. No one knew that Judith held the thing in horror, but it was a truth that she did. She was only seven years old, and at that age it is not easy to explain one's self so that older people can understand.
+<pb n="5 IN THE CLOSED ROOM" pages="5" facs="fbclose005"/>
+She could only have said "I hate it. It comes so fast. It is always coming. It makes a sound as if thunder was quite close. I can never get away from it." The children in the other flats rather liked it. They hung out of the window perilously to watch it thunder past and to see the people who crowded it pressed close together in the seats, standing in the aisles, hanging on to the straps. Sometimes in the evening there were people in it who were going to the theatre, and the women and girls were dressed in light col-
+<pb n="6 IN THE CLOSED ROOM" pages="6" facs="fbclose006"/>
+ours and wore hats covered with white feathers and flowers. At such times the children were delighted, and Judith used to hear the three in the next flat calling out to each other, "That's <hi rend="italic">my</hi> lady! That's <hi rend="italic">my</hi> lady! That one's mine!" </p>
+        <p xml:id="fbclose_13021">Judith was not like the children in the other flats. She was a frail, curious creature, with silent ways and a soft voice and eyes. She liked to play by herself in a corner of the room and to talk to herself as she played. No one knew what she talked about, and in fact no one
+<pb n="7 IN THE CLOSED ROOM" pages="7" facs="fbclose007"/>
+inquired. Her mother was always too busy. When she was not making men's coats by the score at the whizzing sewing machine, she was hurriedly preparing a meal which was always in danger of being late. There was the breakfast, which might not be ready in time for her husband to reach his "shop" when the whistle blew; there was the supper, which might not be in time to be in waiting for him when he returned in the evening. The midday meal was a trifling matter, needing no special preparation. One ate
+<pb n="8 IN THE CLOSED ROOM" pages="8" facs="fbclose008"/>
+anything one could find left from supper or breakfast. Judith's relation to her father and mother was not a very intimate one. They were too hard worked to have time for domestic intimacies, and a feature of their acquaintance was that though neither of them was sufficiently articulate to have found expression for the fact--the young man and woman felt the child vaguely remote. Their affection for her was tinged with something indefinitely like reverence. She had been a lovely baby
+<pb n="9 IN THE CLOSED ROOM" pages="9" facs="fbclose009"/>
+with a peculiar magnolia whiteness of skin and very large, sweetly smiling eyes of dark blue, fringed with quite black lashes. She had exquisite pointed fingers and slender feet, and though Mr. and Mrs. Foster were--perhaps fortunately--unaware of it, she had been not at all the baby one would have expected to come to life in a corner of the hive of a workman's flat a few feet from the Elevated Railroad.</p>
+        <p xml:id="fbclose_13024">"Seems sometimes as if somehow she couldn't be mine," Mrs. Foster said at times. " She ain't like
+<pb n="10 IN THE CLOSED ROOM" pages="10" facs="fbclose010"/>
+me, an' she ain't like Jem Foster, Lord knows. She ain't like none of either of our families I've ever heard of--'ceptin' it might be her Aunt Hester-but <hi rend="italic">she</hi> died long before I was born. I've only heard mother tell about her. She was a awful pretty girl. Mother said she had that kind of lily-white complexion and long slender fingers that was so supple she could curl 'em back like they was double-jointed. Her eyes was big and had eyelashes that stood out round 'em, but they was brown. Mother said
+<pb n="11 IN THE CLOSED ROOM" pages="11" facs="fbclose011"/>
+she wasn't like any other kind of girl, and she thinks Judith may turn out like her. She wasn't but fifteen when she died. She never was ill in her life-but one morning she didn't come down to breakfast, and when they went up to call her, there she was sittin' at her window restin' her chin on her hand, with her face turned up smilin' as if she was talkin' to some one. The doctor said it had happened hours before, when she had come to the window to look at the stars. Easy way to go, wasn't it?"</p>
+        <pb n="12 IN THE CLOSED ROOM" pages="12" facs="fbclose012"/>
+        <p xml:id="fbclose_13026">Judith had heard of her Aunt Hester, but she only knew that she herself had hands like her and that her life had ended when she was quite young. Mrs. Foster was too much occupied by the strenuousness of life to dwell upon the passing of souls. To her the girl Hester seemed too remote to appear quite real. The legends of her beauty and unlikeness to other girls seemed rather like a sort of romance.</p>
+        <p xml:id="fbclose_13031">As she was not aware that Judith hated the Elevated Railroad, so she
+<pb n="13 IN THE CLOSED ROOM" pages="13" facs="fbclose013"/>
+was not aware that she was fond of the far away Aunt Hester with the long-pointed fingers which could curl backwards. She did not know that when she was playing in her corner of the room, where it was her way to sit on her little chair with her face turned towards the wall, she often sat curving her small long fingers backward and talking to herself about Aunt Hester. But this--as well as many other things--was true. It was not secretiveness which caused the child to refrain from speaking of
+<pb n="14 IN THE CLOSED ROOM" pages="14" facs="fbclose014"/>
+certain things. She herself could not have explained the reasons for
+her silence; also it had never occurred to her that explanation and
+reasons were necessary. Her mental attitude was that of a child who,
+knowing a certain language, does not speak it to those who have never
+heard and are wholly ignorant of it. She knew her Aunt Hester as her
+mother did not. She had seen her often in her dreams and had a secret
+fancy that she could dream of her when she wished to do so. She was
+very fond
+<figure><graphic url="ENTITY_fbcloseill14" rend="inline"/><p xml:id="fbclose_13029">SHE OFTEN SAT CURVING HER SMALL LONG FINGERS BACKWARD</p><figDesc>Color illustration included in Burnett's In the Closed
+Room.</figDesc></figure><pb n="15 IN THE CLOSED ROOM" pages="15" facs="fbclose015"/>
+of dreaming of her. The places where she came upon Aunt Hester were strange and lovely places where the air one breathed smelled like flowers and everything was lovely in a new way, and when one moved one felt so light that movement was delightful, and when one wakened one had not quite got over the lightness and for a few moments felt as if one would float out of bed.</p>
+        <p xml:id="fbclose_13034">The healthy, vigourous young couple who were the child's parents were in a healthy, earthly way
+<pb n="16 IN THE CLOSED ROOM" pages="16" facs="fbclose016"/>
+very fond of each other. They had made a genuine love match and had found it satisfactory. The young mechanic Jem Foster had met the young shop-girl Jane Hardy, at Coney Island one summer night and had become at once enamoured of her shop-girl good looks and high spirits. They had married as soon as Jem had had the "raise" he was anticipating and had from that time lived with much harmony in the flat building by which the Elevated train rushed and roared every few  minutes
+<pb n="17 IN THE CLOSED ROOM" pages="17" facs="fbclose017"/>
+through the day and a greater part of the night. They themselves did not object to the "Elavated"; Jem was habituated to uproar in the machine shop, in which he spent his days, and Jane was too much absorbed in the making of men's coats by the dozens to observe anything else. The pair had healthy appetites and slept well after their day's work, hearty supper, long cheerful talk, and loud laughter over simple common joking.</p>
+        <p xml:id="fbclose_13036">"She's a queer little fish, Judy, "Jane said to her husband as they
+<pb n="18 IN THE CLOSED ROOM" pages="18" facs="fbclose018"/>
+sat by the open window one night, Jem's arm curved comfortably around the young woman's waist as he smoked his pipe. "What do you think she says to me to-night after I put her to bed?"</p>
+        <p xml:id="fbclose_13037">"Search <hi rend="italic">me</hi>!" said Jem oracularly.</p>
+        <p xml:id="fbclose_13038">Jane laughed.</p>
+        <p xml:id="fbclose_13039">"'Why,' she says, 'I wish the Elavated train would stop.'</p>
+        <p xml:id="fbclose_13040">"'Why?' says I.</p>
+        <p xml:id="fbclose_13041">"'I want to go to sleep,' says she. 'I'm going to dream of Aunt Hester."'</p>
+        <pb n="19 IN THE CLOSED ROOM" pages="19" facs="fbclose019"/>
+        <p xml:id="fbclose_13043">"What does she know about her Aunt Hester," said Jem. "Who's been talkin' to her?"</p>
+        <p xml:id="fbclose_13044">"Not me," Jane said. "She don't know nothing but what she's picked up by chance. I don't believe in talkin' to young ones about dead folks. 'Tain't healthy."</p>
+        <p xml:id="fbclose_13045">"That's right," said Jem. " Children that's got to hustle about among live folks for a livin' best keep their minds out of cemeteries. But, Hully Gee, what a queer thing for a young one to say."</p>
+        <p xml:id="fbclose_13047">"And that ain't all," Jane went
+<pb n="20 IN THE CLOSED ROOM" pages="20" facs="fbclose020"/>
+on, her giggle half amused, half nervous. "'But I don't fall asleep when I see Aunt Hester,' says she. 'I fall awake. It's more awake there than here.'</p>
+        <p xml:id="fbclose_13048">"'Where?' says I, laughing a bit, though it did make me feel queer.</p>
+        <p xml:id="fbclose_13049">"'I don't know,' she says in that soft little quiet way of hers. 'There.' And not another thing could I get out of her."</p>
+        <p xml:id="fbclose_13053">On the hot night through whose first hours Judith lay panting in her corner of the room, tormented and
+<pb n="21 IN THE CLOSED ROOM" pages="21" facs="fbclose021"/>
+kept awake by the constant roar and rush and flash of lights, she was trying to go to sleep in the hope of leaving all the heat and noise and discomfort behind, and reaching Aunt Hester. If she could fall awake she would feel and hear none of it. It would all be unreal and she would know that only the lightness and the air like flowers and the lovely brightness were true. Once, as she tossed on her cot-bed, she broke into a low little laugh to think how untrue things really were and how strange it was that
+<pb n="22 IN THE CLOSED ROOM" pages="22" facs="fbclose022"/>
+people did not understand--that even she felt as she lay in the darkness that she could not get away. And she could not get away unless the train would stop just long enough to let her fall asleep. If she could fall asleep between the trains, she would not awaken. But they came so quickly one after the other. Her hair was damp as she pushed it from her forehead, the bed felt hot against her skin, the people in the next flat quarrelled* more angrily, Judith heard a loud slap, and then the woman began
+<pb n="23 IN THE CLOSED ROOM" pages="23" facs="fbclose023"/>
+to cry. She was a young married woman, scarcely more than a girl. Her marriage had not been as successful as that of Judith's parents. Both husband and wife had irritable tempers. Through the thin wall Judith could hear the girl sobbing angrily as the man flung himself out of bed, put on his clothes and went out, banging the door after him.</p>
+        <p xml:id="fbclose_13054">"She doesn't know," the child whispered eerily, "that it isn't real at all."</p>
+        <p xml:id="fbclose_13062">There was in her strange little
+<pb n="24 IN THE CLOSED ROOM" pages="24" facs="fbclose024"/>
+soul a secret no one knew the existence of. It was a vague belief that she herself was not quite real--or that she did not belong to the life she had been born into. Her mother and father loved her and she loved them, but sometimes she was on the brink of telling them that she could not stay long--that some mistake had been made. What mistake--or where was she to go to if she went, she did not know. She used to catch her breath and stop herself and feel frightened when she had been near
+<pb n="25 IN THE CLOSED ROOM" pages="25" facs="fbclose025"/>
+speaking of this fantastic thing. But the building full of workmen's flats, the hot room, the Elevated Railroad, the quarrelling people, were all a mistake. Just once or twice in her life she had seen places and things which did not seem so foreign. Once, when she had been taken to the Park in the Spring, she had wandered away from her mother to a sequestered place among shrubs and trees, all waving tender, new pale green, with the leaves a few early hot days had caused to rush out and tremble un-
+<pb n="26 IN THE CLOSED ROOM" pages="26" facs="fbclose026"/>
+furled. There had been a stillness there and scents and colours she knew. A bird had come and swung upon a twig quite near her and, looking at her with bright soft full eyes, had sung gently to her, as if he were speaking. A squirrel had crept up onto her lap and had not moved when she stroked it. Its eyes had been full and soft also, and she knew it understood that she could not hurt it. There was no mistake in her being among the new fair greenness, and the woodland things who spoke to her. They
+<pb n="27 IN THE CLOSED ROOM" pages="27" facs="fbclose027"/>
+did not use words, but no words were needed. She knew what they were saying. When she had pushed her way through the greenness of the shrubbery to the driveway she had found herself quite near to an open carriage, which had stopped because the lady who sat in it was speaking to a friend on the path. She was a young woman, dressed in delicate spring colours, and the little girl at her side was dressed in white cloth, and it was at the little girl Judith found herself gazing. Under her large white hat
+<pb n="28 IN THE CLOSED ROOM" pages="28" facs="fbclose028"/>
+and feathers her little face seemed like a white flower. She had a deep dimple near her mouth. Her hair was a rich coppery red and hung heavy and long about her cheeks and shoulders. She lifted her head a little when the child in the common hat and frock pressed through the greenness of the bushes and she looked at Judith just as the bird and the squirrel had looked at her. They gazed as if they had known each other for ages of years and were separated by nothing. Each of them was quite happy at
+<figure><graphic url="ENTITY_fbcloseill28" rend="inline"/><p xml:id="fbclose_13060">THEY GAZED AS IF THEY HAD KNOWN EACH OTHER FOR AGES OF YEARS</p><figDesc>Color illustration included in Burnett's In the Closed
+Room.</figDesc></figure><pb n="29 IN THE CLOSED ROOM" pages="29" facs="fbclose029"/>
+being near the other, and there was not in the mind of either any question of their not being near each other again. The question did not rise in Judith's mind even when in a very few minutes the carriage moved away and was lost in the crowd of equipages rolling by.</p>
+        <p xml:id="fbclose_13064">At the hottest hours of the hot night Judith recalled to herself the cool of that day. She brought back the fresh pale greenness of the nook among the bushes into which she had forced her way, the scent of the leaves and grass which she
+<pb n="30 IN THE CLOSED ROOM" pages="30" facs="fbclose030"/>
+had drawn in as she breathed, the nearness in the eyes of the bird, the squirrel, and the child. She smiled as she thought of these things, and as she continued to remember yet other things, bit by bit, she felt less hot--she gradually forgot to listen for the roar of the train--she smiled still more--she lay quite still--she was cool--a tiny fresh breeze fluttered through the window and played about her forehead. She was smiling in soft delight as her eyelids drooped and closed.</p>
+        <pb n="31 IN THE CLOSED ROOM" pages="31" facs="fbclose031"/>
+        <p xml:id="fbclose_13066">"I am falling awake," she was murmuring as her lashes touched her cheek.</p>
+        <p xml:id="fbclose_13067">Perhaps when her eyes closed the sultriness of the night had changed to the momentary freshness of the turning dawn, and the next hour or so was really cooler. She knew no more heat but slept softly, deeply, long--or it seemed to her afterwards that she had slept long--as if she had drifted far away in dreamless peace.</p>
+        <p xml:id="fbclose_13069">She remembered no dream, saw nothing, felt nothing until, as it
+<pb n="32 IN THE CLOSED ROOM" pages="32" facs="fbclose032"/>
+seemed to her, in the early morning, she opened her eyes. All was quite still and clear--the air of the room was pure and sweet. There was no sound anywhere and, curiously enough, she was not surprised by this, nor did she expect to hear anything disturbing.</p>
+        <p xml:id="fbclose_13071">She did not look round the room. Her eyes remained resting upon
+ what she first saw--and she was not surprised by this either. A
+ little girl about her own age was standing smiling at her. She had large eyes, a deep dimple near her
+<pb n="33 IN THE CLOSED ROOM" pages="33" facs="fbclose033"/>
+mouth, and coppery red hair which fell about her cheeks and shoulders. Judith knew her and smiled back at her.</p>
+        <p xml:id="fbclose_13072">She lifted her hand--and it was a pure white little hand with long tapering fingers.</p>
+        <p xml:id="fbclose_13073">"Come and play with me," she said--though Judith heard no voice while she knew what she was saying. "Come and play with me."</p>
+        <p xml:id="fbclose_13075">Then she was gone, and in a few seconds Judith was awake, the air of the room had changed, the noise and clatter of the streets came in
+<pb n="34 IN THE CLOSED ROOM" pages="34" facs="fbclose034"/>
+at the window, and the Elevated train went thundering by. Judith did not ask herself how the child had gone or how she had come. She lay still, feeling undisturbed by everything and smiling as she had smiled in her sleep.</p>
+        <p xml:id="fbclose_13076">While she sat at the breakfast table she saw her mother looking at her curiously.</p>
+        <p xml:id="fbclose_13077">"You look as if you'd slept cool instead of hot last night," she
+said. "You look better than you did yesterday. You're pretty well,
+ain't you, Judy?"</p>
+        <figure><graphic url="ENTITY_fbcloseill34" rend="inline"/>
+          <p xml:id="fbclose_13078">"COME AND PLAY WITH ME"</p>
+          <figDesc>Color illustration included in Burnett's In the Closed
+Room.</figDesc>
+        </figure>
+        <pb n="35 IN THE CLOSED ROOM" pages="35" facs="fbclose035"/>
+        <p xml:id="fbclose_13080">Judith's smile meant that she was quite well, but she said nothing about her sleeping.</p>
+        <p xml:id="fbclose_13081">The heat did not disturb her through the day, though the hours grew hotter and hotter as they passed. Jane Foster, sweltering at her machine, was obliged to stop every few minutes to wipe the beads from her face and neck. Sometimes she could not remain seated, but got up panting to drink water and fan herself with a newspaper.</p>
+        <p xml:id="fbclose_13083">"I can't stand much more of
+<pb n="36 IN THE CLOSED ROOM" pages="36" facs="fbclose036"/>
+this, "she kept saying." If there don't come a thunderstorm to cool things off I don't know what I'll do. This room's about five hundred."</p>
+        <p xml:id="fbclose_13084">But the heat grew greater and the Elevated trains went thundering by.</p>
+        <p xml:id="fbclose_13085">When Jem came home from his work his supper was not ready. Jane was sitting helplessly by the window, almost livid in her pallor. The table was but half spread.</p>
+        <p xml:id="fbclose_13086">"Hullo," said Jem; "it's done you up, ain't it?"</p>
+        <pb n="37 IN THE CLOSED ROOM" pages="37" facs="fbclose037"/>
+        <p xml:id="fbclose_13088">"Well, I guess it has," good-naturedly, certain of his sympathy. "But I'll get over it presently, and then I can get you a cold bite. I can't stand over the stove and cook."</p>
+        <p xml:id="fbclose_13089">"Hully Gee, a cold bite's all a man wants on a night like this. Hot chops'd give him the jim-jams. But I've got good news for you--it's cheered me up myself."</p>
+        <p xml:id="fbclose_13090">Jane lifted her head from the chair back.</p>
+        <p xml:id="fbclose_13091">"What is it?"</p>
+        <p xml:id="fbclose_13094">"Well, it came through my boss.
+<pb n="38 IN THE CLOSED ROOM" pages="38" facs="fbclose038"/>
+He's always been friendly to me. He asks a question or so every now and then and seems to take an interest. To-day he was asking me if it wasn't pretty hot and noisy down here, and after I told him how we stood it, he said he believed he could get us a better place to stay in through the summer. Someone he knows has had illness and trouble in his family and he's obliged to close his house and take his wife away into the mountains. They've got a beautiful big house in one of them far up streets by the
+<pb n="39 IN THE CLOSED ROOM" pages="39" facs="fbclose039"/>
+Park and he wants to get caretakers in that can come well recommended. The boss said he could recommend us fast enough. And there's a big light basement that'll be as cool as the woods. And we can move in to-morrow. And all we've got to do is to see that things are safe and live happy."</p>
+        <p xml:id="fbclose_13095">"Oh, Jem!" Jane ejaculated. "It sounds too good to be true! Up by the Park! A big cool place to live!"</p>
+        <p xml:id="fbclose_13097">"We've none of us ever been in a house the size of it. You know
+<pb n="40 IN THE CLOSED ROOM" pages="40" facs="fbclose040"/>
+what they look like outside, and they say they're bigger than they look. It's your business to go over the rooms every day or so to see nothing's going wrong in them--moths or dirt, I suppose. It's all left open but just one room they've left locked and don't want interfered with. I told the boss I thought the basement would seem like the Waldorf-Astoria to us. I tell you I was so glad I
+ scarcely knew what to say."</p>
+        <p xml:id="fbclose_13098">Jane drew a long breath.</p>
+        <p xml:id="fbclose_130100">"A big house up there," she said.
+<pb n="41 IN THE CLOSED ROOM" pages="41" facs="fbclose041"/>
+"And only one closed room in it. It's too good to be true!"</p>
+        <p xml:id="fbclose_130101">"Well, whether it's true or not we'll move out there to-morrow," Jem answered cheerfully. "To-morrow morning bright and early. The boss said the sooner the better."</p>
+        <milestone rend="blank-line" unit="section"/>
+        <p xml:id="fbclose_130104">A large house left deserted by those who have filled its rooms with emotions and life, expresses a silence, a quality all its own. A house unfurnished and empty seems less impressively silent. The
+<pb n="42 IN THE CLOSED ROOM" pages="42" facs="fbclose042"/>
+fact of its devoidness of sound is upon the whole more natural. But carpets accustomed to the pressure of constantly passing feet, chairs and sofas which have held human warmth, draperies used to the touch of hands drawing them aside to let in daylight, pictures which have smiled back at thinking eyes, mirrors which have reflected faces passing hourly in changing moods, elate or dark or longing, walls which have echoed back voices--all these things when left alone seem to be held in strange arrest,
+<pb n="43 IN THE CLOSED ROOM" pages="43" facs="fbclose043"/>
+as if by some spell intensifying the effect of the pause in their existence.</p>
+        <p xml:id="fbclose_130105">The child Judith felt this deeply throughout the entirety of her young being.</p>
+        <p xml:id="fbclose_130106">"How <hi rend="italic">still</hi> it is," she said to her mother the first time they went over the place together.</p>
+        <p xml:id="fbclose_130108">"Well, it seems still up here--and kind of dead," Jane Foster replied with her habitual sociable half-laugh. "But seems to me it always feels that way in a house people's left. It's cheerful enough 
+<pb n="44 IN THE CLOSED ROOM" pages="44" facs="fbclose044"/>
+down in that big basement with all the windows open. We can sit in that room they've had fixed to play billiards in. We shan't hurt nothing. We can keep the table and things covered up. Tell you, Judy, this'll be different from last summer. The Park ain't but a few steps away an' we can go and sit there too when we feel like it. Talk about the country--I don't want no more country than this is. You'll be made over the months we stay here."</p>
+        <p xml:id="fbclose_130111">Judith felt as if this must veritably be a truth. The houses on
+<pb n="45 IN THE CLOSED ROOM" pages="45" facs="fbclose045"/>
+either side of the street were closed for the summer. Their occupants had gone to the seaside or the mountains and the windows and doors were boarded up. The street was a quiet one at any time, and wore now the aspect of a street in a city of the dead. The green trees of the Park were to be seen either gently stirring or motionless in the sun at the side of the avenue crossing the end of it. The only token of the existence of the Elevated Railroad was a remote occasional hum suggestive of the flying past of a
+<pb n="46 IN THE CLOSED ROOM" pages="46" facs="fbclose046"/>
+giant bee. The thing seemed no longer a roaring demon, and Judith scarcely recognized that it was still the centre of the city's rushing, heated life.</p>
+        <p xml:id="fbclose_130112">The owners of the house had evidently deserted it suddenly. The windows had not been boarded up and the rooms had been left in their ordinary condition. The furniture was not covered or the hangings swathed. Jem Foster had been told that his wife must put things in order.</p>
+        <p xml:id="fbclose_130115">The house was beautiful and
+<pb n="47 IN THE CLOSED ROOM" pages="47" facs="fbclose047"/>
+spacious, its decorations and appointments were not mere testimonies to freedom of expenditure, but expressions of a dignified and cultivated thought. Judith followed her mother from room to room in one of her singular moods. The loftiness of the walls, the breadth and space about her made her, at intervals, draw in her breath with pleasure. The pictures, the colours, the rich and beautiful textures she saw brought to her the free--and at the same time soothed--feeling she remembered as the chief feature 
+<pb n="48 IN THE CLOSED ROOM" pages="48" facs="fbclose048"/>
+of the dreams in which she "fell awake." But beyond all other things she rejoiced in the height and space, the sweep of view through one large room into another. She continually paused and stood with her face lifted looking up at the pictured things floating on a ceiling above her. Once, when she had stood doing this long enough to forget herself, she was startled by her mother's laugh, which broke in upon the silence about them with a curiously earthly sound which was almost a shock.</p>
+        <pb n="49 IN THE CLOSED ROOM" pages="49" facs="fbclose049"/>
+        <p xml:id="fbclose_130117">"Wake up, Judy; have you gone off in a dream? You look all the time as if you was walking in your sleep."</p>
+        <p xml:id="fbclose_130118">"It's so high," said Judy. "Those clouds make it look like the sky."</p>
+        <p xml:id="fbclose_130119">"I've got to set these chairs straight," said Jane. "Looks like they'd been havin' a concert here. All these chairs together an' that part of the room clear."</p>
+        <p xml:id="fbclose_130121">She began to move the chairs and rearrange them, bustling about cheerfully and talking the while.
+<pb n="50 IN THE CLOSED ROOM" pages="50" facs="fbclose050"/>
+Presently she stooped to pick something up.</p>
+        <p xml:id="fbclose_130122">"What's this," she said, and then uttered a startled exclamation. "Mercy! they felt so kind of clammy they made me jump. They <hi rend="italic">have</hi> had a party. Here's some of the flowers left fallen on the carpet."</p>
+        <p xml:id="fbclose_130123">She held up a cluster of wax-white hyacinths and large heavy rosebuds, faded to discoloration.</p>
+        <p xml:id="fbclose_130125">"This has dropped out of some set piece. It felt like cold flesh when I first touched it. I don't like a lot of white things together. They look
+<pb n="51 IN THE CLOSED ROOM" pages="51" facs="fbclose051"/>
+too kind of mournful. Just go and get the wastepaper basket in the library, Judy. We'll carry it around to drop things into. Take that with you."</p>
+        <p xml:id="fbclose_130126">Judith carried the flowers into the library and bent to pick up the basket as she dropped them into it.</p>
+        <p xml:id="fbclose_130128">As she raised her head she found her eyes looking directly into other eyes which gazed at her from the wall. They were smiling from the face of a child in a picture. As soon as she saw them Judith drew in her breath and stood still, smiling, too,
+<pb n="52 IN THE CLOSED ROOM" pages="52" facs="fbclose052"/>
+in response. The picture was that of a little girl in a floating white frock. She had a deep dimple at one corner of her mouth, her hanging hair was like burnished copper, she held up a slender hand with pointed fingers and Judith knew her. Oh! she knew her quite well. She had never felt so near any one else throughout her life.</p>
+        <p xml:id="fbclose_130129">"Judy, Judy!" Jane Foster called out. "Come here with your basket; what you staying for?"</p>
+        <p xml:id="fbclose_130130">Judith returned to her.</p>
+        <p xml:id="fbclose_130132">"We've got to get a move on,"
+<pb n="53 IN THE CLOSED ROOM" pages="53" facs="fbclose053"/>
+said Jane, "or we sha'n't get nothin' done before supper time. What was you lookin' at?"</p>
+        <p xml:id="fbclose_130133">"There's a picture in there of a little girl I know," Judith said. "I don't know her name, but I saw her in the Park once and--and I dreamed about her."</p>
+        <p xml:id="fbclose_130134">"Dreamed about her? If that ain't queer. Well, we've got to hurry up. Here's some more of them dropped flowers. Give me the basket."</p>
+        <p xml:id="fbclose_130136">They went through the whole house together, from room to room,
+<pb n="54 IN THE CLOSED ROOM" pages="54" facs="fbclose054"/>
+up the many stairs, from floor to floor, and everywhere Judith felt the curious stillness and silence. It can not be doubted that Jane Foster felt it also.</p>
+        <p xml:id="fbclose_130137">"It is the stillest house I was ever in," she said. "I'm glad I've got you with me, Judy. If I was sole alone I believe it 'ud give me the creeps. These big places ought to have big families in them."</p>
+        <p xml:id="fbclose_130139">It was on the fourth floor that they came upon the Closed Room. Jane had found some of the doors shut and some open, but a turn of
+<pb n="55 IN THE CLOSED ROOM" pages="55" facs="fbclose055"/>
+the handle gave entrance through all the unopened ones until they reached this one at the back on the fourth floor.</p>
+        <p xml:id="fbclose_130140">"This one won't open," Jane said, when she tried the handle. Then she shook it once or twice. "No, it's locked," she decided after an effort or two. "There, I've just remembered. There's one kept locked. Folks always has things they want locked up. I'll make sure, though."</p>
+        <p xml:id="fbclose_130142">She shook it, turned the handle, shook again, pressed her knee
+<pb n="56 IN THE CLOSED ROOM" pages="56" facs="fbclose056"/>
+against the panel. The lock resisted all effort.</p>
+        <p xml:id="fbclose_130143">"Yes, this is the closed one," she made up her mind. "It's locked hard and fast. It's the closed one."</p>
+        <p xml:id="fbclose_130144">It was logically proved to be the closed one by the fact that she found no other one locked as she finished her round of the chambers.</p>
+        <p xml:id="fbclose_130146">Judith was a little tired before they had done their work. But her wandering pilgrimage through the large, silent, deserted house had been a revelation of new emotions to her. She was always a silent child.
+<pb n="57 IN THE CLOSED ROOM" pages="57" facs="fbclose057"/>
+Her mind was so full of strange thoughts that it seemed unnecessary to say many words. The things she thought as she followed her from room to room, from floor to floor, until they reached the locked door, would have amazed and puzzled Jane Foster if she had known of their existence. Most of all, perhaps, she would have been puzzled by the effect the closed door had upon the child. It puzzled and bewildered Judith herself and made her feel a little weary.</p>
+        <p xml:id="fbclose_130148">She wanted so much to go into
+<pb n="58 IN THE CLOSED ROOM" pages="58" facs="fbclose058"/>
+the room. Without in the least understanding the feeling, she was quite shaken by it. It seemed as if the closing of all the other rooms would have been a small matter in comparison with the closing of this one. There was something inside which she wanted to see--there was something--somehow there was something which wanted to see her. What a pity that the door was locked! Why had it been done? She sighed unconsciously several times during the evening, and Jane Foster thought she was tired.</p>
+        <pb n="59 IN THE CLOSED ROOM" pages="59" facs="fbclose059"/>
+        <p xml:id="fbclose_130150">"But you'll sleep cool enough to-night, Judy," she said. "And get a good rest. Them little breezes that comes rustling through the trees in the Park comes right along the street to us."</p>
+        <p xml:id="fbclose_130152">She and Jem Foster slept well. They spent the evening in the highest spirits and--as it seemed to them--the most luxurious comfort. The space afforded them by the big basement, with its kitchen and laundry and pantry, and, above all, the specially large room which had been used for billiard
+<pb n="60 IN THE CLOSED ROOM" pages="60" facs="fbclose060"/>
+playing, supplied actual vistas. For the sake of convenience and coolness they used the billiard room as a dormitory, sleeping on light cots, and they slept with all their windows open, the little breezes wandering from among the trees of the Park to fan them. How they laughed and enjoyed themselves over their supper, and how they stretched themselves out with sighs of joy in the darkness as they sank into the cool, untroubled waters of deep sleep.</p>
+        <p xml:id="fbclose_130154">"This is about the top notch,"
+<pb n="61 IN THE CLOSED ROOM" pages="61" facs="fbclose061"/>
+Jem murmured as he lost his hold on the world of waking life and work.</p>
+        <p xml:id="fbclose_130157">But though she was cool, though she was undisturbed, though her body rested in absolute repose, Judith did not sleep for a long time. She lay and listened to the quietness. There was mystery in it. The footstep of a belated passer-by in the street woke strange echoes, a voice heard in the distance in a riotous shout suggested weird things. And as she lay and listened, it was as if she were not only
+<pb n="62 IN THE CLOSED ROOM" pages="62" facs="fbclose062"/>
+listening but waiting for something. She did not know at all what she was waiting for, but waiting she was. She lay upon her cot with her arms flung out and her eyes wide open. What was it that she wanted--that which was in the closed room? Why had they locked the door ? If they had locked the doors of the big parlours it would not have mattered. If they had locked the door of the library--*Her mind paused--as if for a moment, something held it still. Then she remem-
+<pb n="63 IN THE CLOSED ROOM" pages="63" facs="fbclose063"/>
+bered that to have locked the doors of the library would have been to lock in the picture of the child with the greeting look in her eyes and the fine little uplifted hand. She was glad the room had been left open. But the room up-stairs--the one on the fourth floor--that was the one that mattered most of all. She knew that to-morrow she must go and stand at the door and press her cheek against the wood and wait--and listen. Thinking this and knowing that it must be so, she fell--at last--asleep.</p>
+        <pb xml:id="fbclose_130158"/>
+        <figure><graphic url="ENTITY_fbcloseill64" rend="inline"/>
+          <p xml:id="fbclose_130159">SHE MUST GO AN STAND AT THE DOOR AND PRESS HER CHEEK AGAINST THE
+WOOD AND WAIT--AND LISTEN</p>
+          <figDesc>Color illustration included in Burnett's In the Closed
+Room.</figDesc>
+        </figure>
+      </div>
+      <pb n="65" pages="65" facs="fbclose065"/>
+      <div xml:id="fbclose_3012" n="2" type="part">
+        <head>PART TWO</head>
+        <p xml:id="fbclose_130163">JUDITH climbed the basement stairs rather slowly. Her mother was busy rearranging the disorder the hastily departing servants had left. Their departure had indeed been made in sufficient haste to have left behind the air of its having been flight. There was a great deal to be done, and Jane Foster, moving about with broom and pail and scrubbing brushes, did not dislike
+<pb n="66" pages="66" facs="fbclose066"/>
+the excitement of the work before her. Judith's certainty that she would not be missed made all clear before her. If her absence was observed her mother would realize that the whole house lay open to her and that she was an undisturbing element wheresoever she was led either by her fancy or by circumstance. If she went into the parlours she would probably sit and talk to herself or play quietly with her shabby doll. In any case she would be finding pleasure of her own and would
+<pb n="67 IN THE CLOSED ROOM" pages="67" facs="fbclose067"/>
+touch nothing which could be harmed.</p>
+        <p xml:id="fbclose_130165">When the child found herself in the entrance hall she stopped a few moments to look about her. The stillness seemed to hold her and she paused to hear and feel it. In leaving the basement behind, she had left the movement of living behind also. No one was alive upon this floor--nor upon the next--nor the next. It was as if one had entered a new world--a world in which something existed which did not express itself in sound or in things
+<pb n="68 IN THE CLOSED ROOM" pages="68" facs="fbclose068"/>
+which one could see. Chairs held out their arms to emptiness--cushions were not pressed by living things--only the people in the pictures were looking at something, but one could not tell what they were looking at.</p>
+        <p xml:id="fbclose_130166">But on the fourth floor was the Closed Room, which she must go to--because she must go to it--that was all she knew.</p>
+        <p xml:id="fbclose_130169">She began to mount the stairs which led to the upper floors. Her shabby doll was held against her hip by one arm, her right hand
+<figure><graphic url="ENTITY_fbcloseill68" rend="inline"/><p xml:id="fbclose_130167">SHE BEGAN TO MOUNT THE STAIRS WHICH LED TO THE UPPER FLOORS</p><figDesc>Color illustration included in Burnett's In the Closed
+Room.</figDesc></figure><pb n="69 IN THE CLOSED ROOM" pages="" facs="fbclose069"/>
+touched the wall as she went, she felt the height of the wall as she looked upward. It was such a large house and so empty. Where had the people gone and why had they left it all at once as if they were afraid? Her father had only heard vaguely that they had gone because they had had trouble.</p>
+        <p xml:id="fbclose_130171">She passed the second floor, the third, and climbed towards the fourth. She could see the door of the Closed Room as she went up step by step, and she found herself moving more quickly. Yes, she
+<pb n="70 IN THE CLOSED ROOM" pages="070" facs="fbclose070"/>
+must get to it--she must put her hand on it--her chest began to rise and fall with a quickening of her breath, and her breath quickened because her heart fluttered--as if with her haste. She began to be glad, and if any one could have seen her they would have been struck by a curious expectant smile in her eyes.</p>
+        <p xml:id="fbclose_130173">She reached the landing and crossed it, running the last few steps lightly. She did not wait or stand still a moment. With the strange expectant smile on her lips as well as in her eyes, she put her hand up-
+<pb n="71 IN THE CLOSED ROOM" pages="071" facs="fbclose071"/>
+on the door--not upon the handle, but upon the panel. Without any sound it swung quietly open. And without any sound she stepped quietly inside.</p>
+        <p xml:id="fbclose_130176">The room was rather large and the light in it was dim. There were no shutters, but the blinds were drawn down. Judith went to one of the windows and drew its blind up so that the look of the place might be clear to her. There were two windows and they opened upon the flat roof of an extension, which suggested somehow that it had
+<pb n="72 IN THE CLOSED ROOM" pages="72" facs="fbclose072"/>
+been used as a place to walk about in. This, at least, was what Judith thought of at once--that some one who had used the room had been in the habit of going out upon the roof and staying there as if it had been a sort of garden. There were rows of flower pots with dead flowers in them--there were green tubs containing large shrubs, which were dead also--against the low parapet certain of them held climbing plants which had been trained upon it. Two had been climbing roses, two were clematis, but Judith
+<pb n="73 IN THE CLOSED ROOM" pages="73" facs="fbclose073"/>
+did not know them by name. The ledge of the window was so low that a mere step took her outside. So taking it, she stood among the dried, withered things and looked in tender regret at them.</p>
+        <p xml:id="fbclose_130177">"I wish they were not dead," she said softly to the silence. "It would be like a garden if they were not dead."</p>
+        <p xml:id="fbclose_130181">The sun was hot, but a cool, little breeze seemed straying up from among the trees of the Park. It even made the dried leaves of the flowers tremble and rustle a little.
+<pb n="74 IN THE CLOSED ROOM" pages="74" facs="fbclose074"/>
+Involuntarily she lifted her face to the blue sky and floating white clouds. They seemed so near that she felt almost as if she could touch them with her hand. The street seemed so far--so far below--the whole world seemed far below. If one stepped off the parapet it would surely take one a long time to reach the earth. She knew now why she had come up here. It was so that she might feel like this--as if she was upheld far away from things--as if she had left everything behind--almost as if she had
+<figure><graphic url="ENTITY_fbcloseill74" rend="inline"/><p xml:id="fbclose_130179">THE LEDGE OF THE WINDOW WAS SO LOW THAT A MERE STEP TOOK HER OUTSIDE</p><figDesc>Color illustration included in Burnett's In the Closed
+Room.</figDesc></figure><pb n="75 IN THE CLOSED ROOM" pages="75" facs="fbclose075"/>
+fallen awake again. There was no perfume in the air, but all was still and sweet and clear.</p>
+        <p xml:id="fbclose_130183">Suddenly she turned and went into the room again, realizing that she had scarcely seen it at all and that she must see and know it. It was not like any other room she had seen. It looked more simple, though it was a pretty place. The walls were covered with roses, there were bright pictures, and shelves full of books. There was also a little writing desk and there were two or three low chairs, and a
+<pb n="76 IN THE CLOSED ROOM" pages="76" facs="fbclose076"/>
+low table. A closet in a corner had its door ajar and Judith could see that inside toys were piled together. In another corer a large doll's house stood, looking as if some one had just stopped playing with it. Some toy furniture had been taken out and left near it upon the carpet.</p>
+        <p xml:id="fbclose_130184">"It was a little girl's room," Judith said. "Why did they close it?"</p>
+        <p xml:id="fbclose_130186">Her eye was caught by something lying on a sofa--something covered with a cloth. It looked al-
+<pb n="77 IN THE CLOSED ROOM" pages="77" facs="fbclose077"/>
+most like a child lying there asleep--so fast asleep that it did not stir
+at all. Judith moved across to the sofa and drew the cloth aside. With its head upon a cushion was lying there a very large doll, beautifully dressed in white lace, its eyes closed, and a little wreath of dead flowers in its hair.</p>
+        <p xml:id="fbclose_130187">"It looks almost as if it had died too," said Judith.</p>
+        <p xml:id="fbclose_130189">She did not ask herself why she said "as if it had died too"--perhaps it was because the place was so still--and everything so far
+<pb n="78 IN THE CLOSED ROOM" pages="78" facs="fbclose078"/>
+away--that the flowers had died in the strange, little deserted garden on the roof.</p>
+        <p xml:id="fbclose_130191">She did not hear any footsteps--in fact, no ghost of a sound stirred the silence as she stood looking at the doll's sleep--but quite quickly she ceased to bend forward, and turned round to look at something which she knew was near her. There she was--and it was quite natural she should be there--the little girl with the face like a white flower, with the quantity of burnished coppery hair and the smile
+<pb n="79 IN THE CLOSED ROOM" pages="79" facs="fbclose079"/>
+which deepened the already deep dimple near her mouth.</p>
+        <p xml:id="fbclose_130192">"You have come to play with me," she said.</p>
+        <p xml:id="fbclose_130193">"Yes," answered Judith. "I wanted to come all night. I could not stay down-stairs."</p>
+        <p xml:id="fbclose_130194">"No," said the child; "you can't stay down-stairs. Lift up the doll."</p>
+        <p xml:id="fbclose_130197">They began to play as if they had spent their lives together. Neither asked the other any questions. Judith had not played with other children, but with this one she played in absolute and lovely
+<pb n="80 IN THE CLOSED ROOM" pages="80" facs="fbclose080"/>
+delight. The little girl knew where all the toys were, and there were a great many beautiful ones. She told Judith where to find them and how to arrange them for their games. She invented wonderful things to do--things which were so unlike anything Judith had ever seen or heard or thought of that it was not strange that she realized afterwards that all her past life and its belongings had been so forgotten as to be wholly blotted out while she was in the Closed Room. She did not know her playmate's name,
+<pb n="81 IN THE CLOSED ROOM" pages="81" facs="fbclose081"/>
+she did not remember that there were such things as names. Every moment was happiness. Every moment the little girl seemed to grow more beautiful in the flower whiteness of her face and hands and the strange lightness and freedom of her movements. There was an ecstasy in looking at her--in feeling her near.</p>
+        <p xml:id="fbclose_130198">Not long before Judith went down-stairs she found herself standing with her outside the window in among the withered flowers.</p>
+        <pb n="82 IN THE CLOSED ROOM" pages="82" facs="fbclose082"/>
+        <p xml:id="fbclose_130200">"It was my garden," the little girl said. "It has been so hot and no one has been near to water them, so they could not live."</p>
+        <p xml:id="fbclose_130202">She went lightly to one of the brown rose-bushes and put her pointed-fingered little hand quite near it. She did not touch it, but held her hand near-and the leaves began to stir and uncurl and become fresh and tender again, and roses were nodding, blooming on the stems. And she went in the same manner to each flower and plant in turn until all the before
+<pb n="83 IN THE CLOSED ROOM" pages="83" facs="fbclose083"/>
+dreary little garden was bright and full of leaves and flowers.</p>
+        <p xml:id="fbclose_130203">"It's Life," she said to Judith. Judith nodded and smiled back at her, understanding quite well just as she had understood the eyes of the bird who had swung on the twig so near her cheek the day she had hidden among the bushes in the Park.</p>
+        <p xml:id="fbclose_130204">"Now, you must go," the little girl said at last. And Judith went out of the room at once--without waiting or looking back, though she knew the white figure did not stir till she was out of sight.</p>
+        <pb n="84 IN THE CLOSED ROOM" pages="84" facs="fbclose084"/>
+        <p xml:id="fbclose_130208">It was not until she had reached the second floor that the change came upon her. It was a great change and a curious one. The Closed Room became as far away as all other places and things had seemed when she had stood upon the roof feeling the nearness of the blueness and the white clouds--as when she had looked round and found herself face to face with the child in the Closed Room. She suddenly realized things she had not known before. She knew that she had heard no voice when the little
+<pb n="85 IN THE CLOSED ROOM" pages="85" facs="fbclose085"/>
+girl spoke to her--she knew that it had happened, that it was she only who had lifted the doll--who had taken out the toys--who had arranged the low table for their feast, putting all the small service upon it--and though they had played with such rapturous enjoyment and had laughed and feasted--what had they feasted on ? That she could not recall--and not once had she touched or been touched by the light hand or white dress--and though they seemed to express their thoughts and intentions free-
+<pb n="85 IN THE CLOSED ROOM" pages="86" facs="fbclose086"/>
+ly she had heard no voice at all. She was suddenly bewildered and stood rubbing her hand over her forehead and her eyes--but she was happy--as happy as when she had fallen awake in her sleep--and was no more troubled or really curious than she would have been if she had had the same experience every day of her life.</p>
+        <p xml:id="fbclose_130210">"Well, you must have been having a good time playing up-stairs," Jane Foster said when she entered the big kitchen. "This is going to do you good, Judy. Looks like 
+<pb n="87 IN THE CLOSED ROOM" pages="87" facs="fbclose087"/>
+she'd had a day in the country, don't she, Jem?"</p>
+        <p xml:id="fbclose_130211">Through the weeks that followed her habit of "playing up-stairs" was accepted as a perfectly natural thing. No questions were asked and she knew it was not necessary to enter into any explanations.</p>
+        <p xml:id="fbclose_130214">Every day she went to the door of the Closed Room and, finding it closed, at a touch of her hand upon the panel it swung softly open. There she waited--sometimes for a longer sometimes for a shorter time--and the child with the cop-
+<pb n="88 IN THE CLOSED ROOM" pages="88" facs="fbclose088"/>
+pery hair came to her. The world below was gone as soon as she entered the room, and through the hours they played together joyously as happy children play. But in their playing it was always Judith who touched the toys--who held the doll--who set the little table for their feast. Once as she went down-stairs she remembered that when she had that day made a wreath of roses from the roof and had gone to put it on her playmate's head, she had drawn back with deepened dimple and, holding
+<pb n="89 IN THE CLOSED ROOM" pages="89" facs="fbclose089"/>
+up her hand, had said, laughing: "No. Do not touch me."</p>
+        <p xml:id="fbclose_130215">But there was no mystery in it after all. Judith knew she should presently understand.</p>
+        <p xml:id="fbclose_130216">She was so happy that her happiness lived in her face in a sort of delicate brilliance. Jane Foster observed the change in her with exceeding comfort, her view being that spacious quarters, fresh air, and sounder sleep had done great things for her.</p>
+        <p xml:id="fbclose_130218">"Them big eyes of hers ain't like no other child's eyes I've ever
+<pb n="90 IN THE CLOSED ROOM" pages="90" facs="fbclose090"/>
+seen," she said to her husband with cheerful self-gratulation. "An' her skin's that fine an' thin an' fair you can jest see through it. She always looks to me as if she was made out of different stuff from me an' you, Jem. I've always said it."</p>
+        <p xml:id="fbclose_130219">"She's going to make a corking handsome girl," responded Jem with a chuckle.</p>
+        <p xml:id="fbclose_130221">They had been in the house two months, when one afternoon, as she was slicing potatoes for supper, Jane looked round to see the child standing at the kitchen doorway,
+<pb n="91 IN THE CLOSED ROOM" pages="91" facs="fbclose091"/>
+looking with a puzzled expression at some wilted flowers she held in her hand. Jane's impression was that she had been coming into the room and had stopped suddenly to look at what she held.</p>
+        <p xml:id="fbclose_130222">"What've you got there, Judy ?" she asked.</p>
+        <p xml:id="fbclose_130223">"They're flowers," said Judith, her eyes still more puzzled.</p>
+        <p xml:id="fbclose_130224">"Where'd you get 'em from? I didn't know you'd been out. I thought you was up-stairs."</p>
+        <p xml:id="fbclose_130225">"I was," said Judith quite simply. "In the Closed Room."</p>
+        <pb n="92 IN THE CLOSED ROOM" pages="92" facs="fbclose092"/>
+        <p xml:id="fbclose_130227">Jane Foster's knife dropped into her pan with a splash.</p>
+        <p xml:id="fbclose_130228">"Well," she gasped.</p>
+        <p xml:id="fbclose_130229">Judith looked at her with quiet eyes.</p>
+        <p xml:id="fbclose_130230">"The Closed Room!" Jane cried out. "What are you saying? You couldn't get in?"</p>
+        <p xml:id="fbclose_130231">"Yes, I can."</p>
+        <p xml:id="fbclose_130232">Jane was conscious of experiencing a shock. She said afterwards that suddenly something gave her the creeps.</p>
+        <p xml:id="fbclose_130234">"You couldn't open the door," she persisted. "I tried it again yes-
+<pb n="93 IN THE CLOSED ROOM" pages="93" facs="fbclose093"/>
+terday as I passed by--turned the handle and gave it a regular shove and it wouldn't give an inch."</p>
+        <p xml:id="fbclose_130235">"Yes," the child answered; "I heard you. We were inside then."</p>
+        <p xml:id="fbclose_130236">A few days later, when Jane weepingly related the incident to awe-stricken  and sympathizing friends, she described as graphically as her limited vocabulary would allow her to do so, the look in Judith's face as she came nearer to her.</p>
+        <p xml:id="fbclose_130238">"Don't tell me there was nothing happening then," she said.
+<pb n="94 IN THE CLOSED ROOM" pages="94" facs="fbclose094"/>
+"She just came up to me with them dead flowers in her hand an' a kind of look in her eyes as if she was half sorry for me an' didn't know quite why.</p>
+        <p xml:id="fbclose_130239">"'The door opens for me,' she says. 'That's where I play every day. There's a little girl comes and plays with me. She comes in at the window, I think. She is like the picture in the room where the books are. Her hair hangs down and she has a dimple near her mouth.'</p>
+        <p xml:id="fbclose_130241">"I couldn't never tell any one what I felt like. It was a if I'd got
+<pb n="95 IN THE CLOSED ROOM" pages="95" facs="fbclose095"/>
+a queer fright that I didn't understand.</p>
+        <p xml:id="fbclose_130242">"'She must have come over the roof from the next house,' I says. 'They've got an extension too--but I thought the people were gone away.'</p>
+        <p xml:id="fbclose_130243">"'There are flowers on our roof,' she said. 'I got these there.' And that puzzled look came into her eyes again. 'They were beautiful when I got them--but as I came down-stairs they died.'</p>
+        <p xml:id="fbclose_130245">"'Well, of all the queer things,' I said. She put out her hand and
+<pb n="96 IN THE CLOSED ROOM" pages="96" facs="fbclose096"/>
+touched my arm sort of lovin' an' timid.</p>
+        <p xml:id="fbclose_130246">"'I wanted to tell you to-day, mother,' she said. 'I had to tell you to-day. You don't mind if I go play with her, do you ? You don't mind ?'</p>
+        <p xml:id="fbclose_130247">"Perhaps it was because she touched me that queer little loving way--or was it the way she looked--it seemed like something came over me an' I just grabbed her an' hugged her up.</p>
+        <p xml:id="fbclose_130248">"'No,' I says. 'So as you come back. So as you come back.'</p>
+        <pb n="97 IN THE CLOSED ROOM" pages="97" facs="fbclose097"/>
+        <p xml:id="fbclose_130250">"And to think!" And Jane rocked herself sobbing.</p>
+        <p xml:id="fbclose_130251">A point she dwelt on with many tears was that the child seemed in a wistful mood and remained near her side--bringing her little chair and sitting by her as she worked, and rising to follow her from place to place as she moved from one room to the other.</p>
+        <p xml:id="fbclose_130254">"She wasn't never one as kissed you much or hung about like some children do--I always used to say she was the least bother of any child I ever knew. Seemed as if she
+<pb n="98 IN THE CLOSED ROOM" pages="98" facs="fbclose098"/>
+had company of her own when she sat in her little chair in the corner whispering to herself or just setting quiet." This was a thing Jane always added during all the years in which she told the story. "That was what made me notice. She kept by me and she kept looking at me different *from any way I'd seen her look before--not pitiful exactly--but something like it. And once she came up and kissed me and once or twice she just kind of touched my dress or my hand--as I stood by her.<hi rend="italic">She</hi><pb n="99 IN THE CLOSED ROOM" pages="99" facs="fbclose099"/>
+knew. No one need tell me she didn't."</p>
+        <p xml:id="fbclose_130256">But this was an error. The child was conscious only of a tender, wistful feeling, which caused her to look at the affectionate healthy young woman who had always been good to her and whom she belonged to, though she remotely wondered why--the same tenderness impelled her to touch her arm, hand and simple dress, and folding her arms round her neck to kiss her softly. It was an expression of gratitude for all the rough casual
+<pb n="100 IN THE CLOSED ROOM" pages="100" facs="fbclose100"/>
+affection of the past. All her life had been spent at her side--all her life on earth had sprung from her.</p>
+        <p xml:id="fbclose_130257">When she went up-stairs to the Closed Room the next day she told her mother she was going before she left the kitchen.</p>
+        <p xml:id="fbclose_130258">"I'm going up to play with the little girl, mother," she said. "You don't mind, do you ?"</p>
+        <p xml:id="fbclose_130261">Jane had had an evening of comfortable domestic gossip and joking with Jem, had slept, slept soundly and eaten a hearty breakfast. Life had reassumed its wholly normal
+<figure><graphic url="ENTITY_fbcloseill100" rend="inline"/><p xml:id="fbclose_130259">"I'M GOING UP TO PLAY WITH THE LITTLE GIRL, MOTHER . . . YOU DON'T
+MIND, DO YOU?"</p><figDesc>Color illustration included in Burnett's In the Closed
+Room.</figDesc></figure><pb n="101 IN THE CLOSED ROOM" pages="101" facs="fbclose101"/>
+aspect. The sun was shining hot and bright and she was preparing to scrub the kitchen floor. She believed that the child was mistaken as to the room she had been in.</p>
+        <p xml:id="fbclose_130263">"That's all right," she said, turning the hot water spigot over the sink so that the boiling water poured forth at full flow into her pail, with clouds of steam. "But when I've done my scrubbing I'm comin' up to see if it <hi rend="italic">is</hi> the Closed Room you play in. If it is, I guess you'd better play somewhere else--
+<pb n="102 IN THE CLOSED ROOM" pages="102" facs="fbclose102"/>
+and I want to find out how you get that door open. Run along if you like."</p>
+        <p xml:id="fbclose_130264">Judith came back to her from the door. "Yes," she said, "come and see. But if she is there," putting her hand on Jane's hip gently, "you mustn't touch her."</p>
+        <p xml:id="fbclose_130265">Jane turned off the hot water and stared.</p>
+        <p xml:id="fbclose_130266">"Her!"</p>
+        <p xml:id="fbclose_130267">"The little girl who plays. <hi rend="italic">I</hi> never touch her. She says I must not."</p>
+        <p xml:id="fbclose_130268">Jane lifted her pail from the sink, laughing outright.</p>
+        <pb n="103 IN THE CLOSED ROOM" pages="103" facs="fbclose103"/>
+        <p xml:id="fbclose_130270">"Well, that sounds as if she was a pretty airy young one," she said. "I guess you're a queer little pair. Run on. I must get at this floor."</p>
+        <p xml:id="fbclose_130272">Judith ran up the three flights of stairs lightly. She was glad she had told her mother, though she wondered vaguely why it had never seemed right to tell her until last night, and last night it had seemed not so much necessary as imperative. Something had obliged her to tell her. The time had come when she must know. The Closed Room door had always shut itself gently
+<pb n="104 IN THE CLOSED ROOM" pages="104" facs="fbclose104"/>
+after Judith had passed through it, and yesterday, when her mother passing by chance, had tried the handle so vigorously, the two children inside the room had stood still gazing at each other, but neither had spoken and Judith had not thought of speaking. She was out of the realm of speech, and without any sense of amazement was aware that she was out of it. People with voices and words were in that far-away world below.</p>
+        <p xml:id="fbclose_130275">The playing to-day was even a lovelier, happier thing than it had
+<pb n="105 IN THE CLOSED ROOM" pages="105" facs="fbclose105"/>
+ever been before. It seemed to become each minute a thing farther and farther away from the world in the streets where the Elevated Railroad went humming past like a monster bee. And with the sense of greater distance came a sense of greater lightness and freedom. Judith found that she was moving about the room and the little roof garden almost exactly as she had moved in the waking dreams where she saw Aunt Hester--almost as if she was floating and every movement was ecstasy. Once as she
+<pb n="106 IN THE CLOSED ROOM" pages="106" facs="fbclose106"/>
+thought this she looked at her playmate, and the child smiled and answered her as she always did before she spoke.</p>
+        <p xml:id="fbclose_130276">"Yes," she said; "I know her. She will come. She sent me."</p>
+        <p xml:id="fbclose_130279">She had this day a special plan with regard to the arranging of the Closed Room. She wanted all the things in it--the doll--the chairs the toys--the little table and its service to be placed in certain positions. She told Judith what to do. Various toys were put here or there--the little table was set with
+<pb n="107 IN THE CLOSED ROOM" pages="107" facs="fbclose107"/>
+certain dishes in a particular part of the room. A book was left lying upon the sofa cushion, the large doll was put into a chair near the sofa, with a smaller doll in its arms, on the small writing desk a letter, which Judith found in a drawer--a half-written letter--was laid, the pen was left in the ink. It was a strange game to play, but somehow Judith felt it was very pretty. When it was all done -and there were many curious things to do--the Closed Room looked quite different from the cold, dim, orderly
+<pb n="108 IN THE CLOSED ROOM" pages="108" facs="fbclose108"/>
+place the door had first opened upon. Then it had looked as if everything had been swept up and set away and covered and done with forever--as if the life in it had ended and would never begin again. Now it looked as if some child who had lived in it and loved and played with each of its belongings, had just stepped out from her play-to some other room quite near--quite near. The big doll in its chair seemed waiting--even listening to her voice as it came from the room she had run into.</p>
+        <pb n="109 IN THE CLOSED ROOM" pages="109" facs="fbclose109"/>
+        <p xml:id="fbclose_130281">The child with the burnished hair stood and looked at it with her delicious smile.</p>
+        <p xml:id="fbclose_130282">"That is how it looked," she said. "They came and hid and covered everything--as if I had gone--as if I was Nowhere. I want her to know I come here. I couldn't do it myself. You could do it for me. Go and bring some roses."</p>
+        <p xml:id="fbclose_130284">The little garden was a wonder of strange beauty with its masses of flowers. Judith brought some roses from the bush her playmate pointed out. She put them into a light
+<pb n="110 IN THE CLOSED ROOM" pages="110" facs="fbclose110"/>
+bowl which was like a bubble of thin, clear glass and stood on the desk near the letter.</p>
+        <p xml:id="fbclose_130285">"If they would look like that," the little girl said, "she would see. But no one sees them like that--when the Life goes away with me."</p>
+        <p xml:id="fbclose_130287">After that the game was finished and they went out on the roof garden and stood and looked up into the blue above their heads. How blue--how blue--how clear--how near and real! And how far and unreal the streets and sounds below. The two children stood and looked
+<pb n="111 IN THE CLOSED ROOM" pages="111" facs="fbclose111"/>
+up and laughed at the sweetness of it.</p>
+        <p xml:id="fbclose_130288">Then Judith felt a little tired.</p>
+        <p xml:id="fbclose_130289">"I will go and lie down on the sofa," she said.</p>
+        <p xml:id="fbclose_130290">"Yes," the little girl answered. "It's time for you to go to sleep."</p>
+        <p xml:id="fbclose_130291">They went into the Closed Room and Judith lay down. As she did so, she saw that the door was standing open and remembered that her mother was coming up to see her and her playmate.</p>
+        <p xml:id="fbclose_130293">The little girl sat down by her. She put out her pretty fine hand
+<pb n="112 IN THE CLOSED ROOM" pages="112" facs="fbclose112"/>
+and touched Judith for the first time. She laid her little pointed fingers on her forehead and Judith fell asleep.</p>
+        <milestone rend="blank-line" unit="section"/>
+        <p xml:id="fbclose_130294">It seemed only a few minutes before she wakened again. The little girl was standing by her.</p>
+        <p xml:id="fbclose_130295">"Come," she said.</p>
+        <p xml:id="fbclose_130298">They went out together onto the roof among the flowers, but a strange--a beautiful thing had happened. The garden did not end at the parapet and the streets and houses were not below. The little
+<pb n="113 IN THE CLOSED ROOM" pages="113" facs="fbclose113"/>
+garden ended in a broad green pathway--green with thick, soft grass and moss covered with trembling white and blue bell-like flowers. Trees--fresh leaved as if spring had just awakened them--shaded it and made it look smiling fair. Great white blossoms tossed on their branches and Judith felt that the scent in the air came from them. She forgot the city was below, because it was millions and millions of miles away, and this was where it was right to be. There was no mistake. This was real. All 
+<pb n="114 IN THE CLOSED ROOM" pages="114" facs="fbclose114"/>
+the rest was unreal--and millions and millions of miles away.</p>
+        <p xml:id="fbclose_130299">They held each other's slim-pointed hands and stepped out upon the broad, fresh green pathway. There was no boundary or end to its beauty, and it was only another real thing that coming towards them from under the white, flowering trees was Aunt Hester.</p>
+        <milestone rend="blank-line" unit="section"/>
+        <p xml:id="fbclose_130301">In the basement Jane Foster was absorbed in her labours, which were things whose accustomedness provided her with pleasure. She was
+<pb n="115 IN THE CLOSED ROOM" pages="115" facs="fbclose115"/>
+fond of her scrubbing, she enjoyed the washing of her dishes, she definitely entertained herself with the splash and soapy foam of her washtubs and the hearty smack and swing of her ironing. In the days when she had served at the ribbon counter in a department store, she had not found life as agreeable as she had found it since the hours which were not spent at her own private sewing machine were given to hearty domestic duties providing cleanliness, savoury meals, and comfort for Jem.</p>
+        <pb n="116 IN THE CLOSED ROOM" pages="116" facs="fbclose116"/>
+        <p xml:id="fbclose_130303">She was so busy this particular afternoon that it was inevitable that she should forget all else but the work which kept her on her knees scrubbing floors or on a chair polishing windows, and afterwards hanging before them bits of clean, spotted muslin.</p>
+        <p xml:id="fbclose_130305">She was doing this last when her attention being attracted by wheels in the street stopping before the door, she looked out to see a carriage door open and a young woman, dressed in exceptionally deep mourning garb, step onto
+<pb n="117 IN THE CLOSED ROOM" pages="117" facs="fbclose117"/>
+the pavement, cross it, and ascend the front steps.</p>
+        <p xml:id="fbclose_130306">"Who's she?" Jane exclaimed disturbedly. "Does she think the house is to let because it's shut?" A ring at the front door bell called her down from her chair. Among the duties of a caretaker is naturally included that of answering the questions of visitors. She turned down her sleeves, put on a fresh apron, and ran up-stairs to the entrance hall.</p>
+        <p xml:id="fbclose_130308">When she opened the door, the tall, young woman in black stepped
+<pb n="118 IN THE CLOSED ROOM" pages="118" facs="fbclose118"/>
+inside as if there were no reason for her remaining even for a moment on the threshold.</p>
+        <p xml:id="fbclose_130309">"I am Mrs. Haldon," she said. "I suppose you are the caretaker?"</p>
+        <p xml:id="fbclose_130312">Haldon was the name of the people to whom the house belonged. Jem Foster had heard only the vaguest things of them, but Jane remembered that the name was Haldon, and remembering that they had gone away because they had had trouble, she recognized at a glance what sort of trouble it had been. Mrs. Haldon
+<pb n="119 IN THE CLOSED ROOM" pages="119" facs="fbclose119"/>
+was tall and young, and to Jane Foster's mind, expressed from head to foot the perfection of all that spoke for wealth and fashion. Her garments were heavy and rich with crape, the long black veil, which she had thrown back, swept over her shoulder and hung behind her, serving to set forth, as it were, more pitifully the white wornness of her pretty face, and a sort of haunting eagerness in her haggard eyes. She had been a smart, lovely, laughing and lovable thing, full of pleasure in the world, and now she
+<pb n="120 IN THE CLOSED ROOM" pages="120" facs="fbclose120"/>
+was so stricken and devastated that she seemed set apart in an awful lonely world of her own.</p>
+        <p xml:id="fbclose_130313">She had no sooner crossed the threshold than she looked about her with a quick, smitten glance and began to tremble. Jane saw her look shudder away from the open door of the front room, where the chairs had seemed left as if set for some gathering, and the wax-white flowers had been scattered on the floor.</p>
+        <p xml:id="fbclose_130315">She fell into one of the carved hall seats and dropped her face in-
+<pb n="121 IN THE CLOSED ROOM" pages="121" facs="fbclose121"/>
+to her hands, her elbows resting on her knees.</p>
+        <p xml:id="fbclose_130316">"Oh! No! No!" she cried. "I can't believe it. I can't believe it!"</p>
+        <p xml:id="fbclose_130317">Jane Foster's eyes filled with good-natured ready tears of sympathy.</p>
+        <p xml:id="fbclose_130318">"Won't you come up-stairs, ma'am?" she said. "Wouldn't you like to set in your own room perhaps?"</p>
+        <p xml:id="fbclose_130320">"No! No!" was the answer. "She was always there! She used to come into my bed in the morn-
+<pb n="122 IN THE CLOSED ROOM" pages="122" facs="fbclose122"/>
+ing. She used to watch me dress to go out. No! No!"</p>
+        <p xml:id="fbclose_130321">"I'll open the shutters in the library," said Jane.</p>
+        <p xml:id="fbclose_130323">"Oh! No! No! No! She would be sitting on the big sofa with her fairy story-book. She's everywhere--everywhere! How could I come! Why did I! But I couldn't keep away! I tried to stay in the mountains. But I couldn't. Something dragged me day and night. Nobody knows I am here!" She got up and looked about her again. "I have never been in here since I went out
+<pb n="123 IN THE CLOSED ROOM" pages="123" facs="fbclose123"/>
+with <hi rend="italic">her</hi>," she said. "They would not let me come back. They said it would kill me. And now I have come--and everything is here--all the things we lived with--and <hi rend="italic">she</hi> is millions and millions- and millions of miles away!"</p>
+        <p xml:id="fbclose_130324">"Who--who--was it?" Jane asked timidly in a low voice.</p>
+        <p xml:id="fbclose_130325">"It was my little girl," the poor young beauty said. "It was my little Andrea. Her portrait is in the library."</p>
+        <p xml:id="fbclose_130326">Jane began to tremble somewhat herself.</p>
+        <pb n="124 IN THE CLOSED ROOM" pages="124" facs="fbclose124"/>
+        <p xml:id="fbclose_130328">"That--?" she began--and ended: "She is <hi rend="italic">dead</hi>?"</p>
+        <p xml:id="fbclose_130329">Mrs. Haldon had dragged herself almost as if unconsciously to the stairs. She leaned against the newel post and her face dropped upon her hand.</p>
+        <p xml:id="fbclose_130331">"Oh! I don't <hi rend="italic">know</hi>!" she cried. "I cannot believe it. How <hi rend="italic">could</hi> it be? She was playing in her nursery--laughing and playing--and she ran into the next room to show me a flower--and as she looked up at me--laughing, I tell you--laughing--she sank slowly down on her
+<pb n="125 IN THE CLOSED ROOM" pages="125" facs="fbclose125"/>
+knees--and the flower fell out of her hand quietly--and everything went out of her face--everything was gone away from her, and there was never anything more--never!" </p>
+        <p xml:id="fbclose_130332">Jane Foster's hand had crept up to her throat. She did not know what made her cold.</p>
+        <p xml:id="fbclose_130333">"My little girl--" she began, "her name is Judith--"</p>
+        <p xml:id="fbclose_130334">"Where is she ?" said Mrs. Haldon in a breathless way.</p>
+        <p xml:id="fbclose_130335">"She is up-stairs," Jane answered slowly. "She goes--into that back room--on the fourth floor--"</p>
+        <pb n="126 IN THE CLOSED ROOM" pages="126" facs="fbclose126"/>
+        <p xml:id="fbclose_130337">Mrs. Haldon turned upon her with wide eyes.</p>
+        <p xml:id="fbclose_130338">"It is locked!" she said. "They put everything away. I have the key."</p>
+        <p xml:id="fbclose_130339">"The door opens for her," said Jane. "She goes to play with a little girl--who comes to her. I think she comes over the roof from the next house."</p>
+        <p xml:id="fbclose_130340">"There is no child there!" Mrs. Haldon shuddered. But it was not with horror. There was actually a wild dawning bliss in her face. "What is she like?"</p>
+        <pb n="127 IN THE CLOSED ROOM" pages="127" facs="fbclose127"/>
+        <p xml:id="fbclose_130342">"She is like the picture." Jane scarcely knew her own monotonous voice. The world of real things was being withdrawn from her and she was standing without its pale--alone with this woman and her wild eyes. She began to shiver because her warm blood was growing cold. "She is a child with red hair--and there is a deep dimple near her mouth. Judith told me. You must not touch her."</p>
+        <p xml:id="fbclose_130344">She heard a wild gasp--a flash of something at once anguish and rapture blazed across the haggard,
+<pb n="128 IN THE CLOSED ROOM" pages="128" facs="fbclose128"/>
+young face--and with a swerving as if her slight body had been swept round by a sudden great wind, Mrs. Haldon turned and fled up the stairs.</p>
+        <p xml:id="fbclose_130345">Jane Foster followed. The great wind swept her upward too. She remembered no single intake or outlet of breath until she was upon the fourth floor.</p>
+        <p xml:id="fbclose_130346">The door of the Closed Room stood wide open and Mrs. Haldon was swept within.</p>
+        <p xml:id="fbclose_130348">Jane Foster saw her stand in the middle of the room a second, a tall,
+<pb n="129 IN THE CLOSED ROOM" pages="129" facs="fbclose129"/>
+swaying figure. She whirled to look about her and flung up her arms with an unearthly rapturous, whispered cry:</p>
+        <p xml:id="fbclose_130349">"It is all as she left it when she ran to me and fell. She has been here--to show me it is not so far!"</p>
+        <p xml:id="fbclose_130350">She sank slowly upon her knees, wild happiness in her face--wild tears pouring down it.</p>
+        <p xml:id="fbclose_130352">"She has seen her!" And she stretched forth yearning arms towards the little figure of Judith, who lay quiet upon the sofa in the corner. "Your little girl has seen
+<pb n="130 IN THE CLOSED ROOM" pages="130" facs="fbclose130"/>
+her--and I dare not waken her. She is asleep."</p>
+        <p xml:id="fbclose_130353">Jane stood by the sofa--looking down. When she bent and touched the child the stillness of the room seemed to have got into her blood.</p>
+        <p xml:id="fbclose_130354">"No," she said, quivering, but with a strange simplicity. "No! not asleep! It was this way with her Aunt Hester."</p>
+        <trailer>THE END</trailer>
+      </div>
+    </body>
+    <back xml:id="fbclose_5276">
+      <div xml:id="fbclose_3013" type="colophon">
+        <p xml:id="fbclose_130355">THE McCLURE PRESS, NEW YORK</p>
+      </div>
+    </back>
+  </text>
+</TEI>

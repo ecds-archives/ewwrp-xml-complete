@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kemp_1305">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>A Contemplation on Bassets-down-Hill, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Kemp, Anne</reg><orig>Anne Kemp</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>15kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="kemp_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to
+the work claimed by Emory University for non-profit educational purposes, provided 
+this header is included in its entirety.  For inquiries about commercial uses, contact
+either: Women Writers Resource Project or Lewis H. Beck Center for Electronic
+collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17chq</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Kemp, Anne.  A Contemplation on Bassets-down-Hill. Oxford, <date>1658</date>. Broadside. EEB 1151:12</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="kemp_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early Modern through the 18th Century</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Poetry</rs>
+        <rs type="geography">Great Britain</rs>
+        <date>1600-1699</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>English poetry--Women authors--17th Century.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1997</date><label>Staff</label><name>Scott Ellis</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="kemp_1304">
+    <body xml:id="kemp_1303">
+      <div xml:id="kemp_001" type="Poem">
+        <head>A Contemplation on Bassets-down-Hill by the most Sacred adorer of the Muses<lb/>
+Mrs A. K.</head>
+        <lg type="stanza">
+          <l>If that exact Appelles now did live.</l>
+          <l>And would a picture of Elizium give;</l>
+          <l>He might pourtrai' of the prospect which this Hill</l>
+          <l>Doth shew; &amp; make the eie command at will.</l>
+          <l>Heer's many a shire whose pleasauntness for fight</l>
+          <l>Doth yield to the Spectators great delight.</l>
+          <l>Ther's a large Field guilded with ceres gold;</l>
+          <l>Here a green mead doth many Heifers hold;</l>
+          <l>Ther's pasture growne with virdant grass, whose store,</l>
+          <l>Of Argent-sheep shewes th'owner is not poore.</l>
+          <l>Here springs doe intricate Meanders make</l>
+          <l>Excelling farr Oblivion's Lethe Lake.</l>
+          <l>There woods and Coppisses harbour as many</l>
+          <l>And sweet melodious Choristers, as any</l>
+          <l>Elizium yields; whose Philomel' an lazes</l>
+          <l>Merit the highest of the Lyrick's praise</l>
+          <l>Heer's Flora deck't with robes of Or, and Azur,</l>
+          <l>Fragrently smelling yield's two senses pleasure.</l>
+        </lg>
+        <lg type="stanza">
+          <l>Hence Zephirus doth breath his gentle gales</l>
+          <l>Coole on the Hills, and sweet throughout the Vales</l>
+          <l>How happy are they that in this Climate dwell?</l>
+          <l>Alas! they can't their owne sweet welfare tell;</l>
+          <l>Scarce I my selfe whil'st I am here doe know it</l>
+          <l>Till I fee it's Antithesis to shew it.</l>
+          <l>Here are no smoaking streets, nor howling cryes,</l>
+          <l>Deafning the eares, nor blinding of the eyes;</l>
+          <l>No noysome smells t' infect, and choake the aire;</l>
+          <l>breeding diseases envious to the Faire.</l>
+          <l>Deceipt is here exil'd from Flesh, and Bloud:</l>
+          <l> (Strife only reigns, for all strive to be good.)</l>
+          <l>With Will his verse I here will make an end</l>
+          <l>And as the crab doth alwaies backward bend</l>
+          <l>So, though from this sweet place I goe away</l>
+          <l>My loyall heart will in this Climate stay.</l>
+          <l>Thus heartless, doth my worthless body rest</l>
+          <l>Whilest my heart liveth with the ever blest.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

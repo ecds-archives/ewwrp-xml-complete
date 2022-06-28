@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fellfox_daughter_130139">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title><seg type="short-title">The Daughter of Sion Awakened</seg>, and Putting on Strength; She is Arising,
+and Shaking herself out of the Dust and Putting on Her Beautiful Garments, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Fox, Margaret Askew Fell, 1614-1702</reg><orig>Margaret Askew Fell Fox</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center </name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>50kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="fellfox_daughter_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to
+the work claimed by Emory University for non-profit educational purposes, provided 
+this header is included in its entirety.  For inquiries about commercial uses, contact
+either: Women Writers Resource Project or Lewis H. Beck Center for Electronic
+collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17c2x</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Fell Fox, Margaret Askew "The Daughter of Sion Awakened, and Putting on Strength; She is Arising, and Shaking herself out of the Dust and Putting on Her Beautiful Garments." London, <date>1677</date>. 19 pages. EEB 1669:24</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="fellfox_daughter_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early Modern through the 18th Century</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Prose</rs>
+        <rs type="geography">Great Britain</rs>
+        <date>1600-1699</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Society of Friends--Doctrines.</item>
+            <item>Women authors, English--17th Century.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1997</date><label>Staff</label><name>Scott Ellis</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="fellfox_daughter_130138">
+    <body xml:id="fellfox_daughter_130137">
+      <div xml:id="fellfox_daughter_001" type="Text">
+        <head><seg type="short-title">THE<lb/>
+Daughter of Sion</seg><lb/>
+AWAKENED,<lb/>
+And putting on Strength:<lb/>
+She is Arising, and shaking her self out of the Dust,<lb/>
+and putting on her Beautiful Garments.<lb/></head>
+        <p xml:id="fellfox_daughter_1303">M. F.</p>
+        <p xml:id="fellfox_daughter_1304">And thou, O Tower of the Flock, the Strong Hold of the Daughter of Sion,
+unto thee shall it come, even the first Dominion; the Kingdom shall come to
+the daughter of Jerusalem, Micah 4.8.</p>
+        <p xml:id="fellfox_daughter_1305">The Lord shall send the rod of thy strength out of Sion, Psal. 110.2.</p>
+        <p xml:id="fellfox_daughter_1306">Sing and rejoyce, o Daughter of Sion; for lo I come, and will dwell in the
+midst of thee, saith the Lord: and many Nations shall be joyned unto the
+Lord in that day, and shall be my People; and I will dwell in the midst of
+thee; and thou shalt know, that the Lord of Hosts hath sent me unto thee,
+Zach. 2. 10, 11.</p>
+        <p xml:id="fellfox_daughter_1307">Rejoyce greatly, O Daighter of Sion; shout O Daughter of Jerusalem: behold
+thy King cometh; he is just, and having Salvation; lowly, and riding upon
+an Ass, and upon a Colt the Foal of an Ass, Zach. 9. 9. &amp; Mat. 21. 5. &amp;
+John 12. 15.</p>
+        <p xml:id="fellfox_daughter_1308">Behold I lay in Sion a Stone of Stumbling and a Rock of Offence; whosoever
+believeth on him, shall not be ashamed, Rom. 9. 33.</p>
+        <p xml:id="fellfox_daughter_1309">There shall come out of Sion a Deliverer, and he shall turn away iniquity
+from Jacob, Rom. 11. 26.</p>
+        <p xml:id="fellfox_daughter_13010">Behold I lay in Sion a chief Cornerstone, elect and precious; he that
+believeth on him, shall not be ashamed, Pet. 2. 6.</p>
+        <p xml:id="fellfox_daughter_13012">Printed in the Year 1677.<pb xml:id="fellfox_daughter_13011" n="3"/></p>
+        <div xml:id="fellfox_daughter_002" type="Part">
+          <head><seg type="short-title">The Daughter of Sion Awakened</seg>; and putting on Strength.</head>
+          <p xml:id="fellfox_daughter_13013">OUT of Sion, the Perfection of Beauty, hath God shined, in the Light of his
+glorious Son, to recover, and to bring back, and to redeem his whole Body,
+which is his Church, out of all Nations, Kindreds, Peoples, Tongues and
+Languages.</p>
+          <p xml:id="fellfox_daughter_13014">Now the universal, divine, glorious, infinite, invisible God is shining in
+the dark places, in the hearts of men and women.
+</p>
+          <p xml:id="fellfox_daughter_13015">There is a Day dawning in the heart, and a Day-star arising, which the
+Night hath been over since Adam. Even the everlasting Day is dawning in the
+hearts of men and women; glorious Praises to the highest forever.
+</p>
+          <p xml:id="fellfox_daughter_13016">Even that Day which the serpent in the beginning vailed and clouded with
+darkness through his temptation, and drawing of Adam and Eve into
+disobedience to the Command of God in the beginning, and so beguiled them,
+by which they and all their Posterity, in the fallen state, have brought
+upon them ever since the heavy Displeasure and Wrath of almighty God: so
+that the serpent was not only cursed, but the ground also, and man and
+woman came under the heavy Judgements of God in that state and condition.
+</p>
+          <p xml:id="fellfox_daughter_13017">But the holy Lord, in his infinite Wisdom, and rich Bounty, hath found out
+a Way to recover all that are faithful and obedient unto him.
+</p>
+          <p xml:id="fellfox_daughter_13018">So that as Adam and Eve went from Gods Commands through Disobedience; so
+all that ever come unto God, must return by the Obedience to his Light that
+shines from the Son of his love.
+</p>
+          <p xml:id="fellfox_daughter_13020">For the Lord God said unto the serpent in the beginning, Because thou hast
+done this thing, I will put enmity between thee and the<pb xml:id="fellfox_daughter_13019" n="4"/>
+woman, and between
+thy seed and her seed; it shall bruise thy Head and thou shall bruise his
+Heel.
+</p>
+          <p xml:id="fellfox_daughter_13021">Now this part of these last words, hath been perfectly fulfilled ever since
+the fall; for the Lamb hath been slain from the foundation of the world,
+Rev. 13. 8. ever since this world of wickedness, and darkness, and
+disobedience entred into the hearts of Adam and Eve; for the Prince of
+Darkness is the God of this world.
+</p>
+          <p xml:id="fellfox_daughter_13022">And it broke forth, and manifested it self in cain, the first birth (which
+Adam and Eve brought forth) who slew his Brother Abel in Wrath and Revenge:
+and all that stock of bloody Cain went on in that nature, until they had
+corrupted the whole Earth.
+</p>
+          <p xml:id="fellfox_daughter_13023">And God saw that the wickedness of man was great in the Earth, and that
+every imagination of the thoughts of his Heart was evil continually.
+</p>
+          <p xml:id="fellfox_daughter_13024">And it repented the Lord that he had made man, and it grieved him at his
+heart, when the Earth was corrupted, and was filled with Violence, and all
+flesh had corrupted his way upon the Earth.
+</p>
+          <p xml:id="fellfox_daughter_13025">And the Lord said, I will destroy man (whom I have created) from the face
+of the Earth, both man and beast.
+</p>
+          <p xml:id="fellfox_daughter_13026">And so the lord brought the flood of destruction upon all the ungodly.
+</p>
+          <p xml:id="fellfox_daughter_13027">So this cursed seed bruised the heel of this good seed before the Flood.
+</p>
+          <p xml:id="fellfox_daughter_13028">And after the Lord replenished the Earth again, of the three Sons of Noah,
+there was a cursed Ham, which Noah said was cursed, who, when he saw his
+fathers Nakedness, told his Bretheren.
+</p>
+          <p xml:id="fellfox_daughter_13029">So Sham and Joseph took a Garment, and covered their Father's Nakedness,
+and went backward because they would not see it.
+</p>
+          <p xml:id="fellfox_daughter_13031">And Noah said, Blessed be the Lord God of Shem, and Canaan shall be his
+servant; and God shall enlarge Japheth, and he shall dwell in the tents of
+Shem, and Canaan shall be his servant; and a servant of servants is he to
+be. <pb xml:id="fellfox_daughter_13030" n="5"/></p>
+          <p xml:id="fellfox_daughter_13032">And so this cursed seed ever appeared and opposed the good, as the
+generation of this Ham and Canaan did manifest, who would go build Babel:
+and the Son of Ham was Cush, and Cush begat Nimrod, and the beginning of
+his Kingdom was babel; and God confounded their Language; from thence did
+the Lord scatter them upon all the face of the earth, Gen. 10.
+</p>
+          <p xml:id="fellfox_daughter_13033">And Ishmael, which the Angel of the Lord said would be a wilde man, which
+was borne of Hagar, the AEgyptian woman.
+</p>
+          <p xml:id="fellfox_daughter_13034">And Sarah saw the Son of Hagar the AEgyptian mocking of Isaac, which was
+the Seed to whom the Covenant and Promise of God was.
+</p>
+          <p xml:id="fellfox_daughter_13035">And also Esau hated Jacob, because of the Blessing wherewith his Father had
+blessed him.
+</p>
+          <p xml:id="fellfox_daughter_13036">And Esau said in his heart, The Dayes of Mourning for my Father is at hand,
+then will I slay my Brother Jacob.
+</p>
+          <p xml:id="fellfox_daughter_13037">So here the murderous seed of the old serpent appeared again.
+</p>
+          <p xml:id="fellfox_daughter_13038">And how often was the Lord grieved with the Children of Israel's Murmurings
+and Lustings, when they loathed the Manna, and lusted after Flesh? and when
+the People complained, it displeased theLord, and his anger was kindled,
+and the Fire of the Lord burned, and consumed as many as were in the
+outtermost parts of the Camp.
+</p>
+          <p xml:id="fellfox_daughter_13039">And likewise, when they gathered the Quailes, when the flesh was yet in
+their Teeth, the Wrath of the Lord was kindled against them, and smote them
+with a very great Plague.
+</p>
+          <p xml:id="fellfox_daughter_13040">And also, when they rebelled against Moses, that they bid, stone him with
+stones; that the Glory of the Lord appeared in the Tabernacle of the
+Congregation, before all the Children of Israel.
+</p>
+          <p xml:id="fellfox_daughter_13042">And the Lord spake unto Moses and unto Aaron, saying, How long shall I bear
+with this evil Congregation? I have heard the Murmurings of the Children of
+Israel, which they murmur against me? Say unto them, As truly as I live,
+faith unto the Lord, as ye have spoken in mine Ear, so will I do unto you ;
+your Carcases shall fall in this Wilderness, and all that were numbred of
+you, from twenty years old, and upwards, that have murmured against me, &amp;c. <pb xml:id="fellfox_daughter_13041" n="6"/></p>
+          <p xml:id="fellfox_daughter_13043">And how did Corah, Dathan, and Abiram rebel and oppose Moses? and what a
+breach did they make among the Congregation of Israel? Though the god of
+Israel had separated them to do the service of the tabernacle, and to stand
+before the Congregation to minister unto them, yet corah, Dathan, and
+Abiram gathered all their Company together against the Lord, and did murmur
+against Moses and Aaron; and when Moses sent to call them, they said, We
+will not come up; and further said, Is it a small thing that thou hast
+brought us out of a Land that flowed with Milk and Honey, to kill us in the
+Wilderness, except thou altogether make thy self a Prince over us?
+moreover, thou hast not brought us into a Land that flows with milk and
+honey, nor given us inheritance of fields and vineyards: will thou put out
+the eyes of these men? we will not come up.
+</p>
+          <p xml:id="fellfox_daughter_13044">Here was the rebellious spirit indeed; but the Lord was avenged of them,
+and of their company.
+</p>
+          <p xml:id="fellfox_daughter_13045">And again, when the people rebelled against God, and against Moses, and
+said, Wherefore have ye brought us up out of the Land of Egypt, to dye in
+the Wilderness, where there is no bread, neither is there any Water, and
+our Souls loath this light Bread.
+</p>
+          <p xml:id="fellfox_daughter_13046">And the Lord sent Fiery Serpents among the people, and 
+they bit them, and
+mueh people of Israel dyed, &amp;c.
+</p>
+          <p xml:id="fellfox_daughter_13047">And how would Balic and Balaam have cursed Israel by their Divination, that
+they might not have been a People, if the Lord would have suffered them?
+</p>
+          <p xml:id="fellfox_daughter_13048">And Balaam was forced to confess, That God is not a Man, that he should
+lye; neither the Son of Man, that he should repent: Hath he said it, and
+shall he not do it? or hath he spoken, and shall he not make it good?
+Behold, I have received a commandment to bless, and he hath blessed, and i
+cannot reverse it.
+</p>
+          <p xml:id="fellfox_daughter_13050">He hath not beheld Iniquity in Jacob, neither hath he seen Perversness in
+Israel; the Lord his God is with him, and the shout of a King is among
+them. There is no Inchantment against Jacob, nor Divination against Israel.
+I shall see him, but not now; i sahll behold him, but not nigh. there shall
+come a star out of Jacob, and a Scepter shall arise out of Israel; out of
+Jacob shall come he that shall have dominion &amp;c. Here Balaam had a <pb xml:id="fellfox_daughter_13049" n="7"/>
+true sight and prophesie of christ, the blessed seed, and everlasting Covenant,
+yet would he have cursed this People for the unrighteous Wages of Balack to
+cast a stumbling-block before them; for whilst Israel abode at Shittim,
+they began to commit Whoredom with the Daughters of Moab, and they called
+the people unto the Sacrifices of their Gods, and the people did eat, and
+bow down to their gods, &amp;c.
+</p>
+          <p xml:id="fellfox_daughter_13051">And Israel joyned himself unto Baal peor, and the anger of the lord was
+kindled against Israel; and the Lord said unto Moses, Take all the Heads of
+the People, and hang them up against the Sun, that the fierce Anger of the
+Lord may be turned away from Israel, &amp;c.
+</p>
+          <p xml:id="fellfox_daughter_13052">And when Moses taught the Children of Israel the Judgements and Statutes of
+the Lord, he said, Your Eyes have seen what the Lord did because of
+Baal-peor; for all the men that followed Baal-peor, the Lord thy god hath
+destroyed from among you.
+</p>
+          <p xml:id="fellfox_daughter_13053">So all this cursed seed hath still disobeyed and opposed the command of the
+Lord, throughout all Generations, and hath bruised the Heel of this good
+seed till this very day. The Lord hath cursed this seed of the serpent, and
+the Curse remains upon him forever, Read Deuteronomy, chap. 28. from the
+16th verse to the end.
+</p>
+          <p xml:id="fellfox_daughter_13054">And this is the seed that ever bruiseth the heel of the good seed, and the
+Prophet Isaiah largely prophesied of, who said, He made his Grave with the
+Wicked, and with the Rich in his Death, because he had done no Violence,
+neither was any Deceit found in his mouth; yet it pleased the Lord to
+bruise him: he is despised and rejected of men, a man of Sorrows, and
+acquainted with Grief: Surely he hath born our Griefs, and carryed our
+Sorrows. He was afflicted, yet we esteemed him not; he was wounded for our
+Transgressions, he was bruised for our Iniquities; the Chastisement of our
+Peace was upon him, and with his stripes we are healed. All we like Sheep
+have gone astray, we have turned every one to his own way; and the Lord
+hath laid upon him the iniquities of us all, Isa. 53. chap.
+</p>
+          <p xml:id="fellfox_daughter_13056">Here the precious Seed hath actually suffered and been oppresed all along
+by the wicked seed of the serpent; so that the faith-<pb xml:id="fellfox_daughter_13055" n="8"/>
+ful Word of the Lord is
+fulfilled, which said, it should bruise his Heel, as may be clearly seen
+through the Scriptures of Truth, and may also be read in every heart and
+every bosome of every man and woman (upon the face of the whole Earth)
+which lies in the Fall, and in the Disobedience, and under the Curse.
+</p>
+          <p xml:id="fellfox_daughter_13057">The just &amp; the pure Principle of the living God suffers in every heart, who
+is in the darkness, &amp; under the power of the Prince of darkness: the Just
+lies slain there in spiritual Sodom, and spiritual AEgypt, and spiritual
+Babylon, which is all the World spiritually, the World of Darkness the old
+serpent hath set and sown in the hearts of men and women, in Adam and Eve,
+and all of their Off-spring. When he tempted them into Transgression and
+Disobedience of Gods Command, then the Image of God was defaced in which
+God made them in the beginning; through the Disobedience they fell from
+Purity and Righteousness, and from Favour with God, and now they lie in
+Darkness and in Death, filled with sin and iniquity.
+</p>
+          <p xml:id="fellfox_daughter_13058">So this World of Darkness and Death stands fast in the Hearts of Men and
+Women, so that they cannot see God in his Work.
+</p>
+          <p xml:id="fellfox_daughter_13059">For the Apostle saith, As by one man sin entred into the world, and death
+by sin, and so death passed upon all men, for that all have sinned, &amp;c.
+</p>
+          <p xml:id="fellfox_daughter_13060">And again the Apostle saith, We are all of God, and the whole world lieth
+in wickedness.
+</p>
+          <p xml:id="fellfox_daughter_13061">And he saith, if our Gospel be hid, it is hid to them that are lost, in
+whom the god of this world hath blinded the minds of them that believe not,
+left the Light of the glorious Gospel of Christ, who is the Image of God,
+should shine unto them, &amp;c.
+</p>
+          <p xml:id="fellfox_daughter_13062">And David saith, The Lord shall judge the World in Righteousness. And he
+desired of the Lord, to be delivered from the Men of the World, which have
+their Portion in this Life, &amp;c.
+</p>
+          <p xml:id="fellfox_daughter_13063">And Christ Jesus saith, Now is the Judgement of this World; now shall the
+Prince of this World be cast out: and I, if I be lifted up from the Earth,
+will draw all men after me, John 12. 31, 32.
+</p>
+          <p xml:id="fellfox_daughter_13065">And the Apostle saith, They had not received the spirit of the <pb xml:id="fellfox_daughter_13064" n="9"/>
+world, but the spirit which is of God, that we may know the things that are freely given us of God, 1 Cor. 2. 12.
+</p>
+          <p xml:id="fellfox_daughter_13066">And again, the Apostle saith, Wherein in time past ye walked according to
+the course of this world, according to the Prince of the Power of the Air,
+that spirit that now works in the Children of Disobedience, Ephos. 2. 2.
+</p>
+          <p xml:id="fellfox_daughter_13067">And he bids them, Put on the whole Armour of God, that they may be able to
+stand against the assaults of the Devil; for we wrestle not against Flesh
+and Blood, but against Principalities, and against Powers, and against the
+Prince of Darkness of this world, against spiritual Wickednesses in high
+places, &amp;c.
+</p>
+          <p xml:id="fellfox_daughter_13068">And the Apostle saith, Greater is he that is in us, then he that is in this
+world.
+</p>
+          <p xml:id="fellfox_daughter_13069">And also, the same Apostle saith, Now we know, that whatsoever things the
+Law saith, it saith to them who are under the Law, that every mouth may be
+stopped, and all the world become guilty before God, &amp;c.
+</p>
+          <p xml:id="fellfox_daughter_13070">So here lies all the world of the Ungodly, guilty of Sin, guilty of
+Transgression, guilty of disobedience; but now in these last dayes, the
+Lord Jesus Christ is come a Light into the world, that whosoever believeth
+in him, should not perish, but have everlasting Life, and that through him
+they might be saved, John 3. 16, 17.
+</p>
+          <p xml:id="fellfox_daughter_13071">So now the Lord Jesus Christ who is sent a Light into the world, and
+lighteth every man that cometh into the world. He that was in the beginning
+with God; all things were made by him, and without him was not any thing
+made that was made; in him was Life, and the Life was the Light of men.
+</p>
+          <p xml:id="fellfox_daughter_13072">And this Light doth shine in darkness, in this world of darkness, though
+darkness cannot comprehend it.
+</p>
+          <p xml:id="fellfox_daughter_13073">John was sent from God, to bear witness of the Light, that all men through
+him might believe: He was sent to bear witness of the Light, that was the
+true Light, which lighteth every man that cometh into the world.
+</p>
+          <p xml:id="fellfox_daughter_13075">So this Light, that lights every man that comes into the world, this is the
+true Light, that shines in the dark heart, and this is the true Day, that
+dawns in the heart; and Christ Jesus is the Daystar that ariseth in the
+heart.<pb xml:id="fellfox_daughter_13074" n="10"/></p>
+          <p xml:id="fellfox_daughter_13076">And this is the true Seed, and this is the blessed Seed, that hath the
+Promise and Word of the Eternal God joyned and fixed to it. That he should
+bruise the serpents Head, who hath set darkness in the hearts of people.
+</p>
+          <p xml:id="fellfox_daughter_13077">And as certainly as the Lord hath fulfilled that Word, which he promised in
+the beginning, That the Seed of the serpent should bruise his Heel; so
+certainly and perfectly is he fulfilling the other part of it, That the
+seed of the Woman should bruise the serpent's Head.
+</p>
+          <p xml:id="fellfox_daughter_13078">And God hath not only put enmity between the two seeds, but he hath put
+enmity between the serpent and the Woman, Gen. 3. And the Lord God said
+unto the Woman, What is this thou hath done? And the Woman said, The
+serpent beguiled me, and I did eat. And the Lord said unto the serpent,
+Because thou hast done this, thou art cursed above all Cattel, and above
+all the beasts of the field; upon thy Belley shalt thou go, and Dust shalt
+thou eat all the dayes of thy life: and I will put unmity between thee and
+the Woman, and between thy Seed and her Seed.
+</p>
+          <p xml:id="fellfox_daughter_13079">So this enmity that god hath put between the Serpent and the Woman, there
+is no reconciling of it; for where there is any part of the serpents seed
+or spirit, it is smiting and striking at the Woman, and contemning her
+Weakness.
+</p>
+          <p xml:id="fellfox_daughter_13080">For when the Woman, being with Child cryed and travelled in birth, pained
+to be delivered, then behold the great red Dragon appear'd, having seven
+Heads and ten Horns, and seven Crowns upon his Head; and the Dragon stood
+before the Woman, which was ready to be delivered, for to devour her Child
+as soon as it was born.
+</p>
+          <p xml:id="fellfox_daughter_13081">But she brought forth her Man-child, which is to rule all nations with a
+Rod of Iron, and her Child was caught up to God, and to his Throne, and the
+Woman fled into the Wilderness, where she ahd a place prepared of God, &amp;c.
+</p>
+          <p xml:id="fellfox_daughter_13082">So God alwayes provided for the Woman, that she was nourished and preserved
+from the face of the serpent. And the serpent will not yet cease to cast
+out Waters as a Flood after the woman, that he might cause her to be
+carried away of the Flood.
+</p>
+          <p xml:id="fellfox_daughter_13084">And the Dragon is very wroth with the Woman, and seeks to make war with the
+Woman, and with the remnant of her Seed.<pb xml:id="fellfox_daughter_13083" n="11"/></p>
+          <p xml:id="fellfox_daughter_13085">And so, this is perfectly fulfilled also; for the serpent, or any part of
+his spirit, where it is, hath a perfect enmity against the Woman.
+</p>
+          <p xml:id="fellfox_daughter_13086">But the eternal Word and Promise of God stands upon the head of the
+serpent, which is, that the Seed of the Woman should bruise the seprents
+Head: and this is perfectly fulfilling in this our day; for the Head of the
+serpent is now coming to be bruised by the Seed of the Woman, Christ Jesus:
+For the serpents seed and spirit is now gotten into the highest dress; he
+is now got into the Profession and Words of Truth itself, and would, if it
+were possible, do as he did, when he told her, they should be as Gods; but
+he betrayed her and beguiled her, as she said.
+</p>
+          <p xml:id="fellfox_daughter_13087">But now he is opposing one that is too strong for him, as he tempted Christ
+in the dayes of his Flesh; but he could not prevail then, nor surely can he
+now against him in his spiritual appearance, the Elect he cannot deceive,
+who dwells in the Light, that comes from the Throne of divine Glory, that
+sees him, and discerns him, and his secret Baits, and Snares, and Wiles; he
+doth deceive the dark and the ignorant, and betrays them that keep not to
+the Ensign that is set for the gathering of all Nations; but the Elect he
+cannot deceive, that are rooted and grounded upon the precious Corner
+stone, that is laid in Sion; they that are built upon the Rock, Christ
+Jesus, they cannot be shaken.
+</p>
+          <p xml:id="fellfox_daughter_13088">But Christ Jesus shakes all Foundations that are not built upon him; and he
+is coming to rase oput and to root out that Foundation which the old
+serpent hath laid in the Hearts of people; he is coming to disposses him,
+and to destroy him and all his works; the Right is his; he was before ever
+the old serpent was; he was set up from everlasting to everlasting; man and
+woman was created in his Image, and he is now coming to claim his own, and
+to recover and restore man again.
+</p>
+          <p xml:id="fellfox_daughter_13090">The Devil hath had a long Reign; he may well be called the old serpent,
+because he ahd a beginning; but now his head and power is coming to be
+bruised; and the Word of the eternal God is coming to be fulfilled upon
+him, which is, That the seed of the woman shall bruise the serpents Head:
+And he will make a short work of the Earth, and cut it short in
+Righteousness for his Elects sake. The Lord God is now at work; his Word
+and Power <pb xml:id="fellfox_daughter_13089" n="12"/>
+and Spirit, by which the Heavens and the Earth were made, is at
+work; the Grace and the Truth, which comes by Jesus Christ, is at work; and
+the Light of the glorious Gospel, the Power of God, is working, for the
+destruction of the Devil and all his works. And he is pouring down his
+Spirit of Grace and Supplication, so that now all people that come to the
+Lords eternal Light and Truth may look upon him whom they have pierced and
+mourn over him, as one that mourneth for his only Son, Zach. 12. 0. And
+now, in these last dayes, since there hath been a falling away, and a NIght
+of Darkness, and a Night of Apostacy from the true, spiritual and glorious
+Appearance of the Ressurection of Jesus, in the Apostles and primitive
+Christians dayes, since which time the Woman, that brought forth the
+man-child, hath been fled into the Wilderness, a Place prepared of God for
+her, and had the two Wings of the great Eagle given her: But she is now
+returning out of the Wilderness, leaning upon her Beloved; and the Holy
+City, New Jerusalem, is coming down from God out of Heaven, prepared as a
+Bride for her Husband, having the Glory of God; and her Light is like a
+Jasper Stone, most precious, clear as Chrystal, which shines forth in its
+Glory, and clearly makes manifest all the power and body of spiritual
+Darkness.
+</p>
+          <p xml:id="fellfox_daughter_13091">And the man of sin is now revealed, the son of perdition, which hath sit in
+the temple of God, in the hearts of man and woman, who was and is in the
+falling away from the new Covenant, and the resurrection of Jesus, in his
+Spirit, in the hearts and bodies of his Saints, which was his Temple in the
+Apostles dayes.
+</p>
+          <p xml:id="fellfox_daughter_13092">The man of sin hath sitten in that temple all Christendom over, where
+Christ and the Scriptures are professed without them, ever since the
+Apostles dayes, in this night of apostacy; the man of sin hath kept the
+hearts of people professing Christ, the Apostles and Saints words without
+them, in the spirit of darkness.
+</p>
+          <p xml:id="fellfox_daughter_13094">So they have all been out of the true Worship of God, which is in his own
+Spirit, and in his own truth, and in his own Light, which is his new
+Covenant where he writes his Law in their heart, and puts his spirit in
+their inward parts, where sin is done away, and transgression and iniquity
+is blotted out. But in this night of apostacy, they have all been out of
+this Way and out of the Truth, and out of this Light and Life, and so in a
+dark unclean spirit they <pb xml:id="fellfox_daughter_13093" n="13"/>
+have taken Christs words, and the Prophets, and
+Apostles, and Saints words; tehre the man of sin hath sitten in the hearts
+of People, decked and trimmed with the Saints words, professing Christ and
+the scriptures without them, in a dark spirit, but do not confess him come
+within them.
+</p>
+          <p xml:id="fellfox_daughter_13095">The Apostle said, Many Deceivers are entred into the World, who confess not
+that Jesus Christ is comein the flesh, this is a Deceiver and an
+Antichrist. And hereby know ye the Spirit of God, every spirit that
+confesseth not that Jesus Christ is come in the flesh, is not of God: and
+this is the spirit of Antichrist whereof you have heard it should come, and
+now even already, it is in the world.
+</p>
+          <p xml:id="fellfox_daughter_13096">And this is that spirit of Antichrist, which is entred into the world,
+which hath been in the world, in this dark night of apostacy, who
+professeth Christ in words without them, but will not confess his Light,
+and his Spirit, and his Truth within them.
+</p>
+          <p xml:id="fellfox_daughter_13097">And therefore the Apostle said to the Saints, Ye have an unction from the
+Holy One, and ye know all things; let that therefore abide in you which you
+have heard from the beginning: if that which you have heard from the
+beginning remain in you, ye also shall continue in the Son, and in the
+Father: These things have I written unto you, concerning them that seduce
+you; but the Anointing which you have received of him, abideth in you; and
+you need not that any man teach, but as the same Anointing teacheth you of
+all things, and is Truth, and is no Lye, and even as it hath taught you, ye
+shall abide in him, &amp;c.
+</p>
+          <p xml:id="fellfox_daughter_13098">And so this anointing and unction of the Holy One, is, ever was, and ever
+shall be the Saints Teacher. But this is not Antichrists Teacher; he
+sitteth in the Temple of God, professing word without, and can have no
+union with nor benefit of the true Christ, which came by Water and Blood;
+not by Water only, but by Water and Blood.
+</p>
+          <p xml:id="fellfox_daughter_13099">And it is his Spirit that beareth witness, because his spirit is Truth.
+</p>
+          <p xml:id="fellfox_daughter_130100">He that believeth in the Son of God, hath the Witness in himself. And this
+is the record that God hath given us of his Son, eternal Life, and this
+Life is in his Son.
+</p>
+          <p xml:id="fellfox_daughter_130102">But antichrist in the world hath none of this Record; his Record is
+without, and his Pretence of Christ is only as without, and will not have
+him within.<pb xml:id="fellfox_daughter_130101" n="14"/></p>
+          <p xml:id="fellfox_daughter_130103">But Glory be to the Highest forever, this man of sin, this son of perdition
+is revealed, which hath sate in that Temple which God hath chosen for
+himself, in the Hearts of men and women, in which he hath written his Law
+and Covenant: But by the spirit of his Mouth, and by the Brightness of his
+Coming, will he slay the Wicked, who hath long opposed Christ's Reign in
+his Saints and Members. And the Lord is coming to gather his Elect from the
+four Winds, and from the one end of the Earth to the other; he has all
+Power in Heaven and in Earth given unto him, and he is the Lord of all the
+Hosts in the Heavens and in the Earth; at his Word and command they all
+stand up together, &amp;c. he hath brought his only begotten Son into the
+World; he hath lighted every man and woman that cometh into the World: and
+so let all the Angels worship him, he who is the Head of all Principalities
+and Powers, Angels and Authorities, are all subject to him; and he sendeth
+forth his Angels, his ministring spirits, that are sent forth for the Heirs
+of Salvation; and his Ministers in Flames of Fire upon the Head of the
+spiritual wickedness of the old serpent; his Angels are his Messengers and
+Reapers, that bind the Tares in bundles, and casts them into the Fire. He
+is sending forth his Angel, that hath the sharp sickle, that he may thrust
+in his sickle; for the Harvest is ripe.
+</p>
+          <p xml:id="fellfox_daughter_130104">To which of the Angels hath he said at any time, Thou art my son? Or to
+which of the Angels hath he said at any time, Sit at my Right Hand? He hath
+not put in subjection unto the angels the World to come, whereof we speak.
+</p>
+          <p xml:id="fellfox_daughter_130106">But unto the Son he hath said, Thou art my Son thsi day have I begotten
+thee. Ask of me, and I will give thee the Hethen for thine Inheritance, and
+the utmost parts of the Earth for thy Possession. And unto the Son he hath
+said, Sit thou at my right hand, until all thine Enemies be thy Footstool.
+Yea, unto the Son he hath said, thy Throne, O God, is forever and ever; the
+Scepter of righteousness, and hated iniquity; therefore God, even thy God,
+hath anointed thee with the Oyl of Gladness above thy Fellows. Though the
+Heathen raged, and the Wicked hath imagined vain things, yet hath the Lord
+set his holy King upon his holy Hill of Sion. And he hath anointed him to
+preach Glad-tidings to the Poor, Liberty to the Captives. And he <pb xml:id="fellfox_daughter_130105" n="15"/>
+hath anointed him to proclaim the acceptable Year of the Lord, and the Day of
+Vengeance of our God. And he hath anointed him to open the blind Eyes, and
+to unstopeth the deaf Ears, and to cause the Tongue of the Dumb to sing,
+and to loose the tongues of the Stammerer, that he may speak plainly, &amp;c.
+He hath anointed him to make the Lame to leap and skip as an Hart. He hath
+anointed him to set open the Prison Doors, and to bring forth the Prisoners
+out of the Prison-house, and those that have long sitten in darkness, and
+under the Vail of the shadow of death, he hath anointed him to bring them
+forth, that they may shew themselves, that upon them his glorious Light may
+shine. He hath anointed him to bring again that which hath been driven
+away, and to gather together again that which hath been scattered, and to
+make the Prisoners of hope to rejoyce, that have so long lain in the Pit,
+where there is no Waters. He hath anointed him to raise up the Tabernacle
+unto David, and to make up the Breaches thereof. He hath anointed him to
+bring back the captivity of Judah and Jerusalem, and the whole Seed of
+Israel, and to unite and knit together into one the house of Joseph, the
+house of David and the house of Israel. He hath anointed him to enlarge
+Japheth, that he may dwell in the Tents of Shem.
+</p>
+          <p xml:id="fellfox_daughter_130107">He that is the Light of the Gentiles, and the Glory of his People Israel,
+and the Salvation to the ends of the Earth.
+</p>
+          <p xml:id="fellfox_daughter_130108">He is the Lords Anointed, for the taking away of that middle Wall of
+partition, that Wall of separation between Jews and Gentiles, that Law of
+Commandments that was contained in Ordinances, which was contained in an
+outward Temple, that was contained in an outward Covenant written in Tables
+of Stone, and an outward Priesthood, and outward Offerings, and outward
+Washings and Sacrifices, which the Apostle calls a world by Sanctuary and
+beggarly Rudiments; he hath abolished all these in his flesh, and thereby
+hath slain the Enmity, and nailed them to his Cross; and he hath made to
+himself of twain one new man, and so making Peace; and that he might
+reconcile both Jew and Gentile unto God in one Body; for through him we
+have both access by one spirit unto the Father.
+</p>
+          <p xml:id="fellfox_daughter_130110">So now its neither Circumcision nor uncircumcision that availes, but a New
+Nature, and a New Creature, in Christ Jesus. For he is our Peace, who hath
+made both one, which the Apostle saith <pb xml:id="fellfox_daughter_130109" n="16"/>
+is a Mystery, which in other ages
+was not made known to the Sons of men, that the Gentiles should be
+Fellow-Heirs, and of the same Body, and partakers of his Promises in Christ
+(by the Gospel) which he hath purchased for us, in whom is hid all the
+Treasures of Wisdom and Knowledge. For he hath taken away the First
+Covenant and Law, which was written in Tables of stone, that he might
+establish the second Covenant written in the heart. And he hath taken away
+the first Priesthood, that could not stand by reason of Death, that he
+might establish the second Priesthood, that is not made by the Law of a
+Carnal Commandment, but by the Power of an endless Life. And he hath taken
+away the outward Offerings and Sacrifices, that he might establish the one
+offering. He hath taken away the first Temple, that Solomon built, that he
+might establish the second Temple of his Body, which is his Church, that
+the Glory of this latter House may far exceed the glory of the former. He
+is the Mediator of a better Covenant, established upon better Promises, an
+everlasting Covenant, that never can be broken, written not in Tables of
+stone, but in fleshly Tables of the Heart.
+</p>
+          <p xml:id="fellfox_daughter_130111">By this one Offering, which he hath offered up, even himself, through the
+eternal Spirit, once for all, by this one Offering he is able to save to
+the utmost all that ever comes unto God by him, which believeth in his
+Light, and walketh in it, of what Nation or People soever, Jew or Gentile,
+Barbarian, Schythian, Bond or Free, Male or Female, all that ever comes to
+God by him, he is able to save to the utmost, &amp;c.
+</p>
+          <p xml:id="fellfox_daughter_130112">By this one Offering he hath opened a living Fountain, not only for Judah
+and Jerusalem to wash in, but whosoever is athrist, of what Nation soever,
+they may come unto him and drink.
+</p>
+          <p xml:id="fellfox_daughter_130113">For in the dayes of his Flesh, he invited all that were athirst to come
+unto him and drink, John 7. 37, 38, 39.
+</p>
+          <p xml:id="fellfox_daughter_130114">And this he spoke of his Spirit, which he was then going to pour forth,
+which he hath now largely manifested, which he is pouring upon all flesh,
+upon his sons and upon his daughters, upon his servants and upon his
+hand-maids.
+</p>
+          <p xml:id="fellfox_daughter_130116">And the Tabernacle of God is now with men, and he dwells with them, and
+they are his People, and God himself is with them, and is their God.<pb xml:id="fellfox_daughter_130115" n="17"/></p>
+          <p xml:id="fellfox_daughter_130117">And the Lord Jesus Christ is building the Temple, which is his Church,
+which is made of living stones; he that is greater then Solomon hath laid
+his Foundation in Sion; he hath laid the Rock and corner-stone; he is
+building up spiritual Sion, the City of his Solemnity; the wise Master
+builder is at work, and he is building up that City that our Father Abraham
+looked for, whose Builder and Maker is God; his Word is at work, his Spirit
+is at work, his Power and Light is at work, hs Grace and Truth is at work;
+he that layes true Judgement to the Line, and righteousness to the Plummet
+in the Hearts of men &amp; women, he is at work. He that sit in the midst of
+the Throne, and in the midst of the four Beasts, and in the midst of the
+four and twenty Elders, as a Lamb that hath been slain; he that hath the
+seven Eyes, and the seven Horns, which are the seven Spirits of the living
+God, sent forth throughout all the Earth, and runs to and fro, and sees
+both before and behind; the gathering is unto him, yea the gathering of all
+Nations is unto him.
+</p>
+          <p xml:id="fellfox_daughter_130118">He that walked in the midst of seven Golden Candlesticks, which hath not
+only the Vrim and Thummim, but the Light of Lights, Perfection of
+Perfection, Glory of Glories, and Holiness to the Lord.
+</p>
+          <p xml:id="fellfox_daughter_130119">And this is that pure River of the Water of Life, proceeding out of the
+Throne of God, and of the lamb; in the midst of it, and of either side of
+it is the Tree of Life; blessed are they that do his Commandments, that
+they may have right to the Tree of Life, and enter in through the Gates
+into the City.
+</p>
+          <p xml:id="fellfox_daughter_130120">He is that Tree of Life that stands in the midst of the whole Paradise of
+God, which bears his Fruit every moneth, whose Leaves are for the healing
+of the Nations.
+</p>
+          <p xml:id="fellfox_daughter_130121">So all Nations, and all the ends of the Earth, must look unto him if they
+be saved, who hath delivered us from the power of darkness, and hath
+translated us into the Kingdom of his dear Son, who is the image of the
+invisible God, the First-born of every Creature.
+</p>
+          <p xml:id="fellfox_daughter_130123">He is the Head of his Body, the Church, who is anointed with the Oyl of
+Gladness above his Fellows; and in him dwells all the Fulness of the
+Godhead bodily; and he dispenses of his Fulness throughtout his whole Body;
+[Colloss. 1. 19.] and the prec- <pb xml:id="fellfox_daughter_130122" n="18"/>
+ious Oyle, with which he is anointed, flows plentifully to every Member, who holds the Head, and abideth in the Unity, 
+and keeps in the favour of his good Oyntment; for that is as the Dew of 
+Hermon, and as the Dew that desendeth upon the Mountains of Sion; for there 
+the Lord commandeth his Blessing, even Life for evermore; which is a 
+Mystery that hath been hid from Ages and Generations, but now is made 
+manifest to his Saints; to whom God would make known what is the Riches of
+the Glory of this Mystery among the Gentiles, which is, Christ in us the
+Hope of Glory, whom the Apostle preached, warning every man, and teaching
+every man, in all Wisdom, that he might present every man perfect in Christ
+Jesus, &amp;c.
+</p>
+          <p xml:id="fellfox_daughter_130124">And this is our Way, and the Truth; and there is no other Way nor Name
+under the whole Heaven, but the Name of Jesus, by which any can be saved;
+to which Name every Knee must bow, and every Tongue confess. For it is he
+that is crowned with Glory and Honour, that by the Grace of God he should
+taste death for every man, that through death he might destroy him that had
+the power of death, which is the Devil.
+</p>
+          <p xml:id="fellfox_daughter_130125">He hath blotted out the Hand-writing of Ordinances, and hath taken it away,
+nailing it to his cross.
+</p>
+          <p xml:id="fellfox_daughter_130126">And he hath spoiled Principalities and Powers, and hath openly triumphed
+over them: so in this great Work of the Lord Jesus Christ, [Ephes. 5. 23,
+25, 27.] in which he hath given himself for his body, which is his Church;
+he hath made no difference in this Work between Male and Female, but they
+are all one in Christ Jesus, whose Faith and Belief stamds in his Name and
+Power, who are sanctified and cleansed: so he presents his glorious Church
+unto himself (not having Spot or Wrinkle, or anysuch thing) which is his
+Body, the fulness of him that filleth all in all, Eph. 1. 22, 23.</p>
+        </div>
+        <div xml:id="fellfox_daughter_003" type="Part">
+          <head>THE POSTSCRIPT.</head>
+          <p xml:id="fellfox_daughter_130128">And blessed and happy are all the Faithful, that are constant. true and
+obedient to the Lord's eternal Light, Spirit and Truth; <pb xml:id="fellfox_daughter_130127" n="19"/>
+that so the holy 
+Anointing, which they have received from the Beginning, abide in them, and
+they abide in it, then have they fellowship with the Son and with the
+Father: For that was the Reason why the Apostle John writ in his Epistle to
+the Saints, it was concerning them that did seduce them; therefore he said,
+Let that abide in you which you have heard from the beginning remain in
+you, ye also shall continue in the Son and in the Father, 1 John. 2. 24,
+25.
+</p>
+          <p xml:id="fellfox_daughter_130129">And this is the safety and preservation of all the Faithful, to keep to the
+holy Unction, and Anointing of the Holy One, which they have received of
+him, which is in them, and which was in the beginning, is and ever shall be
+the Saints Teacher, that never changes; here are the Saints and Faithful in
+Christ Jesus preserved.
+</p>
+          <p xml:id="fellfox_daughter_130130">But there was a spirit in the Apostles dayes, that chime in privily, &amp; drew
+away many after their pernicious ways, as may be seen in 2 Pet. 2. Which
+did fulfil the prophesie of the Apostle Paul to Timothy, where he saith,
+That the spirit spoke expresly, That some should depart from the Faith,
+giving heed to seducing spirits and Doctrines of Devils, &amp;c. Also Jude is
+very zealous against that spirit, as may be read in his Epistle. But as the
+Apostles, Peter and Jude say, If God spared not the Angels, which kept not
+their first-estate, but left their own Habitation, who was cast down to
+Hell, to be reserved in Chains of darkness, unto the Judgement of the great
+Day, &amp;c.
+</p>
+          <p xml:id="fellfox_daughter_130131">And therefore let all beware and take heed, in the Fear of the Lord God, to
+keep to the true Testimony of God in their own Hearts, and to the true
+Touch-stone, that God has placed in them; and not believe every spirit, but
+try the spirits, whether they be of God; for many false spirits are gone
+out into the World, &amp;c.
+</p>
+          <p xml:id="fellfox_daughter_130132">We are of God, saith the Apostl; he that knoweth God, heareth us; he that
+is not of God, heareth not us: hereby know we the spirit of Truth and the
+spirit of Error, 1 John, 4. 6.
+</p>
+          <p xml:id="fellfox_daughter_130133">This is the same Spirit still, and God is the same, and his Power and
+Spirit is the same.
+</p>
+          <p xml:id="fellfox_daughter_130134">And let all the Opposers of his spirit read their Portion in the Epistles
+of Peter and Jude.
+</p>
+          <p xml:id="fellfox_daughter_130135">M. F.</p>
+          <p xml:id="fellfox_daughter_130136">THE END.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,1109 @@
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xml:id="dlittle_cecfair1205">
+  <teiHeader xml:id="cecfair1201"><fileDesc>
+      <titleStmt>
+        <title>A Little Irish Girl, an electronic edition</title>
+        <author><name><choice><sic><name type="person">The Duchess</name></sic><reg>Hungerford, Mrs. (Margaret Wolfe Hamilton), 1855?-1897</reg></choice></name></author>
+      </titleStmt>
+      <extent/>
+      <publicationStmt><publisher>Emory University, Lewis H. Beck Center</publisher><pubPlace>Atlanta, Georgia</pubPlace><date>2007</date><availability><p xml:id="dlittle_1301">© 2007, Lewis H. Beck Center, Emory University. Emory University makes a claim of copyright only to original contributions made by the Women's Genre Fiction Project participants. Emory University makes no claim of copyright to the original text. Permission is granted to download, transmit, or otherwise reproduce, distribute, or display the contributions to this work claimed by Emory University for non-profit educational purposes, provided that this header is included in its entirety. For further inquiries about this text's availability, please contact:<address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruff Library</addrLine><addrLine>Atlanta, GA 30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email: beckctr@emory.edu</addrLine></address></p> </availability><idno type="ark">http://pid.emory.edu/ark:/25593/170p8</idno></publicationStmt>
+      <seriesStmt> <title>Women's Genre Fiction, 1860-1920</title> <respStmt> <name>Sheila T. Cavanagh</name> <name>Charles D. Spornick</name><resp>Principal Investigators</resp><name/></respStmt></seriesStmt>
+      <sourceDesc>
+        <bibl><author><name><choice><sic/><reg/></choice></name></author>. <title>A Little Irish Girl</title>. <pubPlace>New York</pubPlace>: <publisher>F.M.Lupton</publisher>.</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="dlittle_1302">This text was created by the Lewis H. Beck Center as a part of the Women's Genre Fiction Project. Project participants intend for this encoded text, as well as all texts produced by this project, to be made available on the web for educational, scholarly and pedagogical purposes. This project is funded by a grant from the National Endowment for the Humanities.</p>
+      </projectDesc>
+      <samplingDecl>
+        <p xml:id="dlittle_1303">The title page, selected front matter, and body text of novels and stories have been transcribed and encoded. Paratextual elements such as covers, illustrations, and advertisements are provided as digital images only. </p>
+      </samplingDecl>
+      <editorialDecl>
+        <p xml:id="dlittle_1304">Processing this electronic text file began by creating TIFF images of each page using either a flatbed scanner or a PowerPhase FX digital camera. Text pages were captured in grayscale at 400dpi while illustrations and covers were captured in color at 300dpi. These digital images were converted to an electronic text file by Optical Character Recognition (OCR) software. The text files produced by the OCR software have been proofread against the original novel or TIFF images of the original novel. This proofread text file has then been encoded using the recommendations for Level 3 of the TEI in Libraries Guidelines. For the details of Level 3 encoding, please see the webpage for TEI Guidelines for Best Encoding practices at http://www.indiana.edu/~letrs/tei/. Encoders silently replaced em dashes with two dashes. Page numbers displayed in brackets have been added by the encoder and do not appear in the original text. Digital page images are linked to the text file.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Genre Fiction</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Novel</rs>
+        <rs type="geography">United States</rs>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>British literature--20th Century--Fiction.</item>
+            <item>Women authors, British--20th Century.</item>
+            <item>Romance.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><date>2007-June-22</date><label>Encoder.</label><name>Shruthi Vissa,</name>XML tags inserted in compliance with TEI guidelines using TEILITE.</change></revisionDesc></teiHeader>
+  <text xml:id="dlittle_130904">
+    <front xml:id="dlittle_1307">
+      <pb n="1" pages="Title Page" facs="dlittle001"/>
+      <titlePage xml:id="dlittle_1306" type="full">
+        <docEdition>No. 32.-Old No. 373.</docEdition>
+        <docImprint>
+PRICE, FIVE CENTS.<lb/>
+The Leisure Hour Library.<lb/><publisher>F. M. LUPTON, Publisher,</publisher><pubPlace>23-27 City Hall Place, New York.</pubPlace></docImprint>
+      </titlePage>
+    </front>
+    <body xml:id="dlittle_130899">
+      <div xml:id="dlittle_100" type="Story">
+        <head>A LITTLE IRISH GIRL.</head>
+        <byline><docAuthor>By "THE DUCHESS,"</docAuthor>
+Author of " Phyllis," 'Ð Molly Bawn," " Airy Fairy Lillian," " Mrs. Geoffrey," " Rossmoyne," "Faith and Unfaith," Etc., Etc.</byline>
+        <div xml:id="dlittle_001" n="1" type="chapter">
+          <head>CHAPTER I.</head>
+          <epigraph>
+            <q>
+              <lg>
+                <l>"What is love? 'Tis not hereafter;</l>
+                <l>Present mirth hath present laughter.</l>
+                <l>What's to come is still unsure."</l>
+              </lg>
+            </q>
+          </epigraph>
+          <p xml:id="dlittle_1308">"BRIDGET! Bridget!" cries Bridget's young mistress, in a clear, sweet tone. There is something of anxiety in it--enough to make the old woman to whom the name belongs hobble more swiftly from the kitchen to the sitting-room than is her usual custom.</p>
+          <p xml:id="dlittle_1309">"An' what is it, agra?" says she, stepping over the threshold and looking up the big, bare room to where, in the third window, a tall, slight, childish figure is standing.</p>
+          <p xml:id="dlittle_13010">"Something dreadful, I'm certain. Come here! Come here!" beckoning hurriedly to the old woman, without taking her eyes off the window. "Hurry, can't you? Look out over there," pointing. "What is that? A man, eh? --a man hurt, wounded?"</p>
+          <p xml:id="dlittle_13011">"Faix, 'tis like that!" says the old woman, laying her hand to her brow and staring into the growing darkness of the November evening</p>
+          <p xml:id="dlittle_13012">"What can be the matter with him, Bridget?"</p>
+          <p xml:id="dlittle_13013">"I don't know, me dear. But he do look bad, whatever it is!"</p>
+          <p xml:id="dlittle_13014">"He shouldn't have come this way," says Miss McDermot, anxiously. "You know those bogs down there, and those --oh, Bridget! did you see? He was nearly in then!"</p>
+          <p xml:id="dlittle_13015">"May the divil carry him!" says Bridget, wrathfully, "whoever he is, for throublin' ye like this! An' may the heavens sind him since, to kape him for the future from searchin' for cowld mud baths at this sayson of the year."</p>
+          <p xml:id="dlittle_13016">"You never care a pin about anything, Bridget," says her young mistress, glancing angrily at her over her shoulder, "except"--</p>
+          <p xml:id="dlittle_13017">"You, me dear!" retorts the old woman, promptly; whereupon both mistress and maid laugh in a subdued sort of way, as if a little afraid of being heard.</p>
+          <p xml:id="dlittle_13018">" 'Pon me conscience! he'll be there all night if the morning doesn't see him in the other world," says the old woman, presently, who again has returned to her watching of the distant figure that is trying in an uncertain fashion to cross the morass. She is a rather handsome old woman, with masses of snow-white hair that are but partly hidden beneath her still more snowy cap. Her dress is that of the ordinary Irish peasant, with a big white apron flowing over the skirt of the gown.</p>
+          <p xml:id="dlittle_13019">"Whoever he is," says Miss McDermot, peering over the old servant's shoulder through the parlor window, "he certainly knows nothing of the neighborhood. Ours is about the most dangerous bog about here. Don't you think, Bridget, we ought to send some one to help him?"</p>
+          <p xml:id="dlittle_13020">"Unless ye mane me," says Mrs. Driscoll, whose Christian name is Bridget, "I don't know who ye can sind; as ye know well enough yerself, miss, an' faix 'tis you've had cause to know it, the masther niver lets Patsy out ov his sight from mornin' till night. 'Twould he ridic'lous to count on him. An' besides--glory be, miss! did ye see that? For a winged bird, he's a wondherful lepper."</p>
+          <p xml:id="dlittle_13022">Indeed, the man in the bog below seems, in spite of the fact that he is battling with an injured arm, extraordinarily full of life. The ill luck that has led him into this dangerous mass of water and spongy soil is not strong enough to destroy him; even as the two women, watching him breathlessly in the window of the gaunt old house, have almost given way to despair, he makes a last
+1
+
+<pb n="2 A LITTLE IRISH GIRL." facs="dlittle002"/>
+effort, and, landing on a firm bit of turf, jumps from that again to the firm land beyond.</p>
+          <p xml:id="dlittle_13023">This last effort seems, however, to have exhausted him. He staggers rather than walks toward the house. As he nears it the girl, watching him, can see how ghastly is his face, and, flinging open the old-fashioned casement with an abrupt gesture, she springs down to the soft grass beneath, regardless of the old servant's remonstrances.</p>
+          <p xml:id="dlittle_13024">A few minutes brings her to the stranger's side.</p>
+          <p xml:id="dlittle_13025">You are hurt, sir. You are faint. Lean on me. Oh! We watched you crossing that terrible bog, and at one time we feared-- But you are safe now. You will come in? Your arm, I fear, is"--</p>
+          <p xml:id="dlittle_13026">"Broken," says the young man, with a nervous smile.</p>
+          <p xml:id="dlittle_13027">"Oh! I hope not. Sprained, perhaps--but not broken. There! are you easier now? Lean heavier on me; I don't mind it a bit; and--oh, don't faint! Oh, Patsy, Patsy!"--to the groom, gardener, bootcleaner, man-of-all-work, who comes hurrying up to her. "Catch him! He's awfully heavy."</p>
+          <p xml:id="dlittle_13028">Patsy catches him.</p>
+          <p xml:id="dlittle_13029">"Is he dead entirely, d'ye think, miss?"</p>
+          <p xml:id="dlittle_13030">"No; only fainted. There! Be careful! His arm, he says, is broken. There now! Oh! is that you, Bridget?"--to the old woman, who has hobbled out to her in a very angry frame of mind--"where can we put him, do you think? In the north room?"</p>
+          <p xml:id="dlittle_13031">"The hall will do him, I'm thinkin', till the docther till us where to sind him," says the old woman, icily.</p>
+          <p xml:id="dlittle_13032">With open unwillingness she lends a hand to convey the fainting man into the house.</p>
+          <p xml:id="dlittle_13033">Two or three chairs arranged in the hall make an improvised stretcher; but the unconscious man lying on them looks so miserably uncomfortable that the girl's heart dies within her.</p>
+          <p xml:id="dlittle_13034">"He can't stay there! Take him to the north room," she says, sharply.</p>
+          <p xml:id="dlittle_13035">"Miss Dulcinea, don't do that!" says Bridget, compressing her lips and regarding her young mistress with an anxious gaze. " 'Tis unlucky enough that a half-dead crature should cross the threshold; but to take him in--to keep him--till death claims him, that will be bad, miss! I'm tellin' ye 'twill be for your undoin', miss."</p>
+          <p xml:id="dlittle_13036">"Nonsense!" says the girl, scornfully. "What superstition! Besides, he is not going to die because his arm is broken. Patsy, give a hand here--to the north room, I tell you!"</p>
+          <p xml:id="dlittle_13037">"Miss Dulcie, darlin', be sinsible now. I tell ye a hurt man brings no luck. An' Yer father, darlin'--think ov him. What'll he say?"</p>
+          <p xml:id="dlittle_13038">"The McDermot, whatever his faults, would not grudge hospitality to a dying man."</p>
+          <p xml:id="dlittle_13039">"Well, well! may be. But look here, now, my dearie! There's Sir Ralph to
+be thought of! If he should hear of this."</p>
+          <p xml:id="dlittle_13040">"Let him hear of it!" says	the girl, angrily. "Am I to study his wishes, even
+before I"--</p>
+          <p xml:id="dlittle_13041">She pauses, as if to finish the sentence is distasteful to her, and a frown contracts her exquisite, low, broad, Greek brow. "I'm tired of hearing of Sir Ralph!" says she a second later, in a clear, ringing, wrathful tone.</p>
+          <p xml:id="dlittle_13042">A tone loud enough to reach the ears of the foremost of two men who now enter the hall by the lower door.</p>
+        </div>
+        <div xml:id="dlittle_002" n="2" type="chapter">
+          <head>CHAPTER II.</head>
+          <epigraph>
+            <q>
+              <lg>
+                <l>"Oh, sweet Fancy! Let her loose;</l>
+                <l>Everything is spoiled by use."</l>
+              </lg>
+            </q>
+            <milestone rend="stars" unit="section"/>
+            <q>"There Is a garden in her face."</q>
+          </epigraph>
+          <p xml:id="dlittle_13043">He is a tall man, between thirty and thirty-two years, but looking considerably older. Not a handsome man-not even a commonly good-looking one. A more decidedly plain man In a well-bred way than Ralph Anketell it would be difficult to find. That his larger mouth is kindly and his small eyes earnest does little to redeem his face. But one thing at least he has: A magnificent figure. A better set-up man than he, or one stronger or more vigorous, is hardly to be found in the Irish county to which he belongs.</p>
+          <p xml:id="dlittle_13044">Miss McDermot's last words have been quite clear to him, and, being engaged to her, he may be pardoned for not finding them exactly palatable. Beyond a swift glance at the girl, however, he takes no notice of them, and the glance goes astray, as she is looking at the prostrate figure on the chairs rather than at him--a fact that comes home to Anketell with a little chill.</p>
+          <p xml:id="dlittle_13045">He had entered the big hall, beautiful even in its decay and disorder, by the lower door that leads to the garden, followed by Dulcinea's father. The latter--The McDermot--is a spare, tall, gaunt man, with dull eyes covered by overhanging brows, and a most dogged mouth. Perhaps from him the girl has taken her obstinacy and hatred of control, if from the dead mother she has inherited the great love of truth and honor and the well of hidden affection that lives almost unsuspected within her breast.</p>
+          <p xml:id="dlittle_13046">"What is this? what Is this?" demands her father, hurrying forward to where, in the dim growing of the autumn twilight, the silent figure lies.</p>
+          <p xml:id="dlittle_13048">Dulcinea, in a low tone, and with a slender hand uplifted, as if to insure
+<pb n="3 A LITTLE IRISH GIRL." facs="dlittle003"/>
+quiet for the wounded man, tells her tale. The whole scene makes a picture, hardly to be forgotten if once seen--as once sure it was.</p>
+          <p xml:id="dlittle_13049">The soft, gray, dying light, that scarcely lights up the grand old hall; the central figure prone, inanimate; the old woman there, with her white hair and cap and scornful air; the bending figure of the man-servant; and here, where the lights from the eastern window fall full upon her, the proud, slight figure of the girl, drawn to its fullest height and with the lovely face uplifted. The rays from the departing sun fall with a wintry rapture on her nut-brown hair, lighting it in parts to gold. She is looking stirred, anxious, she is leaning a little forward toward her father, and her eyes -- such eyes! blue, deep, heavenly blue; blue, like the ocean when it dreams of storm--are turned expectantly to his. Her lips are parted. And in the background, the two still figures--the father's and the lover's--both silent, wondering.</p>
+          <p xml:id="dlittle_13050">"He is ill, father; he will die if moved," says the girl, in soft tones fraught with fear.</p>
+          <p xml:id="dlittle_13051">"He--who is he?" asks The McDermot, suspiciously.</p>
+          <p xml:id="dlittle_13052">"Ah! of that we know nothing." Her hand is still uplifted. "But Bridget says he is to rest there--there!" with a swift gesture toward the comfortless lounge, "until the doctor comes."</p>
+          <p xml:id="dlittle_13053">"Certainly not!" says The McDermot, taking a step forward. "There! Here, Patsy, what are you about? Carry this stranger to--where, Dulcie?"</p>
+          <p xml:id="dlittle_13054">"The north room is the warmest. It has been prepared for Andy; but he may not come," says Miss McDermot. And even if he does--take care, Patsy. Father! his arm is broken!"</p>
+          <p xml:id="dlittle_13055">She runs to the body they are lifting and thrusts her own young arm under it, where the broken limb hangs helpless.</p>
+          <p xml:id="dlittle_13056">She is a second later a little surprised at finding herself thrust gently, if somewhat unceremoniously, aside.</p>
+          <p xml:id="dlittle_13057">"This is a man's work, not a woman's," says Sir Ralph, curtly, if courteously "You must try to forgive me if you find me in the way."</p>
+          <p xml:id="dlittle_13058">"Who is he, do you think, Bridget?" asks Miss MeDermot, half an hour later of her henchwoman, when she has soothed down that angry despot to a proper frame of mind.</p>
+          <p xml:id="dlittle_13059">"How can I tell, Ninny? He may be the divil himself for aught I know; an' fey. I wouldn't wondher. Who but the ould boy could come through that hog alive? What did he mane at all, I wondher, by comin' this way? Was there no one to warn him? or hadn't he an eye in his own head? But what's the good of an eye wid them English? Why, they haven't a grain o' sinse between thim."</p>
+          <p xml:id="dlittle_13060">"You think he's English?" eagerly.</p>
+          <p xml:id="dlittle_13061">"Couldn't ye see that much in the cock o' his nose? Faix, ye're near as blind as he is himself, if ye couldn't note that much, and the strange twist o' his tongue. Och! English, sure!"</p>
+          <p xml:id="dlittle_13062">"I don't think he looks English! He is so dark. Did you notice that? And from where is he? What is he?"</p>
+          <p xml:id="dlittle_13063">"One o' thim young gintlemen up at Ballybeg, I'm thinkin'. Two of 'em come last night, as I'm towld by Larry Murphy, the cab-driver. You know him, miss?"</p>
+          <p xml:id="dlittle_13064">"No--no," dreamily. "Not at all."</p>
+          <p xml:id="dlittle_13065">"What! Not Larry the Thief? Arrah, what ails ye at all, me dear?"</p>
+          <p xml:id="dlittle_13066">"Oh! Larry? Oh! of course," blushing furiously. "I thought you were talking of--of"--</p>
+          <p xml:id="dlittle_13067">"Well, I wasn't," says the.old woman, dryly. "I wouldn't presume to let me tongue run a race about them English folk."</p>
+          <p xml:id="dlittle_13068">"You really think the poor man we rescued was--is--an Englishman?"</p>
+          <p xml:id="dlittle_13069">"Sorra doubt of it! Bad scran to the day we saw him. Ye'll see now, miss, 'twill bring us no luck. An' naught but a wandherin' artist, I'd bet me life! The ould lord above there is cracked on fools o' that kind, I'm towld."</p>
+          <p xml:id="dlittle_13070">"Why should artists be fools?" asks Dulcinea, perhaps a little coldly.</p>
+          <p xml:id="dlittle_13071">"Well, for one thing, they niver has a penny to their name."</p>
+          <p xml:id="dlittle_13072">"We haven't a penny either," says the girl, with a superb straightening of her lovely figure. "Are we fools?"</p>
+          <p xml:id="dlittle_13073">"More or less," says Mrs. Driscoll. serenely--"yer father anyway! What's he bin doin' wid the property all these years? Makin' ducks and dhrakes o' it. However," says the old woman, "let McDermot do what he likes. It's not of the likes of him I'd dare spake the unkind word; but thim others!" with a contemptuous sniff. "What's thim? Nothin'! People as go thravelin' here an' there through the counthry, an' niver a roof to their heads or a grandfather to their portion. A McDermot shouldn't be named in the same day wid them, penny or no penny."</p>
+          <p xml:id="dlittle_13074">"Ah! the pennies count. Bridget," says the girl, with a quick but heavy sigh.</p>
+          <p xml:id="dlittle_13075">"Wid them that are risin', but not wid the ould stock," says the old woman, eagerly. "A McDermot poor is the same as a McDermot rich."</p>
+          <p xml:id="dlittle_13076">"No, no," shaking her head, sadly.</p>
+          <p xml:id="dlittle_13077">"Ye say that? The more shame to thim as makes ye feel it!" cries the old woman, fiercely, her lips quivering. "How dare any one forget 1he days, no so long distant, ayther, when this old house was the best in the County Cork, and when the McDermots could shake their fists in the faces of all their enemies?"</p>
+          <p xml:id="dlittle_13079">"I suppose we could do that now,"
+<pb n="4 A LITTLE IRISH GIRL." facs="dlittle004"/>
+says Dulcinea, laughing in spite of herself. Then, going back to her former mood, "Well, that's all over, Bridget," says she, impatiently. "The end of the McDermots has come. Father, as you know, is the last of them."</p>
+          <p xml:id="dlittle_13080">"No, I don't. There's you! there's you!" cries the old woman, hastily.</p>
+          <p xml:id="dlittle_13081">"A melancholy specimen," says the girl, with a rather sad laugh. "I'm afraid I should never summon up enough courage to shake my fist at anybody."</p>
+          <p xml:id="dlittle_13082">"There's one at whom you shake it often enough," says the old woman, reproachfully. "Take care ye don't do it once too often."</p>
+          <p xml:id="dlittle_13083">"Would the consequences," saucily, "be so disastrous, then?"</p>
+          <p xml:id="dlittle_13084">"Ah! now, me dear! ye know betther about that than I could tell ye!"</p>
+          <p xml:id="dlittle_13085">"Who could tell me if you couldn't?" purposely misunderstanding her. "And do I shake my fist at you, Bridget? And when I do it once too often, what," mischievously, "will you do to me then, eh?"</p>
+          <p xml:id="dlittle_13086">"Ah, you will have your joke, alanna! I know that, whativer comes o' it. But don't go too far wid Sir Ralph, miss; be careful, I'm tellin' ye. He's none o' yer soft sort. He"--</p>
+          <p xml:id="dlittle_13087">"Oh, bother Sir Ralph!" says the girl, turning with a little petulant gesture and walking away.</p>
+        </div>
+        <div xml:id="dlittle_003" n="3" type="chapter"><head>CHAPTER III.</head><epigraph><q><lg><l>"When a man is old</l><l>And the weather blows cold,</l><l>Well fare a fire and a furred gowne;</l><l> But when he is young,</l><l>And his blood new sprung,</l><l>His sweetheart is wirth half the towne!"</l></lg></q></epigraph><p xml:id="dlittle_13088">IT is a month later, and now very close to Christmas. Soft wreaths of snow hang upon every bough. Nature has spread herself a mantle so white, so chill, that scarce one dares to dream of life beneath it. In the old house, if nothing else is plentiful, fires are. To The McDermot warmth is gold--and so much gold he grants himself if in other ways he is compelled to study strict economy. Something in the brilliant glare of the huge pine logs lying on the massive lumps of glowing coal remind him in a measure of the days gone by, when he could hold up his head with the best, and keep open house for all his friends.</p><p xml:id="dlittle_13089">A whole Month! Thirty full days, and still the young man who had been brought in fainting to the old castle of the McDermots is the McDermot's guest. The doctor, summoned in haste, had pronounced him in a highly feverish state and unfit for removal. He had broken his arm out shooting in some unaccountable fashion, and the walking for miles afterward, trying in vain to find a short cut to Ballybeg, the residence of Lord Begmore, with whom he was staying, and the subsequent immersion in the castle bog and his exertions to escape from it, all had combined to render him as weak a creature as nature ever kept life in. To remove him had been impossible.</p><p xml:id="dlittle_13090">The McDermot. to whose sins inhospitality certainly never could be laid, had made his guest as welcome as possible. Lord Begmore, too, whose guest the young man was, had been assiduous in his attentions, calling every other day at first, and to the present moment sending flowers, fruit and game. These last were a godsend to Bridget and Dulcinea, who, with the short purse they held for housekeeping expenses, would hardly have known how to keep their guest in the little delicacies needful for an invalid without this help.</p><p xml:id="dlittle_13091">And after all he has not proved an artist! He has never "wandhered" in the sense Bridget had suggested, and certainly he has always had a grandfather and a roof over his head. In effect, he is a young man of family and next heir to a title, his father being dead, and he an only son, and his grandfather Lord Branscombe. So there certainly is no doubt about the grandfather.</p><p xml:id="dlittle_13092">His name is Lucien Eyre, and his appearance beyond argument. A better featured man it would be perhaps difficult to find. Miss McDermot came to this conclusion early in his stay with her, and even now, when he is mending, and one need not feel so altogether sentimental about him as when he lay stretched upon his bed, hovering between beautiful life and hideous death, she sees no cause to alter her decision. As a fact, he is distinctively handsome—of the dark Italian type one sometimes sees in English people. And at all events his free, laughing mouth and the tall, muscular figure he possesses are essentially English.</p><p xml:id="dlittle_13093">Yesterday he was well enough to be moved down to one of the lower rooms--a rather gaunt, impossible room, that had once been a school-room, to judge by the general break-up of the furniture. Miss McDermot had wished him to be brought to the drawing-room, the one decently, if poorly, kept-up room in the house; but he had begged to be taken to some other place, where the advent of visitors need not disturb him. So the old school-room had been requisitioned, and a comfortable chair put into it, next to a roaring fire.</p><p xml:id="dlittle_13094">"Well, how do you feel?" asks Dulcinea, coming into the room like a young spring breeze, all life and freshness. "Tired-eh ?"</p><p xml:id="dlittle_13096">She used to be afraid of him at first, when she learned he was so near to a title--afraid of the poverty of her own surroundings, that must be felt by him
+<pb n="5 A LITTLE IRISH GIRL." facs="dlittle005"/>
+so long as he was her father's guest; but he had proved so bright and so gay and so grateful for even the smallest mercies that her heart had gone out to him. Even the difficult Bridget had been conquered--in a measure!</p><p xml:id="dlittle_13097">She has stepped into the light of the jovial' fire, and is looking down at him with a little smile. He, from the depths of the ancient arm-chair, smiles back at her.</p><p xml:id="dlittle_13098">"I'm a swindle!" says he. "I feel as well as any fellow, only"--</p><p xml:id="dlittle_13099">"Only what?"</p><p xml:id="dlittle_130100">"Only I don't want to go," says he, in a low tone, but boldly.</p><p xml:id="dlittle_130101">"How good of you that is!" says she, slipping into a chair at the other side of the glowing hearth and spreading out her pretty, white fingers to the blaze. "Just pretending--to please me--that we have made you comfortable. Well," with a sigh, "we've done our best, father and I; but it hasn't been much. I know that."</p><p xml:id="dlittle_130102">The firelight has fallen on her face; she is leaning toward it, and the rays catching her blue eyes, light them up until they gleam like sapphires.</p><p xml:id="dlittle_130103">"I am not pretending," says the young man, leaning toward her. "And"--he paused. "Have you understood me?"</p><p xml:id="dlittle_130104">"H'm?" says she, using the light, soft, questioning sound that belongs to her and that has often struck him as being so delightful.</p><p xml:id="dlittle_130105">"No, you have not understood," says he now. "Dulcie, don't you know why I don't want to leave?--why, I would rather be an invalid forever than leave? Don't you--don't you know?"</p><p xml:id="dlittle_130106">"No," says she, shrinking from him a little and growing pale beneath the, firelight.</p><p xml:id="dlittle_130107">"Oh, you must know!" says he, vehemently. "For a whole week I have believed you knew. Last Monday, when you brought me those Christmas roses--and I took them--and you--you blushed--and, Dulcie"--</p><p xml:id="dlittle_130108">He breaks off suddenly, and, rising to his feet, comes over to her.</p> <p xml:id="dlittle_130109">"Dulcie, I love you."</p><p xml:id="dlittle_130110">"Oh, no! Oh, no!" cries she, sharply, rising in turn and drawing back from him. "You must not. You can not. Don't you know about me?"</p><p xml:id="dlittle_130111">"Know about you?"</p><p xml:id="dlittle_130112">"Yes. No man must love me," says the girl, putting out both her hands, as if in renunciation of all affections.</p><p xml:id="dlittle_130113">"But why? Darling, why?"</p><p xml:id="dlittle_130114">"Because I am engaged to be married," returns she, with terrible solemnity.</p><p xml:id="dlittle_130115">Being a young man of the world, this declaration might, on another occasion, have given him food for mirth, being, however, a young man of the world for
+once honestly in love, it only gives him food for consternation.</p><p xml:id="dlittle_130116">"Engaged!" is all he can say.</p><p xml:id="dlittle_130117">"Yes! yes! Indeed!" hanging her head.</p><p xml:id="dlittle_130118">There is so little joy in her announcement--so little of anything but grief in the hanging of her dainty little head, that grand courage comes to him.</p><p xml:id="dlittle_130119">"An engagement! What is that?" cries he, eagerly. "An engagement can be broken. Blessed thought! Now, if you had been married--though even so--well, but an engagement!"</p><p xml:id="dlittle_130120">"Ah! you don't know," says she. "This one can't be broken."</p><p xml:id="dlittle_130121">"Why not? And--who? Oh, Dulcie! I think you might have told me before something about it."</p><p xml:id="dlittle_130122">"It didn't occur to me," says Dulcie, opening her fingers in her little explanatory way. "Never! not for a moment."</p><p xml:id="dlittle_130123">"What didn't?" in a puzzled tone, "your engagement? But really you must have thought about that sometimes, anyway; and, besides"--</p><p xml:id="dlittle_130124">"That! Nonsense," says she. "What didn't occur to me was that you were--were"--she glances at him shyly and shamefacedly, "well--were--you know."</p><p xml:id="dlittle_130125">"Dulcie!" cries he.</p><p xml:id="dlittle_130126">"Oh, no!" cries she. "Don't touch me. It is so absurd. You couldn't be in love
+with me in a month, could you?"</p><p xml:id="dlittle_130127">"Couldn't I?" says he.</p><p xml:id="dlittle_130128">"Well, even if you could," says she, shaking her head dismally, "it isn't of
+any use. Father has made up his mind I am to marry him."</p><p xml:id="dlittle_130129">"Who?"</p><p xml:id="dlittle_130130">"Sir Ralph Anketell."</p><p xml:id="dlittle_130131">"Anketell?"</p><p xml:id="dlittle_130132">"Yes."</p><p xml:id="dlittle_130133">"Why, he's twice your age."</p><p xml:id="dlittle_130134">"Oh, no, he isn't!" says Miss McDermot, quickly. "He is thirty-four."</p> <p xml:id="dlittle_130135">"Looks more like ninety-four in my opinion, and as ugly as sin."</p><p xml:id="dlittle_130136">"I have read somewhere that sin is always beautiful," says she, sententiously.</p><p xml:id="dlittle_130137">"Then Anketell is as ugly as something else. He," gazing at her anxiously, "he is ugly, isn't he?"</p><p xml:id="dlittle_130138">"I don't think he is so ugly as you think him," says she, evasively.</p><p xml:id="dlittle_130139">"I believe you are in love with him," says Eyre, somewhat sulkily.</p><p xml:id="dlittle_130140">"You can believe what you like," returns she loftily.</p><p xml:id="dlittle_130141">Silence.</p><p xml:id="dlittle_130142">"Well, are you in love with him?" demands the young man, presently, with open ire.</p><p xml:id="dlittle_130143">"I'm in love with nobody," retorts she, with crushing meaning; "but father thinks it will he a good thing for me to marry Sir Ralph."</p><p xml:id="dlittle_130145">"And he—Sir Ralph—does he know you
+<pb n="6 A LITTLE IRISH GIRL." facs="dlittle006"/>
+are being coerced into a marriage with him?"</p><p xml:id="dlittle_130146">"I don't know what he knows."</p><p xml:id="dlittle_130147">"If he does he must be a mean hound!" cries Eyre, with passionate contempt.</p><p xml:id="dlittle_130148">"He is not a mean hound," says the girl, quickly. "I may not want to marry him; I may have been persuaded to engage myself to him; I may not care for him in the very least; but he is not mean and he is one of the kindest, best men I ever met."</p><p xml:id="dlittle_130149">"Well, never mind what I have said," puts in Eyre, quickly.</p><p xml:id="dlittle_130150">Her sudden defense of the man whom she so plainly does not love has struck him as a touch of nobility in her character. He can admire it the more as it seems to prove to him that love has no part in her defense.</p><p xml:id="dlittle_130151">"The thing I do want to know is—Dulcie! look at me! Tell me you will try to love me."</p><p xml:id="dlittle_130152">"Why should I try to love you?" says she, tears rising in her eyes. "Why should I try to love any one? I tell you, I am bound to marry Sir Ralph and—I must fulfill my promise."</p><p xml:id="dlittle_130153">"Surely not, if you yourself object to it."</p><p xml:id="dlittle_130154">"To what?"</p><p xml:id="dlittle_130155">"To the promise."</p><p xml:id="dlittle_130156">A pause.</p><p xml:id="dlittle_130157">"You do object to it?"</p><p xml:id="dlittle_130158">"I don't see that I have any right to object, the promise once given," says she, restlessly. "But I do for all that. It was father's doing. He thinks Sir Ralph perfection."</p><p xml:id="dlittle_130159">She shrugs her shoulders, then suddenly turns to him:</p><p xml:id="dlittle_130160">"Fancy!"says she,vehemently. "Fancy a girl being told she must marry a man whether she likes him or not!"</p><p xml:id="dlittle_130161">"I can fancy a girl being told to do it. I can't fancy a girl doing it," returns he, slowly.</p><p xml:id="dlittle_130162">"You mean" — hotly.</p><p xml:id="dlittle_130163">"Never mind what I mean just now. You tell me it was your father's doing?"</p><p xml:id="dlittle_130164">"Yes."</p><p xml:id="dlittle_130165">"That is enough for me. But Anketell ?"</p><p xml:id="dlittle_130166">"He knows nothing. He proposed to me through my father. I hated that," rebelliously. "Why couldn't he have come to me direct?"</p><p xml:id="dlittle_130167">"Why, Indeed?"</p><p xml:id="dlittle_130168">"He said he was afraid, when I asked him," says the girl, with a frowning brow, and speaking as if addressing herself only. "But—afraid!"</p><p xml:id="dlittle_130169">"He must be a fool," says Eyre, with conviction; and might have said more perhaps, if the dark-blue eyes had not suddenly raised themselves to his with a rather menacing expression in them. "Didn't he guess?" asks he, hastily.</p><p xml:id="dlittle_130170">"What?—that I didn't love him? No. There was nothing to guess about."</p><p xml:id="dlittle_130171">"You didn't tell him?"</p><p xml:id="dlittle_130172">"I told him I had no love to give him," says Dulcinea.</p><p xml:id="dlittle_130173">"Well?"</p><p xml:id="dlittle_130174">"He asked me then if I loved any one."</p><p xml:id="dlittle_130175">"Well?"</p><p xml:id="dlittle_130176">"Well, I said I didn't."</p><p xml:id="dlittle_130177">"Then!" significantly.</p><p xml:id="dlittle_130178">"When he heard I didn't love any one he seemed quite contented."</p><p xml:id="dlittle_130179">"But, did it never occur to him that in the future you—er—you might love some one? Eh?"</p><p xml:id="dlittle_130180">"There is so seldom 'some one' here," returns she, with a sigh.</p><p xml:id="dlittle_130181">At this moment the door is thrown open.</p><p xml:id="dlittle_130182">"Miss Dulcinea!" says Mrs. Driscoll, appearing on the threshold in her best bib and tucker and her worst temper. "Sir Ralph wants to see ye. He's just ridden over from The Towers."</p><p xml:id="dlittle_130183">Behind her appears Sir Ralph.</p><p xml:id="dlittle_130184">"Well—here I am." says Dulcinea, coldly. She rises with perfect calm, but in spite of herself a hot blush springs to her cheeks. She walks with a touch of defiance to the door.</p><p xml:id="dlittle_130185">"You want me, Sir Ralph?"</p><p xml:id="dlittle_130186">"Not here—not now," returns he, his tone ten times colder than her own. "If you will give me five minutes by-and-by in the drawing-room, it will do. Pray don't let me take you away from your guest now!"</p><p xml:id="dlittle_130187">He pauses and, looking toward Eyre, compels himself to be civil.</p><p xml:id="dlittle_130188">"Very glad to see you looking so much better," says he, with a ghost of a smile.</p><p xml:id="dlittle_130189">They have of course met during the past month.</p><p xml:id="dlittle_130190">"Thanks," says Eyre, not too graciously.</p><p xml:id="dlittle_130191">"I can come now, if you want me," says Dulcinea, perceiving her betrothed turn to the doorway, as if to go away.</p><p xml:id="dlittle_130192">"Thank you! An hour hence will do very well," replies he, coolly; and closes the door behind him.</p><p xml:id="dlittle_130193">"There!" says Dulcinea, looking at Eyre, with angry eyes full of tears; "what do you think of that? I'm sure I offered to go with him, didn't I? And you see how he treated me. You saw it, didn't you?"</p><p xml:id="dlittle_130194">"I saw it, indeed. Dulcie, why think of him at all? Why care? He is beneath your notice."</p><p xml:id="dlittle_130195">"Oh, he is more than that. He is a wretch. I hate him!" cries Dulcie, vehemently.</p><p xml:id="dlittle_130196">She stamps her small foot upon the ground, and then suddenly, for no such great reason certainly, she covers her face with her hands and bursts into a storm of tears.</p></div>
+        <pb n="7 A LITTLE IRISH GIRL." facs="dlittle007"/>
+        <div xml:id="dlittle_004" n="5" type="chapter">
+          <head>CHAPTER IV.</head>
+          <epigraph>
+            <q>
+              <lg>
+                <l>"Oh. mistress mine, where are you roaming?</l>
+                <l>Oh, stay and hear! Your true love's coming</l>
+                <l>That can sing both high and low; Trip no further, pretty sweeting."</l>
+              </lg>
+            </q>
+          </epigraph>
+          <p xml:id="dlittle_130198">IT is in a distinctly aggressive mood that she goes to the drawing-room an hour later, to keep her appointment with Sir Ralph. She finds him there, lounging in, a big chair, with his hands clasped behind his head, gazing moodily into the fire. There is a frown upon his brow that he does not attempt to get rid of, as he gets slowly on to his feet to receive her.</p>
+          <p xml:id="dlittle_130199">"You did not trouble yourself to hurry," says he, unpleasantly.</p>
+          <p xml:id="dlittle_130200">"You gave me the impression that any time would do," retorts she, with a little shrug of her pretty shoulders.</p>
+          <p xml:id="dlittle_130201">"No time would have suited you, I dare say," says he, bitterly.</p>
+          <p xml:id="dlittle_130202">"Much better, if you are going to be in a bad temper," with a touch of temper on her own part.</p>
+          <p xml:id="dlittle_130203">Anketell looks at her intently for a moment. There is a curious light in his eyes—a quick fire. He even moves his lips as if he would have spoken, but by a strong effort controls himself.</p>
+          <p xml:id="dlittle_130204">"Is my temper the only thing against me?" asks he, presently, with a smile that, if still resentful, is also very sad.</p>
+          <p xml:id="dlittle_130205">"I have made no complaint," returns she, icily.</p>
+          <p xml:id="dlittle_130206">"Then I wish you would!" cries he, fiercely, his late control flung to the winds, and a very storm of passion shaking him. "What! do you think I am a stone, or a fool, that I can't see how you treat me. Find your fault! State it! Let me see where I fail!"</p>
+          <p xml:id="dlittle_130207">"If," says Miss McDermot, laying her hand on the back of the chair nearest her, "if it was to—to roar at me you asked me to meet you here, I think you would have done better to reserve your invitation."</p>
+          <p xml:id="dlittle_130208">She is very pale as she thus defies him, but her lovely head is well thrown up, and battle declares itself in every feature.</p>
+          <p xml:id="dlittle_130209">"Well—I beg your pardon," says Anketell, with the air of a man who, finding the matter hopeless, gives in. "Let us" —grimly—"presume I have no fault."</p>
+          <p xml:id="dlittle_130210">"By all means," acquiesces she, demurely.</p>
+          <p xml:id="dlittle_130211">"There were some papers to be signed with regard to our marriage," says he; "that was why I asked you to come here; but you delayed so long that—"</p>
+          <p xml:id="dlittle_130212">" Well—what?"</p>
+          <p xml:id="dlittle_130213">"I fancied you were very happy where you were, and so I would not have you disturbed. I told your father I could come again to-morrow, and so could the
+solicitor. You see," satirically, "I have always your interests at heart."</p>
+          <p xml:id="dlittle_130214">"You are too good," returns she, with a satire of her own—so fine that his sinks into significance. Then, quite suddenly, she turns to him, and crossing the room, reaches the hearth-rug on which he is standing. "What is it all about?" asks she, with a change from finesse to utter straightforwardness. "Something has vexed you. What?"</p>
+          <p xml:id="dlittle_130215">"Ah! so much you have troubled yourself to discover," says he, with a harshness that she is clever enough to know is born of grief. "Something! How many things? I wonder. My life for the past month has been a hell. Because I don't say much, you think I cannot feel at all. What do you think I felt on the first cursed evening, when that fellow came beneath your roof—when you told old Bridget that you were 'tired of hearing of Sir Ralph?' "</p>
+          <p xml:id="dlittle_130216">She is standing opposite to him, with the fire-light illuminating her face. A little quick shiver seems to pass over her; but beyond that she makes no sign.</p>
+          <p xml:id="dlittle_130217">"I suppose you mean—that you wish —to break—our engagement," says she, her voice coming from her in little broken pieces.</p>
+          <p xml:id="dlittle_130218">"That! No. That is the last thing I should mean."</p>
+          <p xml:id="dlittle_130219">"And yet, if you believe me tired of you, surely you would wish to"—</p>
+          <p xml:id="dlittle_130220">"I should not," coldly.</p>
+          <p xml:id="dlittle_130221">"Not even then? Tired of you! You heard me say that, and still"</p>
+          <p xml:id="dlittle_130222">"I shall never break off my engagement with you." says he, slowly. "Never! I shall leave the breaking of our engagement to you."</p>
+          <p xml:id="dlittle_130223">"You mean," says she, in a little choking voice, "that you will leave all the odium of it upon me?"</p>
+          <p xml:id="dlittle_130224">"I mean that I shall never break with you until you break with me."</p>
+          <p xml:id="dlittle_130225">"You are a tyrant!" cries she, suddenly. "You don't care for me, yet you will hold me in spite of me!"</p>
+          <p xml:id="dlittle_130226">"Is that your reading of it?"</p>
+          <p xml:id="dlittle_130227">"Yes, that is what I think—what I honestly think. Do you know," looking straight up at him, her charming angry face brilliant with emotion, "I believe that in your heart you hate me, and that the punishment you have laid out for me is to marry me!"</p>
+          <p xml:id="dlittle_130228">"Is that what you think, Dulcinea?" A step takes him to her, and a moment gives him time to catch her firmly by both arms, and so hold her that he can compel her to meet his gaze. "You think that of me? And why? Why? Look here!" with sudden passion, "how dare you so think of me? You whose sole delight seems to be to ruin an honest man's happiness, how dare you so misjudge me? There!" releasing her. "Go! I am a fool to suffer as I do."</p>
+          <pb n="8 A LITTLE IRISH GIRL." facs="dlittle008"/>
+          <p xml:id="dlittle_130230">He thrusts her from him, and, walking toward the window, flings it up and steps into the growing night.</p>
+        </div>
+        <div xml:id="dlittle_005" n="5" type="chapter">
+          <head>CHAPTER V.</head>
+          <epigraph>
+            <q>
+              <lg>
+                <l>"Thou didst delight mine ear;</l>
+                <l>Ah! little praise; thy voice</l>
+                <l>Makes other hearts rejoice,</l>
+                <l>Makes all hearts glad that hear."</l>
+              </lg>
+            </q>
+          </epigraph>
+          <p xml:id="dlittle_130231">MISS McDERMOT, thus abandoned, stands alone for a full minute motionless. Doubtless her first feeling is astonishment, in that this heretofore abject love of hers has now proved so masterful. But the next is rage—pure and simple.</p>
+          <p xml:id="dlittle_130232">To treat her like that! He! Ralph! who had been so humbly glad when she had fallen in with her father's views about him, and permitted him to be engaged to her. The world must be coming to an end!</p>
+          <p xml:id="dlittle_130233">She is staring through the window that has seen him depart. Her hands are hanging by her sides. Her tall, slight figure has grown rigid.</p>
+          <p xml:id="dlittle_130234">The world must be coming to an end; but whose world? His, or hers? Who is to fail in this encounter? Which of them will be counted among the slain?</p>
+          <p xml:id="dlittle_130235">Not she, at all events. Despite the wild throbbing in her throat, she commands herself so far as to forbid the tears that are struggling for an opening. He may still be there—out there in the chill of the exquisite early night, and he might see.</p>
+          <p xml:id="dlittle_130236">He! Tyrant! And to this man her father has given her! A man, who, on the smallest provocation, has showered insult upon insult upon her head. Well, he shall see! Father or no father, she will never marry him! Oh, he shall see!
+She grinds her little lovely white teeth together, and with a last defiant glance at the window leaves the room.</p>
+          <p xml:id="dlittle_130237">In the hall she checks herself. An idea —a thought of vengeance has occurred to her. This other—this stranger; he loves her, at all events. In him lies a chance of rescue! Rescue from marriage with this detestable man, who has told her so many horrible things all about herself, and all, naturally, untrue.</p>
+          <p xml:id="dlittle_130238">She opens the door of the old schoolroom, and enters it with a vengeance that can hardly be misunderstood.</p>
+          <p xml:id="dlittle_130239">"Something has happened," says Eyre, getting on his feet with some difficulty. "What is it, Dulcie?"</p>
+          <p xml:id="dlittle_130240">"Oh, he has behaved abominably," says she, her eyes flashing. "He said the most cruel things."</p>
+          <p xml:id="dlittle_130241">"Never mind him, darling. Come and sit down by me, and let us try to find a way out of our difficulties."</p>
+          <p xml:id="dlittle_130242">"But I must mind him!" cries she, indignantly. "Why, I can't tell you all he said."</p>
+          <p xml:id="dlittle_130243">"I'm so glad of that,"puts he in, soothingly.</p>
+          <p xml:id="dlittle_130244">"But I must tell you for all that," with charming inconsistency. "I remember every word. They seem burned into my brain. Oh! he was so rude! Fancy him telling me I had ruined his life!"</p>
+          <p xml:id="dlittle_130245">It seems to me that he is trying to ruin yours."</p>
+          <p xml:id="dlittle_130246">Mine?" She gazes at him for a moment, as if not quite understanding this, and then: "You don't understand," says she. "How could he ruin mine? But never mind that, that's folly! Just hear the other dreadful things he said. He began by telling me"—</p>
+          <p xml:id="dlittle_130247">"Dulcie!"—he checks her by a waving hand. "After all, you know, he can't have wanted me to hear him. We needn't go into details, need we? It is enough for me to know that he has been—well—beastly to you."</p>
+          <p xml:id="dlittle_130248">"Beastly! he hasn't been that," says she, with quite unexpected fervor. "Beastly is a vulgar word. He has been horrid. I," with a decision that carries a frown with it, "don't deny that; but he has never been beastly!"</p>
+          <p xml:id="dlittle_130249">"You are a generous foe," says Eyre, smiling. Her generosity, indeed, strikes him as being something out of the way, something beyond words—charming. It would have been so easy to her to abuse this troublesome—this so evidently undesired lover. And yet she cannot bring herself in her integrity to deny any small virtue he may possess. "Well, then, we will let him slide, if you like; no use talking about a low sort of hound like that."</p>
+          <p xml:id="dlittle_130250">"What abominable language you use!" says she. "Even if Sir Ralph has behaved unkindly to me, I don't see why you, a stranger, should call him a—a—er— bad names."</p>
+          <p xml:id="dlittle_130251">"You are quite right, and I am wrong," says Eyre, giving in delightfully. "But surely—now, after all you have told me, you don't still feel bound in duty's chains to marry that disagreeable person."</p>
+          <p xml:id="dlittle_130252">"Certainly not," says she, with a firm compression of her mouth. "If there is one thing on earth about which I have quite made up my mind, it is that I shall never marry Sir Ralph."</p>
+          <p xml:id="dlittle_130253">"And a good thing, too," says he. "You mean it?"</p>
+          <p xml:id="dlittle_130254">"Can't you see that I mean it?" turning to him an extremely pale and unhappy face.</p>
+          <p xml:id="dlittle_130255">"I can't," says he, gazing at her regretfully. "I can see only one thing, and that is that you are unhappy."</p>
+          <p xml:id="dlittle_130256">"Of course I'm unhappy, after the scolding I have just undergone. Why, father never scolded me as he did!"</p>
+          <p xml:id="dlittle_130257">"Can't you forget him?" says Eyre, imploringly.</p>
+          <p xml:id="dlittle_130259">"I can't. It is very hard to forget the people one hates. However, whether I
+
+<pb n="9 A LITTLE IRISH GIRL." facs="dlittle009"/>
+forget or remember him, my mind is made up: I sha11 never marry him."</p>
+          <p xml:id="dlittle_130260">"Marry me instead!" says Eyre, boldly.</p>
+          <p xml:id="dlittle_130261">"You?" It would be impossible to describe the amount of astonishment she has thrown into this word.</p>
+          <p xml:id="dlittle_130262">"Yes. Why not? You know—I have told you—how I love you. Give yourself to me. Let me rescue you from this tyranny that is oppressing and destroying your life."</p>
+          <p xml:id="dlittle_130263">"Tyranny!" repeats she, as if struck by the word. "Yes, he is a tyrant, isn't he?"</p>
+          <p xml:id="dlittle_130264">"Oh, never mind him. By all accounts, he's not worth a thought," says Mr. Eyre, with sovereign contempt.</p>
+          <p xml:id="dlittle_130265">"Whose accounts."</p>
+          <p xml:id="dlittle_130266">"Yours."</p>
+          <p xml:id="dlittle_130267">"Mine?"</p>
+          <p xml:id="dlittle_130268">"Well, haven't you abused him to me? Haven't you had cause to do so?"</p>
+          <p xml:id="dlittle_130269">"Oh, cause!" says she. She grows silent, and stands near him with gaze bent upon the ground and brows drawn together. Suddenly she looks up at him, and he can see that her eyes are full of tears.</p>
+          <p xml:id="dlittle_130270">"Dulcie," cries he, impulsively, "you are unhappy. Why should any one be unhappy? We have so short a time to live that it is folly not to make the best of every hour of it. Forget all this. Throw up your engagement, and marry me."</p>
+          <p xml:id="dlittle_130271">"Oh!" faintly, "I couldn't."</p>
+          <p xml:id="dlittle_130272">"What! Will you stay here, then, and marry that man?"</p>
+          <p xml:id="dlittle_130273">"Never! Never!"</p>
+          <p xml:id="dlittle_130274">"Why not let him see at once, then, that he has no power over you—that his impertinent lecturing can be directed at somebody else, not at you?"</p>
+          <p xml:id="dlittle_130275">"I should like to let him know that, certainly," says she, her eyes flashing vindictively."</p>
+          <p xml:id="dlittle_130276">"Let me speak to your father, then."</p>
+          <p xml:id="dlittle_130277">"He—would be so angry," says she, hesitatingly. "And," quickly, "it would be of no use, either."</p>
+          <p xml:id="dlittle_130278">"You look as if you were glad of that."</p>
+          <p xml:id="dlittle_130279">"Why should I look glad? I'm not glad about anything," says she, sadly—so sadly that he forgets his suspicion of her, and goes back to his first thought.</p>
+          <p xml:id="dlittle_130280">"Let me try your father, at all events. Let me tell him how miserable you are; that you can't bear to marry Anketell, and"—</p>
+          <p xml:id="dlittle_130281">"You may certainly tell him that!" vehemently. "I shall never marry Sir Ralph, not if he lived to be a thousand years old."</p>
+          <p xml:id="dlittle_130282">"I may try your father, then? You authorize me?"</p>
+          <p xml:id="dlittle_130283">"Yes"—slowly—"you can try."</p>
+          <p xml:id="dlittle_130284">"Dulcie!" says he, quickly, "do you know what that permission means? Do you, darling?"</p>
+          <p xml:id="dlittle_130285">He has caught her hand, and would have drawn her to him, but something in
+her face, something thoughtful, troubled, prevents him.</p>
+          <p xml:id="dlittle_130286">"Let me tell you something," says she: "that, though ,we are engaged, Sir Ralph never once called me that."</p>
+          <p xml:id="dlittle_130287">"Called you —what?"</p>
+          <p xml:id="dlittle_130288">"Darling."</p>
+          <p xml:id="dlittle_130289">"Oh, he's a fool!" says Mr. Eyre, with conviction. "But do you understand, darling? If I speak to your father, with your permission, it means that, if I succeed with him, you will marry me."</p>
+          <p xml:id="dlittle_130290">"Does it?" says she, with a sigh. "Well," sinking into a chair, and clasping her knees with her sling fingers, "you won't succeed. Father will never give in."</p>
+          <p xml:id="dlittle_130291">"I certainly couldn't if I were Anketell's inferior," said the young man, judicially; "but my prospects are as good as his any day."</p>
+          <p xml:id="dlittle_130292">"I don't care about prospects," says Miss McDermot. "What I want is to feel free. I can't bear being ordered to do things. You said you could imagine a girl being told to marry a man, but that you could not imagine a girl doing it. You remember?"</p>
+          <p xml:id="dlittle_130293">"Against her will."</p>
+          <p xml:id="dlittle_130294">"Oh, that's the same thing," says she. "If she wanted to marry him, she wouldn't want to be told to do it."</p>
+          <p xml:id="dlittle_130295">"True," says he.</p>
+          <p xml:id="dlittle_130296">"To be ordered to do a thing is at once to want not to do it. That is true, also, isn't it?" says she.</p>
+          <p xml:id="dlittle_130297">"Nothing truer."</p>
+          <p xml:id="dlittle_130298">"Well, you thought me weak and detestable , then I told you I had promised to marry Sir Ralph."</p>
+          <p xml:id="dlittle_130299">"I thought then" — distinctly — "just what I think now, that no woman should marry any man unless she loved him. It is an injustice both to him and to herself; and you—you don't care for Anketell."</p>
+          <p xml:id="dlittle_130300">"I have told you that I hate him," says she, making no direct answer; "but if I were to break with him! You"—lifting her eyes to his—"you don't know father; he—I don't really know what would happen if he heard I did not want to marry Sir Ralph."</p>
+          <p xml:id="dlittle_130301">"Why, your marriage with me—that is the first thing that would happen"—with a smile. He takes her hands and carries them to his lips. "I love you. You know that, Dulcie, don't you? You do know it?"</p>
+          <p xml:id="dlittle_130302">"Oh, yes! I know it," says she, with a quick, long sigh, and a droop of her pretty head.</p>
+          <p xml:id="dlittle_130304">This calm acknowledgment of his passion for her strikes Eyre with a sort of shock. Involuntarily he glances at her; and examination of that lovely face disarms unkind criticism. The poor child is so unhappy that she has forgotten to dissemble. Girls of this sort he has been accustomed to meet in town and fashion-
+<pb n="10 A LITTLE IRISH GIRL." facs="dlittle010"/>
+able country houses would have pretended to doubt his .love, with a view to stronger expression of it; but this poor little girl is too hardly pressed by circumstances, and is too altogether a child of nature, to hide her honest beliefs. So much the better. And what a charming little head it is, bent like that, with the soft, sunny, nut-brown curls wandering over the broad forehead, and the delicate contour of cheek and chin laid bare! What one among all those polished women of the world of whom he has just now thought could compare in grace and breeding with this sweet, perfect flower of country growth?</p>
+          <p xml:id="dlittle_130305">"I may speak to your father, then?" says he.</p>
+          <p xml:id="dlittle_130306">'Eh?" says she, as if rousing out of a reverie; and then, "Yes, yes!"—feverishly—"do. The sooner I can feel that he and I are separated forever—the better." This outburst, incoherent as it is, has evidently something to do with the reverie into which she had fallen.</p>
+          <p xml:id="dlittle_130307">"You mean Anketell?" says Eyre, watching her.</p>
+          <p xml:id="dlittle_130308">"Yes," nodding her head with determination; "I have been thinking, and it seems to me he wants me quite as little as I want him. Let him go, then."</p>
+          <p xml:id="dlittle_130309">"By all means."</p>
+          <p xml:id="dlittle_130310">"You think—anxiously—"as I do, don't you?—that he doesn't care for me, either?"</p>
+          <p xml:id="dlittle_130311">"I have never thought about him. If you thought of him as little as I do, it would be better for you."</p>
+          <p xml:id="dlittle_130312">"Ah! yes. But I have told you how hard it is not to let the mind dwell on the people who torment one most." She stops and looks searchingly at him. "Do you know," says she, slowly, "I have come to the conviction that he hates me."</p>
+          <p xml:id="dlittle_130313">"He's brute enough for anything, in my opinion."</p>
+          <p xml:id="dlittle_130314">"And that he would be glad to know our engagement at an end."</p>
+          <p xml:id="dlittle_130315">"Why, if so," says he, joyously, "our task is half accomplished. Why not let me speak to him, in a casual sort of way, you know, not mentioning anything exactly, but"—</p>
+          <p xml:id="dlittle_130316">"No, I forbid you to do that!" says she, almost fiercely. "Speak to father, if you will, but not to him."</p>
+          <p xml:id="dlittle_130317">"I see. I am sorry, darling, I suggested it. Of course you would not care to appeal to him in any way. Not that I meant anything like appealing; I thought only of giving him a loophole of escape."</p>
+          <p xml:id="dlittle_130318">"Escape?"</p>
+          <p xml:id="dlittle_130319">"From this foolish engagement between you and him, where love has no part on either side."</p>
+          <p xml:id="dlittle_130320">"Oh! I see," says she, and bursts out laughing. Such curious laughter-laughter so extreme that it brings tears to her eyes. "You think he would be glad of a chance to find himself free again?"</p>
+          <p xml:id="dlittle_130321">"I guess so much from what you have told me, and the sourness of his expression whenever I have seen you with him."</p>
+          <p xml:id="dlittle_130322">"You have guessed rightly,"says she,standing up and looking down at him
+with parted lips and brilliant eyes.'I myself have noticed how changed he has been of late. He is tired—tired of me." She laughs again: it is the strangest little laugh. "Fancy two people wishing to get rid of each other, and not knowing how to do it! But I shall help him—I shall let him go free."</p>
+          <p xml:id="dlittle_130323">"To-morrow, then, I shall speak to your father."</p>
+          <p xml:id="dlittle_130324">"To-morrow? Must you put it off until tomorrow?" She has grown as anxious now for him to interview her father as she had been frightened about it before. "Well—and say everything. Everything you can about my—my dislike to Sir Ralph. You might even call it hatred. You know I told you I hated him. Yes, say I hate him."</p>
+          <p xml:id="dlittle_130325">"I'll say all I know," says Eyre fervently. "You may be sure I sha'n't let a single point be lost."</p>
+          <p xml:id="dlittle_130326">"I must go now," says she, rising. She is looking very pale and tired. "There are some things I must attend to. I sha'n't see you again to-night."</p>
+          <p xml:id="dlittle_130327">"Not to-night? Why, it is only six o'clock now!"</p>
+          <p xml:id="dlittle_130328">"Six o'clock! Is it really so late? Time for all invalids to be in bed," says she, smiling, though half-heartedly.</p>
+          <p xml:id="dlittle_130329">"I expect you will be glad to get rid of me," says he, smiling in turn, and by no means believing in his words.</p>
+          <p xml:id="dlittle_130330">"No," returns she, shaking her head.</p>
+          <p xml:id="dlittle_130331">"That is well, because, as things stand, you are not likely ever to get rid of me. But- What a hurry you are in, Dulcie! I suppose, if the doctor is to be relied on, I shall be able to move by the end of the week?"</p>
+          <p xml:id="dlittle_130332">"You mustn't hurry yourself; you must be careful not to undo all the good work he has done," says she, kindly, hospitably. "And, to begin with, you ought to be in bed now, surely. I shall send Patsy."</p>
+          <p xml:id="dlittle_130333">She moves to the door. Patsy, the factotum, has been in the habit, up to this, of helping Mr. Eyre from one room to another. At the door, however, she pauses, and looks back at him. Her eyes are troubled.</p>
+          <p xml:id="dlittle_130334">"You needn't be uneasy," says he, lightly. "I'm all right; better than I ever was."</p>
+          <p xml:id="dlittle_130335">"Yes, I think you do look better," says she, softly. "But there was something," confusedly, "I wanted to say to you; and you have put it out of my head." She turns again to the door, hesitates again, and looks back at him.</p>
+          <pb n="11 A LITTLE IRISH GIRL." facs="dlittle011"/>
+          <p xml:id="dlittle_130337">"By the bye, did I abuse him to you?" asks she.</p>
+          <p xml:id="dlittle_130338">"Him—who? Oh! that fellow! Anketell ?"</p>
+          <p xml:id="dlittle_130339">"Yes."</p>
+          <p xml:id="dlittle_130340">"Well, you did, rather. Why?" He has crossed the room to her.</p>
+          <p xml:id="dlittle_130341">"Oh, nothing!" letting him take her hand and caress it; "only it sounds horrid, doesn't it?"</p>
+          <p xml:id="dlittle_130342">"What does?"</p>
+          <p xml:id="dlittle_130343">"Why, horrid to abuse anybody. It isn't a nice thing to do—eh? Your other friends—the girls you know, I mean—who are in society, they wouldn't do it, would they?"</p>
+          <p xml:id="dlittle_130344">"Do what, darling?"</p>
+          <p xml:id="dlittle_130345">"Why speak unkindly of people, even their enemies, openly."</p>
+          <p xml:id="dlittle_130346">"Oh, wouldn't they, though!" says Mr. Eyre, giving way to mirth. "My word, you don't know them! You should hear them sometimes, and," with tender meaning, and a loving glance at her, "you shall some day, I hope; and believe me, they will open your eyes. The way they abuse their enemies is frightful—one is prepared for that; by the way, they abuse their friends—that's a surprise, if you like!"</p>
+          <p xml:id="dlittle_130347">"I shouldn't like," says Dulcinea, disparagingly.</p>
+          <p xml:id="dlittle_130348">"I know it. That's why I love you so," says he, frankly. "Well, to-morrow, then, Dulcie," detaining her, "you give me leave to try my—our—luck to-morrow?"</p>
+          <p xml:id="dlittle_130349">"Yes." She pauses; and then "Yes!" again, with sudden vehemence. "Oh, how 1 should like to show him how independent I am of him."</p>
+          <p xml:id="dlittle_130350">"After all, it is hard to be independent of one's father," says Eyre.</p>
+          <p xml:id="dlittle_130351">Miss McDermot stares at him for a moment. Her father!</p>
+          <p xml:id="dlittle_130352">Then she turns and runs away. It seemed to her impossible to explain.</p>
+        </div>
+        <div xml:id="dlittle_006" n="6" type="chapter">
+          <head>CHAPTER VI.</head>
+          <epigraph> <q><lg><l>"I've a sweetheart blithe and gay</l><l> Fairer far than fabled fay,</l><l>Light and airy.</l><l>She is bright and debonnaire, </l><l>Softly falls her golden hair. </l><l>I all other loves forswear,</l><l>Little fairy!"</l></lg></q></epigraph>
+          <p xml:id="dlittle_130353">MR. EYRE, having brought himself to a thorough belief in Dulcinea's misery, dwells upon it. That she has been forced into an engagement with a most objectionable man by a mercenary father, seems to him the correct reading of her history so far. To alter that history seems to him also to be the work allotted to him. Her beauty has come home to him with a persistency that has dwarfed all other beauty remembered or imagined, and the plaintive face of his pretty hostess has awakened in his breast a chivalrous desire to hazard all fortunes in her cause. As a fact, he has fallen in love with her: if not very seriously, still seriously enough to make him ambitious of making her his wife. A considerable zest is added to his passion by the belief that he, and he alone, can save her from a "loveless union"—this is how he puts it—with another—and that a most despicable creature, according to her account. The certainty that she is wearing her heart away with grief—that joy is unknown to her—that she is fast growing into a state of mind that will produce consumption in the body—is somewhat rudely destroyed by her entrance into the old schoolroom next morning, shortly after his own descent into that time-honored apartment.</p>
+          <p xml:id="dlittle_130354">"Oh! I've such news—such news!" cries she, rushing and banging the door behind her with an emphasis that makes his nerves—still rather beyond his control—jump again.</p>
+          <p xml:id="dlittle_130355">It is evident that she has run straight to him with her news, whatever it is. Her pretty hair is flying all over her head, her eyes are sparkling. Smiles wreathe her charming lips. She is waving a telegram over her head. The very incarnation of joy and fresh young life might be painted from her as she stands there laughing, triumphant. She is looking lovely.</p>
+          <p xml:id="dlittle_130356">"A telegram from that fellow breaking off the engagement," decides Eyre, within himself. "It is settled, then?" says he, quickly.</p>
+          <p xml:id="dlittle_130357">"Oh, yes—a certainty this time!"</p>
+          <p xml:id="dlittle_130358">"Then I needn't speak to your father?"</p>
+          <p xml:id="dlittle_130359">"To father?" as if puzzled. "Oh, he knows of it! He will be glad, too!"</p>
+          <p xml:id="dlittle_130360">"Your father?"</p>
+          <p xml:id="dlittle_130361">"Why, yes—yes—yes!" almost dancing up to him. "Do you think that, because they have had a skirmish or two, father won't be pleased to see him? I tell you he is pleased! And so will you be when you see my Andy!"</p>
+          <p xml:id="dlittle_130362">"Your what?" Mr. Eyre has retreated to his chair once more.</p>
+          <p xml:id="dlittle_130363">"Andy! He's coming! Haven't you understood? He's coming to-day!"</p>
+          <p xml:id="dlittle_130364">"And who is Andy?" demands Mr. Eyre, feeling a trifle aggrieved. Of course, he tells himself, he is glad of anything that has lightened the burden that so hardly presses upon her. But that it should be—Andy! And such a very beloved Andy, to judge by appearances! What a name! Perchance, after all, Andy is a girl: Andromeda, Andromache. Some people call their children by queer names, and Andy might be the abbreviation of either of these.</p>
+          <p xml:id="dlittle_130365">"Not know Andy?" cries Dulcinea, lifting her brows.</p>
+          <p xml:id="dlittle_130366">"A friend of yours?"</p>
+          <p xml:id="dlittle_130367">"Yes," smiling.</p>
+          <pb n="12 A LITTLE IRISH GIRL." facs="dlittle012"/>
+          <p xml:id="dlittle_130369">"Evidently a nice girl?" hazards Mr.Eyre.</p>
+          <p xml:id="dlittle_130370">"A girl! Andy a girl"Miss McDermot breaks into irrepressible laughter. "Oh, wait till he hears that! Why, he has just been gazetted to the Eighteenth Hussars!"</p>
+          <p xml:id="dlittle_130371">"Ah!" somewhat stiffly. "Brother, perhaps?"</p>
+          <p xml:id="dlittle_130372">"No. No, indeed. I"—as if by no means sorry for the fact—"have no brother. But Andy is better than a brother."</p>
+          <p xml:id="dlittle_130373">"Is he? As" — disagreeably — "you haven't had one, I don't quite see how you can know that."</p>
+          <p xml:id="dlittle_130374">"I've seen other girls, and heard what they said of theirs," said Dulcinea, sagely.</p>
+          <p xml:id="dlittle_130375">'Then this Andy is"—</p>
+          <p xml:id="dlittle_130376">"My cousin. And such a nice one!" says Miss McDermot, warmly. "Fancy your not having heard of him! Well, when you see him you'll know him all in a moment. He"—happily—"is such fun!"</p>
+          <p xml:id="dlittle_130377">"Is he?"</p>
+          <p xml:id="dlittle_130378">"Oh, wait—wait! By the bye," bringing out her left hand from behind her back, "I had nearly forgotten, but I found these, and I brought them to you. Violets! Smell them," thrusting them under his nose. "Delicious, aren't they? I found them under the ivy wall. Andy and I planted them there last year."</p>
+          <p xml:id="dlittle_130379">"Andy and you seem to be great friends," says he, in a gentler tone, taking her hand, violets and all, and holding it. Somehow it has come to him that this charming child is not in love with "Andy," however delightful that young gentleman may be.</p>
+          <p xml:id="dlittle_130380">"Oh, the best, the dearest! I don't disguise from you," says Miss McDermot, growing suddenly serious, "that at times we quarrel. We"—thoughtfully—"quarrel a good deal when together. But when Andy is away from me—ah! then I know what a perfect darling he is!"</p>
+          <p xml:id="dlittle_130381">"'Absence makes the heart grow fonder,' " murmurs Mr. Eyre, wisely refraining from a smile. "And Andy, how does he regard you—here—and there?"</p>
+          <p xml:id="dlittle_130382">" 'Here,' as I tell you," says she, with a fresh, delicious laugh, "he makes himself abominable now and then. "But when he is 'there'—oh, then Andy loves me!"</p>
+          <p xml:id="dlittle_130383">"I should think you and he should always be 'there,' " says her companion, gravely.</p>
+          <p xml:id="dlittle_130384">"Well, I don't. I'm delighted he's coming. Bless me!" glancing at the clock, "I've only half an hour to see about his sheets and things! And I don't believe Bridget has thought about lighting a fire in his room. There! Good-by for a while. I must run. He'll kill me if he finds himself without a fire in his room!"</p>
+          <p xml:id="dlittle_130385">She rushes out if the room as she had entered it—like a heavenly spring wind that brings only joy to the receiver of it.</p>
+          <p xml:id="dlittle_130386">Eyre, staring after, feels a quick throb at his heart.  What a delight she is!  How different from most girls! And this cousin of hers—this Andy! No doubt he is a young Adonis: a "curled darling"—a creature, half boy, half man, and wholly charming. But she is not in love with him. So much can be read by those who run.</p>
+          <milestone rend="stars" unit="section"/>
+          <p xml:id="dlittle_130387">When he does see Andy, which is three hours later, his astonishment knows no bounds.  Andy is indeed a revelation! He is perhaps the ugliest Irishman on record; and that is saying a good deal. As handsome as Irishwomen undoubtedly are, so in proportion are Irishmen hideous.</p>
+          <p xml:id="dlittle_130388">But his manners make up for a good deal. He is full of bonhomie, brimming over indeed with the milk of human kindness. In the course of the five minutes he is permitted to spend with Mr. Eyre, who is still considered an invalid, he fires off as many jokes as would have made a reasonable supply for a month with anybody else.</p>
+          <p xml:id="dlittle_130389">Having then said he felt he ought to go and present himself to The McDermot, who is his guardian, he beats a retreat, dragging Dulcie into the corridor outside as he goes.</p>
+          <p xml:id="dlittle_130390">"I say, he isn't half a bad fellow; but he isn't fit to hold a candle to Sir Ralph," says he, in a whisper, still clutching Dulcie by the arm.</p>
+          <p xml:id="dlittle_130391">"You know my opinion of Sir Ralph!" returns she, trying unavailingly to extricate herself from his grasp.</p>
+          <p xml:id="dlittle_130392">"Girls never have an opinion worth a ha'penny!" retorts he, letting her go with a disgusted grimace.</p>
+          <p xml:id="dlittle_130393">Already one of the quarrels!</p>
+        </div>
+        <div xml:id="dlittle_007" n="7" type="chapter">
+          <head>CHAPTER VII.</head>
+          <epigraph>
+            <q>
+              <lg>
+                <l>"Honor's a mistress all mankind pursue; </l>
+                <l>Yet most mistake the false one for the true."</l>
+              </lg>
+            </q>
+          </epigraph>
+          <p xml:id="dlittle_130394">EYRE having received permission, and being anxious on his own part to bring matters to a climax, makes an early opportunity of requesting a private interview with his host. The time chosen is to-day. As wet a day as ever came out of the heavens, and the one after that on which Andy McDermot arrived.</p>
+          <p xml:id="dlittle_130395">There had been a hurried interview between Eyre and Dulcie in the morning, in which the girl had seemed down-hearted and dispirited, and inclined to let matters stay as they were, bad as they undoubtedly must be considered; but Eyre —fired with sorrow for her, and a determination to save her from the impending disaster that threatens her name, her marriage with that miscreant Anketell—had refused to listen to her fears, and is now standing outside The McDermot's private den, waiting for admission.</p>
+          <pb n="13 A LITTLE IRISH GIRL." facs="dlittle013"/>
+          <p xml:id="dlittle_130397">It is soon given.</p>
+          <p xml:id="dlittle_130398">The den is an awful agglomeration of things useful and useless—principally useless—but beloved as having once belonged to better days than these. In the midst of the chaos sits The McDermot, calmly smoking a pipe that could never have seen a better day than this, as it is now as black as black can be.</p>
+          <p xml:id="dlittle_130399">"Bless my soul, Mr. Eyre! You," says he, rising and pulling forward a chair for his guest—"you sent me word, I now remember, that you wanted to see me. Feeling strong, eh?—better, eh? Have a brandy and soda?"</p>
+          <p xml:id="dlittle_130400">"No, thanks. No, I assure you. The fact is, I—I wanted to speak to you about your daughter."</p>
+          <p xml:id="dlittle_130401">"About—my daughter?"</p>
+          <p xml:id="dlittle_130402">The McDermot lays down the decanter, and turns his eyes full on Eyre.</p>
+          <p xml:id="dlittle_130403">"Well, and what about her?"</p>
+          <p xml:id="dlittle_130404">"It is a little difficult to explain to you; but—I have come to the conclusion that your daughter is not happy in the engagement she has contracted."</p>
+          <p xml:id="dlittle_130405">"Ah!" says The McDermot, wrinkling his brows. "Is that all? Don't you want to tell me you have fallen in love with Dulcinea—that she would be happier in an engagement with you? and therefore you think her coming marriage with Sir Ralph Anketell an iniquitous agreement?"</p>
+          <p xml:id="dlittle_130406">"Not iniquitous so much as mistaken," says Eyre, keeping his temper admirably under the other's ill-concealed sarcasm; "besides, must it come to marriage?"</p>
+          <p xml:id="dlittle_130407">"So I have been given to understand by both parties."</p>
+          <p xml:id="dlittle_130408">"Engagements have been broken before now."</p>
+          <p xml:id="dlittle_130409">"I dare say—I know nothing of that. I know only this, that my daughter's engagement with Sir Ralph Anketell shall not be broken."</p>
+          <p xml:id="dlittle_130410">"Not even if it were for her good?"</p>
+          <p xml:id="dlittle_130411">"How should it be for her good?"</p>
+          <p xml:id="dlittle_130412">"Happiness counts," says the younger man, quickly. "McDermot!"—earnestly- -"I should not try to disarrange your views for your daughter, if I could not offer as much as I should cause her to lose. I can make settlements."</p>
+          <p xml:id="dlittle_130413">"No doubt, no doubt! That is matter, sir, for the lady you may choose to marry."</p>
+          <p xml:id="dlittle_130414">"Just so: that lady is your daughter."</p>
+          <p xml:id="dlittle_130415">"There you make a mistake, Mr. Eyre," says The McDermot, distinctly. "You will never marry my daughter with my consent. With regard to her own consent that is already forfeited. Her word is given to another. And one word, sir: permit me to say that as my guest you—"</p>
+          <p xml:id="dlittle_130416">"No, I shall not permit you!" interrupts Eyre, passionately. "Is every sacred, earnest feeling to be ruled by society's laws? Your daughter is unhappy. Surely there are occasions when the best, the most honorable rules should be broken! And, knowing her unhappy"—</p>
+          <p xml:id="dlittle_130417">"You are eloquent, sir," says The McDermot, with a reserved smile. "Forgive me if I break in upon your admirable dissertation on the weak points of society. You say my daughter is unhappy. May I ask your authority for that speech ?"</p>
+          <p xml:id="dlittle_130418">"Certainly!"—hotly. "She herself has said so!"</p>
+          <p xml:id="dlittle_130419">"Excellent authority, indeed! My daughter" — grimly — "is evidently a greater fool than I thought her!"</p>
+          <p xml:id="dlittle_130420">"You misjudge her," says the young man, eagerly.</p>
+          <p xml:id="dlittle_130421">The McDermot lets his eyes rest on him for a moment.</p>
+          <p xml:id="dlittle_130422">"I can follow your line of thought," says he slowly. "The woman who could appreciate you could be no fool—eh?"</p>
+          <p xml:id="dlittle_130423">"Sir!" says Eyre, frowning.</p>
+          <p xml:id="dlittle_130424">"But are you so sure of her affection? Is every young girl's first word worthy of credit?"</p>
+          <p xml:id="dlittle_130425">"I desire to keep to the point," says Eyre, a little haughtily. "I can offer your daughter a position. I, on my uncle's death, shall inherit a title. I can offer quite as much as Sir Ralph can. I"—</p>
+          <p xml:id="dlittle_130426">"Sir!" interrupts The McDermot, sternly, "if you could make her a duchess, I should still decline your proposal. My daughter has given her word to marry Sir Ralph Anketell, and by that word she shall abide!"</p>
+          <milestone rend="stars" unit="section"/>
+          <p xml:id="dlittle_130427">So it is all over, then—in that quarter, at all events. Eyre, having bowed himself out of his host's presence, after forcing himself, as in duty bound, to make courteous acknowledgment of hospitality received, which acknowledgment has been as courteously accepted, has sent a, message to the village for a trap to take him and his belongings to the inn down there as soon as may be. He is raging with indignation and disgust. That old Goth! He will give his daughter to a man she hates just because in a foolish moment the poor girl had been coerced into an engagement with him. Never had the spirit of Don Quixote been so strongly reproduced as in Mr. Eyre's heart at this moment. He will come to her aid, father or no father! What! would any man stand still and see a girl wantonly, deliberately sacrificed, and not put out a hand to help—to save? If so, his name is not Lucien Eyre!</p>
+          <p xml:id="dlittle_130428">To see Dulcinea is, however, necessary. She must be made cognizant of the plot laid against her happiness. Up to this, poor child, she has regarded her engagement as a usual thing, if hateful: but she must now learn that force will be employed if she refuses to go calmly to the altar with that abomination, Sir Ralph.</p>
+          <pb n="14 A LITTLE IRISH GIRL." facs="dlittle014"/>
+          <p xml:id="dlittle_130430">He has only just stepped into the corridor when he comes face to face with her.</p>
+          <p xml:id="dlittle_130431">"Well, I've seen your father," says he.</p>
+          <p xml:id="dlittle_130432">"What! Oh, no!" says she.</p>
+          <p xml:id="dlittle_130433">"Yes, I have; and a bigger old—I beg your pardon. But"—</p>
+          <p xml:id="dlittle_130434">"He says I must hold to my engagement with Sir Ralph?"</p>
+          <p xml:id="dlittle_130435">"He says that, and that only. If you were a slave, he could not have made it more distinct that you were without power in the matter."</p>
+          <p xml:id="dlittle_130436">"Surely," growing very pale, "you exaggerate a little. A slave! Whose slave?"</p>
+          <p xml:id="dlittle_130437">"Sir Ralph's presently, if you don't take swift measures to free yourself. Dulcie, you trust me, don't you? Come away with me. Come this evening. There is a train at half-past six; meet me there, and"—</p>
+          <p xml:id="dlittle_130438">"And what?"</p>
+          <p xml:id="dlittle_130439">"I'll take you up to town to my sister's, and we can be married to-morrow morning."</p>
+          <p xml:id="dlittle_130440">"Married to-morrow morning! And—and he"—</p>
+          <p xml:id="dlittle_130441">"He!" meaning her father: she, however, had not meant her father; "why, he deserves all he will get—no more."</p>
+          <p xml:id="dlittle_130442">"True, true!" says she, as if trying to work herself up to the necessary point of valor. "A slave, you said. But still"—</p>
+          <p xml:id="dlittle_130443">"Dulcinea! Dulcinea!" roars some one in the distance. It is the voice of the "Goth!"</p>
+          <p xml:id="dlittle_130444">"He's calling me! I must go!" says she, taking her hand away from Eyre in a little frightened fashion.</p>
+          <p xml:id="dlittle_130445">"Remember," whispers he, holding her by the sleeve—"remember the train; the station is only a mile from this—6.30—keep it in mind. I shall be there. It is nothing of a walk, and"—</p>
+          <p xml:id="dlittle_130446">"But-my clothes!"</p>
+          <p xml:id="dlittle_130447">"Oh, nonsense! My sister will"—</p>
+          <p xml:id="dlittle_130448">"Dulcinea!"</p>
+          <p xml:id="dlittle_130449">It is a very angry roar this time.</p>
+          <p xml:id="dlittle_130450">Dulcinea, with a wistful, undecided glance at Eyre, rushes down the passage that leads to her father's sanctum and disappears.</p>
+          <p xml:id="dlittle_130451">"You called me, father?" says she, nervously.</p>
+          <p xml:id="dlittle_130452">"Called you! I should think so! Half a dozen times at least. What were you doing? Philandering with that thundering idiot upstairs, eh? I should think, considering his birth—and he comes of decent people enough, though they are English—that to make love to a girl in her father's house without her father's consent was a most damnably low sort of thing to do."</p>
+          <p xml:id="dlittle_130453">"You wrong Mr. Eyre when you talk of him like that," says Dulcinea, loyally.</p>
+          <p xml:id="dlittle_130454">Eyre had meant to befriend her. A ray of the fire that blazes within her father's eyes shines in her own at this moment.</p>
+          <p xml:id="dlittle_130455">"Look here!" says The McDermot, furiously; "you can fancy yourself in love with whom you like, but you shall marry Anketell, all the same. You've given your word to him and I'll see that you keep it!"</p>
+          <p xml:id="dlittle_130456">"I shall not marry him unless I wish it," says his daughter, with distinct defiance.</p>
+          <p xml:id="dlittle_130457">Whereupon The McDermot breaks out in a terrible way, and says all sorts of bitter, unpardonable things, until the girl, who is in a white heat of rage in her own way, flings wide the door and rushes into the garden, to find rest and peace, and room for thought.</p>
+          <p xml:id="dlittle_130458">She finds, however, only her cousin.</p>
+        </div>
+        <div xml:id="dlittle_008" n="8" type="chapter">
+          <head>CHAPTER VIII.</head>
+          <epigraph>
+            <q>"Is it not time, then, to be wise? Or now, or never."</q>
+          </epigraph>
+          <p xml:id="dlittle_130459">PERHAPS to her it has seemed that "rest" and "peace"' may be found in him. Fond hope!</p>
+          <p xml:id="dlittle_130460">"Andy!" calls she; "Andy!"</p>
+          <p xml:id="dlittle_130461">He is at the other end of the garden, and at first does not hear her. "Andy!" however, restores him to a proper frame of mind.</p>
+          <p xml:id="dlittle_130462">"Hi!!" says he, from the middle of a bed of cabbage.</p>
+          <p xml:id="dlittle_130463">"Come here! come at once! It is something very important."</p>
+          <p xml:id="dlittle_130464">This brings him to her at the rate of forty knots an hour.</p>
+          <p xml:id="dlittle_130465">"Well, what's the matter now?" says he.</p>
+          <p xml:id="dlittle_130466">"Everything!" says Miss McDermot, with commendable brevity.</p>
+          <p xml:id="dlittle_130467">"That generally means nothing with a girl," says her cousin, contemptuously. "However, to do you justice, you look like business this time. What is it, eh?"</p>
+          <p xml:id="dlittle_130468">"If I could be sure of you, Andy," says she, forlornly; "but you will be as likely as not to take his side."</p>
+          <p xml:id="dlittle_130469">"Whose side?"</p>
+          <p xml:id="dlittle_130470">"Well, you see!"—hesitating—"it's  this way"—dead pauses.</p>
+          <p xml:id="dlittle_130471">"Oh! go on, for goodness' sake. If you have anything on what you are pleased to call your mind, get it off! You look, with all the delightful sympathy that, as a rule, distinguishes the male members of one's family, "like a sick chicken. Anything fresh? or is it the same old game—our well—beloved uncle on the rampage again?"</p>
+          <p xml:id="dlittle_130472">"Yes! and this time with a vengeance!" says Dulcinea, wrathfully. He—insists on my keeping my engagement with Sir Ralph, in spite of the fact that I—decline to go on with it!"</p>
+          <p xml:id="dlittle_130474">"You!" Andy pauses, and twists her round so as to get a good view of her. "What's up now?" says he. "You decline
+<pb n="15 A LITTLE IRISH GIRL." facs="dlittle015"/>
+to go on with the engagement! Why? What's the matter with Sir Ralph?</p>
+          <p xml:id="dlittle_130475">"That isn't the question!" says she,"That I should marry Sir Ralph
+vehemently. I refuse	to discuss Sir Ralph with you or anybody. What has to be considered is, whether I am to be sold—yes, sold—against my will to anybody!"</p>
+          <p xml:id="dlittle_130476">"Keep your hair on," says her cousin, blandly. "There's something behind this slave-market business, isn't there? I never heard a word of it until—that young friend of yours fell into the bog and was dragged out by some inconsiderate person by the hair of his head and brought home to be nursed by you."</p>
+          <p xml:id="dlittle_130477">"I don't know of any one who fell into a bog and was pulled out by his hair," says she, coldly.</p>
+          <p xml:id="dlittle_130478">"Look here, Dulcie," putting her down on a moldering rustic seat, "let's give a name to it. Eyre is the bogged one's name. And I expect he has been making love to you—eh?"</p>
+          <p xml:id="dlittle_130479">"At all events, he isn't like some people!" exclaims she, with a little frown. "He doesn't lecture and scold and trample on me from morning till night!"</p>
+          <p xml:id="dlittle_130480">"We shall now proceed to, give a name to the trampler," says Mr. McDermot. "Anketell! And so you want to throw over Anketell and marry Eyre? Is that what it comes to?"</p>
+          <p xml:id="dlittle_130481">"N—o. Not exactly."</p>
+          <p xml:id="dlittle_130482">"Then you want to throw over Anketell and not marry Eyre. Is that it?"</p>
+          <p xml:id="dlittle_130483"> "No—not quite."</p>
+          <p xml:id="dlittle_130484">"Then, my good girl, what is it? If you could throw just one ray of light upon the mystery, I might be able to see you home."</p>
+          <p xml:id="dlittle_130485">"Well—it's this, then!" says she, with a sudden touch of passion. "I won't submit to be ordered to marry any one, and certainly not a tyrant like Sir Ralph. Why, if you could have heard him yesterday! But never mind that. The fact is, Andy, that Mr. Eyre—asked me to marry him; and—I didn't say yes—because—well, never mind that either. But he went to father, and father, it appeared, was distinctly rude, and told him —well," sighing, "never mind that, either."</p>
+          <p xml:id="dlittle_130486">"Is there," asks Mr. McDermot, mildly, "anything I may mind?"</p>
+          <p xml:id="dlittle_130487">"Yes—this," says she, her anger growing. "He then sent for me."</p>
+          <p xml:id="dlittle_130488">"He? Eyre? Just like his impudence." </p>
+          <p xml:id="dlittle_130489">"He is not impudent, and it was father who sent for me."</p>
+          <p xml:id="dlittle_130490">"To give you a good scolding, I hope."</p>
+          <p xml:id="dlittle_130491">"If you hope that," trying to rise, "there is no use in my going on with this explanation."</p>
+          <p xml:id="dlittle_130492">"Yes, there is—every use. I'm sure to come in handy sooner or later, and therefore it is necessary the plot should be laid bare to me. Come, go on, do! We can have our little war later. What did the governor say to you?"</p>
+          <p xml:id="dlittle_130493">"That I should marry Sir Ralph whether I liked it or not—that nothing should prevent my keeping my engagement with him. He," paling, "gave me to understand that if I loathed Sir Ralph I should still marry him."</p>
+          <p xml:id="dlittle_130494">"But you don't loathe him."</p>
+          <p xml:id="dlittle_130495">"I'm not sure. I," passionately, "I am actually certain that he has backed up father in this matter, and if only to punish me for being a little—you know—a little"—</p>
+          <p xml:id="dlittle_130496">"Yes, I know," nodding.</p>
+          <p xml:id="dlittle_130497">"Well, to punish me for that, he, too, is in the plot to compel me to marry him."</p>
+          <p xml:id="dlittle_130498">"What rot!" says her cousin, forcibly, if inelegantly. "That isn't a bit like Anketell! You must be out of your mind to talk of him like that!"</p>
+          <p xml:id="dlittle_130499">"You don't know him as I do. You think he is fond of me. Now, I," raising her head and gazing at her cousin with glowing eyes, "I know that he detests me!"</p>
+          <p xml:id="dlittle_130500">"Come in and have your head shaved! Come quickly. Typhoid, I should say, to look at you."</p>
+          <p xml:id="dlittle_130501">"Nonsense! There, don't go on like a lunatic! I mean every word I say. The very last interview I had with him he was rude and cutting and indifferent and cruel, and"—</p>
+          <p xml:id="dlittle_130502">"He must have forgotten to pay a compliment or two," says her cousin, thoughtfully.</p>
+          <p xml:id="dlittle_130503">"You can jest if you like," says Dulcinea, rising now with determination. "I did think, Andy," casting a reproachful glance at him, "that I might have hoped for sympathy and help from you!"</p>
+          <p xml:id="dlittle_130504">"I don't think I understand it," says Andy, carefully. "You want to marry Eyre, and you don't want to marry Anketell; is that it?"</p>
+          <p xml:id="dlittle_130505">"No," shortly. "I don't want to marry either of them."</p>
+          <p xml:id="dlittle_130506">"Not Eyre?"—doubtfully.</p>
+          <p xml:id="dlittle_130507">"Certainly not, All I want is—to be free. To let Sir—to let father see that I am not to be commanded to marry any one. "Andy," coaxingly, "help me. Speak to—father—do! Help me to break off this odious engagement."</p>
+          <p xml:id="dlittle_130508">"And so let you free to marry that whipper-snapper upstairs with his black, black eye? No, I won't!" says Andy, with decision. "Sir Ralph is worth a dozen of him. Do you think I don't see through you? You have fallen in love with that Italian, who looks quite absurd without the monkey and the organ, and you want to pretend that all you desire is freedom."</p>
+          <p xml:id="dlittle_130509">"You refuse to help me, then?" asks Dulcinea, looking suddenly very tall and very white and very earnest.</p>
+          <p xml:id="dlittle_130510">"To your hurt!—yes."</p>
+          <pb n="16 A LITTLE IRISH GIRL. " facs="dlittle016"/>
+          <p xml:id="dlittle_130512">"Very well, then. Since you have all forsaken me I shall act for myself. I shall let you and father and Sir Ralph see what I can do—unaided!"</p>
+          <p xml:id="dlittle_130513">She turns and walks down the path toward the gate.</p>
+          <p xml:id="dlittle_130514">"Look here, Dulcie. Come back! Let's talk it over," says he, hurrying after her, impressed in spite of himself by her manner. But she waves him to one side with an imperious gesture, and is soon lost to sight.</p>
+          <p xml:id="dlittle_130515">"It's going to be a fine evening for fireworks," says Mr. McDermot, contemplating the sky with a thoughtful air. "Great display! unlimited variety! magnificent effect! An smoke!—much smoke!"</p>
+        </div>
+        <div xml:id="dlittle_009" n="9" type="chapter">
+          <head>CHAPTER IX.</head>
+          <epigraph>
+            <q>
+              <lg>
+                <l>"Thou didst delight my eyes,</l>
+                <l>Yet who am I? Nor first, </l>
+                <l>Nor last, nor best, that durst </l>
+                <l>Once dream of thee for prize, </l>
+                <l>Nor this the only time </l>
+                <l>Thou shalt set love to rhyme."</l>
+              </lg>
+            </q>
+          </epigraph>
+          <p xml:id="dlittle_130516">How dark it is walking along this silent road! Dark, though only six o'clock. How quickly the day dies when it is December! Such a moon as this is hardly worth talking about; and yet without it, obscured as it is, how much more dismal would the night be! Was there ever before so silent a night? Are all the dogs in the farmsteads dead? There is no sound at all anywhere, save the stir of sea in the starlight, far, far below, down there, where all things seem to sink into one.</p>
+          <p xml:id="dlittle_130517">Bridget!—what is Bridget thinking now? Has she found out she is gone? No, not yet. It is early, really, though it looks so late. Oddly enough, it is to the servant the girl's mind first turns, as in her mad, angry folly she runs along the road that leads to the little wayside station of which Eyre had spoken to her. Her hint to Andy that she would let her lover and father and cousin see what she could do is now in process of full completion. When Eyre had suggested to her to run away with him and be married by special license, she had certainly at the moment, though seeming to dally with the idea, no real intention of following it up. But Sir Ralph's unfortunate coldness of the day before, her father's stern command, and finally her cousin's mocking determination not to help her to her folly, had been all too much for her childish pride. She had revolted, once for all; she would show them!</p>
+          <p xml:id="dlittle_130518">Eyre's last words about the 6.30 train, his earnest, really honest expression as he spoke, had lingered in her memory, and waiting, locked up in her own room, she had, when night grew, dressed herself in her warmest clothing, and, slipping out the side door, begun her journey to Denygra Station.</p>
+          <p xml:id="dlittle_130519">Was there ever so long a mile, or a road so deserted? At first she had prayed that no one might see or meet her on her way to the station; but now she would have given a good deal to hear the sound of cart wheels or the jogtrot of a farmer's horse. But there is no fair anywhere to-day in the neighborhood, and so the road remains empty and quiet.</p>
+          <p xml:id="dlittle_130520">The moon, coming out at last from behind a bank of dark gray clouds, serves only to heighten rather than to lessen her sense of loneliness. Now each hillock and tree and bunch of furze take shape and action, and threaten to attack her on every side. The terrors of the night are great to those who know nothing of them, safe within carefully closed doors of house or carriage. To Dulcinea, running along through the dull darkness, a sense of despair mingled with active fear is uppermost!</p>
+          <q>
+            <lg>
+              <l>"Silence how dead; and darkness how profound!</l>
+              <l>Nor eye, nor list'ning ear, an object finds."</l>
+            </lg>
+          </q>
+          <p xml:id="dlittle_130521">In vain she tells herself that it is not really night, that it is only six o'clock; that a few months ago, this very hour and time, and dreadful darkness would still be called day. It is with a sigh that grows into a sob of passionate relief that at last she sees the lamps shining in the little station before her, with, over there a quarter of a mile to the left, the glimmering lights of the small town that has given its name to the station.</p>
+          <p xml:id="dlittle_130522">Hurriedly she enters it, and, reaching the dim platform that only seems enveloped in a cloudy mist, stands irresolute. Only for a moment, however. Eyre has come to her, has seized her hand, is drawing her into the fuller lights beyond.</p>
+          <p xml:id="dlittle_130523">"Let us stay here," says she, in a choking tone. "No one can see us here. And—oh!" a little wildly, "it was a long walk. How far—how far I am from home!"</p>
+          <p xml:id="dlittle_130524">"You are nervous," says he, sensibly—too sensibly; "and it is my fault. I forgot, when I suggested to you that the walk here was only a mile, that it would be undertaken in midwinter. It never occurred to me that six o'clock would mean night at this time of year. You must try to forgive me that. What is that you have? Your bag? Give it to me."</p>
+          <p xml:id="dlittle_130526">The station is such a minor one that, at this hour, it is given up to absolute solitude—almost. In the far distance a sturdy farmer is trudging to and fro, puffing and blowing and seeking, by eager marchings from the gate to the station-house, to keep some warmth in
+<pb n="17 A LITTLE IRISH GIRL." facs="dlittle017"/>
+his body; and just here, where Dulcinea stands, a laborer goes by on his homeward way; and there—over there, where the gloom is thickest—stands, by all the worst luck in the world, Ralph Anketell.</p>
+          <p xml:id="dlittle_130527">He had been lunching in this part of the neighborhood, and, expecting a parcel by this train, had decided to wait and take it home with him. He had seen Eyre's arrival and wondered at his punctuality, the train not being due for a quarter of an hour or so; had felt a sense of satisfaction in the thought that he was really leaving—a thought justified by the amount of luggage lying on the platform; had designedly withdrawn so far into the shade that he should be unseen by him, not feeling equal to a tete-a-tete with the man he suspects to be his rival, and had seen Dulcinea's nervous entrance and Eyre's eager greeting of her.</p>
+          <p xml:id="dlittle_130528">To for one instant imagine their meeting involuntary would be to know himself a fool, and when he sees Eyre possess himself of the small bag that Dulcinea carries, he knows the truth as surely as though all the world were crying it within his ears.</p>
+          <p xml:id="dlittle_130529">Numbed — stupefied — chilled to the heart's core, he stands watching the girl to whom he has given every thought and desire of his life, willfully making havoc of them.</p>
+          <p xml:id="dlittle_130530">"Nervous?" says Dulcinea, vaguely, staring at Eyre, as if hardly understanding him.</p>
+          <p xml:id="dlittle_130531">It has come to her that certainly he does not understand her. Nervous! Is that the word for this awful pain that is tugging at her heart? Oh! what madness had brought her here?</p>
+          <p xml:id="dlittle_130532">A sense of fear—distinct, clutching, is shaking her. It grows too dreadful to be borne. Eyre is talking to her. She is conscious of that; but no word he utters is clear to her. To go back—to go back! that one thought, and that only, is beating like a hammer in her brain; but behind it, and through it, comes another—the oddest one, surely—that if she goes she will never see Anketell again!</p>
+          <p xml:id="dlittle_130533">Presently the mists of her brain clear a little, and she can wonder within herself. Eyre is still talking—kindly, no doubt. and soothingly; but it doesn't seem of any consequence at all what he is saying. Ralph! What will he think? When he hears she is gone—gone; what will he think then? She trembles. She becomes for the first time conscious that she is cold—so cold! It must be the night air that is making her shiver like this.</p>
+          <p xml:id="dlittle_130534">She must go back. She will. Even the dull lights in the station are beginning to add to her terror. Surely — surely every one is looking at her, wondering about her, gossiping about her!</p>
+          <p xml:id="dlittle_130535">Yet the one person who in reality is looking at her with an anguish unspeakable is the one person unsuspected by her.</p>
+          <p xml:id="dlittle_130536">She sighs heavily, as one might whose mind is made up after a long conflict. She throws up her head. Eyre is still speaking.</p>
+          <p xml:id="dlittle_130537">"We shall not have long to wait now," he is saying; "the train is just due. Come, we had better move a little this way."</p>
+          <p xml:id="dlittle_130538">"I can't!" She pauses, and looks straight at her companion, a terrible misery in her eyes. It seems as if speech has deserted her. "I won't go any farther," she gasps at last, painful.</p>
+          <p xml:id="dlittle_130539">"You mean?" questions Eyre, as if not able to grasp the truth that lies so painfully in her white face and gleaming eyes. As he pauses for an answer the shrill whistle of the approaching train cleaves the sharp, crispy air.</p>
+          <p xml:id="dlittle_130540">"Forgive me," says the girl, trembling in every limb. "I—I thought I could do it, but I can't. I'm frightened—I"—</p>
+          <p xml:id="dlittle_130541">"I told you you were nervous," says he. "And I know it is a wrench; but surely, darling, It is best for you; you have so often told me how unhappy you were"</p>
+          <p xml:id="dlittle_130542">"I must have lied to you," says she, solemnly. "Lied. Not meaning it—not intentionally; but because I didn't know. I know now. I must go home; I must."</p>
+          <p xml:id="dlittle_130543">"As you will, of course!" says Eyre, very stiffly. Has all his chivalry come to this, that she will none of him, of his aid or sympathy or affection? Surely he is as modern a Don Quixote as one may hope to find? "You really wish to return ?"</p>
+          <p xml:id="dlittle_130544">"I do—I do. indeed!" says the poor child, clasping her hands imploringly.
+Mr. Eyre makes but one answer to this impassioned and distinctly unflattering appeal—he returns her her bag. To the man in the dusk beyond, watching them with a livid face, this act seems unprecedented.</p>
+          <p xml:id="dlittle_130545">"Has it occurred to you how you are to get back?" asks Eyre, in a tone calculated to freeze a salamander.</p>
+          <p xml:id="dlittle_130546">"I shall be able to manage that," feverishly. "I shall, indeed! Oh!—there is your train!" as that snorting machine dashes into the station. "Go-go!"</p>
+          <p xml:id="dlittle_130547">"I shall 'go' certainly, sooner or later," says he, sullenly. "Though considerably later than will please you, to judge by your manner. But before I oblige you I shall see you safe into your home."</p>
+          <p xml:id="dlittle_130549">"If you do you will miss your train. Do—do think of that," says she, in a small agony. "See—they are shutting the doors, and—oh!" breaking off with a little gasp of hope that ends almost in a cry, "there is Andy! Andy!" calling out loud. "There! Don't you see him?
+<pb n="18 A LITTLE IRISH GIRL." facs="dlittle018"/>
+—just running into the station! I'd know his legs anywhere! Andy! Andy!"</p>
+          <p xml:id="dlittle_130550">It is indeed Andy—in the flesh, and out of humor. All day long, ever since	
+his memorable encounter with her in the vegetable garden, he had decided to
+keep an eye upon her, and an eye he had kept without blinking—that is, so	
+long as the daylight lasted. But when five o'clock came, and the short winter
+day was at an end, he had relaxed his vigilance, and decided to consider him himself off duty.</p>
+          <p xml:id="dlittle_130551">He had been wondering would she come to tea with him, as usual, in the old schoolroom? Perhaps she would; perhaps, too, she wouldn't. As the hour	save from abominable tyranny is struck he had gone there and waited.</p>
+          <p xml:id="dlittle_130552">He waited for quite half an hour without a misgiving. He waited another quarter of an hour with considerable misgivings. At a quarter to six he waited no longer, but went three steps at a time upstairs to old Bridget to ask her if she knew where Miss Dulcie was.</p>
+          <p xml:id="dlittle_130553">Mrs. Driscoll had no idea. She put down her knitting, and wrinkled her brows so strongly, that Andy, who had not believed them capable of another crease, gazed at her astounded. Wasn't she down in the schoolroom, then? No, she wasn't. She hadn't come in yet, then?</p>
+          <p xml:id="dlittle_130554">Come in?</p>
+          <p xml:id="dlittle_130555">Andy's heart began to beat a little quickly. What was it she had said? that she would let them see! Did she begin to let them see when she—went out? But when was that?</p>
+          <p xml:id="dlittle_130556">"When did she go out?" asks he.</p>
+          <p xml:id="dlittle_130557">"Faix, not so long thin," said the old nurse, in a little frightened fashion. "Have ye anything on yer mind, Masther Andy? If ye have, spake out! I mind me now she kissed me in a square, mad, disturbin' sort of a way, when she was lavin'. I mind, too, that I tould her it was a bit late for a ramble, an' she laughed shtrange-like, an' said may be she'd never have a chance of a ramble agin, so she might as well have it now as not. Oh! wirra! wirrasthrue. What'll I do if harm has come to me beauty?"</p>
+          <p xml:id="dlittle_130558">Andy had cut her short. It was evident her mind ran on suicide; his mind ran on Eyre. He knew the latter was leaving this evening, and the suspicion that Dulcie, in a mad, angry moment, had agreed to go with him, seized upon him and held him. He left the old woman rocking herself to and fro and praying to every saint in the calendar.</p>
+          <p xml:id="dlittle_130559">It didn't take him two minutes to find his hat and rush out into the chill night air en route for the wayside station.</p>
+          <milestone rend="stars" unit="section"/>
+          <p xml:id="dlittle_130560">"Andy!" cries Dulcinea, frantically, in a subdued yet piercing tone that reaches not only Andy's ears, but those of Anketell in his distant corner. His eyes are unnaturally strained.</p>
+          <p xml:id="dlittle_130561">"Well, here I am!" says Andy, calling out, too, in a distinctly indignant tone.</p>
+          <p xml:id="dlittle_130562">"He hears me!" says Dulcinea, with a little sob of delight, turning excitedly to her companion. "He is coming! Oh, before he comes, go! do go!" giving him a frenzied push. "I will write; I will explain—only go!"</p>
+          <p xml:id="dlittle_130563">Write-explain!"Eyre feels as if his senses are deserting him. The girl he has put himself in this false position to save from abominable tyranny is the one who now deliberately—nay,passionately—repudiates   his assistance. Explain! "There is no explanation—none!" stammers he, hardly knowing what he says. Righteous anger is burning in his breast.</p>
+          <p xml:id="dlittle_130564">"Oh! But I will write!" declares she, growing desperate as she sees Andy approaching. "There! Be quick!" Again she pushes him toward the now almost moving train,and Eyre, confused, angry, puzzled, obeys her touch and springs into the carriage nearest to him.</p>
+          <p xml:id="dlittle_130565">Almost unconsciously he had sprung into it. The door is banged by a passing porter, and presently he finds that he is under way and leaving Dulcinea forever!
+The train disappears into the night. Eyre, leaning back in his corner—the corner usually coveted, but undisputed in this empty train—gives himself up to thought. It is a revelation to him to find presently that he is feeling far more angry than miserable. Bathos upon pathos!</p>
+          <p xml:id="dlittle_130566">Up to this, indeed, he had regarded himself as a preux chevalier—a Don Quixote. He had exulted in his role of Knight of the Woeful Damosels; and here—here is his reward! Lo! when it came to the point, the captive maiden had declined to be rescued, and clung heroically, if unpoetically, to the tyranny she might have escaped.</p>
+          <p xml:id="dlittle_130567">There must be something wrong somewhere! Eyre, enveloping himself in his rug, makes a mental vow to abjure distressed damsels for all time, and devote himself for the future to the worldly, reasonable beings, who hitherto have been the solace of his existence.</p>
+        </div>
+        <div xml:id="dlittle_010" n="10" type="chapter">
+          <head>CHAPTER X.</head>
+          <epigraph>
+            <q>
+              <lg>
+                <l>"Those who inflict must suffer, for they see</l>
+                <l> The work of their own hearts, and that
+must be</l>
+                <l>Our chastisement or recompense."</l>
+              </lg>
+            </q>
+          </epigraph>
+          <p xml:id="dlittle_130568">DULCINEA, left alone upon the platform, turns with a quick breath of mingled fear and relief to Andy, who has only just joined her.</p>
+          <pb n="19 A LITTLE IRISH GIRL." facs="dlittle019"/>
+          <p xml:id="dlittle_130570">"Nice bit of business this!" says that young man.</p>
+          <p xml:id="dlittle_130571">"Oh! don't talk here, Andy; come outside—come beyond the gate; I"—</p>
+          <p xml:id="dlittle_130572">"I don't see what going beyond the gate will do," says Mr. McDermot, looking like adamant. "May as well have it out here, where I can see you, as in the dusty road."</p>
+          <p xml:id="dlittle_130573">"I'm tired, Andy," says she, faintly, with a vague but fruitless hope of softening him.</p>
+          <p xml:id="dlittle_130574">"Not too tired to come here in the middle of the night, anyway."</p>
+          <p xml:id="dlittle_130575">"In the middle of the night! Oh, Andy! Why, it can't be more than half past six!"</p>
+          <p xml:id="dlittle_130576">"How well you know the hours of the train! Who," malignantly, "taught you? My word! all I can say is, that you have done it this time, at all events."</p>
+          <p xml:id="dlittle_130577">"Done what?" more faintly still.</p>
+          <p xml:id="dlittle_130578">"Do you want me to put it into words?" says her cousin, regarding her in the dim, dull light of the station lamps with a disgust hardly to be put into words."You are a fool, Dulcinea!"</p>
+          <p xml:id="dlittle_130579">"You don't know anything!" says Dulcinea, taking all the courage she has into her hand and preparing to do battle with it. "You accuse me; you say things—but, "incoherently, "you know nothing—nothing! I came out only—only to—to," desperately, "see if I could match some wool in the village down there, and I wandered on here, and"—</p>
+          <p xml:id="dlittle_130580">"What a banger!" says her cousin. "Is that the best you can do? To match wool by this light! Why not say you came to meet a young lady? There would be a pretty color about that, at all events."</p>
+          <p xml:id="dlittle_130581">"It was wool!" persists Dulcinea, dismally.</p>
+          <p xml:id="dlittle_130582">"With a pretty color about it, too!" with growing scorn. "Oh, no! it won't do, my good Dulcie. D'ye think I can't see how the land lies? Wait till you see Bridget! She's got a word or two to say to you, believe me! She's got it hot and strong for you, and no mistake."</p>
+          <p xml:id="dlittle_130583">"Bridget will say nothing to me," says Dulcinea. "She at least," unsteadily, "has always been kind to me.'</p>
+          <p xml:id="dlittle_130584">"Your quarter's up there," says Andy. "Expect no grace. She's only waiting to see you, to give you the biggest bit of her mind on record."</p>
+          <p xml:id="dlittle_130585">"Take me to her," says Dulcinea, in a low tone, suggestive of intense fatigue, bodily and mental.</p>
+          <p xml:id="dlittle_130586">"What makes you so tired?" asks her cousin, trying to see her face. "You seem done up. What!" as the thought dawns upon him, "do you mean to say that you walked here? Marched every step of the way through the cold and damp to meet that fellow?"</p>
+          <p xml:id="dlittle_130587">Dulcie nods her head; words now are almost beyond her.</p>
+          <p xml:id="dlittle_130588">"By George! You must be fond of him!"</p>
+          <p xml:id="dlittle_130589">"I am not!" says Dulcinea, with a faint, a very faint, return of her old spirit.</p>
+          <p xml:id="dlittle_130590">"You expect me to believe that, and yet you certainly came all this way for the mere sake of giving him a parting word, of seeing him safely off?"</p>
+          <p xml:id="dlittle_130591">"Yes—yes," says his cousin, with such over-eager confession that she opens his eyes to the full truth.</p>
+          <p xml:id="dlittle_130592">"To go off with him!" says he, slowly. "Is that it, really? Oh, Dulcie!"
+There is such reproach, such surprised reproach in his young voice, that Dulcinea gives way beneath it.</p>
+          <p xml:id="dlittle_130593">"Oh! it is all true, Andy—all! every word you have said. Father, Sir Ralph, even you were unkind to me. And he—though I didn't care for him—he was kind, and he asked me to come away from all this trouble"</p>
+          <p xml:id="dlittle_130594">"You mean to say you spoke to him—you complained to him of Sir Ralph—of your father?"</p>
+          <p xml:id="dlittle_130595">"I did. I know now it was hateful of me; but—he was very kind and I was unhappy. And Sir Ralph was so cold and so lecturing-like—and"— She breaks off.</p>
+          <p xml:id="dlittle_130596">"Well! I wouldn't have believed it of you," says Andy, shaking his head, gloomily. "And Anketell such a good sort! However," pulling himself together, "the one thing now to be considered is, how you are to get home. It will take a long time to get a car up here from that beastly hole below, and by the time we reach the house the governor will be in such a fume that there will be no holding him."</p>
+          <p xml:id="dlittle_130597">"Can't we walk?" eagerly.</p>
+          <p xml:id="dlittle_130598">"That would occupy even longer, I suppose. I know what girls are—stumbling over every stone and shrieking at every shadow. No; that would take hours, and set the governor's back up an inch or two higher. He'd be 'all alive, 0,' with a vengeance, like the cockles, if we didn't get home before that."</p>
+          <p xml:id="dlittle_130599">"What shall we do, then?" says Dulcie, glancing miserably round her.</p>
+          <p xml:id="dlittle_130600">"I wish I knew. Better stay here until I run down to the village and bring back a car of some sort. 'Pon my soul," moodily, "you have done it for once, and handsomely, when you were about it!"</p>
+          <p xml:id="dlittle_130601">At this moment it so happens that Dulcinea, in her remorse and grief and despair, changes her position. She had thought of escaping her cousin's eye—which is sharp, to say the least of it; but, not understanding the eccentricities of the station lamps, so turns that he can see her even more distinctly.</p>
+          <p xml:id="dlittle_130603">Perhaps it was a wise move, if unstudied. The dull, dead lamp over there
+<pb n="20 A LITTLE IRISH GIRL." facs="dlittle020"/>
+shows Mr. McDermot such a pale, tear-stained and miserable little face that all his wrath dies down before it.</p>
+          <p xml:id="dlittle_130604">"After all," begins he, hurriedly, and in a considerably milder voice, "there's one thing in your favor—I don't forget that. When it came to the scratch, you didn't go with him. You caved in at the right hour, and no wonder, too. The barrel-organ business wouldn't be good enough for you. I say, Dulcie, old girl, don't—don't cry, whatever you do! Keep up your pecker; leave it all to me, and I'll pull you through; I'll square it with the governor if he finds you out, and I'm afraid he's bound to do that, as you are very considerably out, not only of your house, but your reckoning. Ha! ha! that's a joke! D'ye see it?"</p>
+          <p xml:id="dlittle_130605">In this melancholy way he seeks to cheer her; but Dulcinea is beyond seeing anything. She is like Niobe—"all tears!"</p>
+          <p xml:id="dlittle_130606">"You'll be in hysterics in a second, if you don't keep a tight rein," says her cousin, in a horror-stricken way. "Look here!" glancing apprehensively around him, "you'll be heard if you go on like that. I wish to goodness there was some way of getting you home in a hurry; we could then put it on the pins or the wool work safely; but—by Jove!" starting, "there's Sir Ralph!"</p>
+        </div>
+        <div xml:id="dlittle_011" n="11" type="chapter">
+          <head>CHAPTER XI.</head>
+          <epigraph>
+            <q>
+              <lg>
+                <l>"To know, to esteem, to love-and then to part,</l>
+                <l>Makes up life's tale to many a feeling heart."</l>
+              </lg>
+            </q>
+          </epigraph>
+          <p xml:id="dlittle_130607">"WHAT?' says Dulcinea.</p>
+          <p xml:id="dlittle_130608">She stands still, as if turned into stone. Her tears cease. She feels frozen. He—he, of all men, here! Had he seen—guessed—</p>
+          <p xml:id="dlittle_130609">"Sir Ralph, by all that's fortunate."</p>
+          <p xml:id="dlittle_130610">"Where?"</p>
+          <p xml:id="dlittle_130611">"Just over there; evidently come this moment, as if in answer to my prayer."</p>
+          <p xml:id="dlittle_130612">In fact, Sir Ralph, who had been going away from the platform, having seen all he never wished to see, had turned at the last second to speak to a porter, and had, therefore, when Andy's eyes fell on him, all the appearance of one coming toward, instead of going away from him.</p>
+          <p xml:id="dlittle_130613">"Was there ever such luck? Of course he's got a trap of some sort. He'll drive you home. I say, Anketell"—</p>
+          <p xml:id="dlittle_130614">"Oh, Andy!" grasping his arm. "Oh, Andy! Don't! don't!"</p>
+          <p xml:id="dlittle_130615">"Don't what?" —angrily.</p>
+          <p xml:id="dlittle_130616">"Don't make me go home with him!" in an agonized whisper.</p>
+          <p xml:id="dlittle_130617">"But, why—why?" impatiently.</p>
+          <p xml:id="dlittle_130618">"Oh, not with him! Supposing he was here all the time and saw"—</p>
+          <p xml:id="dlittle_130619">"Nonsense! He has evidently only just come"—</p>
+          <p xml:id="dlittle_130620">"I won't go home with him," says Dulcinea, in a choking tone; "I won't!"</p>
+          <p xml:id="dlittle_130621">"Don't be a fool!" says her cousin, angrily. "You shall go with him! It will kill all talk. You must be mad to refuse such a chance of doing away with your folly."</p>
+          <p xml:id="dlittle_130622">He takes a step forward.</p>
+          <p xml:id="dlittle_130623">"Andy!" frantically.</p>
+          <p xml:id="dlittle_130624">But he has escaped from her now, and has reached Anketell. There is a word or two, and then both men return to where she is standing, feeling more dead than alive.</p>
+          <p xml:id="dlittle_130625">"Here is Sir Ralph, Dulcie," says Andy, in a rather nervous fashion. "By the way, you are driving, Anketell—eh? Could you give my cousin a lift?"</p>
+          <p xml:id="dlittle_130626">"With pleasure," gravely.</p>
+          <p xml:id="dlittle_130627">"You pass our gates, you see, and—er—we—we'd no idea, when we started for our walk, that—er—we should be so late. Found ourselves, you know"—the falsehood sticking horribly in his throat—"at the station before we knew where we were."</p>
+          <p xml:id="dlittle_130628">"I understand," quickly.</p>
+          <p xml:id="dlittle_130629">It cuts Anketell to the heart to hear the lad lying thus, and such fruitless lies—and delivered so haltingly, so lovingly!</p>
+          <p xml:id="dlittle_130630">"Eyre left to-night by the train." says Andy, with a highly nervous, miserable laugh. "She—we"—</p>
+          <p xml:id="dlittle_130631">"I see," says Anketell, hurriedly. "You came to see him off?—very natural."</p>
+          <p xml:id="dlittle_130632">"It's a long walk home for Dulcie," says her cousin, more haltingly than ever. "But if"—</p>
+          <p xml:id="dlittle_130633">"Of course I can give your cousin a seat," says Anketell.</p>
+          <p xml:id="dlittle_130634">He addresses himself entirely to McDermot, altogether ignoring Dulcinea. This, and something in his tone, strikes chill to Andy's heart; but he compels himself to go through with the sorry farce. As for Dulcinea, a kind of cold recklessness has come to her that does duty for courage. Her late tears lie frozen in her eyes. Her glance is fixed immovably on the ground beneath her; yet, in spite of that, she knows that Anketell has never once deigned to glance in her direction.</p>
+          <p xml:id="dlittle_130635">"Thank you," says Andy, diffidently. "And"—pausing—"if, when you came to our back gate—if you were to drop her there, it would be better. Will you? You see, if the governor knew that—er—I—had kept her out so late, he—he'd be down on me. It's all my fault, d'ye see—every hit of it."</p>
+          <p xml:id="dlittle_130636">"I quite see," says Anketell, gravely, laconically, as before. "By the bye, I can give you a seat, too."</p>
+          <p xml:id="dlittle_130638">"No, thanks! I'd rather not—really. I shall enjoy the walk." The poor boy is choking with shame, and feels that to accept even so trifling a favor as a seat home from the man he is trying so deliberately to deceive would be more than
+<pb n="21 A LITTLE IRISH GIRL." facs="dlittle021"/>
+he is equal to. "It's a lovely evening, and nothing of a walk."</p>
+          <p xml:id="dlittle_130639">He waves an adieu, and turns aside; but seeing him go, Dulcinea wakes from her stupor.</p>
+          <p xml:id="dlittle_130640">"Andy!" cries she, wildly, a fever of entreaty in her whole air; "Andy, come with me. Come!"</p>
+          <p xml:id="dlittle_130641">But he is deaf to her entreaties. He shakes his head and hurries out into the darkness of the night beyond.</p>
+          <p xml:id="dlittle_130642">"I bet I'll be home before you!" he calls out from somewhere—they can no longer see him. "It's a mile to walk, but three to drive; that gives me a good chance."</p>
+          <p xml:id="dlittle_130643">It is three miles indeed—three of the longest miles Dulcinea has ever driven. There are moments when she tells herself that it cannot take all these hours to come this short, short way, and wonders if Anketell has not made a mistake and turned into some other unknown road. It is so dark by this that to see where she is is impossible.</p>
+          <p xml:id="dlittle_130644">And yet it is a fine night, too—no sign of rain or storm. Certainly the moon is lying hidden, and the stars are apparently forgetful of their duty; but the wind that flies past Dulcinea's cheek is singularly mild and kindly for the time of year. Everything seems hushed; no sound arises to break the monotony of the silence that has fallen on her and her companion. Now and again a rustling in the wayside branches, a fluttering of wings, a sleepy "Cheep-cheep," betray the presence of those "smale foule"
+
+<q>"That slepen alle night with an open eye,"</q>
+
+according to Geoffrey Chaucer; but other noises are there none.</p>
+          <p xml:id="dlittle_130645">Shame, fear, fatigue, all are keeping Dulcie dumb. Oh, to be home in her own chamber, safe from prying eyes, safe in any place where she may weep out her very soul in comfort! Oh, this horrible, horrible drive!—will it never come to an end? And he—why is he so silent? Can he know? She shrinks within herself as this thought occurs to her, but quickly flings it off with one as grim. No, a thousand times no! If he knew he would not be here with her now. He would not condescend to sit beside her; he would cast her off. Oh! if ever he does hear of it—what then? But if he knows nothing, why does he not say something to her? Again the first torturing doubt sets in.</p>
+          <p xml:id="dlittle_130646">As for Anketell—he has even forgotten he is silent, so busy are his thoughts with all the past miserable hour. Again he seems to be standing in the dusky corner of the station; again he sees her come slowly forward. The quick advance of Eyre, her reception of him so devoid of surprise of any kind, her giving up of the small bag to him—how plainly it is all printed on his brain—in type that
+will stand out clear to the day of his death. No fear of its fading.</p>
+          <p xml:id="dlittle_130647">And then—the agonized watching for the train to come in. The horrible fascination that compelled him to wait and see her go—go with that other! that was the worst part of it! He had thought that at the last moment—the very last—as her foot was on the step of the compartment, he would spring forward and draw her back and implore her to return home and — marry his rival later in a more orthodox form.</p>
+          <p xml:id="dlittle_130648">But she had not given him that opportunity! He had watched her impassioned change of decision—her refusal to carry out her design. But her abandonment of Eyre at the last moment did her no good with him —rather, it increased the passionate, grievous anger that is tearing his heart in two. False she was to her very core! And weak as false! False to both!</p>
+          <p xml:id="dlittle_130649">A heavy sigh breathing from his companion's white lips at this moment wakes him from his stormy reverie.</p>
+          <p xml:id="dlittle_130650">He turns to her.</p>
+          <p xml:id="dlittle_130651">A star or two has pierced the heaven's dusk by this time, and there, on the left, a pale, still crescent is stealing to its throne. Diana, a very young Diana, is awake at last—
+<q>"Wide the pale deluge floats."</q></p>
+          <p xml:id="dlittle_130652">Slowly up from behind the hill beyond she comes, shedding glory on the earth with each slow, trailing step.</p>
+          <q>
+            <lg>
+              <l>"How like a queen comes forth the lovely
+moon,</l>
+              <l>From the slow opening curtains of the
+clouds</l>
+              <l>Walking in beauty to her midnight throne!"</l>
+            </lg>
+          </q>
+          <p xml:id="dlittle_130653">She gives Anketell the chance of seeing how his companion looks.</p>
+          <p xml:id="dlittle_130654">Cold, shivering, chilled to her heart's core. Her pretty face is not only sad, but blue; her little hands, lying gloveless —what had she done with her gloves?—on the rug, look shrunken to even smaller dimensions than usual, and are trembling. A sharp pang contracts Anketell's throat.</p>
+          <p xml:id="dlittle_130655">"You are cold!" says he, in a tone so icy that no wonder she shivers afresh.</p>
+          <p xml:id="dlittle_130656">"No! no!" she says, hastily, through chattering teeth.</p>
+          <p xml:id="dlittle_130657">"You must he!" says he, angrily, "with only that thin little jacket on you. Here," pulling up with decided violence a warm plaid from under the seat, "put this on you!"</p>
+          <p xml:id="dlittle_130658">"I would rather not," says she, making an effort to repulse him.</p>
+          <p xml:id="dlittle_130660">"Put it on directly!" says he, so fiercely that she gives in without another word. In twining it around her, his hand comes in contact with hers. "Your hands are like ice!" says he, his voice again once
+<pb n="22 A LITTLE IRISH GIRL." facs="dlittle022"/>
+breathing fury. "What do you mean by it? Was there no rug, that you should thus be dying of cold?"</p>
+          <p xml:id="dlittle_130661">"I don't mind the cold. I don't think of it," says she, wearily.</p>
+          <p xml:id="dlittle_130662">"Then think of it now' Put your hands under the rug instantly!"</p>
+          <p xml:id="dlittle_130663">His manner is really almost unbearable; but Miss McDermot has got to such a low ebb that she has not the courage to resent it. He pulls up the rug.</p>
+          <p xml:id="dlittle_130664">"Cover them at once!" says he, and she meekly obeys him. What does it matter? it is all over between him and her. It is quite plain to her that, even if ignorant of this evening's work, he still detests her. His tone, manner, entire air, convinces her of that. Well, she will give him an opportunity of honorably getting rid of her. She will tell him of her intention of running away with Eyre. That will do it. He is just the sort of man to stick to his word through thick and thin, however hateful the task may be. But when he hears that she deliberately meant to run away with some one else—oh! was it deliberate? She will tell him. But not now. To-morrow, perhaps. No, sternly—to-morrow  certainly. He is coming to dine with them, and after dinner, in the drawing-room, she can then give him the opportunity of releasing himself from this unfortunate engagement. How glad he will be! How—</p>
+          <p xml:id="dlittle_130665">Anketell moves uneasily in his seat. What is that little soft, broken-hearted sound that has fallen on his ears? Dulcinea is crying—so much is plain. Not noisily, not obtrusively—it is, indeed, a stifled, a desperately stifled sob, that betrays her.</p>
+          <p xml:id="dlittle_130666">"I am afraid you are unhappy about something," says he, unrelentingly. He is frowning. Fretting for that damned fellow, he tells himself, and the thought does not throw oil upon the waters. He seems to pause for a reply; but, none coming, he goes on: "To fret about anything is folly," says he, hardly. "There is a way out of most difficulties. I dare say you will find one out of yours!"</p>
+          <p xml:id="dlittle_130667">This lost lover she is crying for—this lover lost by her own fear of sacrificing too much for him—may be regained. No doubt, enchained by her lovely face, he will be glad to be recalled. She can write to him, and he will respond warmly. And he is a man of means. Once The McDermot has been told that he, Anketell, declines to carry out the engagement with his daughter, the old man, will be pleased enough to give her to Eyre—Eyre, who has undeniably good prospects.</p>
+          <p xml:id="dlittle_130668">As for Dulcinea, her sobs have now ceased entirely. Anketell's last words have struck a chill to her heart. He is not in touch with her. He feels nothing
+for her. Her distress causes him no pain. It is impossible he should know of her unfortunate affair with Eyre, and yet once again her heart dies within her. That terrible doubt returns. It was scotched—not killed. Her tears dry upon her hot cheeks. This is no time for tears. If—if he was at the station when she arrived, and had seen her meeting with Eyre—without Andy! Oh! no, no! Anything but that!</p>
+        </div>
+        <div xml:id="dlittle_012" n="12" type="chapter">
+          <head>CHAPTER XII.</head>
+          <epigraph>
+            <q>
+              <lg>
+                <l>"Fortune's wings are made of Time's feathers,</l>
+                <l>Which stay not whilst one may measure
+them."</l>
+              </lg>
+            </q>
+            <milestone rend="stars" unit="break"/>
+            <q>"The consciousness of being loved softens
+the keenest pang."</q>
+          </epigraph>
+          <p xml:id="dlittle_130669">IT has come to an end at last—this interminable drive! He has driven her up to the back gate, has lifted her carefully down has bidden her a most distant good-night. Miserable, frightened, leaving hope behind her and expecting a storm before her, she runs down the short road, through the farmyard and into the house. Her father! —what will he say? She shivers in every limb as she dwells upon his wrath. It would be serious enough if it had only, to do with her being out of the house at this hour. But when he hears of the sequence—the breaking off of her engagement with Anketell—how will it be then?</p>
+          <p xml:id="dlittle_130670">Racing upstairs at the top of her speed, she rushes into her own room and into the arms of Mrs. Driscoll.</p>
+          <p xml:id="dlittle_130671">The old woman, worn out with fear for the fate of her darling, has spent the last two hours wandering from room to room and praying loudly to all her saints. Prayers unheard except in heaven, as the gaunt old house is virtually empty. Now, seeing her nursling return to the nest, she forgets all the distress, the absolute torture she has been enduring, and, being Irish, lets the past go in the joy of the glad present. All is forgotten, save that her child has returned to her.</p>
+          <p xml:id="dlittle_130672">"Oh, Bridget!" says Dulcinea, clinging to her—"oh, Bridget!"</p>
+          <p xml:id="dlittle_130673">"There, now! There, me darling! Take yer breath now. 'Tis home ye are, an' safe wid yer ould Biddy. Hush, now, alanna!" squeezing her to her ample bosom. "Arrah! who'd be able to harm ye wid me at hand? But"—anxiously"—where were ye at all, at all?"</p>
+          <p xml:id="dlittle_130674">"Oh, Bridget, how I love you!" cries the poor child, gratefully, clinging to her with all her might. "I thought you, too, would be against me!"</p>
+          <p xml:id="dlittle_130675">"Is it me, asthore? me who nussed ye?"</p>
+          <p xml:id="dlittle_130676">"Well, he said you had it 'in for me' or something like that."</p>
+          <pb n="23 A LITTLE IRISH GIRL." facs="dlittle023"/>
+          <p xml:id="dlittle_130678">"Who, darlin'? Tell me the name o' the scamp who'd say such words o' me?"</p>
+          <p xml:id="dlittle_130679">"It was Andy."</p>
+          <p xml:id="dlittle_130680">"Masther Andy! You've seen him, then?" says the old woman, eagerly. "He was wid ye, Miss Dulcie?" drawing her to the fire. "Sit down here, agra! an' tell me all about it."</p>
+          <p xml:id="dlittle_130681">She leads the girl to the roaring wood fire that is blazing up the chimney—a
+fire so carefully tended in hopes of her darling's return that it is now indeed a	
+noble spectacle—and pushes her into a big arm-chair. And Dulcie, worn out with conflicting passions — doubts that	have grown to certainties and certainties that have once again resolved themselves into doubts—sinks into the welcome chair, and, drawing down the old	nurse to the hearth-rug beside her, pours into her ears the tale of the evening.	With many sighs and many sobs she makes her humiliating confession; but, in spite of Andy's dire threat, the faithful old nurse refrains from censure of	any kind.</p>
+          <p xml:id="dlittle_130682">"It is all over now, honey—all at an	end," soothing her. 'There-there-fie, now, to spoil yer purty eyes! Sure, what	were ye, but a bit mistaken? Bad scran to Masther Andy for frightenin' ye like this! 'Twill be all over in no time. Sorra one will know of it"—</p>
+          <p xml:id="dlittle_130683">"He knows of it—part of it—he"—</p>
+          <p xml:id="dlittle_130684">"Misther Eyre? He's a gintlemen,"says Mrs. Driscoll, who has in her pocket
+at this moment the very handsome douceur he had bestowed on her at parting.</p>
+          <p xml:id="dlittle_130685">"Mr. Eyre! I'm not thinking of him."</p>
+          <p xml:id="dlittle_130686">"Of who, thin, darlin'?"</p>
+          <p xml:id="dlittle_130687">"Sir Ralph," faintly.</p>
+          <p xml:id="dlittle_130688">"Arrah, nonsense! Sure you know, he'll niver hear of it!" says nurse, who, after all, in spite of her many good qualities, is frail.</p>
+          <p xml:id="dlittle_130689">"He will know. He shall know!" says her young mistress, springing to her feet.</p>
+          <p xml:id="dlittle_130690">"Eh?" Mrs Driscoll regards her with apprehension; what does she mean now? "Sit down—ye're tired, Miss Dulcie, dear," says she, with all the air of one trying to cajole an angry child.</p>
+          <p xml:id="dlittle_130691">"I shall tell him," says Dulcie, with determination.</p>
+          <p xml:id="dlittle_130692">"Faix, you won't," says Mrs. Driscoll. "'Tis mad ye are just now; but whin the mornin' comes an' I've a talk at ye agin, ye'll know where yer right road lies."</p>
+          <p xml:id="dlittle_130693">"Oh! to-morrow!" says Dulcie, with a groan. "Do you know he is coming to dinner to-morrow? Father asked him, and—but perhaps he will get out of it now. He hates me. I know that; I've reasons for knowing it."</p>
+          <p xml:id="dlittle_130694">'Raysons! There isn't a rayson in ye," says Mrs. Driscoll, with supreme contempt. "As if any one, with an eye that wasn't yours, couldn't see that he just delights in the sight of ye. Why, 'twas ony yestherday I overheard your father sayin'-"</p>
+          <p xml:id="dlittle_130695">"Oh, father!" impatiently. "Father wants you to think as you do. By the bye, Bridget," turning a frightened face to her nurse, "what of father? Where is he? What did he say? Was he asking for me? Is he very angry?"</p>
+          <p xml:id="dlittle_130696">"Wisha, me dear, he knows nothin' of it."</p>
+          <p xml:id="dlittle_130697">"Nothing?"</p>
+          <p xml:id="dlittle_130698">"Ne'er a ha'porth. By all the luck o' the world, Mickey Flynn took to fightin' agin this evenin' shortly afther you —went for yer walk—and the divil's own thrade he made of it. It appears he and Danny Murphy wint at it tooth an' nail down in the village below, all about nothin' but that ould ancient goose as Danny sould to Mrs. Flynn for a shillin', an' faix; between ourselves, miss, it was—damn ould, an' Mickey let into his skin like mad, an' Danny is now lyin' kilt below in his cabin wid the wife screechin' over him like a burned cat."</p>
+          <p xml:id="dlittle_130699">"Not dead?" horror-stricken.</p>
+          <p xml:id="dlittle_130700">"Oh, no, me dear! just a rib or two; but twas a most marciful occurrence. You see, they sint for the masther at once, an' down he wint to Dan's house, an' niver a word has he heard of your bein' in or out."</p>
+          <p xml:id="dlittle_130701">"Oh!" says Dulcinea, with a long sigh of intense relief. So much will be spared her, at all events.</p>
+          <p xml:id="dlittle_130702">"I've had a grudge agin Flynn for ten year," says Mrs. Driscoll. "He once promised to marry my sisther's cousin's nephew by marriage, an' he niver got as far as the alther; but I will forgive him now. He's done a good job for ye this night. And now, darlin', won't ye let me undhress ye, an' put ye to bed? ye're worn out. I can see it; an' a poached egg an' a cup o' tay, that'll be revivin' of ye. I'll bring it up to ye, whin yer undhressed. Ye'll sleep aisy afther it."</p>
+        </div>
+        <div xml:id="dlittle_013" n="13" type="chapter">
+          <head>CHAPTER XIII.</head>
+          <epigraph>
+            <q>"Is there no place Left for repentance, none for pardon left?"</q>
+            <milestone rend="stars" unit="break"/>
+            <q>"My life's a load!"</q>
+          </epigraph>
+          <p xml:id="dlittle_130703">BUT, in spite of the poached egg and tea, Dulcinea hardly slept at all. There was half an hour here and there of broken slumber, in which uncomfortable dreams held full sway, to the greater destroying of her peace when waking from them; but beyond that she lay all night with open eyes, thinking unhappy things and crying inwardly with great longing for the day.</p>
+          <p xml:id="dlittle_130705">And at last it comes, reluctantly, as all winter mornings, come, having no light of life to warm them. The sun for them lies dead. He may be there somewhere; but his glory is denied them. A dull,
+<pb n="24 A LITTLE IRISH GIRL." facs="dlittle024"/>
+cloudy, gray, taciturn day makes clear the window-panes to Dulcinea — so silent, so devoid of sound is it, indeed, that one might almost think of nature as lying in her shroud.</p>
+          <p xml:id="dlittle_130706">A shroud typical—outside all the world is swathed in a white sheet—the garb of death. During the night the soft flakes had fallen, silently, steadily; and now branch and leaf are laden with them. There had been snow before, but nothing like this. And still it falls.</p>
+          <q>
+            <lg>
+              <l>"Through the hush'd air the whitening shower descends;</l>
+              <l>At first thin, wavering, till at last the flakes</l>
+              <l>Fall broad and wide and fast, dimming the day</l>
+              <l>With a continual flow."</l>
+            </lg>
+          </q>
+          <p xml:id="dlittle_130707">Dulcinea's first thought on seeing the day is that probably Anketell will not be able to come over to dinner. This should have caused her relief; but to her surprise it causes her only a deepening of the depression that is weighing her down. Oh, he must come! He must! How can she live with this burden on her mind? She will confess all to him; will tell him everything; will open to him the way to rid himself honorably of her—to put an end to his hated engagement.</p>
+          <p xml:id="dlittle_130708">All day she wanders aimlessly from room to room, longing for, while dreading, the hour that shall tell her if he is or is not coming. Toward five o'clock she finds herself in the schoolroom once again, and, sinking into a chair, rests her elbows on her knees and lets her lovely, disconsolate face fall into her little chilly palms.</p>
+          <p xml:id="dlittle_130709">Five! If coming he will be here in three-quarters of an hour. The snow is still falling, heavily, steadily. It is almost impossible he should come. No one would go out on such a night unless compelled; and he—why, no doubt he will be glad of the excuse to keep away. And yet something within her whispers he will come.</p>
+          <p xml:id="dlittle_130710">Three-quarters of an hour! It must be a great deal less than that now. Raising her eyes to the clock, she is astonished to find that it is only three minutes less. What on earth is the matter with that old clock? She taps it—listens —no, it is going as methodically as ever. Will a quarter to six ever come? He is sure to arrive then, The McDermot dining always at six sharp and being seriously annoyed if a guest is not on the spot some time beforehand. How often she and Ra—Sir Ralph had laughed over that little eccentricity of his!</p>
+          <p xml:id="dlittle_130711">A sound in the fire-lighted room behind her makes her spring to her feet. Oh, no! not yet. Not until she has grasped the back of the chair, and has learned that the incomer is Andy, does she know that she is trembling from head to foot, and that her lips have grown so cold, so horribly cold.</p>
+          <p xml:id="dlittle_130712">"My word! You're growing active in your old age," says Mr. McDermot, advancing cheerfully to the fire and poking it into a glorious blaze. "As a traveling acrobat you'd make your fortune. What made you bounce out of your chair like that? Guilty conscience—eh?" with a grin. "And, I say! What a swell you are! Put on all that toggery to fascinate Anketell over again? 1 declare, Dulcie, you're the biggest flirt I ever met. You are hardly off with the new lover before you want to be on again with the old."</p>
+          <p xml:id="dlittle_130713">"I don't want to be on with anybody!" says Dulcinea, crimsoning with shame and indignation. "It's a horrid old gown, and you know it. You've seen it fifty times, if once! If you've come here only to torment me—only to—to—make a fool of yourself, I hope you'll go away again."</p>
+          <p xml:id="dlittle_130714">"I merely," pulling up his coat and preparing to warm himself properly at the fire, "made the remark that you were distinctly good to look at. Now, any one who can manage to look well in a gown fifty times old must be a lovely girl indeed! See—it was a compliment, my dear girl! Why, then, this ungrateful virulence?"</p>
+          <p xml:id="dlittle_130715">"Stuff!" says his cousin, with increasing ingratitude. The fact is, she had had something on her mind when dressing—something that led her to desire to look her best before Sir Ralph on this—last evening. For that it would be his last as her fiance seems undoubted to her. It was an old gown she donned, a shabby little black gown; but the square in front showed a lovely neck that gleamed whiter and more lovely than the snow outside, and the soft, bare arms that fell at her sides as she gazed at herself in the glass, worked wonders with the ancient costume.</p>
+          <p xml:id="dlittle_130716">Mr. McDermot, unmoved by her last remark, drops leisurely, on to the fender.</p>
+          <p xml:id="dlittle_130717">"I say, Dulcie, how did you and he get on last evening?"</p>
+          <p xml:id="dlittle_130718">"About as badly as you could imagine."</p>
+          <p xml:id="dlittle_130719">"Imagination is not my strong point," says Mr. McDermot, modestly, speaking the truth for once in his life. "About how badly, now?"</p>
+          <p xml:id="dlittle_130720">"Well, I have known him for twelve long months, and never, never in all that time was he so—so—abominable to me!"</p>
+          <p xml:id="dlittle_130721">"Abominable!" quite angrily. "If I thought"—</p>
+          <p xml:id="dlittle_130723">"Oh, no!" shaking her charming head, so that the firelight flickers from her long lashes to the little soft, natural fluff of hair that blows across her forehead. "Not abominable in that way. He
+<pb n="25 A LITTLE IRISH GIRL." facs="dlittle025"/>
+was quite polite—hatefully polite, never speaking a word, or smiling, or"—</p>
+          <p xml:id="dlittle_130724">"How the deuce could you know whether he was smiling or not — the
+night was as black as soot!"</p>
+          <p xml:id="dlittle_130725">"At first! Not after! I saw well enough. And besides, his voice would tell	 you he wasn't smiling."</p>
+          <p xml:id="dlittle_130726">"I	 dare say it was you who wasn't smiling."</p>
+          <p xml:id="dlittle_130727">"Oh' of course. You are sure to put me in the wrong, whether or no." A very pretty quarrel is here spoiled by one of the combatants giving in.</p>
+          <p xml:id="dlittle_130728">"Never mind that," says he. "Do you mean to tell me he—was—well—wasn't  like what a fellow engaged to you should be?"</p>
+          <p xml:id="dlittle_130729">"Oh, no! indeed he wasn't!" emphatically. He was downright brusque. He —he quite ordered me to put my hands under the rug!"</p>
+          <p xml:id="dlittle_130730">"And you obeyed?"</p>
+          <p xml:id="dlittle_130731">"Well—er—yes. I"— shamefacedly, "I —he was so cross, I thought perhaps I had better."</p>
+          <p xml:id="dlittle_130732">"I can't understand it," says Andy, wrinkling up his brows; these are so low that it doesn't take a second to do it. "Dulcie!" turning to her in a rather tragic way, "do you think you were right after all, that he was there I mean—that he saw you and—and that other fellow?"</p>
+          <p xml:id="dlittle_130733">"No," dejectedly. "Oh, no," hanging her pretty head so low that even a Parnellite might feel sorry for her. "The fact is, Andy, that he hates me."</p>
+          <p xml:id="dlittle_130734">"What?"</p>
+          <p xml:id="dlittle_130735">"He hates me!" repeats she, with rising strength that is strong through its grief. "That's all."</p>
+          <p xml:id="dlittle_130736">"And enough, too," says Mr. McDermot. "Only," drawing himself up, "I don't believe it."</p>
+          <p xml:id="dlittle_130737">"It's true, for all that," forlornly. "I've known it for a long time. After all," meditating, "why shouldn't he?"</p>
+          <p xml:id="dlittle_130738">"Why should he?" says Andy, vigorously. "Why, look here. You're as nice a girl as I know, anyway! Oh, go to the deuce!" says Mr. McDermot, as if addressing some imaginary person at the end of the rooms "D'ye think I can't see? I tell you this, Dulcie, he'll find it hard to get as good as you."</p>
+          <p xml:id="dlittle_130739">"Oh, Andy, what a dear you are!" says his cousin, and suddenly bursts out crying. "But I tell you it's true, for all that," says she, sobbing. "He hates me —he does, really; and when he comes tonight I shall tell him all about it and set him free."</p>
+          <p xml:id="dlittle_130740">"Free!"</p>
+          <p xml:id="dlittle_130741">"From his engagement with me. You can't see as clearly as I do, Andy; and I know he will be delighted to get a chance of saying good-by to me forever."</p>
+          <p xml:id="dlittle_130742">"You mean to say that you are going to tell him?" Mr. McDermot is gazing at her with distended eyes.</p>
+          <p xml:id="dlittle_130743">"Yes, just that. I can't live with this secret on my mind. And it is dishonorable, too, Andy; you must see that. If I knew that—that I—once even thought of—oh!" miserably, "it is very hard to say it. But you know, don't you?"</p>
+          <p xml:id="dlittle_130744">"Yes, I know."</p>
+          <p xml:id="dlittle_130745">"Never mind," frowning painfully, "I will say it. It is a good punishment for me. If he knew I had even thought of running away with Mr. Eyre, do you think he would still be anxious to marry me himself?"</p>
+          <p xml:id="dlittle_130746">"He might," says her cousin.</p>
+          <p xml:id="dlittle_130747">"Oh, Andy!" says Dulcinea, with keen reproach. "Well," resignedly, "it doesn't matter. I shall tell him the truth, whatever it costs me."</p>
+          <p xml:id="dlittle_130748">"But look here"—</p>
+          <p xml:id="dlittle_130749">"I shall tell him the truth," repeats Dulcinea, sadly. "Why should I leave him in ignorance? I shall tell him everything. It is only honorable to do so."</p>
+          <p xml:id="dlittle_130750">"You are looking after your own honor most carefully," says Andy, with a very unpleasant smile. "Of course," slowly, "it has never occurred to you to look after mine? to consider that you are rather giving me away?"</p>
+          <p xml:id="dlittle_130751">"Your honor!"</p>
+          <p xml:id="dlittle_130752">"Yes, mine—that I have sacrificed to your welfare," says Mr. McDermot, with considerable indignation and a prolonged shake of the head.</p>
+          <p xml:id="dlittle_130753">"What are you talking about, Andy?"</p>
+          <p xml:id="dlittle_130754">"About you and your ridiculous plans. You will run away with an organ-grinder, and you won't! You will marry a respectable baronet, and you won't! and, in the mean time, you let your good, kind, devoted cousin in for"—</p>
+          <p xml:id="dlittle_130755">"What?"</p>
+          <p xml:id="dlittle_130756">"Unlimited lies, if it comes to the point," says Mr. McDermot, sinking into his chair once more, with very distinct rage written in his ordinarily beaming face.</p>
+          <p xml:id="dlittle_130757">"Lies!"</p>
+          <p xml:id="dlittle_130758">"Well, d'ye think he won't regard them as lies when you tell him what you believe to be the truth? And I shall be the teller of them; I shall be the liar."</p>
+          <p xml:id="dlittle_130759">"But what have you said, Andy?"</p>
+          <p xml:id="dlittle_130760">"Didn't I tell him you had walked to the station with me? that it was quite a coincidence your meeting Eyre there? that I hoped he would take you home safely, and let you in at the back door without the governor's knowing anything of your escapade—I didn't call it that to him, because if he found you were out he would lay the blame on me, who had induced you to go for a walk so late at night. You can do as you like, Dulcie; but I wish you had told me beforehand you meant to make a confession to him. I should not feel so poor a fellow now as I do."</p>
+          <pb n="26 A LITTLE IRISH GIRL." facs="dlittle026"/>
+          <p xml:id="dlittle_130762">"If, by speaking to Sir Ralph, you think I shall betray you, Andy—you, who have been so good to me," says Dulcinea, with a pale face, "I certainly shall not speak. I shall simply tell him that I wish to put an end to our engagement, and shall decline to say why." She looks up at him with a pale, steady expression.</p>
+          <p xml:id="dlittle_130763">"It is beyond doubt that he would regard me as a liar of the first water," says Mr. McDermot; "and yet if it can help you, Dulcie, to let him know the truth—why"—generously, "let him know it."</p>
+          <p xml:id="dlittle_130764">"I could leave you out of the confession," says Dulcinea. "I could let him think—that—that you knew nothing about it. That you—thought too—I—oh, no!" miserably, "that wouldn't do; you told him we had walked from home to the station."</p>
+          <p xml:id="dlittle_130765">"Just that," grimly. "Never mind, Dulcie! I've been thinking, and I've really come to the conclusion that to tell him everything will be the best plan after all. And as for my share in it, why —why—it comes to this, that I'll be glad when he knows the truth of my lying, too!"</p>
+          <p xml:id="dlittle_130766">"Oh, Andy! but to betray you!"</p>
+          <p xml:id="dlittle_130767">"Betray me by all means! I'll live through it. And—I dare say he will understand I did it for you; that'll set me straight with him.'</p>
+          <p xml:id="dlittle_130768">"But—but, indeed, Andy, I couldn't be such a sneak as that. You told a lie for me, and do you think I don't value that? No—oh!" stopping short, "what's that?"</p>
+          <p xml:id="dlittle_130769">"That" is a thundering knock at the hall door.</p>
+          <p xml:id="dlittle_130770">"He's coming!" says Dulcinea, faintly. "Andy," picking up her skirts and preparing to run, "receive him. Go into the drawing-room. Say anything—that I've a toothache—anything at all."</p>
+          <p xml:id="dlittle_130771">"But you'll come to dinner?" in dismay.</p>
+          <p xml:id="dlittle_130772">"Yes—oh, yes—I suppose I must."</p>
+          <p xml:id="dlittle_130773">"Why, I thought you were mad to tell him all about it — to confess, as you said."</p>
+          <p xml:id="dlittle_130774">"So I will—so I will; but not just now," breathlessly. "No"—with a last backward glance, "just—not now, Andy!"</p>
+        </div>
+        <div xml:id="dlittle_014" n="14" type="chapter">
+          <head>CHAPTER XIV.</head>
+          <epigraph>
+            <q>
+              <lg>
+                <l>"Go, lovely rose,</l>
+                <l>Tell her that wastes her time and me;</l>
+                <l>That now she knows,</l>
+                <l>When I resemble her to thee,</l>
+                <l>How sweet and fair she seems to me."</l>
+              </lg>
+            </q>
+          </epigraph>
+          <p xml:id="dlittle_130775">DINNER has come—has gone. And, to be just to it, it was a most dismal affair. In spite of Andy's jocularity, which, in despair, at the end took a rather pronounced turn, this one meal beneath The McDermot's roof has proved a complete failure.</p>
+          <p xml:id="dlittle_130776">Miss McDermot had refused to help in any way. Just before dinner, as she entered the drawing-room, there had been a little flush upon her white cheeks, a nervous, yet hopeful sparkle in her dark blue eyes. The tall, childish figure had been quite drawn up—even the nutbrown hair coiled on the top of the shapely head had helped to give her the conquering air that she had vainly dreamed might be hers. That old frock! It was old, of course; but she looked—she knew she looked well in it. Once, a long time ago, he had said he liked her in it; perhaps now, when he saw her again in it—he might—</p>
+          <p xml:id="dlittle_130777">Alas! her hopes even as she crossed the threshold fell dead. Sir Ralph, talking to her father, lifted his eyes, glanced at her, came forward—reluctantly, it seemed to her—shook hands silently and dropped back to the hearth-rug beside The McDermot without so much as the appreciative smile. The poor child huddled herself into an arm-chair somewhere and told herself it was all over. When she didn't care for him he cared for her. Now that she has too late wakened to the fact that she loves him he—does not love her.</p>
+          <p xml:id="dlittle_130778">As for Anketell, to see her—to go to her—to take her hand and coolly press it—has been torture. Oh! did she ever look so desirable as at this moment. when he so fully realizes all that he has lost in her—so much loveliness, but not for him! A shabby frock, indeed! a poor little frock! but did ever woman yet wear a frock so altogether becoming? Such a shabby gown, and without ornament of any kind: but what ornaments could compare with that sweet, soft neck, with those snowy, slender arms? what jewels could outvie those gleaming eyes? Oh, what a pale but perfect face! and the head—it seemed born to wear a crown! How sad she looks—how sad! Remembering, no doubt.</p>
+          <p xml:id="dlittle_130779">She had thought his glance cold. She could not see that his heart was well nigh broken. She could not know, seeing him there talking platitudes to his host, with his eyes determinately turned away from hers, that yet in his soul he is looking at her, seeing each curve of her gown. It has come to him that, if she can look so charming in that indifferent garment, how beauteous she might he made to look in something better! Oh, that he might be allowed to give her such things as might deck her dainty beauty to its utmost; that he might give her all he possesses! Some part of him she has already, a pure gift of his that she will carry to her grave whether she will or not—his heart!</p>
+          <p xml:id="dlittle_130781">The dinner is over at last, and the dreary half hour afterward in the drawing-room. The snow is still falling, falling, and The McDermot has elected that
+<pb n="27 A LITTLE IRISH GIRL." facs="dlittle027"/>
+his guest shall spend the night beneath his roof. No going home until morning. Dulcie had gladly left them to see a chamber warmed and sheeted and prepared, and, sick at heart and seeing no chance of a tete-a-tete with her betrothed in which to betray to him her one small act of folly, has refused to come down again.</p>
+          <p xml:id="dlittle_130782">She has gone to her room, and, still dressed, sits cowering miserably over the huge fire that the old nurse has built for her.</p>
+          <p xml:id="dlittle_130783">Ten—eleven—twelve  has struck. Rising at last, she goes to the window, and, pulling aside the blind, looks out upon the silent night. The snow has eased! There is no wind. What!—not even rain? She opens the window, and, leaning out, looks first up at the heavens bedecked with stars, then down at the earth beneath!</p>
+          <p xml:id="dlittle_130784">The latter proves infinitely more interesting.</p>
+          <p xml:id="dlittle_130785">Below runs a balcony from which The McDermot's den, that in other richer houses would be called the smoking-room, opens. Two her surprise a lamp shines through the window, casting a dull, half-shadowed light upon the night outside. Not gone to bed yet? Surely her father—if any one is there she could, from where she now is, hear them talking. Leaning a little farther out, she strains her ears; but no sound comes. No voices float out upon the chilly air. They must have gone to bed and forgotten to put out the lamps.</p>
+          <p xml:id="dlittle_130786">She had better run down and extinguish them.</p>
+          <p xml:id="dlittle_130787">She is about to draw in her head with a view to accomplishing this purpose, when the window beneath her leading from the smoking-room to the balcony is thrown open, and a man dressed in evening clothes steps on to it. He has a cigar in his mouth, and the red tip of it shows through the mirk of his still surroundings. To mistake this man for any other than Sir Ralph would be impossible!</p>
+          <p xml:id="dlittle_130788">Dulcinea, drawing hack hurriedly, leans against the shutters of her window. The first impulse was not to be seen; the second compels her to stand upright and face a situation, although it be with blanched cheeks. Now—now is her time—to speak.</p>
+          <p xml:id="dlittle_130789">She is alone. She is sure of that. If she hesitates now, she may not for a long time, perhaps a whole awful interminable week, get a chance of squaring herself with her conscience. She must tell him. Then why not now?</p>
+          <p xml:id="dlittle_130790">It takes but a little minute to run down the stairs, open the smoking-room door, and, crossing it, reach the balcony.</p>
+          <p xml:id="dlittle_130791">"Dulcie!" says Anketell, sharply—as sharply as though he had seen a ghost.</p>
+        </div>
+        <div xml:id="dlittle_015" n="15" type="chapter">
+          <head>CHAPTER XV.</head>
+          <epigraph>
+            <q>
+              <lg>
+                <l>"Drink to me ply with thine eyes,</l>
+                <l>And I will pledge with mine; Or leave a kiss but in the cup,</l>
+                <l>And I'll not look for wine.</l>
+                <l>The thirst that from the soul doth rise</l>
+                <l>Doth ask a drink divine;</l>
+                <l>But might I of Jove's nectar sup</l>
+                <l>I would not change for thine."</l>
+              </lg>
+            </q>
+          </epigraph>
+          <p xml:id="dlittle_130792">"YES, it is me," says she, regardless of grammar. "I have come to tell you all about it."</p>
+          <p xml:id="dlittle_130793">"About what?"</p>
+          <p xml:id="dlittle_130794">His face is now as white as her own, and that is saying a great deal for it.</p>
+          <p xml:id="dlittle_130795">"You know—that is—do you know?" asks she, that old doubt returning.</p>
+          <p xml:id="dlittle_130796">"Even if I do, don't let us talk out here; it is miserably cold. Come in."</p>
+          <p xml:id="dlittle_130797">"No—no. Let me tell you here. ("Where you can't see me," she would have added had she dared.)</p>
+          <p xml:id="dlittle_130798">"As you will, of course; but it is madness. It is the coldest night we have had yet, and there is a fire within—and"—</p>
+          <p xml:id="dlittle_130799">"You did not seem to feel it too cold to come out a few minutes ago," says she.</p>
+          <p xml:id="dlittle_130800">"How do you know I came out?"</p>
+          <p xml:id="dlittle_130801">"I saw you. I was looking out of the window. And—I have wanted all day to see you alone"</p>
+          <p xml:id="dlittle_130802">"To see me alone? For the first tine in your life, surely," with sudden bitterness.</p>
+          <p xml:id="dlittle_130803">"Oh, never mind all that now," says she, with a touch of impatience that is full of despair. "At all events, I did want to see your to—to tell you the truth about"—</p>
+          <p xml:id="dlittle_130804">"Don't go on—don't, if it hurts you!" says he, hoarsely.</p>
+          <p xml:id="dlittle_130805">"Hurts me? Oh! it is more than that," says she, in a stifled tone. "It is so bad that I can't live until I tell you."</p>
+          <p xml:id="dlittle_130806">"Tell it, then," says he, freezing again. Her grief! Her misery! And such strong grief that it seems to shake her slender frame to its very soul. And all for that other!</p>
+          <p xml:id="dlittle_130807">And thus bidden, she tells it. A most halting, woful tale; but true in every point. So true, indeed, that it defeats itself. It does not lay clear the fact that love for him, and want of love for his rival, had been the motive power that worked her return.</p>
+          <p xml:id="dlittle_130808">There is a dead silence when she has finished her forlorn confession.</p>
+          <p xml:id="dlittle_130809">"So you were afraid to go in the long run?" says he, at last, his voice stern.</p>
+          <p xml:id="dlittle_130810">"Afraid! No—yes," She had begun boldly, but now breaks down. "Yes, I was afraid."</p>
+          <p xml:id="dlittle_130811">"And why have you told me this?"</p>
+          <p xml:id="dlittle_130813">"Oh! must I answer that?" says she, clasping her cold hands in front of her. "Surely you know. Do you think I have not seen enough to—do you think I am
+<pb n="28 A LITTLE IRISH GIRL." facs="dlittle028"/>
+without all feeling? I spoke—to set you free!"</p>
+          <p xml:id="dlittle_130814">"So anxious for your own freedom?" says he, with a sneer. He flings the now cold cigar over the balcony, away into the dark beyond. "You are ingenuousness itself! To put it upon me is a good move. Well! And so I am to consider our engagement at an end?"</p>
+          <p xml:id="dlittle_130815">"Of course," says she, very bravely; and in another moment, to her intense discomfiture, finds that she is crying bitterly—silently—desperately. So silent is her crying that in the darkness he is not aware of it.</p>
+          <p xml:id="dlittle_130816">"I think you could have found an easier, not to say more graceful, way out of your difficulty," says he, contemptuously. "A word to me would have been enough. But I suppose I was not worth even so much trouble to the girl who had promised to marry me? You had promised, you know," trying to see her face and speaking with merciless persistency. "Did you imagine," bitterly, "that I was so enamored of you that I would force you into a marriage with me? Did you believe me," passionately, "so mean a hound that I would marry you against your will? Great heaven, what a world it is!"</p>
+          <p xml:id="dlittle_130817">He turns suddenly away from her stricken figure, and begins to pace vehemently up and down the balcony.</p>
+          <p xml:id="dlittle_130818">"Here, come in," says he, at last, roughly. "Come in out of this cold. Faithless and worthless as I think you and know you!—still, you must live, I suppose, to the undoing of other men."</p>
+          <p xml:id="dlittle_130819">He has laid his hand on her arm and ,drawn her to the open casement. The lights from within falling more distinctly on her face waken him to the fact that the tears are running down her cheeks.</p>
+          <p xml:id="dlittle_130820">"You are crying!" says he, fiercely.</p>
+          <p xml:id="dlittle_130821">He lets her go. Crying—for Eyre! He curbs his passion by a supreme effort, and once again addresses her. His voice now is under control, though his eyes still show the angry grief that is consuming him.</p>
+          <p xml:id="dlittle_130822">"If you are crying for Eyre," says he, "that can soon be set right. To judge by his manner last night"—</p>
+          <p xml:id="dlittle_130823">He has betrayed himself! As if struck, the girl starts back from him.</p>
+          <p xml:id="dlittle_130824">"You were there! You saw! You heard!"</p>
+          <p xml:id="dlittle_130825">"I saw; I did not hear."</p>
+          <p xml:id="dlittle_130826">"You knew, and let me speak! Oh!"—"Why should I not be silent? I waited"—</p>
+          <p xml:id="dlittle_130827">"Waited? For what? Could not you," wildly, "have broken our engagement instead of leaving me to do it?"</p>
+          <p xml:id="dlittle_130828">"I could not."</p>
+          <p xml:id="dlittle_130829">If she had not been so overpowered with this fresh knowledge that meant so
+much fresh shame, she might have read between the lines of his short answer.</p>
+          <p xml:id="dlittle_130830">"Oh, you should—you should!" says she, weeping openly now.</p>
+          <p xml:id="dlittle_130831">"Don't cry," says Anketell, catching hold of her. "Don't. Am I not miserable enough? It can all soon be set right."</p>
+          <p xml:id="dlittle_130832">"Oh, never—never!"</p>
+          <p xml:id="dlittle_130833">"I tell you yes. You know his address?"</p>
+          <p xml:id="dlittle_130834">"His?"</p>
+          <p xml:id="dlittle_130835">"Eyre's."</p>
+          <p xml:id="dlittle_130836">"No."</p>
+          <p xml:id="dlittle_130837">"It can easily be discovered, however."</p>
+          <p xml:id="dlittle_130838">"I don't want to discover it," says she, covering her face with her hands.</p>
+          <p xml:id="dlittle_130839">"Then why are you crying?" asks he, coldly. "Let us, now that the truth lies bare between us, cease from deception. Tell me this," his tone growing almost frozen —now, "when you proposed to leave your home with him, where were you going?"</p>
+          <p xml:id="dlittle_130840">"To his sister, Lady Stanning," faintly.</p>
+          <p xml:id="dlittle_130841">"She had arranged to receive you?"</p>
+          <p xml:id="dlittle_130842">"Oh, no! He—he only settled about our going the morning before I—I—left. When was it?" wearily. "It seems a long, long time ago."</p>
+          <p xml:id="dlittle_130843">"I dare say," grimly. "But a telegram will bring him to you in no time. Well, and so you were to go to Lady Stanning, in the middle of the night, without previous arrangement with her of any sort?"</p>
+          <p xml:id="dlittle_130844">"So he said."</p>
+          <p xml:id="dlittle_130845">"Did it never occur to you that Lady Stanning might not be exactly pleased to receive an unknown young lady at an hour approaching midnight?"</p>
+          <p xml:id="dlittle_130846">"I did not think—I"—</p>
+          <p xml:id="dlittle_130847">"And he," with growing wrath—"this precious lover of yours — did he never think either? Did it never dawn upon his vacant brain what a cul de sac he was leading you into? Pah! Mr. Eyre may be the model of all virtue, all genius in your eyes; in mine he is merely a first-class idiot!"</p>
+          <p xml:id="dlittle_130848">"Oh, yes!" agrees she, with a sob.</p>
+          <p xml:id="dlittle_130849">Anketell stops as if struck. He had expected vituperation, tears, abuse, support of Eyre. But this—this open agreement with the verdict against him is more than he had prepared himself to receive.</p>
+          <p xml:id="dlittle_130850">"But he was very kind—very," says Dulcie, hurriedly. "He was kind to me when you—when every one was against me. If—if I had liked him a little bit more, I should have been glad to go with him; but"—</p>
+          <p xml:id="dlittle_130851">She lifts her earnest, half-drowned eyes to his.</p>
+          <p xml:id="dlittle_130852">"But?" questions he, sternly.</p>
+          <p xml:id="dlittle_130853">"But—I didn't!" returns she, gently.</p>
+          <p xml:id="dlittle_130854">To disbelieve her would be to be a fool. Anketell's face pales for a moment, and then slowly, slowly a healthier, happier hue returns to it.</p>
+          <pb n="29 A LITTLE IRISH GIRL." facs="dlittle029"/>
+          <p xml:id="dlittle_130856">"Come in," says he, gently. He does not wait for her to obey him this time, however. He draws her with a strong if tender arm to the shelter of the warm room within.</p>
+          <p xml:id="dlittle_130857">"See here, Dulcie," says he, standing before her and taking her hands gently in his own. "Shall we begin all over again, you and I?"</p>
+          <p xml:id="dlittle_130858">"You and I?"</p>
+          <p xml:id="dlittle_130859">"Why not? Look! I set you free—I release you," pressing her back from him. Not very far, but still far enough for him to know that Dulcinea's fingers have tightened over his, as if in fear or protest, or both. Even such a little distance has frightened her. Oh, the glad thrill of dawning hope that heats his veins, as he feels the nervous clasping of her hands!</p>
+          <p xml:id="dlittle_130860">"You are free, Dulcie. I have no smallest claim upon you. You can go your way and I mine. You," unsteadily, "you quite understand that?"</p>
+          <p xml:id="dlittle_130861">"Yes," faintly.</p>
+          <p xml:id="dlittle_130862">"Well, now," he pauses as if afraid to go on. After all it is only an experiment. Who knows how it will end? "Now, I propose to you all over again. I beg, I entreat you to marry me! You have your freedom; you can keep me or let me go, as you will; but,"passionately, "I beseech you to keep me!"</p>
+          <p xml:id="dlittle_130863">"Oh, no!" Her pretty head is hanging clown, her voice has sunk into a whisper. "Not after—after—that—?"</p>
+          <p xml:id="dlittle_130864">"After that—after everything!"</p>
+          <p xml:id="dlittle_130865">Miss McDermot raises her head slowly and looks at, him. Reproach is in her glance.</p>
+          <p xml:id="dlittle_130866">"Why—why were you not like this always?" asks she.</p>
+          <p xml:id="dlittle_130867">"How could I be?" The reproach is all on his side now, and is strong enough to dwarf hers. "Do you know how you treated me? What icicle was ever colder? Why, I was afraid to go near you! Once I kissed you. Do you remember it? I do; and your look after it. Once only! This," stooping and pressing his lips lightly to her cheek, "is the second time. And," sadly, "I do not call that kissing you at all."</p>
+          <p xml:id="dlittle_130868">"And what do you call it?" asks she, a gleam of mischievous fun creeping into her face in spite of her. Then suddenly she flings her arms around his neck. "Well, I'll kiss you," says she. "Because I love you, Ralph. I do! I do indeed!"</p>
+          <milestone rend="stars" unit="section"/>
+          <p xml:id="dlittle_130869">"You are sure of it?" asks he, five minutes later.</p>
+          <p xml:id="dlittle_130870">"Quite, quite sure."</p>
+          <p xml:id="dlittle_130871">"I wish you had been sure a little earlier."</p>
+          <p xml:id="dlittle_130872">"I shouldn't. The waiting has made it ever so much surer."</p>
+          <p xml:id="dlittle_130873">"And are you happy, darling?"</p>
+          <p xml:id="dlittle_130874">"I never felt so happy!"</p>
+          <p xml:id="dlittle_130875">"Not even one regret?"</p>
+          <p xml:id="dlittle_130876">"Well," nervously, "there is something—something—fidgeting  awkwardly with the flower in his coat.</p>
+          <p xml:id="dlittle_130877">"Yes, something? Go on," says he, anxiously.</p>
+          <p xml:id="dlittle_130878">Can it be about Eyre?</p>
+          <p xml:id="dlittle_130879">"It's—he seemed very uneasy about it."</p>
+          <p xml:id="dlittle_130880">"So he very well might," indignantly.</p>
+          <p xml:id="dlittle_130881">"Oh, but it was all for me."</p>
+          <p xml:id="dlittle_130882">"All for himself, in my opinion!"</p>
+          <p xml:id="dlittle_130883">"You wrong him," warmly. "You do indeed!"</p>
+          <p xml:id="dlittle_130884">To hear her stick up for Eyre is gall and wormwood, but to shake the good feeling established between them now is not to be thought of for a moment.</p>
+          <p xml:id="dlittle_130885">"Well, don't let us quarrel about him," says he, his tone lightness itself — his heart as heavy as lead. "What was he uneasy about in especial?"</p>
+          <p xml:id="dlittle_130886">"About the—the lies he told you!"</p>
+          <p xml:id="dlittle_130887">"He? 'Who?"</p>
+          <p xml:id="dlittle_130888">"Why, poor Andy, of course. Whom were you thinking of?"</p>
+          <p xml:id="dlittle_130889">"Of Eyre. Forgive me that."</p>
+          <p xml:id="dlittle_130890">"Nonsense." says Miss McDermot. "Why," airily. "I've forgotten him. No, it is Andy! You know he told you last night that he had brought me to the station, and, as I told you, I"—</p>
+          <p xml:id="dlittle_130891">"Is that all?"</p>
+          <p xml:id="dlittle_130892">"Yes. It was a great deal. And Andy is greatly put out about it. You—you are sure you don't think badly of him?"</p>
+          <p xml:id="dlittle_130893">"I think," enthusiastically, "very highly of him."</p>
+          <p xml:id="dlittle_130894">"Oh! Do you really?"</p>
+          <p xml:id="dlittle_130895">"Why, how else should I think of him? Was he not trying to help you?"</p>
+          <p xml:id="dlittle_130896">"And you will say something lovely to him the very first thing in the morning!"</p>
+          <p xml:id="dlittle_130897">"No; I shall say something lovely to you then."</p>
+          <p xml:id="dlittle_130898">"Oh, Ralph—well, good-night; goodnight again. Good-night, really, this time."</p>
+        </div>
+        <trailer rend="center">[THE END.]</trailer>
+      </div>
+    </body>
+    <pb xml:id="dlittle_130900" n="[30]"/>
+    <back xml:id="dlittle_130903">
+      <div xml:id="dlittle_200" type="advert">
+        <figure><graphic url="ENTITY_dlittle030" rend="inline"/>
+          <figDesc> Advert included in back of Duchess's "The Little Irish Girl"</figDesc>
+        </figure>
+        <pb xml:id="dlittle_130901" n="[31]"/>
+        <figure><graphic url="ENTITY_dlittle031" rend="inline"/>
+          <figDesc> Advert included in back of Duchess's "The Little Irish Girl"</figDesc>
+        </figure>
+        <pb xml:id="dlittle_130902" n="[32]"/>
+        <figure><graphic url="ENTITY_dlittle032" rend="inline"/>
+          <figDesc> Advert included in back of Duchess's "The Little Irish Girl"</figDesc>
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

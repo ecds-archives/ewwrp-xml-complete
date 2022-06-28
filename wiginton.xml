@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wiginton_13016">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title><seg type="short-title">The Confession and Execution of Letitia Wigington</seg>
+	   of Ratclif, who suffered at Tyburn, on Fryday the 9 h of
+	   this instant September, 1681, written by her own hand in
+	   the Goal of Newgate two days before her death, being
+	   Condemned for whiping her Apprentice Girl to Death, an
+	   electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Wigington, Leticia, d. 1681</reg><orig>Leticia Wigington</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>25kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="wiginton_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to
+the work claimed by Emory University for non-profit educational purposes, provided 
+this header is included in its entirety.  For inquiries about commercial uses, contact
+either: Women Writers Resource Project or Lewis H. Beck Center for Electronic
+collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17fdh</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Wiginton, Leticia.  The Confession and Execution of Letitia Wigington of Ratclif, who suffered at Tyburn, on Fryday the 9 h of this instant September, 1681, written by her own hand in the Goal of Newgate two days before her death, being Condemned for whiping her Apprentice Girl to Death. London: <publisher>Printed for Langley Curtis</publisher>, on Ludgate hill, <date>1681</date>. 4 pages. EEB 950:32</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="wiginton_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early Modern through the 18th Century</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Prose</rs>
+        <rs type="geography">Great Britain</rs>
+        <date>1600-1699</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Trials (Murder)--Great Britain--Early works to 1800.</item>
+            <item>Women authors, English--17th Century.</item>
+            <item>Crime.</item>
+            <item>Murder.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1997</date><label>Staff</label><name>Scott Ellis</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="wiginton_13015">
+    <body xml:id="wiginton_13014">
+      <div xml:id="wiginton_001" type="Text">
+        <head><seg type="short-title">THE<lb/>
+CONFESSION AND EXECUTION<lb/>
+OF<lb/>
+Letitia Wigington</seg><lb/>
+of Ratclif, who suffered at TYBURN,<lb/>
+on Fryday the 9 h of this instant September, 1681, written<lb/>
+by her own hand in the Goal of Newgate two days be-<lb/>
+fore her death, being Condemned for whiping her<lb/>
+Apprentice Girl to Death.</head>
+        <p xml:id="wiginton_1303">We are fully satisfied, that the following Paper was written by this
+unhappy womans own hand, a while before her Death, and though at her Tryal
+for this horrid fact, the Evidence against her, was full, clear and
+undeniable, yea which is more, though she was then so ingenious to confess
+her self really guilty thereof, having lain so many months in Newgate, we
+have very great reason to judg she has been too well acquainted with that
+cursed crew of Popish Priests and Jesuites, who it is to feared have
+debauched her with their own damnable Principles, whereby they have
+perswaded her to deny what she before had so full confessed, which she does
+in the very words of those Jesuites who lately deservedly suffered for
+Treason against his Majesty, etc. who though they were Tried and condemned
+(as well well as her self) upon the clearest Evidence imaginable, yet
+Atheistically even with their last Breath affirmed, That they were as
+innocent as the Child newborn.</p>
+        <p xml:id="wiginton_1304">Micah the 7th Chapt and 8 9 Verses.</p>
+        <p xml:id="wiginton_1305">Rejoyce not against me, O mine Enemy : when I fall, I shall arise, when I
+sit in darkness, the Lord shall be a Light unto me.</p>
+        <p xml:id="wiginton_1306">I will bear the
+Indignation of the Lord, because I have sinned against him, until he plead
+my cause, and excuse judgment for me : he will bring me forth to the Light,
+and I shall behold his Righteousness.</p>
+        <p xml:id="wiginton_1309">This place of Scripture I made choice of, as being somewhat pertinent to
+the business, and troubles and afflictions that are inflicted on me,
+wherefore upon my bended Knees I humbly desire all you that have been my
+loving Neighbours and Friends, and all other good Christians, that have
+heard of this horrid and dreadful misfortune that hath befallen me, and you
+that shall read these doleful Lines, let pity move your hearts to read
+them, and you that have had any hand in taking away my Life wrongfully, I
+pray God forgive you all, but let me admonish you not to abuse the dead by
+giving out your cruel speeches by me, as you have done in my Life time
+(that never did you any harm) first for Imprison me wrongfully, and that
+not satisfying, but to prompt on one, that was my Apprentice Rebecca
+Clifford by name, who was not full 12 years of age, to swear against me,
+she not being sensible of the danger of taking a false Oath, so that you
+have used me at your pleasure. I speak to you all, Rich and Poor, great and
+small, that have any hand in my Death whoever you are, for you cannot, be
+ignorant of the great evil you have done me, (a poor friendless Creature)
+for you have made it your business to take away my life, who am as innocent
+as concerning the Murder for which I suffer as the Child unborn: but why
+should I reflect upon my Innocence and the abuse put upon <pb xml:id="wiginton_1307" n="2"/>
+on me who am a person full of sin and corruption, when our blessed Saviour
+who knew no sin, neither was Guilt found in him, and yet he was buffeted
+and spit on and falsly accused and crucified between two Thieves, and yet
+he took it patiently, and was led as a Lamb to the slaughter, and as a
+sheep before her Shearer is dumb, so opened he not his mouth, but took the
+Cup of his Father's Indignation with chearfulness and all this for the sins
+of poor lost Man, and therefore why should I think it a burden to take his
+Yoke upon me which is made to me both easie and light, oh no, for though I
+were to be torn Limb from Limb, or to be burned in flames, I could
+chearfully undergo it for meet my Lord and Saviour Jesus Christ, for this
+is my comfort, in all my troubles that though you kill my Body, you cannot
+touch my precious and immortal Soul, that is bound up in the bundle of
+Life, and I thank my God, that I have a good assurance of everlasting
+happiness in another world, though I suffer a shameful and ignominious
+Death here, there is laid up for me a Crown of Glory which fadeth not away
+eternally in the Heavens, and if this be the way that my dear Redeemer hath
+ordained for me to obtain it, welcome, yea thrice welcome is that Rope
+which is to put a period to all my miseries and oppressions which have been
+very numerous and great, for I have been kept a prisoner now 8 Months,
+where I have lain upon the hard boards having nothing but bread and water,
+and no more than a penny-Loaf a day neither; and my Flesh black and blew
+with lying upon the boards for want of a Bed, and I can say with that
+blessed Man of old (David) I have watered the boards as I laid on with
+bitter Tears for my manifold sins and wickedness. For though the Lord did
+suffer Man to be so cruel to me, it was my sins was the cause that the Lord
+laid this Yoke upon me, but our Saviour hath said, Come unto me all you
+that are weary and heavy laden, and I will give you rest, which promise I
+can with comfort say, hath been made good to me, for though my body hath
+wanted Food and suffered great hardships, yet my Soul hath been fed with
+the bread of Heaven, for though I am here confined amongst a company of
+poor blind ignorant and gross sinners that have not the fear of God before
+their eyes, yet as the Bee sucks hony out of the worst of herbs and
+flowers, so I though hearing their horrid cursing and swearing, do the more
+though my self at the Lords Feet with a true and faithful zeal in serving
+him night and day, with fervent Prayers, and never left wrestling with God,
+and crying with bitter Tears to the Lord, till I found his lively Faith
+springing in my Soul. I never left lying prostrated at the Lords Feet,
+begging Mercy for my poor Soul till I found some assurances of his Love and
+favour, and now I doubt not but that when the thred of my Life shall be cut
+off, my Soul will be received into that Glory which no Tongue can express,
+neither hath it entered into the heart of Man to conceive. The Lord hath
+wrought great works on me, and hath been very merciful to me, but if my
+Lord and Saviour had been so cruel as Men and Women have been to me, I had
+been ere this time burning in the Flames of Hell; wherefore I do here
+humbly beseech and exhort all that shall read this, that you serve the Lord
+with ferventness of Spirit, and cease not day nor night to power out your
+prayses to him, that he will subdue your sins in you and to ingraft his
+Grace in your hearts, the Lord hath many ways to bring them that are his,
+home to himself: and the Lord is minded this way to bring me to the him as
+to let my person to suffer this shameful Death, and to be a Spectacle to
+the World and be scandalized in a very gross manner, but seeing it is the
+good Will and Pleasure of my Redeemer, to take me to himself this way, I
+take it as well as though I dyed in my Bed, and imbrace it with the more
+Joy, considering the great Conflict my dear Saviour suffered for me, O
+then, how sweet is the Death to me. I have lain in the horrid place ever
+since Christmas last, in which time I have not ceased day nor night to cry
+unto the Lord, for mercy on my poor Soul, and crying as the Jaylor did once
+to Paul and Silas, What shall I do to be saved, I thought when I was at
+Liberty that I did serve the Lord well in my Family, but now I find I was
+nothing but a filthy bag of Corruption, and came very short of any good
+performances, wherefore I do upon my bended Knees, and with floods of Tears
+as being the last request of a dying woman, humbly beseech all Masters and
+Mistresses of Families (that shall read this, that you will be careful and
+diligent in performing Family duties, and to pray with ferventness amongst
+them that are under your care and tuition knowing that if through your
+neglect any of them be lost, the Lord will require them at your hands.<pb xml:id="wiginton_1308" n="3"/></p>
+        <p xml:id="wiginton_13010">I do think it my duty (and I doubt not but it will be matter of
+satisfaction to some who are my friends) to declare unto them the whole
+circumstance of the thing for which I am to suffer, and I do here in the
+presence of Almighty God, who knows the secrets of all hearts (and know my
+innocence) declare nothing but the real truth, which is as follows, viz.</p>
+        <p xml:id="wiginton_13012">As for this John Sadler, I never saw him in all my Life, but a Week before
+he came to Lodge at my House, and that was at one Ann Thornby's Home, and
+she told me, That he was a very Civil Man, and his Wife a very Honest
+Woman, and she asked me. Whether they should Lodge at my House? And I poor
+Creature, with the advice of Elisabeth Holton, (who was Aunt to the Girl
+that was Murdered by this unfortunate Lodger John Sadler,) took them to
+Lodge in my House, by reason I had a great Charge, and an unkind Husband,
+who left his Ship and Living and I having three small Children to keep,
+poor silly Woman thought that I might maintain them the better with the
+Monny, that I should have for their Lodging, paying me but one shilling a
+Week, as to buy my Dear Babes bread, and to feed my two Apprentices as
+never got me half their Bread; but with one groat more than the shilling
+found us all Bread. This John Sadler was a Sea man, and he and a Water-man,
+was a runner of Goods, and he used to have hot Victuals every day, and with
+dressing of my Victuals and some small releif of them by their Victuals.
+made me let them Lodge at my house: but I call God to be my witness, that I
+did not know, but that they were Man and Wife, but as for that Sin they
+were Guilty of it, and not I, but since I was imprisoned here in this
+horrid place, I heard that by John Sadlers Sister, that they were not Man
+and Wife, but that lyes at their own Door, therefore people have been very
+cruel to me in giving our such gross Lies of me. as to say, that I lay with
+John Sadler, and that I was a VVhore to other before: and upon no other
+grounds, but only by reason I did plead my Belly, which thing I was advised
+to, after I came into this place, that so I might save my Life. But do here
+in the presence of Almighty God declare, that I was never in all my Life
+Guilty of the horrid Sins of Adultery or Fornication, for I ever all my
+Life, thought that if I should be Guilty of them sins, that I should be
+Damned to all Eternity, I do not speak this to justifie my self out of a
+Vain-glorious way, for I do confess, that I have been a great Sinner, but
+as for that Sin I did ever abhor it in all my Life, and should I have
+slandered any person in that manner, I should have feared that the Lord
+would have shown some heavy Judgment upon me immediately, besides the woe
+that is pronounced against Liers and Slanderers: and as for the Girl that
+Swore against me, I wish one would reason the Case with her to know whether
+she thinks that I am Guilty when I am Dead and gone, for she knows that
+John Sadler did this Evil, and hath given an account for his Sins, I came
+up when he was beating the Girl and asked him, What he did? and she knows
+that when the Girl was Dead, he would have condescended to have me Bury the
+Girl, and he would have bought a Crape Mourning Suit and a Coffin, he said
+this to me, and Mris. Thornby , I told him No, as for what he had done, I
+knew not, but I would have him go before a Justice to Answer what he had
+done; upon these Words, he turned to Ann Thornby, and the Woman who
+pretended she was Sadlers Wife, for she was by all the time, that this Man
+did the Murder, and then I sent the Girl to one Mr. Robert Acton to call
+him, to come and bring other Neighbours to carry this Man before a Justice,
+but Mris. Acton sent one Thomas Miliner his Man, while this Man and the
+Girl was coming, this Ann Thornby came and told me, that her Mother and her
+Partner which were the Searchers, would yield to give it in that the Girl
+did dye a Natural Death, but I said that I would not be Guilty of that for
+all the World, then this Ann Thornby, asked me, Where the Girl was gone, I
+said, to call Mr. Acton then said she let me out, for I will not see him,
+whereupon I being almost half Distracted, I opened the Door a little, for
+fear John Sadler should make his escape; but this Ann Thornby clapped her
+Foot against the Door and ran away, and bid him run for his Life, with that
+I ran and caught him by the Hair, and then the Girl and Thomas Milliner
+came and found me strugling with him, and I told this young Man all that
+had hapned to me; and this John Sadler, told him how that I was clear, and
+how that he would perswade me to let him Bury it, but I said no, I would
+have him before a Justice, then came the Woman his Wife, and Ann Thornby's
+Mother, and would fain have him be gone away with them; but I said he
+should not stir till he had went before a Justice, with <pb xml:id="wiginton_13011" n="4"/>
+with that he said, he would go up Stairs and fetch his Gloves and he went
+up and Leapt to that the Window, but I seeing the lower Window darkened, I
+look up and sow him leap out at the Window, and I run out and Cryed out,
+Murder, Murder, and Thieves after him, Thomas Milliner,, and Ann Thornby,
+and the Woman as Swore to me, that John Sadler was her Husband, and Ann
+Thornby's Mother were by when this John Sadler made his escape; and when I
+came in from crying out Murder and Theives after him, I thought to have
+kept her, but when I came in they were all gone, and this way I am cheated
+of my Life, for the Man ran a private way up a place which is in Ratcliff
+called the Orchard, and being Christmassday towarhs the Evening and people
+were not abroad in the Streets, and I went to Mr. Actons, and to Mris.
+Mills , and to Mr. Eltons the Apothecary, and made my complaint, and from
+thence to the Girls Aunt to tell her what was befallen me, and that I had
+not taken these Lodgers in, but that she perswaded me to let them Lodge in
+my House. But they were dear Lodgers to me and mine, and to the Girl that
+is deceased, and when I was at Elisabeth Holtons House, which is the Girls
+Aunt, one Cardom a Bailiff, one as I think a little fears the Lord, caused
+me to be taken and brought to this horrid place, or else I had been an
+Evidence against John Sadler, and this Girl which Swore against me, Rebecka
+Clifford, Cryed by me and said, She knew that I was innocent from the Fact
+for which I now dye, to the World, but shall Live in the Lord for ever,
+this is the whole Truth and the last Words of a dying Woman, who truly and
+senserely feares the Lord of Heaven and Earth, and I could heartily wish I
+were as free from Committing of all other Sins, as I am of that Murder,
+Adultery and Fornication or Swearing, four things which I was never guilty
+of in my Life, though I must confess I have been a great Sinner, but I am
+assured,, that they are washed away in the Blood of that Imaculate Lamb,
+which was shed to take away the Sins of all them that truly &amp; sinserely
+repent, but the Lord suffered this great affliction to fall on me to draw
+me nearer to himself, for whom the Lord loveth he Chastiseth, even as a
+Father the Son in whom he delighteth, I desire all good Christians to Judge
+Charitably of this my Speech, and not to think that I Pen this to justifie
+myself, but I desire to condemn my self, that I may be Justified by my dear
+Redeemer: but I do this to satisfy all that are my Friends, that I dye in
+the faith and fear of my Creator and Redeemer, who shall change my vile
+body, that it may be like his glorious Body, and one chief Reason of my
+penning this, is to satisfy my dear Husband, whom I ever lover dearer then
+any thing in this World, but when he heard, that I pleaded my Belly, he was
+incenced against me by wicked people, who incensed him, that I was disloyal
+to him, and that scandal which was raised by them hindered him from coming
+to me, though I had not seen him in almost two years, and unkind Friends at
+Deal, kept the Letter from him which I sent, so that my Life as to this
+World was lost through the Treachery of unkind Friends, but as to the
+eternal State never more sure then now; my Husband did send up some Mony
+about Whitsuntide last to get my Reprieve, but but being informed that I
+was with Child, ordered it back again, which was occasioned by the Malice
+of wicked people, who did not care what scandals they did raise upon me, I
+pray God forgive them, and lay not this Sin to their charge, and as for the
+Girl that swore against me and was the cause of my dying this shameful
+Death, though as innocent as the Child unborn, I pray God to forgive her,
+and let not my innocent Blood be required at her hands, though she hath
+been the cause of all this, my great Tryal and afflictions, and without the
+great mercy of God, the ruins of my three poor Children, who I am afraid
+will be bound to curse her, but the Lord hath promised to be a Father to
+the Fatherless and to fee the need and oppressed to have right, and as for
+them whoever they were that did make Ballads and Books upon me after I was
+brought to Newgate; and raised great scandal and ignominy, and added grief
+to my Afflictions, I pray God forgive them all, and my dear Husband for
+giving Credit to their slanderous Reports, and not to be so kind as to come
+and know the Truth of the woe matter, I do here in the presence of Almighty
+God declare, that I dye as innocent of the Crime for which my Body suffers,
+as the Child yet unborn, and I can truly say, that I am in Charity with all
+the World, and do conclude with that excellent prayer of the Littany. That
+it may please the to forgive my enemies persecutors and Slanderers, and to
+turn their Hearts; I beseech thee to hear us good Lord.</p>
+        <p xml:id="wiginton_13013">LONDON, Printed for Langley Curtiss, on Ludgate -hill.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

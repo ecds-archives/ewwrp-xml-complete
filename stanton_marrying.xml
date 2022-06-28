@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stanton_marrying_1306">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>About Marrying Too Young, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Stanton, Elizabeth Cady, 1815-1902</reg><orig>Elizabeth Cady Stanton</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>5kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="stanton_marrying_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Emory Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17f4d</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Stanton, Elizabeth Cady. About Marrying Too Young. <publisher>Revolution</publisher> 6.16 (Oct. 20, <date>1870</date>):246.</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="stanton_marrying_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Women's Advocacy</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Essay</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Women authors, American--19th Century.</item>
+            <item>Women's rights--United States--History--19th Century.</item>
+            <item>Marriage--United States--19th Century.</item>
+            <item>Marriage.</item>
+            <item>Motherhood.</item>
+            <item>Marriage age.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2000</date><label>Staff</label><name>Anna Engle</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="stanton_marrying_1305">
+    <body xml:id="stanton_marrying_1304">
+      <div xml:id="stanton_marrying_001" type="Essay">
+        <head>About Marrying Too Young</head>
+        <p xml:id="stanton_marrying_1303">Mrs. Elizabeth Cady Stanton says: "Girls do not reach their maturity until twenty-five, yet at sixteen they are wives and mothers all over the land, robbed of all the rights and freedom of childhood in marriage, crippled in growth and development; the vital forces needed to build up a vigorus and healthy womanhood are sapped and perverted from their legitimate channels in the premature office of production. When the body is overtaxed, the mind loses its tone, and settles down in a gloomy discontent that enfeebles the whole moral being. The feeble mother brings forth feeble sons; the sad mother, those with morbid appetites. The constant demand of stimulants among men is the result of the morbid conditions of these mothers. Healthy, happy, vigorous womanhood would do more for the cause of temperance than any prohibitory or license laws possibly can. When woman, by the observance of the laws of life and health is restored to her normal condition, maternity will not be a period of weakness, but of added power. With that high preparation of body and soul to which I have referred, men and women of sound mind and body, drawn together by the sentiments of affection, might calculate with certainty on a happy home, with happy children gathering round their fireside."</p>
+      </div>
+    </body>
+  </text>
+</TEI>

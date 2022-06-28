@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lkr_flags_13023">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>The Four Confederate Flags Under Which General Lee
+
+	   Served His Country</title>
+        <author>
+          <name type="person"><choice><reg>Rogers, Loula Kendall, 1838-1931</reg><orig>Mrs. Loula Kendall Rogers</orig></choice></name>
+
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10k</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="lkr_flags_1301">2008 Emory University. Permission is granted to
+
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>2008</date><idno type="ark">http://pid.emory.edu/ark:/25593/17cw7</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Rogers, Loula Kendall, "The Four Confederate Flags
+
+	    Under Which General Lee Served His Country" Loula
+
+	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
+
+	   Library, Emory University</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="lkr_flags_1302">This digital text is produced from the Loula Kendall
+
+	   Rogers Papers, generously loaned to the Beck Center by    	
+
+The Manuscript, Archives, and Rare Book Library at Emory University.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="language">American</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Essay</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Confederate States of America.</item>
+            <item>Women authors, American--19th Century</item>
+            <item>Women authors, American--20th Century</item>
+            <item>Civil War, U.S., 1861-1865</item>
+            <item>Lee, Robert E. (Robert Edward), 1807-1870.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2008</date><label>Woodruff Graduate Fellow</label><name>Stewart Varner</name>XML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="lkr_flags_13022">
+    <body xml:id="lkr_flags_13021">
+      <pb facs="lkr_flags001" xml:id="lkr_flags_1303" n="1"/>
+      <div xml:id="lkr_flags_13020">
+        <head>The Four Confederate Flags<lb/>
+
+      Under Which General Lee Served His Country</head>
+        <byline>Mrs. Loula Kendall Rogers</byline>
+        <p xml:id="lkr_flags_1304">As January is the favored month of celebrating General Lee's Birthday, Stonewall Jackson, and several other leaders distinguished in History, a friend in a distant state, has requested me to write a description of the Confederate Flags and why they were changed.</p>
+        <p xml:id="lkr_flags_1305">During the session of the first Provisional Congress of the Southern Confederacy in Montgomery, Alabama many designs for an appropriate Flag were sent in every day.</p>
+        <p xml:id="lkr_flags_1306">A great attachment was felt for the sacred colors which led our forefathers over the silvery strands of Charleston to Bunker Hill and Guilford Court House, but the committee was advised not to select one that was so similar it could not be distinguished at a distance.</p>
+        <p xml:id="lkr_flags_1307">A design with three stripes was sent by a foreigner who resided in Montgomery, but he had placed the blue sky in the middle which cut off the stripes in a division.  At length a beautiful and appropriate design attracted the attention of all present.</p>
+        <p xml:id="lkr_flags_1309">Accompanying this emblem of true consecration to the cause there
+
+      was a fine illustration of the elevating ideal if so vividly embodied.
+
+      There were three broad bars which represented The Holy Trinity, there
+
+      in one.  The first red bar was for Justice, and Executive Legislation.
+
+      The White between was for Purity of spirit which the Southern Soldier
+
+      must exercise, and the third bar was for Liberty and Freedom of
+
+      Speech.  Only seven states had seceded, and these were 
+
+      <pb facs="lkr_flags002" xml:id="lkr_flags_1308" n="2"/>
+
+      to be represented by Stars on a blue sky, arranged in a circle, the starry Heavens over all.  This beautiful ideal of the Holy Trinity at once became the sacred pilot to lead our patriots over the storms and tempests of approaching War.</p>
+        <p xml:id="lkr_flags_13010">As the committee were hurrying to have a large one made to float over the Capitol on the 4th of March 1861, they neglected giving the history of each design to the public, but it was well known that this striking emblem of the True, the Beautiful and Good, was the lofty conception of Captain Orren Randolph Smith of Warren County, North Carolina.</p>
+        <p xml:id="lkr_flags_13011">Among those present in the Assembly hall when it was unfurled, was Colonel P. W. Alexander of Thomaston, Georgia, an eminent lawyer, who was afterwards War Correspondent of Savannah and Atlanta papers, and State Secretary of Georgia.  Being an old family friend, he wrote me a description immediately of this flag, in the assembly room, and drew a picture of it at the head of his letter, requesting me to make one like the pattern, and to be sure to place my Seven Stars in a circle.</p>
+        <p xml:id="lkr_flags_13012">My dear old Grandmother, daughter of a patriotic
+
+Revolutionary soldier, was noted for her artistic success in arranging harmonious colors for quilting, so there in her basket was the flaming Turkey Red, the Indigo Blue for a sky, and the White for Purity, so my Confederate Flag was made <hi rend="underline">that very hour</hi>, on March 6th 1861, the first ever made in Georgia!  This little flag created quite a sensation in Thomaston, and hundreds of small like ones were made at once to adorn our soldiers caps.  A large handsome Confederate Flag was soon afterwards made by Mrs. Hardeman of Macon, for the Floyd Rifles, just as they left on the 11th of April 1861.</p>
+        <pb facs="lkr_flags003" xml:id="lkr_flags_13013" n="3"/>
+        <p xml:id="lkr_flags_13014">As there was to be a public parade of the Upson Guarde, our only Military Company at that time, we girls decided to present this little new flag to the best and most popular young officer in the company.  He received it very gallantly and declared it would float on the front of the officers' tent at every point to which they were ordered, as a talisman of good luck.  This proof of his appreciation certainly became true, for they were soon ordered to Pensacola and after the very first battle between Fort Pickens and Fort Ma Rae, he was promoted to Lieutenant for coolness and bravery in action.</p>
+        <p xml:id="lkr_flags_13015">The following summer again he was promoted <del rend="overstrike">again</del> to the important post of
+
+      <unclear>---</unclear> at Cumberland Gap, the brave little "Stars and Bars" gracefully piloted the valiant young soldier over the broad Mississippi, the Blue Ridge of Tennessee, the turnpikes of Kentucky, and the battle of Corinth, after which he was promoted a third time to the command of a company in the 5th Georgia Regiment, and being granted a furlough, well deserved returned homeward to claim the girl who made that flag!</p>
+        <p xml:id="lkr_flags_13017">This design of Orren Smith's was also the herald of victory at Manassas on the 21st of July 1861.  General Beauregard was placed in command, but before the close he saw three troops on a distant hill moving rapidly toward the battle field and even with his field glass could not distinguish their flag or uniform.  But in a few moments a shout went up for the "Stars and Bars" of Virginia and Mississippi! He replied "Then see that the day is ours"!  After this he with the assistance of General Porcher Miles designed the Southern Cross, which was a field of red, upon which 
+
+      <pb facs="lkr_flags004" xml:id="lkr_flags_13016" n="4">
+        
+      </pb>
+
+      a cross of blue containing stars to represent the Seceded States.  This was placed over a white field and was adopted at once.</p>
+        <p xml:id="lkr_flags_13018">But when this flag was furled. or became lymp, it had the
+
+      appearance of a flag of truce, so it was soon decided it must be
+
+      changed before another battle.  A committee then placed a wide
+
+      crimson bar at the end, which had no special representation.  It
+
+      was found necessary to remove the white and retain only the Blue
+
+      Cross and white stars on a field of Red, to represent Valor and
+
+      Bravery.  This was the last Confederate Flag, but Oh, how
+
+      wonderful are the stories of valor, chivalry, pleasure and pain,
+
+      smiling and weeping it lovingly enfolds!   As Robert E. Preston
+
+      says "it carried us back in its memories to the waters of
+
+      Babylon where we sat down and wept - when <hi rend="underline">all was lost save honor</hi>.  It brings from the Land of Flowers the delicate scent of the orange blossom the melancholy festoon of the gray moss gently starring in the silent air, the graceful waxing of the palm tree, the lordly manor with its blaze of lights, the strains of martial music that stirred the soul and the gathering of</p>
+        <q>"Our beauty and our chivalry, and bright<lb/>
+
+      The lamps shone o'er fair women and brave men."</q>
+        <p xml:id="lkr_flags_13019">Then let us think still of the beautiful dreams associated with
+
+      the banners of the land of romance, of the -- young hearts who
+
+      marched in the faith of their principles, instead of dwelling on the
+
+      shadows of our Southland, for the ever ruling Spirit of Mercy, and
+
+      God's Love, has blessed us with prosperity, holy incentives to rise
+
+      higher and higher until all the nations of the world will appreciate
+
+      the true worth of the <hi rend="underline">whole</hi> of this great County, North, East, <hi rend="underline">South</hi>
+
+      and West, as "<hi rend="2under">America</hi>, <hi rend="2under">the Beautiful!</hi></p>
+      </div>
+    </body>
+  </text>
+</TEI>

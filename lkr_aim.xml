@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lkr_aim_13019">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>The Aim of Our Girls</title>
+        <author>
+          <name type="person"><choice><reg>Rogers, Loula Kendall, 1838-1931</reg><orig>Mrs. Loula Kendall Rogers</orig></choice></name>
+
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10k</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="lkr_aim_1301">2008 Emory University. Permission is granted to
+
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>2008</date><idno type="ark">http://pid.emory.edu/ark:/25593/17crp</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Rogers, Loula Kendall, "The Aim of Our Girls" Loula
+
+	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
+
+	   Library, Emory University</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="lkr_aim_1302">This digital text is produced from the Loula Kendall
+
+	   Rogers Papers, generously loaned to the Beck Center by    	
+
+The Manuscript, Archives, and Rare Book Library at Emory University.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="language">American</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Essay</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Women--Education--Georgia.</item>
+            <item>Women authors, American--19th Century</item>
+            <item>Women authors, American--20th Century</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2008</date><label>Woodruff Graduate Fellow</label><name>Stewart Varner</name>XML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="lkr_aim_13018">
+    <body xml:id="lkr_aim_13017">
+      <pb facs="lkr_aim001" xml:id="lkr_aim_1303" n="5"/>
+      <div xml:id="lkr_aim_001" type="essay">
+        <head>The Aim of Our Girls.</head>
+        <p xml:id="lkr_aim_1304">No one can accomplish anything in life without a purpose that
+
+buoys the spirit continually on to a higher goal.  From the cradle to
+
+life's last moment our girls should be taught to have some definite
+
+aim, not a profession, as we understand it, exclusively; not a mere
+
+manufacturing of means for the accumulation of money; not the
+
+attainment of a classical education, not simply for the sake of having
+
+such advantages; not to have an intimate acquaintance with the arts
+
+and sciences, only that may become learned women; but to have a noble
+
+ideal all through the days of her existence, a Divine principle that
+
+inspires her to live not alone for selfish gratification, but for the
+
+good of others.</p>
+        <p xml:id="lkr_aim_1305">One of Adelaide Proctor's sweetest poems embodies the aspiration in these words:</p>
+        <q>"Have we not all, amid life's petty strife,<lb/>
+
+      Some pure ideal of a noble life<lb/>
+
+      That once seemed possible?"</q>
+        <p xml:id="lkr_aim_1306">The aim should be lofty, and there is credit in striving to reach
+
+      it, even though it should be unattainable.  How many thoughtless,
+
+      fashionable women run through half a century of folly and trivial
+
+      pleasure, without some special, noble aim in view!  What a sad sight
+
+      it must be to visit Monte Carlo and become a witness to those exciting
+
+      games, where beautiful young women and grey-haired mothers recklessly
+
+      stake their thousands, sometimes winning, oftener losing, imperiling
+
+      their modesty and their very souls in the mad, eager desire to mount
+
+      as victor on fortune's wheel and leave some poor vanquished rival
+
+      crushed in ruin!  The delicate sensibility of Daniel Deronda recoiled
+
+      in horror when he looked on and saw such a beautiful girl as Gwendolyn
+
+      at the gaming table.  No aim in life, nothing to do but to waste the precious golden hours in reckless sin.</p>
+        <p xml:id="lkr_aim_1307">Anthony Comstock says, "Good books, inspiring poems, sweet music, clean stories, all are elevating and within reach of the poorest.  All these are helps - colors lent from heaven to be used in beautifying young life and character. Mingle these as lines of beauty, tints and colors are employed in some master work of art, and tastes will be formed and character established upon a lasting foundation."</p>
+        <p xml:id="lkr_aim_1308">Who that is properly trained from childhood would not rather spend an evening with some high-toned author, or in studying some fine musical composition, than in wasting her valuable time on what can never accomplish good?</p>
+        <p xml:id="lkr_aim_1309">I never look upon a group of fair young girls, in all the glowing beauty of youth's attractions, but my soul is thrilled as by the sight of a garden of rare flowers, or of a picture of vestal virgins robed in snowy white, each bearing her own light of cheer and warmth to the world.  Each face has its own special attraction, each mind its own peculiar gift, each heart a tenderness hidden from prying eyes, and each soul an aspiration known only to itself.  With my admiration of their beauty a fervent prayer arises that each one may fulfill most nobly her mission in life, whatever that may be, and the purity and simplicity of childhood's faith may go with them through the rosy brightness of pleasure, the darkness of pain, and the shadowy clouds of disappointment.</p>
+        <p xml:id="lkr_aim_13011">Life is full of disappointments.  Often we find a brilliant woman of culture and refinement wedded to a man whose soul never mounts above the counter where he is narrowed by four walls.  "No man liveth unto 
+
+      <pb facs="lkr_aim002" xml:id="lkr_aim_13010" n="[6]"/>
+
+      himself alone," and instead of acquiring gold merely for selfish gain, this Scriptural text should be an inspiration to both man and woman to rise above the petty things of life and strive to live for the happiness of others.</p>
+        <p xml:id="lkr_aim_13012">We have often to stifle our own ambition that we may minister to some member of the family who is an invalid; deny ourselves some coveted pleasure or luxury that some suffering loved one may receive the benefit; give up some long anticipated joy for the sake of another; curb our own temper and impatience to pave a flowery path at home, and to lay ourselves out as it were, resigning all we love and prefer, that some poor broken heart may have what is noblest and best of us to make its own heaven on earth.  Without self-sacrifice no character of earth is complete.</p>
+        <p xml:id="lkr_aim_13013">Our girls must not only be taught this, but many other useful home lessons outside of the classics.  Sometimes the cook may be indisposed, or has taken to herself wings, as is frequently the case these days, and mother being too feeble to keep the household economics in running order, our "white robed vestal virgin" must at once resign that anticipated house party by the sad sea waves and pose as priestess of the kitchen.</p>
+        <p xml:id="lkr_aim_13014">Be the daughter ever so wealthy, with a host of servants at command, she should be efficiently trained in domestic duties, and know full well how to proceed when these responsibilities fall upon
+
+      her own shoulders. It is an accomplishment queens might envy, and though too great a stress is sometimes placed by epicures on delicacies for the appetite to the neglect of weightier matters, she
+
+      should understand home economics and sanitary diet.  She should
+
+      know how to make good breads, how to prepare meats, and how to
+
+      make dainty, healthy desserts, that may not prove to become ghouls and
+
+      hobgoblins to dyspeptics.  Every girl, whatever may be her nationality, should be trained to arrange her table in an aesthetic manner, to set each dish properly, and to know how to be attentive to
+
+      the different tastes in her household.</p>
+        <p xml:id="lkr_aim_13015">Ian McClaren says, "It is forgotten that all the strength and
+
+      purity which we can expect for the Church, must come from the strong
+
+      and healthy life that is found in Christian homes." If our girls and
+
+      boys are brought up close beside the family altar and are taught that truth, love and obedience are the three most beautiful offerings on
+
+      that <unclear reason="damage">--</unclear> they will not wander <unclear reason="damage">--</unclear> in after years.</p>
+        <p xml:id="lkr_aim_13016">Our young girls should be supplied with proper amusements and
+
+joyful, life-giving exercise, or they could not be natural flesh and
+
+      blood, and the dear old home of their childhood should furnish
+
+      all such, opening wide, hospitable doors to their friends.  Let
+
+      the parents see that their associates are moral, high-toned
+
+      young people, who would not place a stain of any kind upon their
+
+      beautiful white roses.  Such a home can never send out into the
+
+      world reckless and dissolute young people.  "Favor is deceitful
+
+      and beauty is vain, but a woman that feareth the Lord shall be
+
+      praised."  The old patriarchs entertained a high respect for
+
+      that woman "who looketh well to the ways of her household, who
+
+      maketh unto herself clothing and tapestry." and "whose own works
+
+      praise her in the gates." Such virtues were esteemed above
+
+      rubies, and for thousands of years have been held up as examples
+
+      for our girls.
+
+</p>
+        <q>
+          <lg type="stanza">
+            <l rend="indent">"Remember, others shall</l>
+            <l>Take patient labor to their heart and hand.</l>
+            <l>From thy hand, and thy heart, and thy brave cheer,</l>
+            <l>and God's grace fructify through thee to all.</l>
+            <l>The least flower with a brimming cup may stand,</l>
+            <l>And share its dew-drop with another near."</l>
+          </lg>
+        </q>
+        <byline>Loula Kendall Rogers.</byline>
+      </div>
+    </body>
+  </text>
+</TEI>

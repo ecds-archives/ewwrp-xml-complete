@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="decora_autobio_13021">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>An Autobiography, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Henook-Makhewe-Kelenaka</reg><orig>Angel De Cora</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="decora_autobio_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Emory Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17bhm</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>De Cora, Angel. An Autobiography. <publisher>The Red Man</publisher> 3.7 (March <date>1911</date>): 279-85.</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="decora_autobio_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Native American</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Native American</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Biography</rs>
+        <rs type="geography">United States</rs>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Indian women artists--Biography.</item>
+            <item>Winnebago Indians.</item>
+            <item>Women authors, American--20th Century.</item>
+            <item>American literature--20th Century--Biography.</item>
+            <item>Native Americans.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1999</date><label>Staff</label><name>Anna Engle</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck
+	   Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="decora_autobio_13020">
+    <body xml:id="decora_autobio_13019">
+      <div xml:id="decora_autobio_001" type="Essay">
+        <docAuthor>De Cora, Angel</docAuthor>
+        <head>"An Autobiography"</head>
+        
+        <bibl><title>The Red Man</title>3.7 (March 1911): 279-85.</bibl>
+        <p xml:id="decora_autobio_1303">I was born in a wigwam, of Indian parents. My father was the fourth son of the hereditary chief of the Winnebagoes. My mother, in her childhood, had had a little training in a convent, but when she married my father she gave up all her foreign training and made a good, industrious Indian wife.</p>
+        <p xml:id="decora_autobio_1304">During the summers we lived on the Reservation, my mother cultivating her garden and my father playing the chief's son. During the winter we used to follow the chase away off the Reservation, along rivers and forests. My father provided not only for his family then, but his father's also. We were always moving camp. As a child, my life was ideal. In all my childhood I never received a cross word from any one, but nevertheless, my training was incessant. About as early as I can remember, I was lulled to sleep night after night by my father's or grandparent's recital of laws and customs that had regulated the daily life of my grandsires for generations and generations, and in the morning I was awakened by the same counselling. Under the influence of such precepts and customs, I acquired the general bearing of a well-counselled Indian child, rather reserved, respectful, and mild in manner.</p>
+        <p xml:id="decora_autobio_1305">A very promising career must have been laid out for me by my grandparents, but a strange white man interrupted it.</p>
+        <p xml:id="decora_autobio_1307">I had been entered in the Reservation school but a few days
+<pb xml:id="decora_autobio_1306" n="280  The Red Man, by Red Men"/>
+when a strange white man appeared there. He asked me through an interpreter if I would like to ride in a steam car. I had never seen one, and six of the other children seemed enthusiastic about it and they were going to try, so I decided to join them, too. The next morning at sunrise we were piled into a wagon and driven to the nearest railroad station, thirty miles away. We did get the promised ride. We rode three days and three nights until we reached Hampton, Va.</p>
+        <p xml:id="decora_autobio_1308">My parents found it out, but too late.</p>
+        <p xml:id="decora_autobio_1309">Three years later when I returned to my mother, she told me that for months she wept and mourned for me. My father and the old chief and his wife had died, and with them the old Indian life was gone.</p>
+        <p xml:id="decora_autobio_13010">I returned to Hampton, and after graduation, some of my teachers prevailed upon me not to return home as I was still too young and immature to do much good among my people.</p>
+        <p xml:id="decora_autobio_13011">I went to Northampton, Mass., and through the efforts of some friends there, I entered the Burnham Classical School for Girls, and later when I decided to take up the study of art, I entered the Smith College Art Department, taking the four years' course under Dwight W. Tryon. During my study in Northampton, I worked for my board and lodging and also earned my four years I tuition at Smith College by holding one of the custodianships of the Art Gallery. The instruction I received and the influence I gained from Mr. Tryon has left a lasting impression upon me.</p>
+        <p xml:id="decora_autobio_13012">After the four years at Smith College, I went to Drexel Institute, Philadelphia, to study illustration with Howard Pyle, and remained his pupil for over two years.</p>
+        <p xml:id="decora_autobio_13013">While at this Institute I used to hear a great deal of discussion among the students, and instructors as well, on the sentiments of "Commercial" art and "Art for art's sake." I was swayed back and forth by the conflicting views, and finally I left Philadelphia and went to Boston.</p>
+        <p xml:id="decora_autobio_13015">I had heard of Joseph DeCamp as a great teacher, so I entered the Cowles Art School, where he was the instructor in life drawing. Within a year, however, he gave up his teaching there but he recommended me to the Musem [sic] of Fine Arts in the same city, where Frank Benson and Edmund C. Tarbell are instructors, and for two years I studied with them.
+ <pb xml:id="decora_autobio_13014" n="285  The Red Man, by Red Men"/>
+I opened a studio in Boston and did some illustrative work for Small &amp; Maynard Company, and for Ginn &amp; Company. I also did some designing, although while in art schools I had never taken any special interest in that branch of art. Perhaps it was well that I had not over studied the prescribed methods of European decoration, for then my aboriginal qualities could never have aserted [sic] themselves.</p>
+        <p xml:id="decora_autobio_13016">I left Boston and went to New York City, and while I did some illustrating, portrait and landscape work, I found designing a more lucrative branch of art.</p>
+        <p xml:id="decora_autobio_13017">Although at times I yearn to express myself in landscape art, I feel that designing is the best channel in which to convey the native qualities of the Indian's decorative talent.</p>
+        <p xml:id="decora_autobio_13018">In 1906, Hon. Francis E. Leupp, Commissioner of Indian Affairs, appointed me to the Carlisle Indian School in Pennsylvania to foster the native talents of the Indian students there. There is no doubt that the young Indian has a talent for the pictorial art, and the Indian's artistic conception is well worth recognition, and the school-trained Indians of Carlisle are developing it into possible use that it may become his contribution to American Art.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

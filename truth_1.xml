@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="truth_1_13010">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Sojourner Truth: A Remarkable Woman, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Anonymous</reg><orig>Anonymous</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>15kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="truth_1_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Emory Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17f93</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Anonymous. Sojourner Truth: A Remarkable Woman. <publisher>Revolution</publisher> (Jan. 21, <date>1869</date>): 44.</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="truth_1_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Abolition, Freedom, and Rights</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Essay</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Social reformers.</item>
+            <item>Abolitionists--United States.</item>
+            <item>African Americans--Biography.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2000</date><label>Staff</label><name>Anna Engle</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck
+	    Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="truth_1_1309">
+    <body xml:id="truth_1_1308">
+      <div xml:id="truth_1_001" n="Sojourner Truth" type="Essay">
+        <docAuthor>Staff</docAuthor>
+        <head>
+          <hi rend="center">
+            <seg type="short-title">Sojourner Truth</seg>
+          </hi>
+          <lb/>
+          <hi rend="center">From the Detroit Post.</hi>
+          <lb/>
+          <hi rend="center">A Remarkable Woman-Her Lecture Last Night-The Negro Race-Their Trials and Emancipation.</hi>
+        </head>
+        
+        <bibl><title>Revolution</title> (Jan. 21, 1869): 44.</bibl>
+        <p xml:id="truth_1_1303">The notice which appeared yesterday morning concerning the colored woman known as Sojourner Truth, gave promise to all who should attend her lecture at the Unitarian Church that they would see and hear a remarkable woman; and we venture to say that no one present was disappointed. Her very appearance indeed, is remarkable, and her tall and vigorous frame, which has scorned to bend beneath the weight of fourscore years, seems almost to inspire incredulity in regard to her age. But so long has she been before the public, and so many and varied are the events which have attended her career, that we cannot refuse to accord credence to her when she states that she is more than 80 years of age. Her face carries out the idea of strength suggested by her figure. Her pure African color, deep black, is toned down by no perceptible tinge of Caucassian [sic] blood; on her head she wears a large white turban, which entirely conceals any natural covering which may have been left to her: and a pair of large spectacles add to the novelty of her appearance. Her voice is very strong, and though unusually clear, at times partakes the harsh, almost gutteral [sic] tone, peculiar to her race, and the negro pronunciation is at all times unmistakable. At the commencement of her lecture she made no announcement of a subject, but spoke of the trial of her race, and matters incident to its emancipation, seeming to have no plan of discourse, but rather saying what chanced to be uppermost in her mind. She commenced by saying that she had lived long to see the day when she could address such audiences as the one before her. She had always been trying to do some good, because the Scripture says, "Do good to those that despitefully use you and persecute you." The white man had persecuted her, but it was blessed to know of an eternity where the wicked cease from troubling; that there was a just God. When God asks for the deeds done in the body, who will answer for the poor slave who owned no body? Who, but the master? Once she hated the white men when she was tied up and whipped, and asked God to kill them all. She heard of God, and asked Him to make Massa and Miss good, but He didn't; then she concluded to ask Him to kill them, but He didn't; so she concluded it was all right somehow.</p>
+        <p xml:id="truth_1_1304">It took her first 40 years to find out that she was a human being. She often wished she was white so she could be "folks," but finally she found she could be "folks" without being white. She had been stumping it around here, so that if Seymour was elected she could go to Canada-but thank God she could stay here. She spoke of her visit to Lincoln, how she told him that she was "right glad to see him," and that he was like Daniel in the lion's den, but he said he hadn't been torn to pieces yet. She told Mr. Lincoln that she never knew anything about him until he was elected President; but he said that he had known of her a long time before that, which proved that he knew more than she did. She saw the Bible the freedmen gave him, and asked him if it was not strange that the blacks who had been deprived by the nation of the right to read the Bible had been the ones to carry it to the heart of the nation. She had often asked what the blacks had done to the Anglo-Saxon to be treated so, but no one could answer. When she first went to the freedmen in Virginia, she told them to get off the government, and take care of themselves; the blacks were scared at her, and the white folks looked sour, for they were having a nice easy time taking care of the colored people. She told the colored people they were in disgrace, living in the poor house off the government-they didn't like that, for no one but poor whites had lived in the poor house. They turned her out of the church, but she went to the barracks and how she did "blow," she told them to hold up their heads and be men, then they commenced to understand her and sing,</p>
+        <lg type="stanza">
+          <l n="1">Free, free, free indeed,</l>
+          <l>Free, free, my people are free,</l>
+          <l>Sound the loud cymbals</l>
+          <l>My people are free.</l>
+        </lg>
+        <p xml:id="truth_1_1305">Then they couldn't be polite enough to her, and "Mrs. Sojourner will you have this and will you have that," was all the style, etc. She told of her trouble about riding in the street cars at Washington; how the conductors turned her out and turned their backs when she wanted to get in, once she yelled and yelled, and made Washington ring until the carriages and passersby and the car stopped: then she got aboard. The conductor ordered her out. "No," she said, "I am a passenger." "Go out, or I'll throw you out." "Do it, if you dare!" The conductor caught her by the arm. Whereupon she had him fined for "salt and battery," and "didn't have no more trouble." Once, two "kind of ladies" got in and crowded away from her as far as they could. She sat still and straight, never noticing them. "Conductor! Conductor!" said they, "do niggers ride in this car? Well, there should be a nigger car." She told them, "No! street cars were for niggers and poor whites-gentry rode in carriages." The ladies left.</p>
+        <p xml:id="truth_1_1306">Her speech, which was about half an hour's duration, was thus made up of the disconnected remarks of which we have given a sample. At its conclusion a collection was taken up to help pay off the mortgage on her place. She also offered photographs of herself, remarking that some might like to see her shadow after she had gone, and adding, that as the substance had often been sold, it was quite a pleasure for her to sell the shadow herself.</p>
+        <p xml:id="truth_1_1307">The collection amounted to the snug sum of $45.00; sale of photographs, $21.00; total, $66.00.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

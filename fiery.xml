@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fiery_13024">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>The Fiery Cross: An Anthology of War Poems, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Edwards, Mabel C. and Booth, Mary</reg><orig>Mabel C. Edwards and Mary Booth, eds.</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>30kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="fiery_1301">2002 Emory University. Permission is granted to download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>2002</date><idno type="ark">http://pid.emory.edu/ark:/25593/17c46</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl> Edwards, Mabel C. and Mary Booth, eds.  "The Fiery Cross: An Anthology of War Poems." [London: Grant Richards Ltd., 1915.]  96 pages. Sold for the benefit of the funds of the Red Cross. <publisher>[Grant Richards Ltd.]</publisher><date>[1915]</date></bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="fiery_1302">This digital text is produced from a first-edition volume of the 1915 anthology <hi rend="italic">The Fiery Cross: An Anthology of War Poems</hi> compiled by Mabel C. Edwards and Mary Booth.  This anthology, charitably produced to benefit the funds of the Red Cross, includes verse from a range of historical periods and poems by both male and female poets.  We have included in this electronic edition only those poems written by women that do not appear elsewhere on this site and that have not been recently re-published.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">World War I</rs>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Poetry</rs>
+        <rs type="geography">Great Britain</rs>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>World War, 1914-1918--Poetry.</item>
+            <item>Women poets, English--20th Century.</item>
+            <item>War.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2002</date><label>Project Manager</label><name>Erika Farr</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="fiery_13023">
+    <body xml:id="fiery_13022">
+      <div xml:id="fiery_01" type="Anthology">
+        <head rend="center">THE FIERY CROSS<lb/>An Anthology of War Poems</head>
+        <div xml:id="fiery_02" type="Poem">
+          <pb xml:id="fiery_1303" n="[24]"/>
+          <head rend="center"><hi rend="bold">From Germany</hi><lb/>"LUSITANIA," 7TH MAY 1915.</head>
+          <lg type="stanza">
+            <l>REJOICE! Rejoice! the deed is done!</l>
+            <l>The Innocents are dead.</l>
+            <l>Hell's deepest teachings are outdone!</l>
+            <l>Justice and Mercy fled.</l>
+          </lg>
+          <lg type="stanza">
+            <l>Rejoice! for in a thousand homes</l>
+            <l>The English mothers weep</l>
+            <l>The thousand sons our secret arm</l>
+            <l>Has plunged beneath the deep.</l>
+          </lg>
+          <lg type="stanza">
+            <l>Rejoice!--but what this bitter brand--</l>
+            <l>Pale spectre of the slain--</l>
+            <l>You press upon my shrinking brow?</l>
+            <l>"It is the mark of Cain."</l>
+          </lg>
+          <lb/>
+          <byline>
+            <hi rend="italic">Mary Booth.</hi>
+          </byline>
+        </div>
+        <div xml:id="fiery_03" type="Poem">
+          <pb xml:id="fiery_1304" n="[36]"/>
+          <head rend="center">
+            <hi rend="bold">St George for England</hi>
+          </head>
+          <lg type="stanza">
+            <l>ST GEORGE! St George for England!</l>
+            <l>Clear rings the ancient cry;</l>
+            <l>St George! St George for England!</l>
+            <l>Who dares to do and die?</l>
+          </lg>
+          <lg type="stanza">
+            <l>The fiery cross has called them</l>
+            <l>From the lonely Highland glen,</l>
+            <l>And Cambria's lovely vales resound</l>
+            <l>To the tramp of marching men.</l>
+          </lg>
+          <lg type="stanza">
+            <l>From Erin's shimmering island</l>
+            <l>They cry is still "They come!"</l>
+            <l>And Tara's sacred halls resound</l>
+            <l>To the music of the drum.</l>
+          </lg>
+          <lg type="stanza">
+            <l>They have left the dead unburied,</l>
+            <l>And the marriage feast delayed</l>
+            <l>Till Belgium's wrongs are all avenged,</l>
+            <l>And the Huns' mad march is stayed.</l>
+          </lg>
+          <lg type="stanza">
+            <l>They come from sunny Devon,</l>
+            <l>From Derby's vales and rocks;</l>
+            <l>Left are the pen, the loom, the plough,</l>
+            <l>Deserted are the flocks.</l>
+          </lg>
+          <lg type="stanza">
+            <l>And St George is fighting for them,</l>
+            <l>While Heaven's vast Hosts, as one</l>
+            <l>Shall watch by them, and fight for them,</l>
+            <l>Till victory is won.</l>
+          </lg>
+          <lb/>
+          <byline>
+            <hi rend="italic">Mary Booth.</hi>
+          </byline>
+        </div>
+        <div xml:id="fiery_04" type="Poem">
+          <pb xml:id="fiery_1305" n="[37]"/>
+          <head rend="center">
+            <hi rend="bold">The Coming of the Colonies</hi>
+          </head>
+          <lg type="stanza">
+            <l>I OF the bleeding heart, bent head, and stricken tongue,</l>
+            <l>Old, old with years, and honours, and despairs,</l>
+            <l>Watch them go forth to fight and die, last heirs</l>
+            <l>And children of my womb, the happy young.</l>
+            <l>I took the challenge, by the oppressors flung,</l>
+            <l>I and my peers,--and far my beacon flares,</l>
+            <l>"Up, up, ye lion cubs, from out your lairs!"</l>
+            <l>Wide o'er the world my cry of need has rung.</l>
+          </lg>
+          <lg type="stanza">
+            <l>They came, my splendid daughters--to the fray--</l>
+            <l>India and Australasia and the Isles,</l>
+            <l>Swart Afric, and my swift cold Canada--</l>
+            <l>With ardour, and with laughter and with smiles;</l>
+            <l>And, though my every son of Britain fall,</l>
+            <l>With these no man shall hold me as a thrall.</l>
+          </lg>
+          <lb/>
+          <byline>
+            <hi rend="italic">Dorothy Frances Gurney.</hi>
+          </byline>
+          <lb/>
+          <trailer>
+            <hi rend="italic">A Little Book of Quiet.</hi>
+          </trailer>
+        </div>
+        <div xml:id="fiery_05" type="Poem">
+          <pb xml:id="fiery_1306" n="[39]"/>
+          <head rend="center"><hi rend="bold">The Admonition</hi><lb/>To BETSEY.</head>
+          <lg rend="italic" type="stanza">
+            <l>REMEMBER, on your knees,</l>
+            <l>The men who guard your slumbers--</l>
+          </lg>
+          <lg type="stanza">
+            <l>And guard a house in a still street</l>
+            <l>Of drifting leaves and drifting feet,</l>
+            <l>A deep blue window where below</l>
+            <l>Lies moonlight on the roofs like snow,</l>
+            <l>A clock that still his quarters tells</l>
+            <l>To the dove that roosts beneath the bell's</l>
+            <l>Grave canopy of silent brass,</l>
+            <l>Round which the little night-winds pass</l>
+            <l>Yet stir it not in the grey steeple;</l>
+            <l>And guard all small and drowsy people</l>
+            <l>Whom gentlest dusk doth disattire,</l>
+            <l>Undressing by the nursery fire</l>
+            <l>In unperturbed numbers</l>
+            <l>On this side of the seas--</l>
+          </lg>
+          <lg rend="italic" type="stanza">
+            <l>Remember, on your knees,</l>
+            <l>The men who guard your slumbers.</l>
+          </lg>
+          <lb/>
+          <byline>
+            <hi rend="italic">Helen Parry Eden.</hi>
+          </byline>
+          <lb/>
+          <trailer>
+            <hi rend="italic">Westminster Gazette.</hi>
+          </trailer>
+        </div>
+        <div xml:id="fiery_06" type="Poem">
+          <pb xml:id="fiery_1307" n="[40]"/>
+          <head rend="center"><hi rend="bold">The Tirailleur</hi><lb/>TO THE MEMORY OF RENÉ.</head>
+          <lg type="stanza">
+            <l>HE was so young to die--</l>
+            <l>Ah; these are catchwords now</l>
+            <l>When Death sucks red lips white</l>
+            <l>Yet laurel-crowns the brow!</l>
+          </lg>
+          <lg type="stanza">
+            <l>The while we slaked his thirst</l>
+            <l>Around us night-flies sang,</l>
+            <l>Why did we wish him life?</l>
+            <l>Why did we feel a pang?</l>
+          </lg>
+          <lg type="stanza">
+            <l>He lived the night, to dawn,</l>
+            <l>And all the hot day through</l>
+            <l>The fever lit his eyes,</l>
+            <l>His limbs no resting knew.</l>
+          </lg>
+          <lg type="stanza">
+            <l>"Je pars tout seul," he said.</l>
+            <l>Yet radiance on his face</l>
+            <l>Bespoke him radiant dreams</l>
+            <l>Veiled in eternal grace.</l>
+          </lg>
+          <lg type="stanza">
+            <l>The hour he died, a moth</l>
+            <l>With golden quivering wings</l>
+            <l>Upon his pillow poised,</l>
+            <l>And whispered lovely things</l>
+          </lg>
+          <lg type="stanza">
+            <l>To his dear fluttering soul--</l>
+            <l>Of brothers at his side,</l>
+            <l>And comrades crying "Haste,</l>
+            <l>The boat is on the tide "--</l>
+          </lg>
+          <pb xml:id="fiery_1308" n="[41]"/>
+          <lg type="stanza">
+            <l>Till with the setting sun</l>
+            <l>Outward his spirit leapt--</l>
+            <l>In calm the moon arose,</l>
+            <l>Only the Sister wept.</l>
+          </lg>
+          <lb/>
+          <byline><hi rend="italic">Millicent Sutherland.</hi>&gt;</byline>
+        </div>
+        <div xml:id="fiery_13" type="Poem">
+          <pb xml:id="fiery_1309" n="[45]"/>
+          <head rend="center"><hi rend="bold">Gifts</hi><lb/>To QUEEN ELISABETH OF THE BELGIANS.</head>
+          <lg type="stanza">
+            <l rend="italic">From the Mother of John the Baptist.</l>
+            <l>"WHEN all my fruitful years were done,</l>
+            <l>God breathed on me His gracious breath;</l>
+            <l>And I conceived and bore a son;</l>
+            <l>I, even I, Elisabeth.GG</l>
+          </lg>
+          <lg type="stanza">
+            <l>Courage I give you, and the calm</l>
+            <l>With which I faced my childless years;</l>
+            <l>I give you too a healing grace,</l>
+            <l>The balm of hero-mourning tears."</l>
+          </lg>
+          <lg type="stanza">
+            <l rend="italic">From St Elisabeth.</l>
+            <l>"I, who was mated to a brute;</l>
+            <l>I give you charity and grace;</l>
+            <l>A healing power from you shall flow</l>
+            <l>To all who look upon your face."</l>
+          </lg>
+          <lg type="stanza">
+            <l rend="italic">From Elizabeth of England.</l>
+            <l>"The mighty Virgin-queen was I;</l>
+            <l>Who reigned supreme on land and sea;</l>
+            <l>I give you of the mettle high</l>
+            <l>That made my people great and free."</l>
+          </lg>
+          <lg type="stanza">
+            <l rend="italic">From Elizabeth Barrett Browning.</l>
+            <l>"And I, whose fire-tipped tongue did tell</l>
+            <l>My message to a waiting world,</l>
+            <l>I give you power to walk thro' Hell,</l>
+            <l>And find your garment-hem unsoiled."</l>
+          </lg>
+          <lb/>
+          <byline>
+            <hi rend="italic">Mary Booth.</hi>
+          </byline>
+        </div>
+        <div xml:id="fiery_07" type="Poem">
+          <pb xml:id="fiery_13010" n="[53]"/>
+          <head rend="center">
+            <hi rend="bold">Territorials</hi>
+          </head>
+          <lg type="stanza">
+            <l>WHERE are the lads who went out to the war?</l>
+            <l rend="italic">This year, and last year and long, long ago--</l>
+            <l>With eyes full of laughter and song on their lips</l>
+            <l>(Our sad hearts flew after as birds follow ships!)</l>
+            <l rend="italic">Where are they now, do you know?</l>
+          </lg>
+          <lg type="stanza">
+            <l>Some sleep in Flanders and some sleep in France,</l>
+            <l rend="italic">This year, and last year, and long years to come--</l>
+            <l>And under the rampart that guards far Stamboul </l>
+            <l>Some are camped in a rest deep and cool,</l>
+            <l rend="italic">And they heed not the bugle and drum!</l>
+          </lg>
+          <lg type="stanza">
+            <l>They'll come, though not all! They will come from the war</l>
+            <l rend="italic">This year or next year, or early or late</l>
+            <l>And come well or wounded, come many or few,</l>
+            <l>They will bring back their honour, their faith high and true,</l>
+            <l rend="italic">Or will bear it to Paradise Gale.</l>
+          </lg>
+          <lb/>
+          <byline>
+            <hi rend="italic">Agnes S. Falconer.</hi>
+          </byline>
+          <lb/>
+          <trailer>
+            <hi rend="italic">Country Life.</hi>
+          </trailer>
+        </div>
+        <div xml:id="fiery_08" type="Poem">
+          <pb xml:id="fiery_13011" n="[63]"/>
+          <head rend="center">
+            <hi rend="bold">Requiescant</hi>
+          </head>
+          <lg type="stanza">
+            <l>Now are they come unto the place of quiet,</l>
+            <l>Into the heart of silence, where God is,</l>
+            <l>Far, far away from all the mortal riot</l>
+            <l>Safe in the home of lovely sanctities.</l>
+          </lg>
+          <lg type="stanza">
+            <l>And there they rest, who fought with no surrender,</l>
+            <l>Lapt round with peace like water cool and bright</l>
+            <l>Till God shall armour them again in splendour,</l>
+            <l>To battle with the spirits of the night!</l>
+          </lg>
+          <lg type="stanza">
+            <l>My soul, forestall awhile the ultimate fiat,</l>
+            <l>A moment doff the body's hindrance,</l>
+            <l>And come thou too unto the place of quiet,</l>
+            <l>Into the heart of silence, where God is.</l>
+          </lg>
+          <lb/>
+          <byline>
+            <hi rend="italic">Dorothy Frances Gurney.</hi>
+          </byline>
+          <lb/>
+          <trailer>
+            <hi rend="italic">A Little Book of Quiet.</hi>
+          </trailer>
+        </div>
+        <div xml:id="fiery_09" type="Poem">
+          <pb xml:id="fiery_13012" n="[67]"/>
+          <head rend="center">
+            <hi rend="bold">Expiation</hi>
+          </head>
+          <lg type="stanza">
+            <l>"I, WAVERING like a candle in the wind:</l>
+            <l>I on the margin of Eternity: </l>
+            <l>Alone--alone--and knowing I have sinned:</l>
+            <l>Pale Galilean, will you watch with me?"</l>
+          </lg>
+          <lg type="stanza">
+            <l>"Lo! I am here, My son: if any sin</l>
+            <l>I am the Advocate for such as he.</l>
+            <l>The good to Heaven unmediated win:</l>
+            <l>You not till death's dark hour have turned to me.</l>
+            <l>Here on the battlefield are sins forgiven:</l>
+            <l>Your wounds are sacred: they do expiate:</l>
+            <l>Again-again--My side for you is riven."</l>
+            <l>"On healing streams I float thro' Death's dark gate."</l>
+          </lg>
+          <lb/>
+          <byline>
+            <hi rend="italic">Mary Booth.</hi>
+          </byline>
+        </div>
+        <div xml:id="fiery_10" type="Poem">
+          <pb xml:id="fiery_13013" n="[73]"/>
+          <head rend="center">
+            <hi rend="bold">"Despise not the Day of Small Things"</hi>
+          </head>
+          <argument>
+            <p xml:id="fiery_13014">
+              <hi rend="italic">Niuë, a little island in the South Seas, sent a message, on the outbreak of war, to offer to Great Britain "From a little child of the Empire," two portions--first, men; secondly, money.</hi>
+            </p>
+          </argument>
+          <lg type="stanza">
+            <l>A LITTLE child of Empire, I</l>
+            <l>My little gifts give willingly;</l>
+            <l>Two portions have I, men and gold,</l>
+            <l>Would I could give a hundredfold!</l>
+            <l>To Britain's mighty army then</l>
+            <l>Does "Niuë" offer twenty men</l>
+            <l>And money in a like degree,</l>
+            <l>With dark hearts' love and loyalty.</l>
+            <l>For surely he, our Great White King,</l>
+            <l>Can look upon a little thing,</l>
+            <l>And will the burning spirit see</l>
+            <l>In us, dark children though we be.</l>
+          </lg>
+          <lb/>
+          <byline>
+            <hi rend="italic">E. Mary Cruttwell.</hi>
+          </byline>
+        </div>
+        <div xml:id="fiery_11" type="Poem">
+          <pb xml:id="fiery_13015" n="[80]"/>
+          <head rend="center">
+            <hi rend="bold">Men Who Die for England</hi>
+          </head>
+          <lg type="stanza">
+            <l>MEN who die for England</l>
+            <l>Never die in vain.</l>
+            <l>Dying conquerors, dying masters,</l>
+            <l>Dying firm 'mid fierce disasters.</l>
+            <l>England's every son</l>
+            <l>Dying duty done</l>
+            <l>Gives the life she lent him back again.</l>
+            <l>Men who die for England</l>
+            <l>Never die in vain.</l>
+          </lg>
+          <lg type="stanza">
+            <l>Rushing seas they rode victorious,</l>
+            <l>Conquering seas have made them glorious,</l>
+            <l>Where in marshalled rank</l>
+            <l>Down to death they sank.</l>
+            <l>Met in order stern the roaring main</l>
+            <l>Proud for pride of England</l>
+            <l>Died, and not in vain.</l>
+          </lg>
+          <lg type="stanza">
+            <l>Sons of Vikings, old the story,</l>
+            <l>Desperate odds and death-fight gory.</l>
+            <l>Over all your graves,</l>
+            <l>Late or soon, there waves</l>
+            <l>Proud the flag you held us high from stain,</l>
+            <l>Floats the flag of England</l>
+            <l>Fought for-not in vain.</l>
+          </lg>
+          <lg type="stanza">
+            <l>Beacon fires are ye whose ashes</l>
+            <l>Fade, yet forth their splendour flashes.</l>
+            <l>Answers height on height, </l>
+            <l>Bright and yet more bright,</l>
+          </lg>
+          <pb xml:id="fiery_13016" n="[81]"/>
+          <lg type="stanza">
+            <l>Answers all your England, hill and plain,</l>
+            <l>Men who die for England</l>
+            <l>Do not die in vain.</l>
+          </lg>
+          <lg type="stanza">
+            <l>Prince and labourer, clerk and yeoman!</l>
+            <l>One we rise to front the foeman.</l>
+            <l>Who can dare forget</l>
+            <l>Now to pay his debt,</l>
+            <l>Give what England gave to her again?</l>
+            <l>Men who died for England</l>
+            <l>Have not died in vain.</l>
+          </lg>
+          <lb/>
+          <byline>
+            <hi rend="italic">Margaret L. Woods.</hi>
+          </byline>
+        </div>
+        <div xml:id="fiery_12" type="Poem">
+          <pb xml:id="fiery_13017" n="[92]"/>
+          <head rend="center">
+            <hi rend="bold">Lay your Head on the Earth's Breast</hi>
+          </head>
+          <epigraph>
+            <p xml:id="fiery_13018">
+              <hi rend="italic">"Have you heard the earth crying?" said Vassily Vassilitch.</hi>
+            </p>
+            <p xml:id="fiery_13019">
+              <hi rend="italic">"What do you mean?" I asked.</hi>
+            </p>
+            <p xml:id="fiery_13020">
+              <hi rend="italic">"Why," said he, "I've heard her crying as I lay in the grass with my ear to the ground. I heard her. Like this, oo-m, oo-m, oo-m. It was the time the soldiers were being mobilised and women were sobbing in every cottage and in every turning of the road, so it may only have been that I heard. But it seemed to me the earth herself was crying, so gently, so sadly that my own heart ached."--STEPHEN GRAHAM.</hi>
+            </p>
+          </epigraph>
+          <lg rend="italic" type="stanza">
+            <l>LAY your head on the Earth's breast and you will hear her crying,</l>
+            <l>Sobbing, softly, hopelessly, for her sons who are dead and dying.</l>
+          </lg>
+          <lg type="stanza">
+            <l>Splendid and gay they are marching still to the music of bugle and band,</l>
+            <l>Bravest and best of my beautiful sons they are going from every land.</l>
+          </lg>
+          <lg type="stanza">
+            <l>Are there none who will stay of all my sons?  Must you all go?</l>
+            <l>Yes; all that you love, the pride of your eyes, Mother, you'd have it so.</l>
+          </lg>
+          <lg type="stanza">
+            <l>Mangled and torn they lie in heaps, broken, dying and dead.</l>
+            <l>O scarlet blood of my splendid sons, you have dyed my green fields red.</l>
+          </lg>
+          <pb xml:id="fiery_13021" n="[93]"/>
+          <lg type="stanza">
+            <l>What can I do for you, O my sons?  My last, last gift is small,</l>
+            <l>A few poor sods to cover your heads and a scatter of snow o'er all.</l>
+          </lg>
+          <lg rend="italic" type="stanza">
+            <l>Lay your head on the Earth's breast and you will hear her crying,</l>
+            <l>Grieving, softly, hopelessly, for her sons who are dead and dying.</l>
+          </lg>
+          <lb/>
+          <byline>
+            <hi rend="italic">Celia Congreve.</hi>
+          </byline>
+          <lb/>
+          <trailer>
+            <hi rend="italic">Country Life.</hi>
+          </trailer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

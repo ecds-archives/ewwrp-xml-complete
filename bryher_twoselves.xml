@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bryher_twoselves_130719">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Two Selves, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Bryher, Annie Winifred Ellerman</reg><orig>W. Bryher</orig></choice></name>
+
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>165kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="bryher_twoselves_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to
+the work claimed by Emory University for non-profit educational purposes, provided 
+this header is included in its entirety.  For inquiries about commercial uses, contact
+either: Women Writers Resource Project or Lewis H. Beck Center for Electronic
+collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17b43</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Bryher, W. [Annie Winifred Ellerman].  Two
+	   Selves. ["This is a continuation of "Development" published
+	   some three years ago."] Copyrighted by the author.
+	   Published by <publisher>Contact Publishing Co.</publisher>,
+	   12, rue de l'Odéon, Paris-France. 1923? <date>[1923?]</date></bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="bryher_twoselves_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Novel</rs>
+        <rs type="geography">Great Britain</rs>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Autobiographical fiction, English--Women authors--20th Century.</item>
+            <item>Lesbians' writings--Fiction.</item>
+            <item>Feminist fiction.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1999</date><label>Staff</label><name>Jennifer Poulos Nesbitt</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="bryher_twoselves_130718">
+    <front xml:id="bryher_twoselves_1305">
+      <div xml:id="bryher_twoselves_001" type="front_matter">
+        <head>Two Selves</head>
+        <bibl>Copyrighted by the author <lb/>
+Published by Contact Publishing Co. <lb/>
+12, rue de l'Odéon <lb/>
+Paris-France</bibl>
+        <pb xml:id="bryher_twoselves_1303"/>
+        <p xml:id="bryher_twoselves_1304">TABLE OF CONTENTS
+<lb/>
+Chapter I. Two Selves. . . .5<lb/>
+Chapter II. Leopard Gold. . . .13<lb/>
+Chapter III. Patchwork. . . .23<lb/>
+Chapter IV. Cherry Pie. . . .45<lb/>
+Chapter V. Broken Glass. . . .51<lb/>
+Chapter VI. Peach Jam. . . .59<lb/>
+Chapter VII. Eleanor. . . .73 <lb/>
+Chapter VIII. Scarlet and Silver. . . .81<lb/>
+Chapter IX. Rebellion. . . .95<lb/>
+Chapter X. Snow and Apple Flowers. . . .101<lb/>
+Chapter XI. Meeting. . . .117 </p>
+      </div>
+    </front>
+    <body xml:id="bryher_twoselves_130717">
+      <div xml:id="bryher_twoselves_002" type="Book">
+        <head>Two Selves</head>
+        <pb xml:id="bryher_twoselves_1306" n="5"/>
+        <div xml:id="bryher_twoselves_003" n="1" type="Chapter">
+          <head>CHAPTER I <lb/> TWO SELVES</head>
+          <p xml:id="bryher_twoselves_1307">Two selves. Jammed against each other, disjointed and ill-fitting. An obedient Nancy with heavy plaits tied over two ears that answered "yes, no, yes, no," according as the wind blew. A boy, a brain, that planned adventures and sought wisdom. Two personalities uneasy by their juxtaposition. As happy together as if a sharp sword were thrust into a golf bag for a sheath.</p>
+          <p xml:id="bryher_twoselves_1308">It had happened eighteen months before, this division. Just as she had left Downwood. A queer feeling across the head. As if something had hit her very hard. . . so hard one felt no pain. . . only a numbness. As if the active section of her mind had been smashed by a heavy fist.</p>
+          <p xml:id="bryher_twoselves_13010">She wanted to go away and forget everyone she had known. Get to a cottage in Cornwall and live there by herself. Make a new world in a book. Start<pb xml:id="bryher_twoselves_1309" n="6"/>
+afresh. She had asked for this. But people scolded her at such a request. "We have given up our lives for you", they had said. "It was for your own sake you were sent to school". They had been so upset she had insisted no further. She hated hurting people's feelings. It was terrible of them to have given up their lives for her. Only she had not wished them to do it.</p>
+          <p xml:id="bryher_twoselves_13011">She wanted to be free.</p>
+          <p xml:id="bryher_twoselves_13012">But school had paralyzed her. As she left its doors some long deferred consciousness of terror broke. . .perhaps she would never be able to make a decision. . . act of her own initiative again.</p>
+          <p xml:id="bryher_twoselves_13013">Two selves. The one complete enough, chaffed by every restriction, planning to reform the world, planning to reform schools, planning to know and experience everything there was to know and experience. But the other self. . . blown apart with every wind. . . it was painfully inadequate a covering.</p>
+          <p xml:id="bryher_twoselves_13014">She had no words to make them understand. "If you are so eager to learn you had better go to college". But college was void of wisdom. Wisdom was not only books. . . it was something. . . "you know when it comes" she had pleaded.</p>
+          <p xml:id="bryher_twoselves_13015">It was the only way to escape. A way to be hidden in silence. But wisdom was not easy to find and the road there broke off, got lost in other tangles.</p>
+          <pb xml:id="bryher_twoselves_13016" n="7"/>
+          <p xml:id="bryher_twoselves_13017">A black pekingese trotted past with a red rosebud caught in his silky hair. The plane trees shook into leaf; hyacinths spiked the sharp green lawn. A bulldog scrunched under the low park railing to leave audacious paw marks over the dewy grass. People passed; people laughed; people sat and watched the riders.</p>
+          <p xml:id="bryher_twoselves_13018">Nancy would have liked a dog to follow her; a bulldog or a griffon perhaps, something with completely flattened nose, utterly useless, utterly artistic, a heavy frog-like, bee-like creature, with soft fantastic tulips tangled in his collar. She hated sporting kinds with their smug strength, their over-obvious utility. Hated their owners with their inevitable sentence, "I like a dog to be a dog", their continuous sneer at any sensitive intelligence. Anyway she could not have an animal so why watch the French bull with his furred out collar and his soft black muzzle. She could not have a friend.</p>
+          <p xml:id="bryher_twoselves_13019">Yet none of the faces passing would have urged her to a sentence could she have stopped them and have spoken. The accent of their voices, the chance phrases she caught, repelled her. If she had friendship ever it would be immediate, inevitable. There would be no recognition of each other. Simply a placing together of two lives.</p>
+          <lb/>
+          <p xml:id="bryher_twoselves_13021">How busy the park was with faces and with flowers. Parchment buds tipped the chestnut trees <pb xml:id="bryher_twoselves_13020" n="8"/>and waited to be unrolled. The sky flowered into a myriad forget-me-nots between the sharp green leaves. Girls in dresses the colour of the hyacinths leaned above the stiff blue cones. Borders of white and red daisies merged softly into grass.</p>
+          <p xml:id="bryher_twoselves_13022">"I thought Mr Gavin very nice."</p>
+          <p xml:id="bryher_twoselves_13023">"I didn't like him much".</p>
+          <p xml:id="bryher_twoselves_13024">"Why, Nancy, he seemed so interested in you".</p>
+          <p xml:id="bryher_twoselves_13025">"Can't help that. He has no right to treat his children the way he does".</p>
+          <p xml:id="bryher_twoselves_13026">"But he talked all lunch time about his son. I thought it was splendid of him to be so wrapt up in them".</p>
+          <p xml:id="bryher_twoselves_13027">"That's just the trouble". (Fool to get on dangerous ground.) "Why doesn't he leave them alone? It's cruel. Cruel to bribe that boy of his with a cycle, not to drink or smoke till he's twenty five. Before the child realizes what he is being asked to do. It's inviting him to be a liar or an idiot". </p>
+          <p xml:id="bryher_twoselves_13028">"I think myself it's a pity to tie the boy. But you're too violent in your statements. And he is fond of the children".</p>
+          <p xml:id="bryher_twoselves_13029">"That's no excuse for bribing a child of ten to give up liberty of action at eighteen."</p>
+          <p xml:id="bryher_twoselves_13030">"I suppose you will say next that we are to interested in you. . ."</p>
+          <p xml:id="bryher_twoselves_13032">Why must they take every sentence as a personal matter. . . never any detachment? It was awful to think about, the impotence of youth. Never to be <pb xml:id="bryher_twoselves_13031" n="9"/>able to express an opinion without their being hurt. If only one had a friend. Eleanor was interested but she knew no more than one's self. Doreen only cared about fishing. Miss Sampson about the tone of the school.</p>
+          <p xml:id="bryher_twoselves_13033">"It's all those books you read."</p>
+          <p xml:id="bryher_twoselves_13034">Queer how everyone despised intellect. . . as a shame. . . something to be hidden. The weight and smell of a word. What was it in the Futurist manifesto? There was something right about that. Something new. Everything new was laughed at. If one read history that was all that happened. A chain of people laughing at a new idea, fighting it, accepting it and fighting the idea again that grew to take its place. The young and the old. Couldn't people <hi rend="italic">see</hi> how rotten English education was? Parents were too lazy to see. They were afraid of a better education. Afraid of what it might make their sons say to them. Afraid of the independence it might give their daughters. She wanted to talk out that Futurist manifesto with somebody. Talk it out intelligently, without laughter. How far is it possible to indicate the weight and smell of a word? Colour. She had always seen words as colour. They laughed. Her aunt would laugh. Doreen would laugh. It was not the laughter that mattered but the boring re-iteration of it. Whenever she spoke. "If only you would have human interests. If only you had a sense of humour." So tedious never to hear but the one opinion, the one scale of remarks.</p>
+          <pb xml:id="bryher_twoselves_13035" n="10"/>
+          <p xml:id="bryher_twoselves_13036">Vers libre. She must throw her old note books away. It was a hard discipline. Without rhyme one had to create. Create an experience. She had no experiences. Rhyme blurred over one's faults. Rhyme covered up one's incapacity. Rhyme was a trick, a perversion of rhythm.</p>
+          <p xml:id="bryher_twoselves_13037">Vers libre had ruled England until Chaucer's time. Those fool Italian metres had kicked it out. 0ld English poetry was all unrhymed. Anyone could find ryhmes with or without a rhyming dictionary. It was just patience and memory. But only a poet could make a sound, a colour. Only a poet could forego repeating a past age. </p>
+          <p xml:id="bryher_twoselves_13038">She must remember to throw her old note books away.</p>
+          <lb/>
+          <p xml:id="bryher_twoselves_13039">Always somebody wanted her. Just as she began to work. She must try to do as they wished. She hated hurting people. She must write out phrases in a notebook and learn them, to say to Millicent the next time she came to call. Something that would interest Millicent. But Millicent seemed to care for nothing. She said "yes", and "no", and "really", and the headlines of the papers over and over. . . one could write down. . . Nancy had written down. . . all the answers to all the phrases exactly as Millicent would say them.  </p>
+          <p xml:id="bryher_twoselves_13041">But people were so kind. If only they would not be kind. Not give her presents nor ask (trying to <pb xml:id="bryher_twoselves_13040" n="11"/>be interested) if she had written another book yet or how far she had got in hieroglyphycs.</p>
+          <p xml:id="bryher_twoselves_13042">Everywhere it pressed on her; a ramification of people being kind and never any freedom.</p>
+          <p xml:id="bryher_twoselves_13043">"I know there's colour somewhere", she would say suddenly. And immediately, inevitably, there would come the tag about wanting the moon.</p>
+          <p xml:id="bryher_twoselves_13044">There was no doubt but that she was most ungrateful.</p>
+          <p xml:id="bryher_twoselves_13045">At fifteen she could have gone ahead. Nothing had frightened her then. Not even making a fool of herself. Now liberty seemed bound up with hurting people. She had wanted to go to an Art School; she could have talked to strangers readily. Even at school she had felt anger and not fear. But now, it was a queer numb apathy. A terror of going even through strange doors.</p>
+          <p xml:id="bryher_twoselves_13046">There was a world somewhere. That was the worst of it. Just as she reasoned, uprooting root and mood, that this was her life and that it was no good upsetting people, a glimpse, tag of a life, of another world, got to her.</p>
+          <p xml:id="bryher_twoselves_13047">But Downwood was a memory two years old and her soul was no further.</p>
+          <pb xml:id="bryher_twoselves_13048" n="12"/>
+          <pb xml:id="bryher_twoselves_13049" n="13"/>
+        </div>
+        <div xml:id="bryher_twoselves_004" n="2" type="Chapter">
+          <head>CHAPTER II <lb/> LEOPARD GOLD</head>
+          <p xml:id="bryher_twoselves_13050">"Beholding Joseph's beauty, her knife cut the hand that held the pomegranate." Professor Foster's even voice read out the unfamiliar words, translating as he went from Arabic to English.</p>
+          <p xml:id="bryher_twoselves_13051">"How very stupid of her", commented Miss Leyton, the Egyptologist, leaning back against the arm of her chair. "Let us hope she was not unduly affected by the sequel."</p>
+          <p xml:id="bryher_twoselves_13052">"It is, of course, a later exaggeration." Professor Foster could not miss the opportunity to compare, co-relate. "You do not find it in the Jewish version. And. . . by the way. . . I think we had better omit the next two lines. Mark on your copies please, two lines passed over. The licence of the East is well enough in its place but really there is no need to drag it into a lesson."</p>
+          <p xml:id="bryher_twoselves_13054">The thin youth opposite Nancy blushed. He bent <pb xml:id="bryher_twoselves_13053" n="14"/>eagerly over his notebook and scribbled hastily the Arabic equivalent of some Swahili phrases. He had already been in Africa a year and was back in London simply to pass a Consular examination.</p>
+          <p xml:id="bryher_twoselves_13055">"Very little one can choose for class reading", the Professor commented. "Except religious tracts and Miss Leyton insists on something entertaining. Though think what an opportunity you miss", he turned towards her, "of discussing with some Moslem elder the intricacies of Koranic lore on your next expedition up the Nile. No, no, Miss Leyton," he broke accross a stream of gutteral dialect, "you must not use your donkey boy Arabic here. We are not an excavating party but a class of serious students."</p>
+          <p xml:id="bryher_twoselves_13057">He smiled as he took up their papers from the table, scrawled over with uncertain Arabic characters and corrected in red ink. The wide bookcase lined room faced on to the quiet Kensington street, alive with sparrows. A few bare boughs showed through the window; the tiny court beyond the house was full of fallen leaves. But the winter had been broken with these familiar if unmemorized phrases that had all the grit of sand in their sound, the silent padding of camels and the flash of hoopoe wings. A sentence splashed and fell like the black and white kingfishers darting from one side to the other of the Nile. Even the conjugation of a verb brought <pb xml:id="bryher_twoselves_13056" n="15"/>back the gold caravans of far off days that met and parted at Kom Ombo.</p>
+          <p xml:id="bryher_twoselves_13058">The student who spoke Swahili read through his exercise, a pencil in his hand, a notebook before him. His seriousness was a blank despairing thing: the language was linked simply to more pay, a better opening, somewhere in a land that had already given him fever and harsh journeys. Miss Leyton, her black feathered hat perched on the back of her head, her black and white coat pressed against the chair like a chessboard waiting to be unfolded, was as abstracted as was Nancy. Arabic to both was less a practical matter than an attempt to answer a question, find a new path forward.</p>
+          <p xml:id="bryher_twoselves_13059">For learning opened paths. As if one's mind were a ship sailing from island to island. Finding anchorage in one language, fogs and mist in another. White sand and bays of coral and crushed shell as some new science leapt from the surf to greet one. Building a city with new words; gathering what one pleased of wisdom that was strong and sweet as sea wind, or red peaches.</p>
+          <p xml:id="bryher_twoselves_13061">"So the Arabian Nights has fascinated you", someone had said, hearing of the lessons. "Charming fairy tales. You want to read them in the original, I suppose." But that intrigue and embroidery of tales was of another's fashion. Nancy had hardly glanced at the book. What held her, what kept her, were the dark nights, the leopard gold. Horses and <pb xml:id="bryher_twoselves_13060" n="16"/>stars. Battle chants. The sinewy tense split of words like steel. Turquoise and silver and cornelian. Night and the moon whispering jackals forth.</p>
+          <p xml:id="bryher_twoselves_13062">"You have another six weeks", Professor Foster said, shutting the grammar book. "Ground yourself in the first ten chapters and you ought to do all right. Now you want to catch your train, I expect", he looked up at the clock, "we are a little late."</p>
+          <p xml:id="bryher_twoselves_13063">"Thank you." The youth rose. Professor Foster followed him into the hall to explain once more some complicated phrase. Miss Leyton looked up swiftly. It was the first time that she and Nancy had been alone together. "Why don't you train as an archæologist"? she enquired.</p>
+          <p xml:id="bryher_twoselves_13064">"I should like to. But then I saw them find a carved duck near Karnak. In a basket of sand. So it's natural I should be interested. We were out there two winters." </p>
+          <p xml:id="bryher_twoselves_13065">"I go out alternate years. Right into the desert where no tourists come. 'Digging.'" "You could train as an assistant. Why don't you take it up seriously?"</p>
+          <p xml:id="bryher_twoselves_13066">"Perhaps I could, sometime. I spoke Arabic when I was out there but having no practice in England, I've forgotten every word of it. And I used to know some hieroglyphics."</p>
+          <p xml:id="bryher_twoselves_13068">Professor Foster came back into the room and began to read Miss Leyton's paper. Nancy stared at the books in front of her. It would be fun to ride <pb xml:id="bryher_twoselves_13067" n="17"/>over the sand again and watch children empty baskets, gather carvings and uncover paintings and papyrus. But was excavation any answer to her questions? Everyone would be sure to find reasons against her being an archæologist. She must be sure before she insisted or even asked about it, that it was really what she desired.</p>
+          <p xml:id="bryher_twoselves_13069">Miss Leyton and Professor Foster went back to the East as a sailor returns to the sea. Nancy relearned Arabic because it seemed absurd to have forgotten it. She seemed to have known the East before she had known the West. No doubt it was those early winters spent riding about the Pyramids that made the indigo robed Egyptians seem less strange than the omnibus that jolted down the street, and olive and orange-flower more familiar than the buttercups. The books too that she had read before she was twelve. Travels in the desert, translations of the Arab historians, Antar, Bedawin battle chants. It irritated her to hear Professor Foster explain an Arab custom. Everyone must know about it, she felt; everyone must know about the East. Perhaps this was the sensation that the Downwood girls had experienced, when they blamed her for not understanding their slang. It had been native to them as the smell of Egypt and the palm trees and the camels were native to her, so familiar that she longed for the unfamiliarity of the West.</p>
+          <p xml:id="bryher_twoselves_13071">Two selves again that split her. The Mediterranean <pb xml:id="bryher_twoselves_13070" n="18"/>self. And the self that wanted to find the day after to-morrow in a new and unexplored continent.</p>
+          <p xml:id="bryher_twoselves_13072">"You heard", said Professor Foster to gain time as he glanced in half-concealed despair at Nancy's paper. "You heard about the new Persian classes."</p>
+          <p xml:id="bryher_twoselves_13073">"I saw the prospectus", Miss Leyton answered, "what about them?"</p>
+          <p xml:id="bryher_twoselves_13074">"They began yesterday." The Professor smiled decorously. He and Miss Levton were brothers in arms as far as their profession went.</p>
+          <p xml:id="bryher_twoselves_13075">"I trust there was a good attendance", Miss Leyton straightened her hat in anticipation of some gossip. Her face was old, always had been old, but there was humour in the eyes set almost like claws in the wide cheeks.</p>
+          <p xml:id="bryher_twoselves_13076">"Well, the authorities insisted on some formal inauguration. The Persian Legation, several members of the Foreign Office. Oh and a Lord somebody or other who was interested in Omar Khayyam and gave money towards establishing the courses. They visited the classroom with an address to the students."</p>
+          <p xml:id="bryher_twoselves_13077">"Well!"</p>
+          <p xml:id="bryher_twoselves_13079">"There was one student. Going out to Tabri for some Oil Company. All those gentlemen in the room, addressing him. On the beauty of Persian poetry. The necessity of Persian for a proper appreciation of the East. He has written I understand to say he prefers to continue his studies elsewhere. <pb xml:id="bryher_twoselves_13078" n="19"/>He was a little shy, I'm afraid. And it was his first lesson."</p>
+          <p xml:id="bryher_twoselves_13080">They laughed. With the protection of the mirth about him, Professor Foster took up Nancy's paper. "Why do you find these grammatical forms so difficult?" he asked, holding it up a mass of red corrections. Nancy had no answer. "Our time is up so I cannot go over this in detail but I have written the sentences out at the bottom of the page and perhaps if you copied them several times you would not confuse the Nominative and Accusative so much. And both please", he smiled at Miss Leyton, "do exercise number 23 and post it to me not later than Tuesday evening."</p>
+          <p xml:id="bryher_twoselves_13081">A cold wind stormed at their faces as they left the front door and went down the steps. At sea a hurricane must be raging. Nancy was aware of Miss Leyton smiling at her just before they left the shelter of the gate. "Il you get into difficulties with your next exercise why not let me help you with it? I know Coptic well and that is very similar." She held out a page torn from her notebook with an address on it. "I'm usually in after six o'clock. "</p>
+          <p xml:id="bryher_twoselves_13083">Nancy took the sheet. "It's very kind of you." She put it in her pocket. But she knew she would never go. Miss Leyton might suggest things. Things she would like but that she would not be allowed to do. And, after Downwood, Nancy could not risk refusal of her requests. Better say nothing, do nothing, dis-<pb xml:id="bryher_twoselves_13082" n="20"/>associate herself from all emotion, than face again the fight she had failed in because she had not realized till too late that it was up to her to fight.  If she were sure, with her whole mind, that she wanted to be an excavator she would insist.  Miss Leyton, with a smile, hurried off to the opposite side of the road.</p>
+          <p xml:id="bryher_twoselves_13084">It would be easy enough to be an archæologist.  Forget everything but the happiness of living in a different world.  But it could not answer the sharp wishes that came when the sea called; when adventure came.  Knowledge was a fire more vital than the sunset; heart of the desert, strength of the sea.  There was something beyond, the other side, almost nobody got to.  Forget-all but the carved duck shining in the sand.  Forget-but that would not be life.  Why forget till life itself had been found and welcomed?</p>
+          <p xml:id="bryher_twoselves_13085">Nothing of her experience was an answer to her questions.  Perhaps the answer was middle age.  Then perhaps to every wish would not come the reply, "but you are too young."  Then perhaps she would have a school.  Or a business.  Re-make of education a beautiful live experience.  Why did they always say, "when you are older?"  When she was forty she might have lost the will, the energy, to desire or accomplish things.</p>
+          <p xml:id="bryher_twoselves_13087">It was the lack of organization that had made Downwood so terrible.  In five days she would have changed the entire school.  Just by treating it like <pb xml:id="bryher_twoselves_13086" n="21"/>a business where time was money and wasted energy spelt inefficient management.  She had no patience with their vague idealism.  She wanted facts, practical results.</p>
+          <p xml:id="bryher_twoselves_13088">Childhood was a long surrender of one's brain.  School robbed one of the knowledge one was born with.  Nancy was sick of this immaturity forced on her.  She wanted to develop, run a school, have adventures.  And all that was offered her was the temptation to drop from the present to the past.</p>
+          <p xml:id="bryher_twoselves_13089">She would not go to see Miss Leyton.  It would make her want to much, freedom, and the South.</p>
+          <pb xml:id="bryher_twoselves_13090" n="22"/>
+          <pb xml:id="bryher_twoselves_13091" n="23"/>
+        </div>
+        <div xml:id="bryher_twoselves_005" n="3" type="Chapter">
+          <head>CHAPTER III <lb/> PATCHWORK</head>
+          <p xml:id="bryher_twoselves_13092">"You're too early", Miss Cape said as Nancy took down her fencing mask. "It will be another ten minutes before they finish."</p>
+          <p xml:id="bryher_twoselves_13093">The room shook with the stamp of feet overhead. Occasionally a word in French rang out above the clatter of the foils Nancy shifted into her padded jacket. Her legs were free for once. It gave her an incomparable sensation of boldness.</p>
+          <p xml:id="bryher_twoselves_13094">"I know I'm too soon. But it doesn't matter. I don't mind waiting to-day." She enjoyed the chance to sit there; to question Miss Cape, wonder of what world she came and why she seemed more interesting than the Downwood girls or Millicent or Mrs. Lodge. Perhaps it was because she had a job; she taught dancing in the big room beyond the fencing hall and helped the secretary in her spare time. Or was it the quiet decision of her eyes?</p>
+          <pb xml:id="bryher_twoselves_13095" n="24"/>
+          <p xml:id="bryher_twoselves_13096">Miss Cape sat down in the empty chair. "Had a nice weekend?" she enquired.</p>
+          <p xml:id="bryher_twoselves_13097">"It was all right. But I hate the move from one place to another. London the middle of the week and Meades over Sunday. I should like to settle in a place. With my books. Not to have the change backwards and forwards from the emptiness of the country to the noise of the streets here. I would rather be here. One feels more is happening."</p>
+          <p xml:id="bryher_twoselves_13098">"But the country must be nice now. With the red may out and the laburnum. I get so tired of the dust. There is always such a crowd when I catch the bus in the morning. The day smells of dust and wheels."</p>
+          <p xml:id="bryher_twoselves_13099">The light fell from the window on to Miss Cape's faded hair and neat black dress. "Did you cycle out anywhere last Sunday?" Nancy asked, re-buttoning her jacket collar and gathering together in her mind scraps of Miss Cape's life collected in a dozen leisurely conversations. Upstairs the fencers were resting, for the room was suddenly quiet.</p>
+          <p xml:id="bryher_twoselves_130100">"No. I have not been out on the Common since last autumn when we went to pick blackberries. Since my sister got a job I've had to help with the kitchen. I'm going away though. I wanted to tell you. You might be interested, I thought."</p>
+          <p xml:id="bryher_twoselves_130101">"Going away! Where?"</p>
+          <p xml:id="bryher_twoselves_130103">"To South America. I've got a position at Buenos Aires. With an English lady. Her references are <pb xml:id="bryher_twoselves_130102" n="25"/>all right and it means double pay and a share of the profits in three years if I can stand the climate."</p>
+          <p xml:id="bryher_twoselves_130104">"Shall you like it?"</p>
+          <p xml:id="bryher_twoselves_130105">"Well, there's not much to look forward to, in England, is there?" Miss Cape got up and put a stray pair of shoes away automatically in the large locker. "I shall be thirty soon. And I can't get a higher salary here. I haven't any capital or chance of getting enough capital to start out on my own. What I can earn hardly leaves enough for bus fares when my food is paid for. And when I'm older, what am I going to do?"</p>
+          <p xml:id="bryher_twoselves_130106">There did not seem to be any answer. Miss Cape had mentioned casually before that she never took a holiday because she could not afford the railway tickets. But to go out to South America-alone.</p>
+          <p xml:id="bryher_twoselves_130107">"If I can't stand the climate they will pay my passage back after two years", she continued in a matter of fact voice. "And I can always get some sort of a job, I suppose. I shall learn Spanish out there and that ought to be valuable."</p>
+          <p xml:id="bryher_twoselves_130108">Nancy tried hard to think of something to say. Something helpful. One couldn't put sympathy into words though. There seemed nothing she could do about it. The door banged upstairs. Miss Cape sat down again. "They're leaving", she said, "I can hear the foils being put into the racks."</p>
+          <p xml:id="bryher_twoselves_130110">Nancy picked up her fencing glove and moved clumsily to the door. "I hope you 
+get on all right. <pb xml:id="bryher_twoselves_130109" n="26"/>You're sure to. But I don't envy you the start."</p>
+          <p xml:id="bryher_twoselves_130111">Miss Cape's eyes lit with adventure. "Oh, whatever happens it won't be. . . what I was brought up with. I shall see you on Thursday, I suppose. I don't leave here for another ten days."</p>
+          <lb/>
+          <p xml:id="bryher_twoselves_130112">"Bonjour, mademoiselle." The white padded figure of her fencing master swept the épée from the rack and faced her with his black projecting mask, like a penguin huddled on a sandbank. Treacherous impression, as Nancy knew to her cost, for the scarred fencing glove was swifter than her thoughts. There was nothing hunched or stolid once the sword moved but he was waiting now for her to begin. And lose.</p>
+          <p xml:id="bryher_twoselves_130113">"In a duel, Mademoiselle, it is the most impetuous one that is pricked the soonest. And when blades are sharp, mistakes cannot be corrected afterwards."</p>
+          <p xml:id="bryher_twoselves_130114">That was the fun of épée. One fought with it. Foils were dreary; a succession of ordered movements. Foolish like dancing. Like a technical exercise. But épée. . .to hit where you could or pleased. . . that was worth learning. She shifted her grip under the big basket-shaped hilt and stood watching the opposing point.</p>
+          <p xml:id="bryher_twoselves_130116">He tapped her blade, provoking her to begin. The foils clashed, stirred in her a rhythm of bright moods. From her first lesson she had been captive to the <pb xml:id="bryher_twoselves_130115" n="27"/>sound. <hi rend="italic">Clash</hi> of steel, <hi rend="italic">crash</hi> of thunder, <hi rend="italic">smash</hi> of surf, these were sounds for a boy to love, to listen to and make songs of. She would try a cut-over, for the fun of feeling the sword sweep up, smite down.</p>
+          <p xml:id="bryher_twoselves_130117">Fool. She might have known that his point would catch her that way, as she sprang back.</p>
+          <p xml:id="bryher_twoselves_130118">"Not quick enough, not nearly quick enough, for a coupé, Mademoiselle. Your feet must learn to move. And your wrist remember, not your whole arm."</p>
+          <p xml:id="bryher_twoselves_130119">The chase down the room would begin now. She retreating and springing back and making tentative attempts he parried with light touches. All the same if he had not insisted on her doing difficult attacks she doubted if he could have got inside her defence so easily. Not if she were back against the door and could wait her time. She could wait an hour it seemed, her eyes on his wrist. And when he came, shorten and catch him as he swung back. It would be rather fun if the swords were sharpened. . .</p>
+          <p xml:id="bryher_twoselves_130120">"Too heavy. Don't sweep your arm round. You lose time and your opponent realises your intended movement. Fencing, even if you use épée, is fine. . . the point, so. Not a windmill of crashes."</p>
+          <p xml:id="bryher_twoselves_130122">Nancy shrugged her shoulders. She was always rough. Clumsy and rough. Partly it was her temperament and partly the first lessons she had had, with a retired army sergeant whose axiom was: "you've been given a foil to defend yourself with and <pb xml:id="bryher_twoselves_130121" n="28"/>if you get hurt it's your own look out", who had forbidden fencing gloves as an effeminate luxury and whose instruction consisted of making a foil into as much of a boxing glove as possible.</p>
+          <p xml:id="bryher_twoselves_130123">"Beat and lunge at my wrist. It is not good form any more to kill in a duel. Beat, drop your point and the difficulty is settled. No harm has been done and your opponent is disabled."</p>
+          <p xml:id="bryher_twoselves_130124">Tap, disengage, lunge. Hit the wrist edge. With black glove and white sleeve shifting always before her. One was free as one fenced. Free--out of the world.</p>
+          <p xml:id="bryher_twoselves_130125">"You defend too well", he grumbled, "but your lunge is slower than the passage of a century."</p>
+          <p xml:id="bryher_twoselves_130126">They sat down to rest on opposite sides of the bare room. He took down a foil or two and tested their suppleness. "You can't toss them on this wooden floor", Nancy said, "needs a lawn for that." </p>
+          <p xml:id="bryher_twoselves_130127">"Oh, you know that trick." </p>
+          <p xml:id="bryher_twoselves_130128">"Broken plenty of foils trying it." </p>
+          <p xml:id="bryher_twoselves_130129">"You have been fencing a long time?" </p>
+          <p xml:id="bryher_twoselves_130130">"Ten years. Since I was eight. Just foils at first and not continuously."</p>
+          <p xml:id="bryher_twoselves_130131">"When you want a change I can teach you sword and dagger", he suggested. "I worked out all the old passes. But I should have to get weapon made."</p>
+          <pb xml:id="bryher_twoselves_130132" n="29"/>
+          <p xml:id="bryher_twoselves_130133">Of course that was the way to fight. Delude your opponent and catch him with the knife as he lunged past you. But it was too romantic somehow. The fencing master annoyed her with his mediæval face, these reminiscences of the Middle Ages. She had learnt fencing simply because "girls couldn't have boxing lessons." What she really wanted was to smash out with both fists and knock somebody over.</p>
+          <p xml:id="bryher_twoselves_130134">"Once, I arranged it for a fencing class, we reconstructed the whole scene from a Dumas novel. I on the lawn and three, no four, of my pupils who burst from the bushes at each side. I had a cloak and backed to a tree. We had worked out every movement and I managed the four easily." He looked grotesque as he spoke, with his mask tilted back over his head like a helmet and the épée over his knees. But there was a desperate sincerity behind his phrases. He believed in his romantic gesture. Yet it sounded false somehow beside Miss Cape, going out alone to Buenos Aires. There was something Elizabethan about that. To go out second class on a three weeks' voyage and turn up in a country where you didn't know the climate. Nancy shook herself. Perhaps she owed sympathy to both of them. But it robbed fencing of its real spirit to turn it into adolescent sword and dagger trifling.</p>
+          <p xml:id="bryher_twoselves_130136">As she stood up, straightening her mask, a straggly white figure with a black leather breast pad marched <pb xml:id="bryher_twoselves_130135" n="30"/>into the room. He looked surprised to see her.</p>
+          <p xml:id="bryher_twoselves_130137">"This is Major X", said the fencing master jumping abruptly from his chair. "Major X, like yourself, has only just begun épée. Would you like to try a bout together?"</p>
+          <p xml:id="bryher_twoselves_130138">"This is hardly a sport for ladies", remarked the white penguin in a harsh voice half lost in the mask. "I might hurt her", he indicated Nancy with his foil.</p>
+          <p xml:id="bryher_twoselves_130139">"Oh, that's all right", she protested, "I've got double padding inside my jacket. But I'm no good, you know."</p>
+          <p xml:id="bryher_twoselves_130140">"Of the Guards", whispered the fencing master as they measured distance. Nancy saluted mechanically. How beastly to be matched against a stranger.</p>
+          <p xml:id="bryher_twoselves_130141">"Begin." She waited quietly. "Do not be afraid." Nancy forgot caution and lunged To find nothing. To find the tall penguin squinting down his blade at her. She jerked the sword aside just in time.</p>
+          <p xml:id="bryher_twoselves_130142">He lunged. She scratched him on the wrist. "Don't stop", came the order. The major, now angry, beat her down the room. She had to yield to the hammering of his arm. He got through her guard somehow, tapped her on the shoulder.</p>
+          <p xml:id="bryher_twoselves_130143">"Pardon. I trust I did not hurt you. This is no sport for ladies", protested the penguin, polite but contemptuous.</p>
+          <p xml:id="bryher_twoselves_130145">She wanted to say, "that tap? I couldn't feel it <pb xml:id="bryher_twoselves_130144" n="31"/>if I hadn't on a jacket." But that would be to disparage his fencing and he had got through her guard. She paused, almost ran up under his foil, stabbed viciously at his elbow.</p>
+          <p xml:id="bryher_twoselves_130146">"Touché."</p>
+          <p xml:id="bryher_twoselves_130147">One to her and he had to salute. Then the battering began again. What did the fencing master mean by putting her, barely five feet one, against a giant over six feet? It was ludicrous. Her full lunge scarcely reached his fingers. And fencing was too intimate, too revealing a thing to be done with any stranger. She could just stand the fencing master because he was showing her the tricks of the game. But swords as they touched betrayed one's personality. Surge of an undesired temperament choked one, flowing in at one's wrist. Only friends should fight-or enemies one fenced with to defeat. But strangers, the mob, this heavy English guardsman with his "pardon", and "sport", ugh, one stifled with the rank mob-mind pouring out of his hilt.</p>
+          <p xml:id="bryher_twoselves_130148">"Seven. Three. That will do for to-night." She was more skilful but his strength battered down skill. The superior length of arm. Still she had got him nicely on the arm and once on the mask as he had tried to force her defence. She shoved her sword in the rack.</p>
+          <p xml:id="bryher_twoselves_130149">"Good evening." He saluted. "Really I should have thought hockey was more suitable. Épée (one could see the heave of his shoulders) épée is not a ladies' sport."</p>
+          <pb xml:id="bryher_twoselves_130150" n="32"/>
+          <p xml:id="bryher_twoselves_130151">It was not worth while stopping to argue. "If only I could box (thought Nancy defiantly) I'd break his beastly nose." That had been a good hit though, when she had caught his head. If the fencing master had not kept shouting them on and she had been very cool and quiet and the points had been unprotected-he might now be caressing a neat Hole where his black jacket flapped open instead of making remarks about hockey. Men were the limit anyway. What good did hockey do or where did it take one? Fencing was a world leading to freedom. Men always wanted to keep the best things to themselves.</p>
+          <p xml:id="bryher_twoselves_130152">The bare hall as she came downstairs was lit by a single light. Miss Cape had gone home. Only the two fencers were left upstairs. She pulled her heavy coat over her fencing breeches and thrust her jacket away. The walls were decorated with photographs of children in white jerseys making a machinery of their arms. The room smelt of varnish and soaped wood. Ropes crossed straightly from side to side-telephone wires transmitting no messages. It was bleak. Like the penguin's mind. One felt the pressure of the classes that had drilled on the yellow floor: actions done over and over with no progress in them, either mental or physical. The acquiescent mediocre mind that demanded only that its children ask no question, burst no environment apart.</p>
+          <p xml:id="bryher_twoselves_130154">Black, black, black. Outside was the night. Shaded <pb xml:id="bryher_twoselves_130153" n="33"/>over roof tops into plum-violet, heliotrope, with threads of reseda and cinnamon brown. The moon hung over the branches. Flowers, lights, pushed up beyond the park in streets that wound like green paths between them under the clipped box shadows of the pillar rounds. Thin railings rose into daffodil leaves under the yellow trumpets of the lamps. Spring flowers and a sudden face were caught and lost in passing. Life that beat and spilt in colours-the sunset on a dead city. Life was the colour. Existence the city. How did they relate one with the other, with what was spoken round one, round one? With Miss Cape off to Buenos Aires, Eleanor looking for a job, Millicent spending mornings with a dressmaker, Doreen gone home to Cornwall; with the ignorant pressure of a stranger's blade, her own blade leaping. . . how did these currents merge or mingle with each other? Two separate roads that melted in the shadow but ran out clear beyond, separate, where the shop lights flashed and the electric signs were lit. There was no relation-it was a negative meeting in the shadow. Perhaps moonlight on the roadway was an unconscious jest, perhaps the stare of the stars over plane leaves and the single wild white cherry was an inquisitive repetition of her own demand-only there were two worlds separate and related as were her own two selves, actual, not dreams, but worlds or selves to be touched, smelt, tasted and accepted.</p>
+          <pb xml:id="bryher_twoselves_130155" n="34"/>
+          <p xml:id="bryher_twoselves_130156">Reality of questions and of colour. Days, grey words, battering of mob-mind upon thought.</p>
+          <lb/>
+          <p xml:id="bryher_twoselves_130157">"Had a good lesson?"</p>
+          <p xml:id="bryher_twoselves_130158">"Splendid. Some major or other came in. I had to have a bout with him."</p>
+          <p xml:id="bryher_twoselves_130159">"I thought they kept you a long time. You won't forget Millicent and Tony and Mr. Pherson are coming to dinner. I've put out your white muslin and as soon as you've got out of those fencing things I'll do your hair."</p>
+          <p xml:id="bryher_twoselves_130160">"Couldn't I have my hair cut short?"</p>
+          <p xml:id="bryher_twoselves_130161">"How can you say such a wicked thing? After all the hours I've spent brushing it is that all you care about me? You ought to be ashamed of yourself."</p>
+          <p xml:id="bryher_twoselves_130162">Nancy pulled at the buttons of her coat. She could not see what her hair and her emotions had in common. She ventured another protest. "But it hurts me, this length and length of it. The pins always stick into my ears. And you say I ought to be interested in my personal appearance. I think short hair is pretty. These long plaits look like a cow's tail." She shook one down and wagged it too and fro. To no avail.</p>
+          <p xml:id="bryher_twoselves_130163">"Don't be idiotic. You know people are coming to dinner and it's late as it is. You never try to help me in any way. Now go right upstairs and get your brush and comb."</p>
+          <p xml:id="bryher_twoselves_130165">Nancy did not hurry up the stairs. She had no <pb xml:id="bryher_twoselves_130164" n="35"/>intention of hurrying. Her personal appearance bored her thoroughly. But the pressure of hairpins could not be ignored. And there was a weak sloppy sort of look about coils and plaits. She had always wanted short hair like a boy's. Quite short hair. That one shoved in a basin, shook and forgot about. That was so short one didn't even have to comb it. It gave more force to any head. A dignity of line to the most mediocre features.</p>
+          <p xml:id="bryher_twoselves_130166">If she could not have her hair short she was not going to worry about her dress being on right. She wouldn't know if it were on right anyhow. But if they had even consented to discuss the matter of the hair she would have <hi rend="italic">tried</hi> to get the sash tied straight. As it was she would read "Philaster" till the very last minute and hope for the best. Clothes. The agony of clothes. She always felt ashamed in them. Ashamed to have people look at her. Only when she could sit in her fencing breeches and read did she feel at ease. Or on days when nobody ventured into the windswept park and she strode through puddles in oilskins and sou-wester. Then she was not ashamed. But fine days and at dinner when she was dressed in white muslin with coloured ribbons she felt such a hopeless idiot. . . stuff tangling between her legs and no pocket for her handkerchief.</p>
+          <p xml:id="bryher_twoselves_130167">If they had given in about the hair she would have gone to the drawing room early and sat there waiting for Millicent. As it was she would read.</p>
+          <pb xml:id="bryher_twoselves_130168" n="36"/>
+          <lg type="stanza">
+            <l n="1">
+              <hi rend="italic">"It is but giving over of a game</hi>
+            </l>
+            <l>
+              <hi rend="italic">That must be lost."</hi>
+            </l>
+          </lg>
+          <lb/>
+          <p xml:id="bryher_twoselves_130169">Nancy managed to get a look at the menu card as they sat down. A good dinner. Soups with bits of marrow in it and beef. Moments of colour were flashed accross the grey. Meal times.</p>
+          <p xml:id="bryher_twoselves_130170">Stupid of people not to be interested in food. Equally stupid were those who favoured French cooking. She loathed French cooking. Why eat if the ingredients had to be disguised? Cutting off all the fat and calling it a name that meant nothing. Making it "dainty." Slopping sauce over it. If she were patriotic about anything it was about food. Roast English beef and mutton; Sussex puddings.</p>
+          <p xml:id="bryher_twoselves_130171">Mr. Pherson was beside her, a quiet little man from the North of England. You knew beforehand exactly what he was going to say. But he specialised in roses, so that if you kept to gardens you were safe.</p>
+          <p xml:id="bryher_twoselves_130172">She could hardly see Millicent for the carnations, very tall in the glass vases. Tony was opposite her. His short black curly hair, the green eyes bulging from the sallow face, reminded her of a frog. He was said to have given up art for business: possibly (Nancy uncharitably wondered) because he could not face the long drudgery artistic achievement involved. He was said also to hate women. Except widows. They, according to his phrase, were "safe."</p>
+          <pb xml:id="bryher_twoselves_130173" n="37"/>
+          <p xml:id="bryher_twoselves_130174">"Do you think", Mr. Pherson leaned timorously toward her mother, "that I could get any results at all by planting roses now. We have just acquired a little summer cottage. . ."</p>
+          <p xml:id="bryher_twoselves_130175">"You haven't seen the "Girl who dropped her Garter?" shrieked Tony across the table, banging his fist on the cloth. "It's been on six weeks and you mean to say you haven't seen it?" "We all know <hi rend="italic">why,</hi> you like that show", bantered a voice across the rose carnations. "Well, Niette never has done anything better in her life. A real artiste", he turned to help himself to sauce, "and do you know what happened? She told me herself. You know Green the composer used to be in love with her. And they quarrelled. He was hard up and wrote those two songs she sings, the only decent music in the piece. A nasty fellow but he can write. He was terribly afraid she'd turn them down. Yet he was scared she'd think he had written them for her.  So he sent her a note." Tony coughed the words over his laughter: "Dear Niette, "I Always Come Back to you in the End' was written six years ago and has only just found a producer. Don't turn it down because I need the money." He ended on a hysterical outburst of mirth. Gulped down his fish and sauce . "Oh, that reminds me, roses. I must send her roses. She's giving a party to-morrow night."</p>
+          <p xml:id="bryher_twoselves_130177">"Niette is sweet, isn't she?" Millicent enquired <pb xml:id="bryher_twoselves_130176" n="38"/>from the opposite chair. "I met her at a dance. Really pretty, I thought."</p>
+          <p xml:id="bryher_twoselves_130178">"So you advise, in pots." (Mr. Pherson then had kept to his rose garden through all the clamour.) "And you think they would cover the trellis this year if we lined the walk with tubs?"</p>
+          <p xml:id="bryher_twoselves_130179">"A man no longer has these opportunities". Her father was speaking from the head of the table. "Business has grown too vast. The chances that I met with at the beginning of my career do not exist for the modern generation. Except perhaps in South America. The competition is too fierce."</p>
+          <p xml:id="bryher_twoselves_130180">They jarred; this roomful. Tony and Millicent were of a world perhaps. Her mother with her love of fine embroidery and songs and all romantic things linked perhaps on to Tony's circle. Mrs. Hearth at the opposite end and Mr. Pherson might belong together. She herself was rather like her father. People told her so. Said they looked the same way when their wills were crossed or their orders disobeyed. Yet they were, at the end, different.</p>
+          <p xml:id="bryher_twoselves_130182">"This generation", sighed Mrs. Hearth. "You should be thankful Nancy does not want to rush about much. All they care about is pleasure. Their own pleasure. If I had my way I should make them stop at school util they learned their duty to the homes where they belong. These pernicious screeching women with their reforms and their ideas are ruining family life". She leaned back happily in her chair <pb xml:id="bryher_twoselves_130181" n="39"/>and helped herself a second time to the pudding.</p>
+          <p xml:id="bryher_twoselves_130183">But how wonderful it would be if there were no family life.</p>
+          <p xml:id="bryher_twoselves_130184">Being afraid of hurting people was a tyranny worse than that of a school or form of government. Against harshness one could rebel; it was kindness that hindered one. And without rebellion there could be no development.</p>
+          <p xml:id="bryher_twoselves_130185">It was as if Nancy sat, seeing, in a room with the blind. Not with the really blind, but with people blinded by the snow. Because sometimes they saw. Then again when one expected them to see, they were visionless. It was as if her whole being were concentrated into an eye. As if she saw straight through people and actions and conditions. Their falseness; their rightness. It was not her fault that she saw. She had not asked for the gift though she was glad she had it.</p>
+          <p xml:id="bryher_twoselves_130186">People would not believe that she saw. She could not prove her vision to them. It was perfectly right of them to require her to prove it. But she could do nothing unless she wrote a book that everyone would read. Then she could persuade them perhaps, tell them what she knew, get them to be interested.</p>
+          <p xml:id="bryher_twoselves_130188">"Do you know what it feels like to be mature and yet be ground down by rules made for the immature? To be at the mercy of brains less developed than one's own and to watch them refuse knowledge to seekers <pb xml:id="bryher_twoselves_130187" n="40"/>who could use it? To know wisdom almost within hand grasp and not be able to attain it?"</p>
+          <p xml:id="bryher_twoselves_130189">Mrs. Hearth cut her peach skin into tiny tendrils with complacent fingers. Tony leaned his arms on the table shouting another anecdote. Would it matter whatever one achieved?</p>
+          <p xml:id="bryher_twoselves_130190">Would they care? Would they listen?<lb/>
+Beyond the cream curtains that fell into shell-blue shadows, the street sounds broke like waves on summer silence. Through the unfastened windows the sky flowered into spikes of scented stock between the roofs. If it had not been for Millicent, Nancy could have disappeared into imagination. Completely disappeared. Turned off the electricity as it were, fixed her eyes on the carpet and remembered nothing. But unless she behaved she would be rebuked tomorrow. She must act out the necessary interest.</p>
+          <p xml:id="bryher_twoselves_130192">It was not that she disliked Millicent but they had no common meeting ground. The fair round face with curls already slightly tinted faced the window. Lavender ribbons strung a lace bodice and a narrow skirt across the bare round shoulders. Lavender with threads of green. "Millicent lives for dress", Eleanor had said contemptuously. Why shouldn't she if it pleased her? Beauty was all important. But Millicent if she did centre her energy in clothes, did not give one a very happy impression: not the effect even that Eleanor achieved in her rough jersey and cor-<pb xml:id="bryher_twoselves_130191" n="41"/>duroy climbing breeches. She looked merely bored, curiously insincere with the heavy powder dabbed too thickly on her cheeks.</p>
+          <p xml:id="bryher_twoselves_130193">It was awkward to see things clearly. Nancy could not join the other girls when they laughed at Millicent for giving up her life to dress. To express beauty in coloured stuffs was not wrong. But the lavender dress was stupid and Millicent and her powder somehow did not match.</p>
+          <p xml:id="bryher_twoselves_130194">Something startling, something really vivid, a hard yellow splashed with blue or scarlet dragons, paint even used as a savage might use it, that would be interesting and right. But that would mean that there was an intellect behind the paint and cloth. And that was what it came to in the end. Had a person a mind, an artist's mind? Otherwise the simple useful clothes were best.</p>
+          <p xml:id="bryher_twoselves_130195">"We are coming to Meades this summer", Millicent put down the blue and gold coffee cup and straightened her curls.</p>
+          <p xml:id="bryher_twoselves_130196">"Shall you like that?"</p>
+          <p xml:id="bryher_twoselves_130197">"Oh yes. Don't you think Meades is very attractive?" She spoke with a curious slow mannerism as if she paused an extra beat on every syllable like they taught in a French phonetic class.</p>
+          <p xml:id="bryher_twoselves_130198">"No, I'd rather be in Cornwall. Away from people". Nancy realised too late that she spoke with an unnecessary roughness.</p>
+          <p xml:id="bryher_twoselves_130200">"You're so energetic. I care very little for walking", <pb xml:id="bryher_twoselves_130199" n="42"/>she toyed with her lace handkerchief. But she looked too young and healthy to be fragile. All her mother's fault. Training her up to be a Restoration countess when she was a fresh stolid little milkmaid. Nancy thought again, ventured another remark.</p>
+          <p xml:id="bryher_twoselves_130201">"Did you like school?"</p>
+          <p xml:id="bryher_twoselves_130202">"Not really. But some of the girls were sweet and I came home every weekend. But it's nicer to be grown up, don't you think?"</p>
+          <p xml:id="bryher_twoselves_130203">"Yes". It was useless to assert that they were less free than school children. Millicent probably had never wanted to be free. Nancy wondered again why she saw both sides; the desire to slide back into the unconsciousness of childhood, the cruel denial of growth to the adolescent mind. Did one brain in a hundred thousand have the courage to achieve, full development? At any rate Millicent had missed even the rough indifference to everything that had given Downwood a slight value. Millicent was rather like a pedigree kitten that had never been allowed to lap alone lest it should take a spoonful of milk too little or too much.</p>
+          <p xml:id="bryher_twoselves_130204">"And shall you go to Cornwall?" Millicent asked in turn, in a drawling babble of a sentence.</p>
+          <p xml:id="bryher_twoselves_130205">"Perhaps in June".</p>
+          <p xml:id="bryher_twoselves_130207">They watched the night in silence. From the voices across the room queer phrases drifted. They were talking of another world. "Young girls even. . ." Nancy could not hear exactly what provoked the <pb xml:id="bryher_twoselves_130206" n="43"/>shocked tones. It was something to do with breaking away from the traditions of a century. "They never answer an invitation by letter, they <hi rend="italic">telephone</hi>". Mrs. Hearth was very red and flustered. . . "Rushing here and there, no time for ordinary civility". They looked over in her direction. "Reckless, reckless". How the whispering went on. But it did not seem as if Millicent or Eleanor or herself would ever have the chance to be reckless or even rude.</p>
+          <p xml:id="bryher_twoselves_130208">So there was another world. Something that was the heart of this roar of wheels, the black centre of the flowers, the scent of the chestnut spikes. Terribly beautiful; or it would not be so criticised. Where people "did" things. Said what they wanted. Where the rules of this rigid existence that drew its false silence over her, were not observed. Where life was above criticism or law, a vivid breathing thing, like a book, like apple-blossom sweeping the rain-blue sky.</p>
+          <pb xml:id="bryher_twoselves_130209" n="44"/>
+          <pb xml:id="bryher_twoselves_130210" n="45"/>
+        </div>
+        <div xml:id="bryher_twoselves_006" n="4" type="Chapter">
+          <head> CHAPTER IV <lb/> CHERRY PIE</head>
+          <p xml:id="bryher_twoselves_130211">"To win freedom I must write a book". Easy enough to say but words were brittle playthings. And worse than words were thoughts.</p>
+          <lb/>
+          <lg type="stanza">
+            <l n="1">
+              <hi rend="italic"> "Oh, why do the great winds</hi>
+            </l>
+            <l>
+              <hi rend="italic"> Come whispering to me? </hi>
+            </l>
+            <l>
+              <hi rend="italic"> My heart's aboard a drifter </hi>
+            </l>
+            <l>
+              <hi rend="italic"> That sails the swinging sea." </hi>
+            </l>
+          </lg>
+          <lb/>
+          <p xml:id="bryher_twoselves_130213">If she were a boy and at sea she would not be afraid. But how could she get it into verse? How express her mood in poetry or prose either? There was something too authentic and too storm-wracked about her emotions for the right word ever to come. And if the right word did not come it would not be good enough to be printed and if it were not printed she would never get a friend. If she did not get a <pb xml:id="bryher_twoselves_130212" n="46"/>friend she could never find answers to her questions, never be recognized as an individual, never be free.</p>
+          <p xml:id="bryher_twoselves_130214">It was not glory she wanted. That was all right if it got thrown in extra. That she could have a try for, later on. What she wanted was a friend. That spoke as the Elizabethans wrote. That brought adventure to her like a flame.</p>
+          <p xml:id="bryher_twoselves_130215">"Why do the great winds. . ." Drifter was a good word. Black. With the thin lines of the Viking ship she had seen at Kristiania. And the sea swung-great heaves of green freckled white. Swung up to the rail of the fishing boats in Scilly. "Swinging sea!" But it wasn't a great poem.</p>
+          <p xml:id="bryher_twoselves_130216">"Bellario. When you ran away what did you do? How did you get your page's clothes to begin with and how did you get out of the house? I know you told your father you were going on a pilgrimage but there must have been servants or something. . . and why were you such a fool as to care about Philaster? It must have been fun. . . the early days. . . were you terribly scared while you waited at the fountain and what flowers did you pick? Cowslips, I think, and cherry pie and primroses. Come, Bellario. I am so tired of dreaming you. I want you to teach me sword play. I can fence, modern fashion. Come and teach me and tell me things. . . do you know how lonely I am with no one to talk to? I can make questions but I can't make answers. . ."</p>
+          <p xml:id="bryher_twoselves_130217">Fool, fool, to cry out against the darkness.</p>
+          <pb xml:id="bryher_twoselves_130218" n="47"/>
+          <p xml:id="bryher_twoselves_130219">Yet Bellario had run away. All very well to write she had loved Philaster. But how did they know that she had not loved freedom first and run away to gain it?</p>
+          <lb/>
+          <lg type="stanza">
+            <l n="1">
+              <hi rend="italic"> "Dare you be yourself", </hi>
+            </l>
+            <l>
+              <hi rend="italic"> mocked the wind in the cowslips, </hi>
+            </l>
+            <l>
+              <hi rend="italic"> "Dare you drop your dress </hi>
+            </l>
+            <l>
+              <hi rend="italic"> and the phrases they have taught you, </hi>
+            </l>
+            <l>
+              <hi rend="italic"> dare you be yourself, </hi>
+            </l>
+            <l>
+              <hi rend="italic"> break your bars and follow me </hi>
+            </l>
+            <l>
+              <hi rend="italic"> or shall I find you sleeping still </hi>
+            </l>
+            <l>
+              <hi rend="italic"> at dawn?" </hi>
+            </l>
+          </lg>
+          <lb/>
+          <p xml:id="bryher_twoselves_130220">And I answered the wind.</p>
+          <lb/>
+          <lg type="stanza">
+            <l n="1">
+              <hi rend="italic"> "Ou-hu, </hi>
+            </l>
+            <l>
+              <hi rend="italic"> were you not able</hi>
+            </l>
+            <l>
+              <hi rend="italic"> to fnd in the stable </hi>
+            </l>
+            <l>
+              <hi rend="italic"> threads of lavender, </hi>
+            </l>
+            <l>
+              <hi rend="italic"> petals of sweet william, </hi>
+            </l>
+            <l>
+              <hi rend="italic"> caught in the leather</hi>
+            </l>
+            <l>
+              <hi rend="italic"> straps on the wall. </hi>
+            </l>
+          </lg>
+          <lb/>
+          <lg type="stanza">
+            <l n="1">
+              <hi rend="italic"> Birds will be glad </hi>
+            </l>
+            <l>
+              <hi rend="italic"> of the hair I threw in the heather; </hi>
+            </l>
+            <l>
+              <hi rend="italic"> old hair-old life-</hi>
+            </l>
+            <l>
+              <hi rend="italic"> a thing I'm through with. </hi>
+            </l>
+            <l>
+              <hi rend="italic"> Ou-hu. </hi>
+            </l>
+          </lg>
+          <pb xml:id="bryher_twoselves_130221" n="48"/>
+          <lg type="stanza">
+            <l n="1">
+              <hi rend="italic"> The fox on the lawn </hi>
+            </l>
+            <l>
+              <hi rend="italic"> knows that a skirt </hi>
+            </l>
+            <l>
+              <hi rend="italic"> peeped into the stable </hi>
+            </l>
+            <l>
+              <hi rend="italic"> and breeches came out." </hi>
+            </l>
+          </lg>
+          <lb/>
+          <p xml:id="bryher_twoselves_130222">The scent of the garden blundered through the window. Elizabethan flowers. No fear. Not once she had found Philaster and was riding behind him across Sicily. Breeches and short hair and freedom. Questions answered. What fun, tricking them all. Being one's self.</p>
+          <p xml:id="bryher_twoselves_130223">Garden scents. . .</p>
+          <lb/>
+          <lg type="stanza">
+            <l n="1">
+              <hi rend="italic"> "Cherry pie is for riding </hi>
+            </l>
+            <l>
+              <hi rend="italic"> with the wind in my hair, </hi>
+            </l>
+            <l>
+              <hi rend="italic"> the firm breath of the wind. </hi>
+            </l>
+            <l>
+              <hi rend="italic"> For the hooves of the horses </hi>
+            </l>
+            <l>
+              <hi rend="italic"> on the fair preen turf." </hi>
+            </l>
+          </lg>
+          <lb/>
+          <p xml:id="bryher_twoselves_130224">How join reality and dream?</p>
+          <p xml:id="bryher_twoselves_130225">Philaster was the limit anyway. That was the only fool thing Bellario did, to be taken in by him. More fun to wait on Arethusa. More fun still to wait upon one's self.</p>
+          <lb/>
+          <lg type="stanza">
+            <l n="1">
+              <hi rend="italic"> "Owls at dawn </hi>
+            </l>
+            <l>
+              <hi rend="italic"> can hoot to the starlings </hi>
+            </l>
+            <l>
+              <hi rend="italic"> where to find silk, </hi>
+            </l>
+            <l>
+              <hi rend="italic"> where to find ribbons </hi>
+            </l>
+            <l>
+              <hi rend="italic"> to soften their nests. </hi>
+            </l>
+          </lg>
+          <pb xml:id="bryher_twoselves_130226" n="49"/>
+          <p xml:id="bryher_twoselves_130227">Why was she such a beastly coward? Slip out now while everyone was sleeping. But she would be recaptured, cried over. She hated hurting people's feelings. If only she could make them understand.</p>
+          <p xml:id="bryher_twoselves_130228">Write a book and make them understand.</p>
+          <p xml:id="bryher_twoselves_130229">Write a book. And find she had a friend.</p>
+          <pb xml:id="bryher_twoselves_130230" n="50"/>
+          <pb xml:id="bryher_twoselves_130231" n="51"/>
+        </div>
+        <div xml:id="bryher_twoselves_007" n="5" type="Chapter">
+          <head>CHAPTER V <lb/>
+ BROKEN GLASS</head>
+          <p xml:id="bryher_twoselves_130232">"It must last three years. Don't tell people so, Nancy, or they will laugh at you. But once a gigantic outbreak of this kind is set in motion it cannot stop suddenly. I'm afraid to think, if we could have peace to-morrow, of the re-organization necessary before normal conditions could be resumed. It has thrust civilization back for fifty years and every month it goes on puts us back further."</p>
+          <p xml:id="bryher_twoselves_130233">Her father took up his paper again. There was a sense of oppression about the damp air. Everyone was already saving coal. The empty fireplace looked mournful and the great doors seemed to shut the wrong things out of the room. Her mother was playing patience on the little inlaid table. Doreen, up for a month from Cornwall, was working beads into a belt.</p>
+          <p xml:id="bryher_twoselves_130235">It was late autumn. The air was chill and blue with <pb xml:id="bryher_twoselves_130234" n="52"/>hint of winter cold. The park was torn with heavy boots of volunteers learning to ride and drill in the Row. The English had taken to war with surprising alacrity. They went about in uniforms, babbling uncouth words.</p>
+          <p xml:id="bryher_twoselves_130236">"People who make wars ought to go out first and be shot", protested her mother vigourously. Doreen picked out a blue bead and matched it with a red.</p>
+          <p xml:id="bryher_twoselves_130237">Nancy just saw chaos; felt a bewildering uneasiness. She had no particular confidence that the Germans would not land. She had heard a little too much of the inside of things to be confident as the mob was confident. Modern warfare was not a decent matching of one sword against another. Europe might topple over and perish in a night.</p>
+          <p xml:id="bryher_twoselves_130238">They had been in the Isle of Wight that August. All the end of July watching and helpless. Could it come? Must it come? Going out into the dark night with a candle stump to read news of the first battle. Watching the shells fall about the bow of the ship that got in the next week and knowing nothing of events, had tried to sail past the mines.</p>
+          <p xml:id="bryher_twoselves_130240">There was something particularly degrading about war. The worst side of everybody leaped automatically to the surface. Patriotism was the easiest disguise that vice had ever had to wear. There was not even the decency of organized conscription but screaming hysterical compulsion-of the wrong people. Everyone knew that the Germans had pre- <pb xml:id="bryher_twoselves_130239" n="53"/>pared for war for years. Why had the other nations not made counter-preparations or insisted on disarmament a generation before?</p>
+          <p xml:id="bryher_twoselves_130241">"As long as human nature lasts warfare will go on", her father said. But there must be some way out. It was like education. People were too lazy to develop independence in their children. Nations were too lazy to prevent the roots of war.</p>
+          <p xml:id="bryher_twoselves_130242">It was the grotesque optimism of people that killed. Their snarling refusal ever to face facts. "England is sure to win" was the unvarying answer to any query. With the line being forced back and vessels sunk every day. " England is always right", a crowd screamed in London. "Germany can do no wrong", another mob shouted in Berlin. One's ancestors had refused responsibility; had allowed their inaction to plant war. A generation busy with other problems was flung from work into shrapnel, disease and bombs.</p>
+          <p xml:id="bryher_twoselves_130243">"It seems to me most unnecessary", Nancy suggested.</p>
+          <p xml:id="bryher_twoselves_130244">"Unnecessary! If we had not landed troops in France at once we should have become a German province within five years. Germany would have swallowed Europe, country by country. And then turned her attention to America. How would you have liked to have been forced to work in a German factory? For no wages and bad food."</p>
+          <p xml:id="bryher_twoselves_130246">"I should have hated it. Probably the only thing <pb xml:id="bryher_twoselves_130245" n="54"/>was for us to go to war. But it ought to have been foreseen and prevented. Not now, but years ago."</p>
+          <p xml:id="bryher_twoselves_130247">"We had an idealistic government that cut down our artillery."</p>
+          <p xml:id="bryher_twoselves_130248">"I know. But if we had a better system of education we might have had a wiser government."</p>
+          <p xml:id="bryher_twoselves_130249">Useless to talk. There was no dispute about one fact. Civilization as her father said, had been put back fifty years if it had not been put back altogether.</p>
+          <p xml:id="bryher_twoselves_130250">Doreen held her belt up to the light, fixed a thread and emptied more beads out on the table. What a beastly sensation it must have been when the Greeks dashed into Troy. Knossos, like England, had been a sea power; Knossos had been burnt in a night. Guns took the purpose out of everything. Guns, arrows, stones. History repeated itself. Was there ever, in the re-iteration of events, progression?</p>
+          <p xml:id="bryher_twoselves_130251">Nancy could hear a footstep on the stairs. Who could be coming to call so late in the evening? The butler flung open the door with a peculiar stately dignity.</p>
+          <p xml:id="bryher_twoselves_130252">"Madam", he announced in his low quiet voice, "the Zeppelins".</p>
+          <p xml:id="bryher_twoselves_130253">Doreen sprang up and made a rush for her coat. Nancy followed her. "Bring my wrap too", shouted her mother. Autumn moonlight shone through the window. They heard the front door open. Nancy paused a moment to snatch up pencil and paper.</p>
+          <pb xml:id="bryher_twoselves_130254" n="55"/>
+          <p xml:id="bryher_twoselves_130255">"Hurry". They dragged coats out of cupboards. Ran downstairs.</p>
+          <p xml:id="bryher_twoselves_130256">"I would not have missed this for worlds", panted Doreen as they rushed into the street.</p>
+          <p xml:id="bryher_twoselves_130257">People thronged from every door, in evening dresses under hastily caught up wraps, in aprons, in working overalls. Heads craned into the air. Maids scurried up the basement steps. And the road stretched into a larkspur distance, quiet, too quiet, as if nothing had happened or could ever happen.</p>
+          <p xml:id="bryher_twoselves_130258">"I don't see anything at all", her mother complained, "are you sure, Brown, that it was not one of our own balloons?"</p>
+          <p xml:id="bryher_twoselves_130259">The butler had re-appeared with a case of field glasses. "No, Madam. I saw it myself. A long silver sausage in the sky. It must have passed before you came downstairs". He took the glasses from their case and waited hopefully. Doreen ran up the street towards the park. Nancy thrust her notebook back in her pocket.</p>
+          <p xml:id="bryher_twoselves_130260">The postman drops the letters in the box as if an air raid were an everyday occurrence. People in thick coats came out with cameras under their arms.</p>
+          <p xml:id="bryher_twoselves_130261">"This is very imprudent" her father suggested, going however further into the middle of the street, "if any shells are fired we might get scratched with shrapnel."</p>
+          <p xml:id="bryher_twoselves_130263">It was very silent. Everyone watched. There was not a motor car nor the sound of any wheels to break <pb xml:id="bryher_twoselves_130262" n="56"/>the clear November night. It seemed as if a city had stopped breathing, were collected into an intensity of watching, into a petrified forest of heads.</p>
+          <p xml:id="bryher_twoselves_130264">In the blue air something like a shooting star flashed and fell from the sky.</p>
+          <p xml:id="bryher_twoselves_130265">People tautened. Looked at each other. "The guns". Out by the park a shrill rumble snarled into the night. London itself was swept into the war.</p>
+          <lb/>
+          <p xml:id="bryher_twoselves_130266">"How jealous they will be at home that I was in the Raid." Doreen looked eagerly over the rail up the street. They had boarded the omnibus long before it turned into the Strand and had got seats well in front on the top.</p>
+          <p xml:id="bryher_twoselves_130267">"I'm awfully glad you were with us. Wonder if we shall see much of the damage though. I should think by this time it will have been cleared away."</p>
+          <p xml:id="bryher_twoselves_130268">"It can't be. Look at the crowd. There must be thousands out. It was a good idea to get the bus the other side of the square. We should have seen nothing on foot."</p>
+          <p xml:id="bryher_twoselves_130269">Very slowly the driver worked his way between the mobs surging over road and pavement. Most of the traffic had been turned off the other way. The seats behind them were filled with people eager to see what had happened the previous night. The air was a thunder of excitement.</p>
+          <p xml:id="bryher_twoselves_130271">The walls were dingy grey. They were so close to them when the bus stopped that they could see the <pb xml:id="bryher_twoselves_130270" n="57"/>soot grained surface. It was not silver. Not that lovely silver of far roofs on an April evening. The dark clothes of the crowd were unbroken by any colours, white faces pressed forward shouting shrill phrases from side to side of the road.</p>
+          <p xml:id="bryher_twoselves_130272">They were proud. They had not been afraid. They also, the onlookers, had waited and joked and watched as boys might linger about a smoke of gorse some dry summer evening on the hills.</p>
+          <p xml:id="bryher_twoselves_130273">Thunder, thunder of excitement. A sparkle of light flashed from an open space. There were ropes drawn, a barrier. Darts of light, broken glass, littered the scratched pavement.</p>
+          <p xml:id="bryher_twoselves_130274">Doreen and Nancy stood on the seat together. Everyone was standing. The omnibus hardly moved. They looked out over a black sea. Over chips of glass spread like tinsel. Damp air poured through the broken windows into offices. Smoke still came from a building up the road. Firemen were at work. Police were holding the crowd back.</p>
+          <p xml:id="bryher_twoselves_130276">Probably it was immoral of them to yield to the excitement. To stand on top of the bus and stare over battered windows and smashed stone. But it was history. Actual touch of an event that had happened, that was done with, but that would be written out in history books when all the wars and quarrelling were at an end. It was wrong to let themselves toss on the wave of this excitement but it was better than sitting in a room reading--of how civilization <pb xml:id="bryher_twoselves_130275" n="58"/>and all that one believed in had been put back for more years than one was likely to live.</p>
+          <p xml:id="bryher_twoselves_130277">Faint winter sunlight flashed on the heap of glass swept into the gutter, tinsel, debris of a fête that even the wind had no use for. The smoke got into their eyes. Someone made a joke about the "sausages". Someone asked when they would come again. Others looked with quiet eyes into bare rooms that here and there had a single cracked pane left. Men were nailing up wooden frames, dusting splinters out of ledges.</p>
+          <p xml:id="bryher_twoselves_130278">It was unreal. It was pre-historic. But in the age of dinosaur and pterodactyl there had been bright tree ferns and clean water. This broken glass-it made everything wrong, into a book one did not like the taste of, into a game that was stupid. And one had no control. It was going on. Rolling on. Dragging everything, everyone, with it. The whole intellectual world was reduced to a chaos of splintered panes. The physical world was battered into dust. War helped nothing. But having started it rolled on. Nothing checked it; nothing brought it to a close.</p>
+          <p xml:id="bryher_twoselves_130279">"Wonder what will happen before the end."</p>
+          <p xml:id="bryher_twoselves_130280">"Funny to think they will read this up at Downwood in another fifty years."</p>
+          <p xml:id="bryher_twoselves_130281">The bus turned into an unfamiliar street. Glass behind one. In front a world they did not know.</p>
+          <pb xml:id="bryher_twoselves_130282" n="59"/>
+        </div>
+        <div xml:id="bryher_twoselves_008" n="6" type="Chapter">
+          <head>CHAPTER VI <lb/> PEACH JAM</head>
+          <p xml:id="bryher_twoselves_130283">The Scillies were a saga come to life; tangle of sea thrift and ice plant floating on the current. Gulls flew up from the white flecked tide; drifters were anchored in the Sound. The water under the quay was dark as basalt or where the stones curved, serpentine. Far away, far as eyesight stretched, waves drifted water lilies over thin white sand.</p>
+          <p xml:id="bryher_twoselves_130284">Eastward it was tropical. Palms grew and bracken shoulder high. Black rabbits scurried in and out of the heavy fronds. Those were the daffodil islands, with chance white upturned bulbs lying out amongst summer daisies.</p>
+          <p xml:id="bryher_twoselves_130285">But westward it was ship-like, wrested from the sea. It was the home of gulls and seals, a breeding place for fish. Waves smashed on rock edges and turned up wrack and beads and queer shaped foreign shells.</p>
+          <pb xml:id="bryher_twoselves_130286" n="60"/>
+          <p xml:id="bryher_twoselves_130287">But even the islands the war had changed. One had to have a permit now to fish. There were notices up where to shelter should a German cruiser break through the blockade. The Sound was full of motor launches refilling their petrol tanks and taking on fresh supplies.</p>
+          <p xml:id="bryher_twoselves_130288">Doreen and Nancy pushed off the small boat. There was a torpedoed steamer, beached near Tresco, within rowing distance of the town.</p>
+          <p xml:id="bryher_twoselves_130289">"It's hard to think the war has been on almost two years ", Doreen said, pulling on her cap. "Seems longer somehow".</p>
+          <p xml:id="bryher_twoselves_130290">"Yes. It will be two years in November since we were in the first Zeppelin raid together. Remember how everyone was shouting then that it could not go on six months?"</p>
+          <p xml:id="bryher_twoselves_130291">"And now bread and sugar cards seem the normal thing. Wonder if we'll get any preserving sugar this summer. We put in for twenty pounds. It's a good year for raspberries."</p>
+          <p xml:id="bryher_twoselves_130292">"We didn't put in for any. We've only got a few canes at Meades and it seemed doubtful if they would allot us any if we did fill up the forms."</p>
+          <p xml:id="bryher_twoselves_130293">They rowed. The water slipped evenly from the oars. A gull perched on a floating board at the harbour mouth shook its wings. Three boys in tattered jerseys fished from the pier end. The torpedoed steamer, close to Tresco, grew larger and more distinct.</p>
+          <pb xml:id="bryher_twoselves_130294" n="61"/>
+          <p xml:id="bryher_twoselves_130295">"Which way's the wind?" Doreen asked.</p>
+          <p xml:id="bryher_twoselves_130296">"Don't know."</p>
+          <p xml:id="bryher_twoselves_130297">"Silly. Look at the gulls. They face it always so the wind doesn't ruff their feathers. Look at them on that wall."</p>
+          <p xml:id="bryher_twoselves_130298">Doreen pulled harder into the open space of the Sound. There were no French crabbers in this year, no fishing boats. Only drifters in from patrol and a couple of motor launches. But these were moored at the quay edge; the space of water between them and the steamer was bare of all but wind.</p>
+          <p xml:id="bryher_twoselves_130299">Nancy tried to get a word for the colour of the water that slid over her oar. It was not silver and it was not green. New words. Half the Elizabethan ones had been forgotten and the Elizabethans had created their own language. Words were hard to make. Absolutely they must express the shade, the feeling. But she must have new phrases. New ways of expression. . . new discoveries. . . new lands.</p>
+          <p xml:id="bryher_twoselves_130300">
+            <hi rend="italic">"Avec les grands oiseaux d'or pâle et d'argent clair, J'entrerai par la porte ouverte sur la mer."</hi>
+          </p>
+          <p xml:id="bryher_twoselves_130302">Strange how Régnier got the sea. One felt its cadences belonged to English, not to French. Yet there was little good sea poetry in English. Some Beowulf stuff of course, but not as much as one expected, and not much, a few phrases apart, in Elizabethan. Just to mention ships did not make a <pb xml:id="bryher_twoselves_130301" n="62"/>poem. There was the feel of things to get into the words. The shift from one wave to another as the hours of the days shifted, colour into colour. For the sea was not a simple thing. It was not the boyish gesture of many writers, "grey waves, open haven", sort of business. It was something as soft and grey-green an hour as this, shaded with sound until light and wind merged into the tide, into the roule roule of it, into choppy surging phrases. Until adventure rose, like an island, from the sea.</p>
+          <p xml:id="bryher_twoselves_130303">"Pull your left oar harder, we shall never get there", Doreen scolded. The ship seemed not so far away. They could see the hole as they drew near where the torpedo had burst in. Scoop out of board and iron as if a dinosaur had flung a weighted armoured tail across some brittle leaf. It was netted over now.</p>
+          <p xml:id="bryher_twoselves_130304">"The first day she was here they rowed a boat into her hold", Sam had told them on arrival. "And the fishermen took shrimping nets and fished out cases of jam, peach jam, and sacks of flour. So we netted her up." The old wrecking spirit was anything but dead. They had had white loaves for lunch in place of dark war meal. Fished out flour, no doubt. It had been deemed wiser to ask no questions.</p>
+          <p xml:id="bryher_twoselves_130306">"Want to come up", an officer shouted. "There, I told you they would ask us on board", Doreen whispered as she tied the boat to the stern of the small launch waiting alongside with supplies. "Tow <pb xml:id="bryher_twoselves_130305" n="63"/>us home, won't you, Sam", she shouted, as they climbed up the gangway to the deck.</p>
+          <p xml:id="bryher_twoselves_130307">The officer was waiting to show them round. It was monotonous lying out in the Sound while the first repairs were being made. They followed him past blistered paint and twisted metal. "We had news a submarine was out and we saw her come up, to starboard. Of course we trained the gun on her and fought her for an hour. Zigzagging. All of us with life belts on". He banged on a metal plate, doubled over, cracked as if it were a sheet of tissue paper. "We thought we had her. Then the second one came up on the port side. I saw it coming, the torpedo We swerved. In time. We could not escape of course but it struck aft of the engines. And the flour caked into a kind of cement and held her. So we're here."</p>
+          <p xml:id="bryher_twoselves_130308">The hold was sloppy with sea water. At the bottom a few casks rolled about in the puddles. A gang of men with strange looking tools were pumping and measuring below them. "Suppose you had white bread for lunch", said the officer grinning. "If we had known visitors were coming we would have baked you a nice cake."</p>
+          <p xml:id="bryher_twoselves_130309">Doreen laughed. "It was awfully thoughtful of you too, only to have peach jam. We're on the Food Control and that means we can't buy any. But Mrs. Hicks has quite re-stocked her cupboard. Terrible wreckers we are. Used to live on ships in the old days. But you have found out all about us by this time."</p>
+          <pb xml:id="bryher_twoselves_130310" n="64"/>
+          <p xml:id="bryher_twoselves_130311">"Yes. If we had got that net out an hour later we should not have had enough jam left for our own tea. The little boats were around at once. . . said they were salvage people. They were, for their own homes. The harbour authorities got the empty casks. . . if they got anything. "</p>
+          <p xml:id="bryher_twoselves_130312">They could watch the sea from the bow, tossing beyond the western rocks. Grey and wide and broken by the wind. With no barrier in front of it till it reached the American coast line. They were outside England in a tiny world where anything might happen and where the ship's gun was pointed outwards, ready to be fired, for as the officer said, "we might get a submarine popping her nose up near us, any moment."</p>
+          <p xml:id="bryher_twoselves_130313">"Are you ready to go?" Sam called up from the launch. Pleats of tangerine, folds of lemon, crept into the apple-green clouds. The outline of St. Martin's was getting indistinct. "Come along, we'd better get back or they'll think a submarine has kidnapped us", Doreen pulled at her sleeve, "thanks so much for showing us round."</p>
+          <p xml:id="bryher_twoselves_130314">"Well, don't say where you've been but think of us at tea time", said the officer, grinning, as he pushed a parcel the steward had just brought him, into their hands.</p>
+          <p xml:id="bryher_twoselves_130315">"Two pots! The islanders are degenerating or you would not have so much left", Doreen called back as they started down the gangway.</p>
+          <pb xml:id="bryher_twoselves_130316" n="65"/>
+          <p xml:id="bryher_twoselves_130317">"Next time you come we will bake you some hot rolls."</p>
+          <p xml:id="bryher_twoselves_130318">"Next time will be to-morrow if you can keep that promise."</p>
+          <p xml:id="bryher_twoselves_130319">The launch jerked up and down on the short waves. Their boat was fixed at the stern with a loose rope. Several casks were fixed along the deck, with a basket of tools and a bag of mail. Workmen sat forward, returning to St. Mary's for the night. "Come up by the steering wheel", Doreen said as they jumped on board, "perhaps Sam will let me take her in".</p>
+          <p xml:id="bryher_twoselves_130320">All the green had gone from the water. It was a deep blue broken with drift and with depths of shadow the colour of dark wings. A few cormorants still waited on the rocks. Light spray beat the rail. One remembered nothing. Only the feel of the wind. . . a bodily thing that put the mind to sleep. Far as one looked there was only the sea and one grey wall that jutted out from indefinite hills like a ship.</p>
+          <p xml:id="bryher_twoselves_130321">Doreen clutched her sleeve. "Look".</p>
+          <p xml:id="bryher_twoselves_130322">They passed a man hunched in a tiny boat, towing wood behind him, "know what that means?" Doreen asked.</p>
+          <p xml:id="bryher_twoselves_130323">"No".</p>
+          <p xml:id="bryher_twoselves_130324">"News must have leaked out that another boat has been hit. He has been out after wreckage. They say last week one man towed in a cask of brandy."</p>
+          <p xml:id="bryher_twoselves_130326">At the harbour edge a petrol hose dript into the <pb xml:id="bryher_twoselves_130325" n="66"/>water. One motor launch had been re-filled. Nobody had thought to turn the oil off while the second boat moved into position. And on the news stand they could just read the headlines of the latest paper: "Will Shortage of Petrol End the War?"</p>
+          <lb/>
+          <p xml:id="bryher_twoselves_130327">Plash. . . plash. . . the weave of sea fern beat with the tide against the sunken steps. A cold light deepened the water but a pilchard shoal, caught in the narrow cove as in a net, thrust silver wedges through the dark blue waves. Fish, weed and sea swooped and turned between the rift of rocks. Far back were a few gulls.</p>
+          <p xml:id="bryher_twoselves_130328">Doreen lay on the point, almost asleep. Nancy sat beside her. It was like a ship this ledge, that jutted out into the current. It seemed to move as the tide swept in and back. A tuft of thrift beyond them swayed in a miniature gale.</p>
+          <p xml:id="bryher_twoselves_130329">"I want to learn a new language. A language means another land conquered. Wish I knew Greek and Arabic and Phnician. I liked what I knew of Arabic. There was something desert-like about the words. It would be nice to read Homer. And Phnician. . . a strong language, something one could growl out like a camel."</p>
+          <p xml:id="bryher_twoselves_130331">"If I were a boy and could go to sea. If I could keep watch at night under the sails. I can't put that gull into words. I can't put anything into words till I've learnt adventure. What is the point of going <pb xml:id="bryher_twoselves_130330" n="67"/>back into the same autumn as last year, thinking the same thoughts, writing nothing?"</p>
+          <p xml:id="bryher_twoselves_130332">To learn. To learn. It was as if one were the gull sweeping in circles, dipping into surf, leaping up. . . like a seaplane. . . rushing over water, soaring, that was what it was when words came to one, experiences, emotions, undeveloped thoughts. In thought was the future. Perhaps wisdom was what the poets meant when they wrote of love. . . one's mind graping, vanquishing a thought, feeling it bend, become part of one. It cut away from war and tedious acts as the bird cut from air and sea.</p>
+          <p xml:id="bryher_twoselves_130333">The wind swept up, the water crackled, the clouds gathered. Towards the west a shell of gold held day an instant longer close to earth.</p>
+          <p xml:id="bryher_twoselves_130334">Doreen stirred, woke up. "Asleep, Nancy?" She poked her with a stalk of grass.</p>
+          <p xml:id="bryher_twoselves_130335">"No, watching for a convoy. It's about the time they pass."</p>
+          <p xml:id="bryher_twoselves_130336">"If only the war would stop."</p>
+          <p xml:id="bryher_twoselves_130337">"It must be awful at Downwood now."</p>
+          <p xml:id="bryher_twoselves_130338">"It's much stricter. Samp has stopped free time altogether except for twenty minutes on Sundays, to write home in. She keeps them knitting."</p>
+          <p xml:id="bryher_twoselves_130339">"Cracked."</p>
+          <p xml:id="bryher_twoselves_130340">"Yes, but that doesn't help the girls who are there. Glad we're free of it. Oh, there's a ship."</p>
+          <p xml:id="bryher_twoselves_130342">They could just make out the line of black vessels at the sky edge. The sullen blue water beat against <pb xml:id="bryher_twoselves_130341" n="68"/>heavy rocks. It was turning cold. "I wish it were summer always", Doreen continued. "It's hateful to think that we have to go back to the mainland in two more weeks. Sometimes in winter we stay indoors for days on end. It doesn't seem worth while to go out. The grey settles into one and one is just inert."</p>
+          <p xml:id="bryher_twoselves_130343">"Wish I were a boy and could go to sea."</p>
+          <p xml:id="bryher_twoselves_130344">"Oh, I'd rather have a cottage and dogs. On St. Mary's. With a donkey and cart so that I could drive to town on steamer days."</p>
+          <p xml:id="bryher_twoselves_130345">"No, I'd want to get South again."</p>
+          <p xml:id="bryher_twoselves_130346">"Silly. I hate travelling. It's uncomfortable and at the end, where are vou? I'd rather breed chows and show them. And go to London once a year."</p>
+          <p xml:id="bryher_twoselves_130347">Spray splashed up. Doreen got up and looked out seaward. "It's cold. We had better start walking back, if you want to go round the long way."</p>
+          <p xml:id="bryher_twoselves_130348">"I'ts more fun, the long way."</p>
+          <p xml:id="bryher_twoselves_130349">"Yes. And we shall get the sunset over the islands from the top of the hill."</p>
+          <p xml:id="bryher_twoselves_130350">The soft turf smelt of salt. Tufts of camomile and mint crushed under their tread. Everywhere there was sea-stretching out till they turned with no land in sight. Only the shadow of six steamers and slips of white foam where the waves broke on an edge of rock.</p>
+          <p xml:id="bryher_twoselves_130352">Poetry is-walking along cobbled streets with shrimping ahead of one. Gulls. Sand. And sea be- <pb xml:id="bryher_twoselves_130351" n="69"/>tween the houses a brighter blue than the lobelias. Bright blue like an awning with a white stripe where it meets the sand. Poetry is-walking to the quay side with shrimping ahead of one.</p>
+          <p xml:id="bryher_twoselves_130353">"A good tide."</p>
+          <p xml:id="bryher_twoselves_130354">"The best this month. We ought to get gallons."</p>
+          <p xml:id="bryher_twoselves_130355">Calm weather. Gulls on the roof. Nice to be a gull and fly-free-untrammelled of persons. That one's a black back. Ought to know more about birds. Puffins, cormorants, and the oyster catchers that flap along the sand like toys, black and white toys dangling from a Christmas tree branch.</p>
+          <p xml:id="bryher_twoselves_130356">Blue linen trousers. . . a child's tale. The old man turned down the narrow passage to the shore. "I don't think he's picturesque, Nancy. Some old tramp." But the creased jacket, the face. The seaman of a boy's adventure story. Tar on his sleeves. The street a picture; the walk a poem.</p>
+          <p xml:id="bryher_twoselves_130357">"What's become of Miss Partridge? Does she stick indoors still?" Queer to shut the door on one's self at forty five. Never go out. Not even to the garden. What behind this? "Oh, she's only one of many. In-breeding. Dozens of them on the mainland."</p>
+          <p xml:id="bryher_twoselves_130359">Steamer day. Donkey carts driving in. With the tomatoes. Boat loads of them from St. Agnes and St. Martin's. "Do you know Nancy, it's cheaper to buy tomatoes at Penzance than it is here. And you can't get good ones either though the bulb <pb xml:id="bryher_twoselves_130358" n="70"/>fields are full of them. They export the lot." Everyone is in the square, steamer day. Gossip is life on a small island. The worst of it. Islanders ought to be strong, beautiful. Like the sea thrift and the honeysuckle. But they're eaten up with jaundice and liver troubles. Of the body. Of the soul. Those that don't get out, stay in. China or-a small drab papered room with flies on the window.</p>
+          <p xml:id="bryher_twoselves_130360">"Why how are you, Doreen, and when did you come over?"</p>
+          <p xml:id="bryher_twoselves_130361">"A week ago. No, not a sight of a submarine. They wouldn"t bother us, you know. Too small. "</p>
+          <p xml:id="bryher_twoselves_130362">Biscuit boxes and jars of jam. Magazines, Postcards in a rack. The red curly headed boy held open his string bag. His jersey had faded a sort of lavender. "One pot of jam please, not apple and rhubarb." Cassiderites, the tin islands. Painted prows, chariots. Write a story. A story of a girl who ran away from the wattle huts and shipped on some Phnician galley as a boy. And got South. "Nancy, look there's a new puppy on the quay."</p>
+          <p xml:id="bryher_twoselves_130364">Veronica hedges. Lavender blue. Gladiolus. . . honeysuckle-yellow and scarlet. Like great tropic birds perched in the meadows. A blue sea under them. Those beautiful shells on Pellistre beach. Cowries; towers of Babel. Poetry is. . . poetry is. . . standing at the quay with shrimping tide ahead of one.<lb/>
+Outside lavender bushes in the tiny gardens washed <pb xml:id="bryher_twoselves_130363" n="71"/>their scent in with the sea. Outside pilchard nets were spread to dry, the grapes were ripening, the black muzzle of a donkey snuffed the turf. Outside morning crept into the air, the stars faded, the moon slept. Outside were ships; and freedom; and adventure.</p>
+          <p xml:id="bryher_twoselves_130365">Dreams. Anybody vital outgrew dreams. Unless they had reality to back them up. Either life was-the enthusiasm one felt when a new path of wisdom opened, or else a grey existence broken fess endless with the gay ribbons of expectant hours. Possibly greyness was the reality but she doubted it. There was the witness of all the poets she had read, historians, palæontologists, that life was actual, definite, as bright as a patterned bowl or the Cretan lily vases. Only the two were separate; life and existence.</p>
+          <p xml:id="bryher_twoselves_130366">She would go to America. Begin a new life. Blot out the old mistakes. Then come back to Europe and start out the right way.</p>
+          <p xml:id="bryher_twoselves_130367">Two selves. Oh, if she could cut away all that was not herself. This encrustation of conformity. But people did not want the truth. Nobody wanted the truth. Not Doreen even or Eleanor. All would try to prevent her from being what she saw. As they tried now to prevent her seeing.</p>
+          <p xml:id="bryher_twoselves_130369">Why should a slip of seaweed or a tuft of thrift or the blue metallic shimmer of a lobster's back, make her feel faint with beauty? As if her breath had been taken out in a long poignant ecstacy? When the same seaweed or the same tuft was to Doreen <pb xml:id="bryher_twoselves_130368" n="72"/>just pretty or negligible. Environment, hereditary? A thing she was not responsible for, yet desired. For she must keep her spirit sharp; sharp if it cut into herself. Ready against the moment adventure called her forth. That was the one rule; to see, to analyse, if nothing were the truth, if truth varied as it must, try to dig for the root of it. For some night opportunity might swing open the window. </p>
+          <p xml:id="bryher_twoselves_130370">Six years already. A long time to wait.</p>
+          <pb xml:id="bryher_twoselves_130371" n="73"/>
+        </div>
+        <div xml:id="bryher_twoselves_009" n="7" type="Chapter">
+          <head>CHAPTER VII <lb/> ELEANOR</head>
+          <p xml:id="bryher_twoselves_130372">"Hullo, Eleanor, what do you make of the war? Its months since I've seen you." Nancy flung over a rug (there was not enough coal to have a fire upstairs) and settled back in her chair under an eiderdown.</p>
+          <p xml:id="bryher_twoselves_130373">"It's smashing us out right enough," Eleanor grumbled. "The men I know are killed or so broken that they are simply lethargic. And as for the women. The old cats have got power into their hands at last. It has put progress back generations."</p>
+          <p xml:id="bryher_twoselves_130374">"Oh, it's awful. What one sees and hears. Patriotism was never one of my vices but I'm through with what they call morality after this. Killing souls with their red tape stupidity and calling it discipline. Gloating over destruction. When all the wreaths and fame in the world won't give back flowers and friends and the taste of food to the dead. Makes me sick."</p>
+          <pb xml:id="bryher_twoselves_130375" n="74"/>
+          <p xml:id="bryher_twoselves_130376">"I know. When I go to work in the morning the posters make me ashamed. How can people be so vulgar. . . over death?"</p>
+          <p xml:id="bryher_twoselves_130377">Eleanor put her cap on the table and tucked the rug well around her legs. Outside the roof tops were gradually growing black. There was a sting of snow in the air that crept under the closed window.</p>
+          <p xml:id="bryher_twoselves_130378">"Well, what are you doing now? No good talking war when we do get a few minutes together. Read anything new? I suppose not."</p>
+          <p xml:id="bryher_twoselves_130379">"No time for reading. I'm running a bazaar for the cats. They take the credit and if one tea cup is broken the Committee will consider whether or no they should ask for my resignation. And what do you think Lady Cockle said? I rely on you, Miss Lodge, to sell fifty of these tickets to your personal friends." And I am their paid secretary! I won't ask you to buy one because it's just a filthy waste."</p>
+          <p xml:id="bryher_twoselves_130380">"Providing soldiers with portable bath tubs. Two to a division. But look here, I'm in charge of the thing and they have paid fifty guineas for the hall. Then they pay ten guineas for detectives and police on the day itself. And thirty guineas to the caterers. And their own taxi fares. It is not dishonest exactly but they won't at the end make their expenses. They mean well and it shoves them in the limelight. And every single one of them is over forty."</p>
+          <pb xml:id="bryher_twoselves_130381" n="75"/>
+          <p xml:id="bryher_twoselves_130382">Eleanor pulled the rug a little closer over her knees and went on.</p>
+          <p xml:id="bryher_twoselves_130383">"It isn't as if any of them were young. They tell any attractive girl they meet to go and work in a hospital kitchen. You should have heard them sniff when I told them I could not live on three pounds a week. Told me I ought not to ask for a rise in such serious times. With the bus fares up and no lunch to be had under half a crown."</p>
+          <p xml:id="bryher_twoselves_130384">"What are they going to do?"</p>
+          <p xml:id="bryher_twoselves_130385">"Refer it to the Committee. I have managed until now, living at home. But they ought to pay me enough for my food."</p>
+          <p xml:id="bryher_twoselves_130386">"Surely if they can throw away so much on a bazaar they can give you three pounds ten?"</p>
+          <p xml:id="bryher_twoselves_130387">"A secretary's salary is an item on paper and not an advertisement or even a bath tub. But I'll have to resign if they don't. Did you tell me that you had been trying to drive a motor car?"</p>
+          <p xml:id="bryher_twoselves_130388">" Yes, they wanted a girl to drive at the hospital my aunt is interested in and everyone thought I ought to try. They turned me out of the class though. After fifteen lessons. Said I was a danger not only to myself but to other people. I'm no good at steering."</p>
+          <p xml:id="bryher_twoselves_130389">"Funny, when you can ride."</p>
+          <p xml:id="bryher_twoselves_130391">"I'm afraid of traffic even on foot and in a car. . . I saw what was going to happen so far ahead that when it happened I forgot what thing to push. I <pb xml:id="bryher_twoselves_130390" n="76"/>almost smashed up one van and two cycles."</p>
+          <p xml:id="bryher_twoselves_130392">"Too imaginative!"</p>
+          <p xml:id="bryher_twoselves_130393">"Too something. They say that to drive one needs an unreasoning type of brain. But I knew from the start I should never learn. But everybody seemed to think I ought to have a job. If only I could look after the hippopotamus at the Zoo or something quiet. But I suppose even the Zoo now is a luxury. If only the war would stop."</p>
+          <p xml:id="bryher_twoselves_130394">"When it is over, Nancy, are things going to be much better for us?"</p>
+          <p xml:id="bryher_twoselves_130395">"I suppose not. It is the furthest one can think though just at present. The boundary of one's horizon."</p>
+          <p xml:id="bryher_twoselves_130396">"Nobody is interested in freedom or development any more. There will be no money for years to finance any new schemes of education. As for the liberty of women!  After my experience with Lady Cockle I'm beginning to fear that they will only impose fresh shackles. They squash the young more vigorously than the men."</p>
+          <p xml:id="bryher_twoselves_130397">"It's the old, the old in thought, rather than men or women, I imagine. Most of the girls at Downwood for instance, were born old. Whatever their freedom they would not have developed any further. But it is not much of an outlook."</p>
+          <p xml:id="bryher_twoselves_130399">"Look at me." Eleanor pulled the rug up with a jerk. "However good I am at my job there is practically no chance to get any position with more than <pb xml:id="bryher_twoselves_130398" n="77"/>five hundred a year. At this moment I'm getting a hundred and fifty. A lot you can save on that! I have never met a man yet I wanted to marry. Think of the men one knows. . . self-centred, uneducated. . . the Public School type, who would want their children brought up with the same code as their grandfathers in a totally different age. One might meet a man with whom one could fall in love but it is very doubtful. The other sort of marriage just means being a housekeeper to someone it would be hard even to respect. And everyone sniffs at me for being a secretary. Lots of mother's friends have dropped asking me to tea. It's funny but it's true."</p>
+          <p xml:id="bryher_twoselves_130400">"You might emigrate. Try America."</p>
+          <p xml:id="bryher_twoselves_130401">"No. I was brought up in England and you know I'm not partiotic but I should hate to live out of it. Hate to miss the chestnuts opening and June in the fields. I don't want to go out to another country and to other conditions where I'm not even sure of finding a job. Where I have no memories, no friends."</p>
+          <p xml:id="bryher_twoselves_130402">Eleanor's dark hair curled softly against her grey coat collar. There was something powerful about her. A clarity of decision and action. Wasted because modern England had little or nothing to offer her.</p>
+          <p xml:id="bryher_twoselves_130404">"I hoped the first year I left school, Nancy, that things were going to happen. New schemes, new liberty. I thought I could have got a job where I could have pushed ahead. How I would have work- <pb xml:id="bryher_twoselves_130403" n="78"/>ed at it. I'm supposed to have a good job now, as women's positions go. Lots of girls envy me. But you can't put much enthusiasm into correcting Lady Cockle's mistakes and packing up boy scout pamphlets."</p>
+          <p xml:id="bryher_twoselves_130405">"When the war's over if I can get a passport I'm going to America. Then perhaps you'll change your mind about leaving England and come over to join me."</p>
+          <p xml:id="bryher_twoselves_130406">"But you're not free," Eleanor objected, "will they let you go across?"</p>
+          <p xml:id="bryher_twoselves_130407">"I know I'm not free. That's what I blame Downwood for. If education is to mean anything it should show one the way to independence. You remember those lessons Miss Sampson used to give us on "the way to live." Obey your parents, obey the school, obey everything and everyone but your own self. Instead of teaching us to live all school did was to knock out of us any little impulse toward freedom that we had. One can't know everything at fifteen. I surrendered my will to the beastly worn out traditions of an exhausted world, as personified by Miss Sampson and "the ladies of the staff." If I had followed my own instincts, kicked, screamed, yelled On the floor till they let me go to an art school, I should be working now and of use to other people. As it is, I'm no good to myself or to anybody else."</p>
+          <p xml:id="bryher_twoselves_130408">"But you kept your individuality. Most of us didn't."</p>
+          <pb xml:id="bryher_twoselves_130409" n="79"/>
+          <p xml:id="bryher_twoselves_130410">"Yes. But I had only two years of it. You had, how many, seven?"</p>
+          <p xml:id="bryher_twoselves_130411">"Sometime you will break out, I think." Eleanor brushed the air out of her eyes and stretched her legs out more comfortably. "And when you do start you will do something out of our sphere altogether."</p>
+          <pb xml:id="bryher_twoselves_130412" n="80"/>
+          <pb xml:id="bryher_twoselves_130413" n="81"/>
+        </div>
+        <div xml:id="bryher_twoselves_010" n="8" type="Chapter">
+          <head> CHAPTER VIII <lb/> SCARLET AND SILVER</head>
+          <p xml:id="bryher_twoselves_130414">Seven years. Seven chapters for seven years. Strands of Elizabethan, French and American woven into a rope together. Cherry pie and Bellario, leather and rose leaves, tumble of canyon words, bluring and merging into a background of rain and scarlet as the oyster sky swallowed up bus and pillar box and London night drooped sadly over them all. Hers was the mad terror of a shell washed under the sand. Not out of earshot of the surf. Not out of scent of the sun. Prisoned. . . able to breathe but not free. The soul slowly dying, slowly turning into grey powderous dusk. Seven years of guns booming, stars falling. Seven years waiting for something to happen. Seven years waiting for achievement or for death.</p>
+          <p xml:id="bryher_twoselves_130416">Everything was wrong. The whole scheme of the world seemed disjointed. Why did early impressions cling so? In babyhood one was taught it was wrong <pb xml:id="bryher_twoselves_130415" n="82"/>to lie. Afterwards this law was reversed. One was punished for thinking the truth. One was forced to be hypocritical. Yet one had an uneasy sensation all the time that a gate would open and something that was beyond the consciousness of the world would catch one lying and reproach one.</p>
+          <p xml:id="bryher_twoselves_130417">Looking back it seemed to Nancy that her life had been rolled up like a flower in her brain at birth. It had simply to unfold itself. She had wanted to be a boy and write a book. To have liberty and adventures. She still wanted the same things in more intense a way. Probably it was the same with all children. All that one needed was to get hold of minds before they were warped by school.</p>
+          <p xml:id="bryher_twoselves_130418">People were so silly. They had not the sense of marmots. They seemed to think that constant denial of a wish improved the soul. It didn't. Always to be forbidden one's own thought meant attrition of the nerves.</p>
+          <p xml:id="bryher_twoselves_130419">She, herself, could escape into her other self. Swing her legs over the chair and shout "to hell with marriage, patriotism, duty, they are lies, lies, lies." (When no one was listening, of course.) And plot out just how she would run a school or a newspaper of her own. But other people couldn't. They had not the richness of her untrammelled childhood in the south to build up a separate self.</p>
+          <p xml:id="bryher_twoselves_130421">Grey houses, grey minds, grey existences. Why grey <pb xml:id="bryher_twoselves_130420" n="83"/>when primroses were out and the rain itself was silver and the sunset, amber or cinnamon?</p>
+          <p xml:id="bryher_twoselves_130422">Nancy walked with anger in her heart. It was not altogether a personal matter. It was personal to the extent that this web crushed her, retarded a development guessed at, dreamed of, but snatched at only in books. Yet beyond this she desired freedom not to be at the mercy of chance but everbody's privilege.</p>
+          <p xml:id="bryher_twoselves_130423">Behind all her desire was an almost Puritan stolidness. It was this that made the conflict hard. Her brain was a gigantic flower gone to seed before her eyes. She could not help the precocity of insight that made her read the inside of people's motives as clearly as if their secret secrets had been tatooed on their cheeks. It was right for them to ask for proof of her ability. But experience blinded her with the red and turquoise of its wings and flashed too far from her hands. Dreams were a poor makeshift for a soul eager to act.</p>
+          <lb/>
+          <p xml:id="bryher_twoselves_130424">The trees twisted a black lace across the sky with bare soot-covered twigs. They walked quietly, Nancy and her father, between the park benches, carrying a white newspaper (as advised officially) that motor drivers might see them in the darkness.</p>
+          <p xml:id="bryher_twoselves_130425">"When is it going to end?"</p>
+          <p xml:id="bryher_twoselves_130426">"Who knows?"</p>
+          <p xml:id="bryher_twoselves_130428">A long searchlight cut the night, poised on a <pb xml:id="bryher_twoselves_130427" n="84"/>branch, shifted. Nobody moved in the blackness. "Tell me when it will end," Nancy said again, "is there no escape out of it?"</p>
+          <p xml:id="bryher_twoselves_130429">She did not expect her question to be answered. It was a formula to be repeated every evening. A sort of purge to the emotions. The searchlight held steadily above the park gates, pointed to the sky.</p>
+          <p xml:id="bryher_twoselves_130430">"Three more days and we shall be in the thick of raid time again. They might come to-night even."</p>
+          <p xml:id="bryher_twoselves_130431">It was like walking through an avenue of plums. Dark, velvet purple plums. Purple and dark. With shifts of tiny stars between the twigs as the light over the park moved. In America there was no war.</p>
+          <p xml:id="bryher_twoselves_130432">"When it ends will they give out passports at once?" </p>
+          <p xml:id="bryher_twoselves_130433">"Not for a long time except for very good reasons".</p>
+          <p xml:id="bryher_twoselves_130434">She had no particular reasons. Telling a line of officials. . . "if I went to America I might write poetry better. If I went to America I might find. . ." They would say she was mad or possibly a spy. Logically she could not blame them.</p>
+          <p xml:id="bryher_twoselves_130435">"How long do you think it would be after the war ends before I could get to America?"</p>
+          <p xml:id="bryher_twoselves_130436">"A year. Longer perhaps. It would depend on the peace terms. If the Germans. . ." </p>
+          <p xml:id="bryher_twoselves_130438">But she could not blame it altogether on the Germans. It had happened half a century before. Nations had worked toward war, rather than away from it. <pb xml:id="bryher_twoselves_130437" n="85"/>Scraps and incidents had been fitted the wrong way, into a mix-directed morality and education. Obey. Follow the mob and be responsible for nothing. Battles came like that. Because people refused facts, hated independent thought. She could not believe that a German was less sensitive than an Englishman, that he could desire this horror any more than she desired it. But the individual was wrecked, swallowed up in the whole. Dominated by mob law.</p>
+          <p xml:id="bryher_twoselves_130439">"Beastly having this war smash up all you've made," ventured Nancy as they turned the corner. It was like seeing one's manuscripts torn up piece by piece.</p>
+          <p xml:id="bryher_twoselves_130440">"Who knows what will happen?"</p>
+          <p xml:id="bryher_twoselves_130441">Her father had the thing she admired most, a mind. Also a sense of adventure. As a boy he had run away and climbed mountains. He had fenced. He had been to America. But he was perfectly unreasonable as far as Nancy was concerned. Which was very distressing.</p>
+          <p xml:id="bryher_twoselves_130443">When she was a baby he had wanted her to do the things no other children did. They had discussed politics gravely together since Nancy had been four. He had given her her first French lessons, played geography games. Encouraged her to read anything and everything. At fifteen she had demanded independence. "Art or business. I don't care which it is but I want to be free." It seemed the inevitable outcome of her education. "But I have worked all these years <pb xml:id="bryher_twoselves_130442" n="86"/>to protect you, to look after you and give you an income," he had answered in a bewildered tone, as if she had asked for an aeroplane. "That's all right," Nancy had assured him, "I'd rather do art. There's no money in that so it would be nice if you would give me an allowance. And in say, six years, I ought to be earning enough not to need it any more. If you wanted to continue the allowance I should like it awfully. To travel with."</p>
+          <p xml:id="bryher_twoselves_130444">The family had not seen her point at all. They had put her straight to school. "To get companionship with girls of her own age." To learn to drop her curiously personal ideas. And the shock of Downwood had stunted her; she was growing crooked. Because it was easier to disassociate herself and live on her own mind than to smash to liberty through hurting people's feelings.</p>
+          <p xml:id="bryher_twoselves_130445">"You will let me go to America when the war ends?"</p>
+          <p xml:id="bryher_twoselves_130446">"Wouldn't you rather go to India? I have always wanted to see India again. Think of all the interesting things there are there. And such a nice sea trip out."</p>
+          <p xml:id="bryher_twoselves_130447">"I don't want to go to the East. I want to see the West. And I want to go alone.</p>
+          <p xml:id="bryher_twoselves_130448">"Girls can't travel about alone."</p>
+          <p xml:id="bryher_twoselves_130449">"Yes, they can. Why shouldn't they?"</p>
+          <p xml:id="bryher_twoselves_130451">"Never mind why they shouldn't. Perhaps, if <pb xml:id="bryher_twoselves_130450" n="87"/>you really want to go to America so much, I can find somebody to take you."</p>
+          <p xml:id="bryher_twoselves_130452">"I have to go alone or with somebody I choose. Otherwise I might as well stay in England."</p>
+          <p xml:id="bryher_twoselves_130453">"Why not wait to discuss your trip until the war is over? I wish there was not so much moonlight. It's too light this evening to be safe."<lb/>
+If you hated war, hated it from the beginning, you could stand a year of it. You could stand two years. Afterwards it grew into an apathy, a nightmare, a selfishness. Afterwards the only thing that mattered was that you, yourself, had not had butter for tea. The world resolved itself into a ration ticket. You had no soul left because you did not even hate war. You only plotted how you could get an extra ration of butter or of coal.</p>
+          <p xml:id="bryher_twoselves_130454">Youth. Youth must have been this world of colour and light into which she had dreamed the dive, years, years before. One did not dream any longer. Not of intangible things. Youth was doubtless a state of mind harnessed to a possibility of action. Neither Nancy nor any for her school-fellows had known it.</p>
+          <p xml:id="bryher_twoselves_130456">But America. America was something to hold on to. If she went there she would not pretend. She would not say she liked things she hated; or the other way round. She would not feel afraid in America. It would be so new, so different. They did <pb xml:id="bryher_twoselves_130455" n="88"/>not despise girls so much. They saw things a fresh way. The poems they wrote. . .</p>
+          <lb/>
+          <lg type="stanza">
+            <l n="1">
+              <hi rend="italic">"I saw the first pear</hi>
+            </l>
+            <l>
+              <hi rend="italic">As it fell-</hi>
+            </l>
+            <l>
+              <hi rend="italic">I The honey-seeking, golden-banded, </hi>
+            </l>
+            <l>
+              <hi rend="italic">The yellow swarm </hi>
+            </l>
+            <l>
+              <hi rend="italic">Was not more fleet than I </hi>
+            </l>
+            <l>
+              <hi rend="italic"> (Spare us from loveliness) </hi>
+            </l>
+          </lg>
+          <lb/>
+          <p xml:id="bryher_twoselves_130457">like those early days in Scilly when they had cut honeycomb into slices and held it up to the sun to watch the red light fall through amber and adventure had made the air almost too poignant to breathe. . .</p>
+          <lb/>
+          <lg type="stanza">
+            <l n="1">
+              <hi rend="italic">"Be in me as the eternal moods </hi>
+            </l>
+            <l>
+              <hi rend="italic">Of the bleak wind, and not</hi>
+            </l>
+            <l>
+              <hi rend="italic">As transient things are-</hi>
+            </l>
+            <l>
+              <hi rend="italic">Gaiety of flowers." </hi>
+            </l>
+          </lg>
+          <lb/>
+          <p xml:id="bryher_twoselves_130459">Strong satisfying music. Something primeval about the rhythm and force. . . all this Georgian stuff was rotten. Nothing to it, either thought or form. Not even good Tennyson. The Elizabethans were all right. Some French stuff was all right. But now-(now one had breathed war)-one needed something fierce and authentic-set down because you felt it that way. Not echoes. Not moralizing when one felt no experience back of the poet. Not any more<pb xml:id="bryher_twoselves_130458" n="89"/></p>
+          <lg type="stanza">
+            <l n="1">
+              <hi rend="italic">"My lady on a parlfrey grey, </hi>
+            </l>
+            <l>
+              <hi rend="italic">Waved to a page across the bay."</hi>
+            </l>
+          </lg>
+          <lb/>
+          <p xml:id="bryher_twoselves_130460">Or</p>
+          <lb/>
+          <lg type="stanza">
+            <l n="1">
+              <hi rend="italic">"The moorland shepherd with his wrinkled face</hi>
+            </l>
+            <l>
+              <hi rend="italic">And solemn eyes, fronting a thousand hills,</hi>
+            </l>
+            <l>
+              <hi rend="italic">Spoke, searchingly of earth's felicities." </hi>
+            </l>
+          </lg>
+          <lb/>
+          <p xml:id="bryher_twoselves_130461">Oh, America was different. It hadn't had a war anyway. Nor gone without butter and fires.</p>
+          <p xml:id="bryher_twoselves_130462">A tremendous bang broke the air to fragments.</p>
+          <p xml:id="bryher_twoselves_130463">Not the cold drag down the stairs and those hours of waiting again. If one were going to be killed why not be killed in comfort. Fields of flowers and a tumbling sea. Just as one was warm. She turned over.</p>
+          <p xml:id="bryher_twoselves_130464">"Miss Nancy!" A figure shook her. "Wake up, Miss Nancy." Alice, the maid, stood beside her, with a dustpan converted into a helmet on her head. She trembled so that she could hardly hold the gas mask in her hand. "They've come again, Miss Nancy, and everybody but us is downstairs. Here's your coat all ready and I've got your blanket."</p>
+          <p xml:id="bryher_twoselves_130465">Peonies. . . tiger rain. . . new wonderful words. But she could not keep Alice shivering any longer. Even as it was the lights were out as they began to grope their way down the staircase.</p>
+          <p xml:id="bryher_twoselves_130467">In the dining room the family yawned and tried to rake up the ashes of the fire. "I'll go to the smoking room and see if I can discover anything before settling," Nancy suggested. It was horribly cold <pb xml:id="bryher_twoselves_130466" n="90"/>and being the last arrival the arm chairs were already filled with figures, half asleep.</p>
+          <p xml:id="bryher_twoselves_130468">Outside it was light. Ominously light. At regular intervals the park guns boomed and barked. Nothing else appeared to be happening. Nancy counted up the raids she had been in. This made the fifth. Everyone said it was all right until you were near a bomb. If you got near. . . within a street. . . and escaped alive, you went to Somerset or the Welsh hills the next morning and shivered at every noise you heard for months.</p>
+          <p xml:id="bryher_twoselves_130469">Something seemed to burst the window into leaping tigers. Nancy jumped for the door. Only a shell bursting in the sky streets away. She ventured back cautiously. There was still nothing but a blue cloud over the roof tops. It was not pleasant, really it was not, waiting for things to burst. Then a whirring. . . whirring of aeroplane wings. . . not in the distance. . . overhead. Shrill sharp snap of the nearest gun and the white brilliance of the searchlights.</p>
+          <p xml:id="bryher_twoselves_130470">She ran for the dining room. That had been adjudged the safest place. " They're just over us but I can't see anything," she shouted.</p>
+          <p xml:id="bryher_twoselves_130471">"Quiet, quiet, you'll wake your brother up" she was reproved. " They're trying for Buckingham Palace."</p>
+          <p xml:id="bryher_twoselves_130472">"They're not really overhead but they're nearer than they've been before."</p>
+          <p xml:id="bryher_twoselves_130474">"Doesn't Alice make you laugh with her dust pan <pb xml:id="bryher_twoselves_130473" n="91"/>helmet and her gas mask? As if either would do you any good if we got hit."</p>
+          <p xml:id="bryher_twoselves_130475">"Poor thing. She's awfully nervous. Next time this happens let's all stay in our beds. I'm sure we run much more risk coming down to this cold room". . .</p>
+          <p xml:id="bryher_twoselves_130476">"But you might not be killed outright if we were hit."</p>
+          <p xml:id="bryher_twoselves_130477">"When is this beastly war going to end anyway? Hear that?"</p>
+          <p xml:id="bryher_twoselves_130478">There was a crash in the sky, almost next door it seemed. (In reality it was a mile away.) The shell bursts flicked across the room like lightning. There was no excitement about it, only a cold uneasiness.</p>
+          <p xml:id="bryher_twoselves_130479">The shots ceased gradually, coughed one by one in the distance.</p>
+          <p xml:id="bryher_twoselves_130480">"The park guns have stopped. Could we go back to bed?"</p>
+          <p xml:id="bryher_twoselves_130481">"If you want. But the "All clear" hasn't gone yet."</p>
+          <p xml:id="bryher_twoselves_130482">"It never does till they've chased the planes to the coast. Nancy, rations or no rations, go and get us some biscuits. I suppose we can't ask the maids to leave the cellar yet. Though what good it would do them to be in the cellar if the house came down, I don't know."</p>
+          <p xml:id="bryher_twoselves_130483">"Well, they think it is safer."</p>
+          <p xml:id="bryher_twoselves_130484">"We shall have the whole place down with influenza. I suppose now you don't know where the biscuits are kept?"</p>
+          <pb xml:id="bryher_twoselves_130485" n="92"/>
+          <p xml:id="bryher_twoselves_130486">"I'll find them." Nancy crept cautiously down the stairs guided by a murmur of voices from the basement. "It's all right, Alice," she called, "they've gone." But Alice, furtively handing her a plate of biscuits (it was asking for trouble  to eat in such a state of national emergency) declined to come further up than the first stair. "It's just like them Huns to fool us out of shelter and then come back again. I'll wait here, Miss Nancy, if you don't mind, till I hear the Boy Scouts, bless'em, come round on their bicycles."</p>
+          <p xml:id="bryher_twoselves_130487">"Wonder if much damage has been done" Nancy questioned as she regained the dining room.</p>
+          <p xml:id="bryher_twoselves_130488">" The papers won't say anyhow. They're thinking out the headlines or perhaps they keep a stock of them. "The greater London area was visited by hostile aircraft last night. One bomb was dropped in a garden causing inconsiderable damage. The behaviour of the population was notable for it's calm."</p>
+          <p xml:id="bryher_twoselves_130489">"Don't blame the papers. The censor won't let them say anything."</p>
+          <p xml:id="bryher_twoselves_130490">"Nice scene at the Tube tonight, I expect."</p>
+          <p xml:id="bryher_twoselves_130491">"And I suppose we shall never know what damage has been done. Not till the war has been over a generation and then it will be in a footnote to some Army publication that nobody will read."</p>
+          <p xml:id="bryher_twoselves_130492">"The historian of a hundred years to come will know more about the beastly mess than we do."</p>
+          <pb xml:id="bryher_twoselves_130493" n="93"/>
+          <p xml:id="bryher_twoselves_130494">"That's inevitable. Let's risk going to bed."</p>
+          <p xml:id="bryher_twoselves_130495">The blankets were disarranged. It was two o'clock. The "All clear" signals had started in the street, below. Making more noise (as everybody said) than the actual raid. Nobody would know how much damage had been done. Not unless one of the maids had a relative in the district where the bombs dropped. Then it would be sure to be exaggerated. All war was an exaggeration and a deceit.</p>
+          <p xml:id="bryher_twoselves_130496">The waste of it all. The impotence of all. </p>
+          <p xml:id="bryher_twoselves_130497">How had the war started anyway?</p>
+          <pb xml:id="bryher_twoselves_130498" n="94"/>
+          <pb xml:id="bryher_twoselves_130499" n="95"/>
+        </div>
+        <div xml:id="bryher_twoselves_011" n="9" type="Chapter">
+          <head>CHAPTER IX <lb/> REBELLION</head>
+          <p xml:id="bryher_twoselves_130500">It was queer, the stillness. It crept over the room like a fog. The tension of waiting for a word to burst it, made it hard to bear. It soughed in waves and beyond them, thin, electric, came the rumble of wheels that linked hope up to life. When the wheels ceased the silence pricked needle points into bare flesh.</p>
+          <p xml:id="bryher_twoselves_130501">"I'm falling. Falling into an abyss." But that was just speech because the shock of the fall never happened. There was never the unconsciousness that must wait at the bottom of the cliff.</p>
+          <p xml:id="bryher_twoselves_130502">"When I'm grown up I shall be free." But there was no freedom. Only an invisible but actual clutch of circumstance that wove grey chains back and forth across her limbs and mind, a chain. . . no being a cabin boy, no mirade of release happening, no great book, no liberty, no friend, no hope.</p>
+          <pb xml:id="bryher_twoselves_130503" n="96"/>
+          <p xml:id="bryher_twoselves_130504">"I do like Mallarmé. I can't help what people write. If he is old-fashioned. Idumenée is beautiful and lines from the "Faune". It is like that purple-blue flushed with wine colour of ripe plums, like the gold plums where the skin tears. If only somebody would speak to me about these things. I want someone with a mind. And Régnier. Julie with her feet among the rose leaves. And "fleur hypocrite, fleur du silence." Words, like flowers, brushing across my brain."</p>
+          <p xml:id="bryher_twoselves_130505">It was her own fault for making no move but how could she explain her world? It would be terrible if they did not understand. They would not understand. Terrible if she had to fight. That evening, seven years before, "I must go to an art school." "You are too young to paint. We want you to have companionship of your own age." If she said she wanted freedom people might come in from the street and lock her up.</p>
+          <p xml:id="bryher_twoselves_130506">Escape. How was one to escape? The girl round the corner had tried to get away. They had shut her up. With two nurses. Told her friends she was ill. The illusion of liberty had been stript from her. She was shut away because she wanted to be free.</p>
+          <p xml:id="bryher_twoselves_130507">One heard these things even if one did not go about. One knew, bafflingly, inevitably, the chances against one. </p>
+          <p xml:id="bryher_twoselves_130509">Escape. Romance. To go down the street think- <pb xml:id="bryher_twoselves_130508" n="97"/>ing one's own thoughts. . . a romance impossible. "Yes, it would be nice to go to tea with Mrs. Hearth. No, the country is pleasanter now than London. Lies, all lies. No rescue. No hope. Oh, God, no hope. Beauty written in the sunset. Do you see that cloud there, like ripe grapes? The girl in the next street kept in her bedroom with two nurses, because she wanted to be free.</p>
+          <p xml:id="bryher_twoselves_130510">"I'm living in a prison. How long my sentence. Have I not earned my release?" Say that to people and see what would happen. Tears. Threats. "How can you be so ungrateful?" If only people would not care about one. Not be kind. Hell, life was awful.</p>
+          <p xml:id="bryher_twoselves_130511">It was not that one hated. . . it was not. . . it was only that one was twenty three and wanted to think one's own thoughts. They might guess if one thought one's mind out in the street. If she faced the thing she was afraid people might come in from the street and shut her up. If she went out one night alone would they follow, say she was mad, ill, drunk and shut her up? </p>
+          <p xml:id="bryher_twoselves_130512">Marriage. Girls married to escape. But she hated men. And to cut the knot that way was playing he game wrong. It was to create the same situations over again. And when people married they had children. That was awful. Awful to drag a child into the world to fight one's beastly fights over again. Better die first, any day.</p>
+          <pb xml:id="bryher_twoselves_130513" n="98"/>
+          <p xml:id="bryher_twoselves_130514">If she had been a boy life would have lain at her feet.</p>
+          <p xml:id="bryher_twoselves_130515">It was not the year that was so long; it was the hour. These indefinite days when nothing happened, were they youth? She waited opportunity but would it ever be granted her? Why was she forced to desire unconsciousness when her spirit cried for consciousness? The hour. . .the hour so long.</p>
+          <lb/>
+          <p xml:id="bryher_twoselves_130516">
+            <hi rend="italic">"All I have known of youth, all I may ever know, I bring. Are my dreams, life, as nothing in your eyes? I have given you my strength, my wishes, my desire. It was for you I watched dawn rise, for you. It was for you I learnt. I wait as the wind waits that shakes in the pines."</hi>
+          </p>
+          <lb/>
+          <p xml:id="bryher_twoselves_130517">The prayer of her loneliness must call a heart from the street to keep her from despair.</p>
+          <lb/>
+          <p xml:id="bryher_twoselves_130518">
+            <hi rend="italic">"You are younger than any future."</hi>
+          </p>
+          <lb/>
+          <p xml:id="bryher_twoselves_130519">Not a sound tore the tense longing of her imprisoned thought.</p>
+          <p xml:id="bryher_twoselves_130520">"No more, no more." Yet her mind would not break. Why was she denied madness, unconscious madness? She listened. Her ears strained till to feel was simply to hear. A step on the stair. Yet the door never opened.</p>
+          <pb xml:id="bryher_twoselves_130521" n="99"/>
+          <p xml:id="bryher_twoselves_130522">
+            <hi rend="italic">"Grant me adventure or grant me death."</hi>
+          </p>
+          <p xml:id="bryher_twoselves_130523">Her flesh shrank from the myriad points of the silence. If only her mind would snap. "Adventure. . .death. . ."</p>
+          <p xml:id="bryher_twoselves_130524">Life made no answer.</p>
+          <pb xml:id="bryher_twoselves_130525" n="100"/>
+          <pb xml:id="bryher_twoselves_130526" n="101"/>
+        </div>
+        <div xml:id="bryher_twoselves_012" n="10" type="Chapter">
+          <head>CHAPTER X <lb/> SNOW AND APPLE FLOWERS</head>
+          <p xml:id="bryher_twoselves_130527">It burst like a flame, the South. In the midst of the snow with a pale primrose moon shivering over the crackling trees. Snowflakes pushed like buds out of the twigs. Branches bent like birds, shook themselves, sprang up free.</p>
+          <p xml:id="bryher_twoselves_130528">She had to do something or die. Die mentally. Which meant gradual disintegration of all forces, intellectual, physical. Something that everyone disapproved of, something that linked the present to that early continuous development, before school, war and a thousand tiny barriers had divided her spirit into a dozen diverse strands.</p>
+          <p xml:id="bryher_twoselves_130529">It burst like a flame, the South. A chariot that swept her from the world into the real world.</p>
+          <p xml:id="bryher_twoselves_130531">For something somewhere had gone wrong. The mechanism was out of gear. She must trace to <pb xml:id="bryher_twoselves_130530" n="102"/>the root end what had happened. Trace--recover the South.</p>
+          <p xml:id="bryher_twoselves_130532">It was those early years she had picked up olives and anemones. They had been balanced; full. Unsplit. Great blue-purple anemones at Syracuse; Carthaginian poppies. Egypt. Rich, like a vase of many colours breaking one into the other with the symmetry of tides; a vase, a body, waiting for something, perfect but waiting something, a vase painted over with many pictures, many ages, waiting to be lifted, used. Egypt, Syracuse, Carthage, Naples. . . black soil and black olives, gold sand and golden reeds, beautiful, near, friends, but lacking something, not the one thing in all the South, the lover, the answer one waited.</p>
+          <p xml:id="bryher_twoselves_130533">It had come, the lover, the spirit, latest known of all lands, beautiful as a many coloured flower, a shell, the sea, the heart of a white gull,-Greece.</p>
+          <p xml:id="bryher_twoselves_130534">The day she had crossed the boundary line years before, down even in her cabin, she knew she had come home.</p>
+          <lb/>
+          <p xml:id="bryher_twoselves_130535">"Why the excitement", Eleanor asked, flinging her hat and suitcase on to a chair. ,,What discovery is it that you have to tell me about?"</p>
+          <p xml:id="bryher_twoselves_130536">"Greek."</p>
+          <p xml:id="bryher_twoselves_130537">"Only that! I was sure you'd get to it sooner or later but somehow I expected-that you would start off with Chinese."</p>
+          <pb xml:id="bryher_twoselves_130538" n="103"/>
+          <p xml:id="bryher_twoselves_130539">"It was those fool translations put me off. Beasts of pedants translating Greek into rhyme. Like slashing a Persian carpet up for advertising rags. I read a translation of Euripides once and it put me off Greek for years. There was one bit,</p>
+          <lb/>
+          <lg type="stanza">
+            <l n="1">
+              <hi rend="italic">"Oh for a deep and dewy spring</hi>
+            </l>
+            <l>
+              <hi rend="italic">With runlets cold to draw and drink!"</hi>
+            </l>
+          </lg>
+          <lb/>
+          <p xml:id="bryher_twoselves_130540">I'm actually quoting, and it went on lines and lines of it till it ended at the most tragic moment,</p>
+          <lb/>
+          <lg type="stanza">
+            <l n="1">
+              <hi rend="italic">"And rest me by the brink." </hi>
+            </l>
+          </lg>
+          <lb/>
+          <p xml:id="bryher_twoselves_130541">Just made me laugh. I looked the lines up in thc original the other day and found eleven words shoved in that Euripides knew nothing about, just for the sake of the rhyme. I would like to have the professor who wrote it up for infringement of copyright or libel or something. Gives a false impression of the language. Now in H. D.'s translation of the same thing, the English and the Greek words count up precisely the same, and you get the picture and the rhythm. . . a wonderful archaic chant."</p>
+          <p xml:id="bryher_twoselves_130542">"It's nice for you that you have time to learn it." Nancy had surmised vaguely that Eleanor would be jealous but she could not help it. She had to learn. . . had to learn.</p>
+          <p xml:id="bryher_twoselves_130544">"It's wonderful. Adventure itself. All the fun of <pb xml:id="bryher_twoselves_130543" n="104"/>an Eastern language and it says what you've thought about. That sea world where gulls are; my South, none of the sloppy reed Pan business of Victorian poets. In Theocritus there's a line, "Pan has wrath at his nostrils." Can't you smell it, can't you see great bull-nostrils, snuffing nuts and being furious it, wasn't a fat kid? It's strong, it's right. Sharp, like something carved. Hesiod. . . I like Hesiod. He writes about seals, those blue-black seals we see in Scilly. Homer's all I thought he was and more."</p>
+          <p xml:id="bryher_twoselves_130545">"But how can you read those things? You can't have had more than ten lessons."</p>
+          <p xml:id="bryher_twoselves_130546">"With a translation. A plain English or better, a French translation on one side. I cut out declensions and verb endings and learn words. Sometimes a word is an island in itself. There's one. . . I found it looking through the dictionary. . . that's a statue. It means the bend of an elbow and the throw of a javelin."</p>
+          <p xml:id="bryher_twoselves_130547">"But what are you going to do with it?"</p>
+          <p xml:id="bryher_twoselves_130548">"I look over the dictionary for hours. . . building the past. It must be some race memory; I feel as if I had known the words before. Did you never want to throw a javelin? I remember when I was little I spent hours working out the way. I never got it. You should not just throw it; there were rules. I could not get at what they were. A rotten age when you're asked to play tennis instead of hurling darts."</p>
+          <pb xml:id="bryher_twoselves_130549" n="105"/>
+          <p xml:id="bryher_twoselves_130550">"It's a rotten age all right", Eleanor agreed. "Old cats and young men. Sometimes I wonder which is worst. The women who are consistent in their policy, who have always been old, always against improvement, always sour. Married ones as well as the old maids. Yet somehow I wonder if the men aren't worst."</p>
+          <p xml:id="bryher_twoselves_130551">"I'm sure they are."</p>
+          <p xml:id="bryher_twoselves_130552">"Sometimes an old woman will do a tender thing. She has her emotion in the trifles she does. But the men. It isn't even as if they had chosen to fight. They were conscripted-by public opinion which is stronger than law. They went because they had to and they came back as if they owned the world. Lots of them haven't even been fired on. Yet they're everything. Like games in a school. Remember how Miss Sampson used to tell us "we play games to learn to be unselfish" and how the most selfish, good for nothing people at Downwood were always in the hockey team."</p>
+          <p xml:id="bryher_twoselves_130553">"Yes, she discouraged fencing where you have to think, because it was too individualistic."</p>
+          <p xml:id="bryher_twoselves_130555">"I've heard my brothers say, it takes the Public School athlete to show a complete disregard of other people's feelings. And the men who come back from the war are like that. They want to destroy progress because that would mean there would be no more wars. They were full of enthusiasm at fifteen but they come back at twenty five, un- <pb xml:id="bryher_twoselves_130554" n="106"/>settled, bored, without the practical sense our fathers have, without their sense of work. They want women to amuse and feed them. As for the rest of us, the sooner we drown ourselves in the Thames the better."</p>
+          <p xml:id="bryher_twoselves_130556">"I know."</p>
+          <p xml:id="bryher_twoselves_130557">"To think", continued Eleanor, her lips sneering, "that once I thought there was hope."</p>
+          <p xml:id="bryher_twoselves_130558">"It's wrong, Eleanor. And I know that Greek is valueless. But I must have some beauty or I'll die, from a mental point of view. I often think of the Thames but there's just one chance that if I could get away and be free I could make new schools. It's adventure, Greek, and I must keep adventure to believe in."</p>
+          <p xml:id="bryher_twoselves_130559">"Even if you could you would only turn out girls with new ideas into a decayed and stagnant world."</p>
+          <p xml:id="bryher_twoselves_130560">"They would make it over fresh. Re-paint it."</p>
+          <p xml:id="bryher_twoselves_130561">"Idealism."</p>
+          <p xml:id="bryher_twoselves_130562">"No, facts. If you get right down to the roots its all heridity and education. The war was due to lack of thought and it's being carried on the haphazard way a sick baby smashes plates."</p>
+          <p xml:id="bryher_twoselves_130563">"Well, you can't change it. Not in time anyhow for us to benefit."</p>
+          <lb/>
+          <p xml:id="bryher_twoselves_130565">Eleanor had gone. They had waited together at the corner till the bus came. She had disappeared <pb xml:id="bryher_twoselves_130564" n="107"/>a little scornfully, among the crowd of people. And Nancy had crossed alone into the park.</p>
+          <p xml:id="bryher_twoselves_130566">London had its own loveliness. Just at the corner where the park merged into streets and the lamps, the daffodil lamps, hung over squares of white. One could only say it once, "daffodil lamps." In one poem or one piece of prose. But always, always to Nancy they were daffodils. Except those Serpentine lights seen from a far distance. They, in the water, were crocuses. Tiny grapes of sky, tiny purple bunches, pressed between the leaves. The railings were dark. The searchlight held and darkened and flashed forth, piercing, monotonous, like a lighthouse sweeping the sea-or the leaves.</p>
+          <p xml:id="bryher_twoselves_130567">It was not the girls themselves. It was what they stood for. Doreen had gipsy eyes; she knew the sea. Eleanor had force; audacious but attractive. Yet neither of them had-at the end-a meaning. They were not dead; and they were not alive.</p>
+          <p xml:id="bryher_twoselves_130568">You had to be true to something. Call it truth. Call it poetry. Science even or love. The same in the end. Many ways. Truth was perhaps the best word. If people got between one and one's vision one had to cut them out.</p>
+          <p xml:id="bryher_twoselves_130569">Know it all a new way. That hard blue water under the sharp rocks. . . in Greece. Harden one's vision as Greece hardened waves.</p>
+          <p xml:id="bryher_twoselves_130570">Disassociated beauty. It was all she had gathered together. Letting the wrong people twist her from herself.</p>
+          <pb xml:id="bryher_twoselves_130571" n="108"/>
+          <p xml:id="bryher_twoselves_130572">"I want to be free." Nancy had pictured the conversation over and over again. "I want to be free. It's not that I'm not grateful for all you've done for me but I can't help wanting to use my brain. If I don't go away I can't develop. I don t want to hurt your feelings. Surely you must see that I don't want to hurt your feelings. But I want to live by myself."</p>
+          <p xml:id="bryher_twoselves_130573">"But how are you not free?" She knew that would be the astonished answer. "What have you ever been forbidden to do?"</p>
+          <p xml:id="bryher_twoselves_130574">"It's the thousand things too unimportant to mention. But that make a barrier. Keeping quiet when Mrs Hearth talks rot about charities. Not cutting my hair short. I know they don't matter-really-but suddenly they affect one's mind. One can't think clear."</p>
+          <p xml:id="bryher_twoselves_130575">"But Mr Brown said he would take you on his committee for furthering Red Cross work."</p>
+          <p xml:id="bryher_twoselves_130577">"But I can't do work I don't believe in. I want to write. I have never been my real self to you. You don't know me. You can't know me. I have been silent about the things I cared about. Because I knew you hated me to be rough and independant. I tried not to show that my head was a flame of enthusiasm when I got that Cretan book. . . I knew you didn't like it. I hate the people I've met. The Downwood girls. If I had gone to an art school I should have made friends, of my own world. It's <pb xml:id="bryher_twoselves_130576" n="109"/>too late to go now. I can't put myself back to being fifteen again. I can't. I can't. I can't help having wishes. I tried not to write. But if I don't, what is there left?"</p>
+          <p xml:id="bryher_twoselves_130578">She could not say this. Could not hurt people's feelings. Things had gone on too long. She who had loved action was losing the will for it. Everybody's brain was a box turning round and round. Empty box. Revolving. How funny. Finding instead of being heroic, giving in, she was merely a fool.</p>
+          <p xml:id="bryher_twoselves_130579">"It isn't as if I were doing any good. I can't fit in."</p>
+          <p xml:id="bryher_twoselves_130580">"But you're so young."</p>
+          <p xml:id="bryher_twoselves_130581">"It isn't my fault I'm only twenty four. I wish, I wish I were middle-aged. My brain's old. It's getting too old. Too stale."</p>
+          <p xml:id="bryher_twoselves_130582">Cycles and cycles of days. Nothing happening. Words beat in her head. She could not say them.</p>
+          <lb/>
+          <p xml:id="bryher_twoselves_130583">"When the war is over, Nancy, if you really want it very much, perhaps you can have a bulldog puppy." That inevitably happened when one's spirit flamed toward rebellion. " Only I don't know what you are going to do with it when we go away."</p>
+          <p xml:id="bryher_twoselves_130584">"I know that's the difficulty."</p>
+          <p xml:id="bryher_twoselves_130585">"It's the servants now. You cannot trust them even to open the greenhouse, let alone feed an animal."</p>
+          <p xml:id="bryher_twoselves_130587">"But their heads are wonderful. Those French <pb xml:id="bryher_twoselves_130586" n="110"/>bulldogs. Like a bronze flower with the nose and the soft muzzle."</p>
+          <p xml:id="bryher_twoselves_130588">"To my mind there's nothing like a terrier."</p>
+          <p xml:id="bryher_twoselves_130589">"Oh, but a terrier is just a dog. And a French bull, a good one, is a carving, an orchid. Something a sculptor might have spent nights making."</p>
+          <p xml:id="bryher_twoselves_130590">"Exotic creatures. But they say they are safe with children. I wonder though what makes you have such queer tastes."</p>
+          <p xml:id="bryher_twoselves_130591">"Sorry."</p>
+          <p xml:id="bryher_twoselves_130592">"Dont' stare like that. You can be very irritating. I'm sure I don't know why. I've done my best to bring you up like a human being, though sometimes I I think all my work has been in vain. Mrs Brown said the other day that you looked right through her. You didn't seem to see her at all. Just looked through her and out. . . she didn't know what at. Why are you so thoughtless? Especially in war time. It gives people such a false impression."</p>
+          <p xml:id="bryher_twoselves_130593">"Did she really say I stared through her? What a joke."</p>
+          <p xml:id="bryher_twoselves_130594">"I don't think it's funny at all. Remember everything you do rebounds on your father."</p>
+          <p xml:id="bryher_twoselves_130595">Nancy was about to reply, "why should it?" but checked herself in time. Her mother had something very Restoration, no, it was French about her. She did not believe in conventions really. Why should she try to impose shackles of a world she did not believe in, on Nancy's life?</p>
+          <pb xml:id="bryher_twoselves_130596" n="111"/>
+          <p xml:id="bryher_twoselves_130597">French with possibly a dash of Flemish. The dear skin, the figure, something warmer than English that was yet the north. As she sat there embroidering a square of cream silk with orchid ribbons she might have been keeping in some remote chateau, a precise and stately court.</p>
+          <p xml:id="bryher_twoselves_130598">"You were very affectionate as a little thing, Nancy. Before all the books you read made you so hard."</p>
+          <p xml:id="bryher_twoselves_130599">Yet it was affection that kept her, sitting on the garden seat, when her heart was across seas, in other worlds. It would all have been different if she had been a boy. They would have understood then her wanting to learn. It was wrong. Her mother ought to have had a daughter with white shoulders and brown glinting hair who matched ribbons and sang songs; who was warm, warm as the young raspberries ripening under the sun. She was terribly sorry; so sorry she could only sit silent and staring at the lawn. The more she felt the less she could speak. They would never iunderstand she had loved them perhaps too much.</p>
+          <p xml:id="bryher_twoselves_130600">But even now she could hear the tide calling her The nine Minoan periods were beating in her head.</p>
+          <lb/>
+          <p xml:id="bryher_twoselves_130601">Mrs. Hearth puffed into the garden, sat down on the nearest wicker chair, and took out her knitting. </p>
+          <p xml:id="bryher_twoselves_130602">"Why, Nancy, my dear child, I am surprised see <hi rend="italic">you</hi> here."</p>
+          <pb xml:id="bryher_twoselves_130603" n="112"/>
+          <p xml:id="bryher_twoselves_130604">"The others will be back in a few moments", Nancy answered, ignoring the implication that she ought to have been doing war work. "The news seems better to-day, doesn't it?"</p>
+          <p xml:id="bryher_twoselves_130605">Mrs. Hearth rubbed her face with her handkerchief, settled against the cushions. "Frankly-I had hoped for more. Such a slight advance. Always by inches. But the masses will not realize what discipline is, even yet. I met a man the other day who supplies our army with tinned sardines and he told me it is shocking in the North of England, the way they waste bread. Just thrown down in the streets, crusts of it."</p>
+          <p xml:id="bryher_twoselves_130606">"Indeed!" said Nancy politely.</p>
+          <p xml:id="bryher_twoselves_130607">"Yes. And I had hoped this war. . . brought on us by the sins of a reckless generation. . . would have taught the community a much needed lesson of thrift. Oh, dear me, now my wool's dropped down. Has it gone into the flower bed, Nancy? Never mind dear, I'll just snip it off. A few inches of wool doesn't matter. By the way, I'm rather surprised that your father planted flowers this year. I should have thought, with his far-sightedness that he would have filled up the borders with radishes."</p>
+          <p xml:id="bryher_twoselves_130608">"We have put potatoes in all the back beds but Mamma said a cheerful exterior was often more valuable than a stuffed interior. Though I, myself, did suggest we could have got a few turnips in between the verbenas."</p>
+          <pb xml:id="bryher_twoselves_130609" n="113"/>
+          <p xml:id="bryher_twoselves_130610">"A friend of mine, rather I should say the aunt of a fiend of mine, has filled the window boxes of her London flat with cabbages."</p>
+          <p xml:id="bryher_twoselves_130611">"Oh, but it's awfully expensive to do that. Eleanor told me, and she was on the Conservation of London Food Supply that they worked out it cost three times as much to raise a potato in a town as to bring it from Australia. There's something wrong with the soil."</p>
+          <p xml:id="bryher_twoselves_130612">"That has always been our ruin, taking from other countries. This generation has never had to depend on itself and you see the result-war." </p>
+          <p xml:id="bryher_twoselves_130613">"We have never been allowed to depend on ourselves", protested Nancy.</p>
+          <p xml:id="bryher_twoselves_130614">Mrs. Hearth smiled cynically and knitted on.</p>
+          <p xml:id="bryher_twoselves_130615">The red and white verbenas glittered in the sunlight. Here and there was a single plant of lavender purple. Red with a white centre, lavender blue, and red, they lined the path as rhythmically as the stitches growing under Mrs. Hearth's fingers.</p>
+          <p xml:id="bryher_twoselves_130616">"Shocking. Shocking our negligence. Have you heard, Nancy, about the statue of Achilles, the one near Hyde Park Corner?"</p>
+          <p xml:id="bryher_twoselves_130617">"No. Was it struck in an air raid? "</p>
+          <p xml:id="bryher_twoselves_130619">"You don't mean to say you haven't heard" Mrs. Hearth looked round cautiously, leaned over toward her and whispered: "they say there's a secret passage inside that statue and at night the Germans signal there. Out of the eyes. Red lights, <pb xml:id="bryher_twoselves_130618" n="114"/>green lights, and sometimes a yellow one. If you pass at dusk you can see it. A yellow light means "no raid". A green one means "aim to the left for Buckingham Palace." And the red one", she stopped speaking, all terrified excitement.</p>
+          <p xml:id="bryher_twoselves_130620">"What is the red one for?"</p>
+          <p xml:id="bryher_twoselves_130621">"Well, they are experimenting with a new gas. At Essen. The day the red light shines London will be annihilated. We shall be petrified as we are. . . knitting, making a bed up, reading the news. I do hope I shall be doing something useful. . . It would be awkward to be changing one's linen, for instance or taking a bath."</p>
+          <p xml:id="bryher_twoselves_130622">"But why don't they stop them signalling?"</p>
+          <p xml:id="bryher_twoselves_130623">"Why, why indeed! Our high places. . . not always as high as they might be. Though I will not have a word said against the dear Queen. A virtuous woman is a treasure from the Lord."</p>
+          <p xml:id="bryher_twoselves_130624">A slight wind stirred the flowers and the apple tree over the hedge; between the lattice Nancy could see the bulbs drying in the spare patch of ground behind the kitchen garden. "I really came to see your mother", Mrs. Hearth laid her scarf down in her lap, "about a vacancy in the local Food Control. They need an extra girl in the office." </p>
+          <p xml:id="bryher_twoselves_130625">"Oh!"</p>
+          <p xml:id="bryher_twoselves_130626">"I thought it would be a lovely chance for you dear. It's quite <hi rend="italic">unskilled</hi> labour. Just sorting cards. The hours are from nine to four."</p>
+          <pb xml:id="bryher_twoselves_130627" n="115"/>
+          <p xml:id="bryher_twoselves_130628">"That's very kind of you but. . ." </p>
+          <p xml:id="bryher_twoselves_130629">"You are very young, Nancy, but it would be a privilege for me to feel that I had persuaded you to realize your duties toward the community. Think how happy you would be with our ration cards in your hands. How glad, when the Peace day flags are flown, that in the small way we civilians are privileged to share, you also had helped to annihilate the Huns."</p>
+          <p xml:id="bryher_twoselves_130630">"I wonder if I should like to feel that", Nancy questioned. It was wrong, terribly wrong of her but Mrs. Hearth always freed her usually dormant sense of mischief. "And you see, I have work to do now, important work." She tried to look mysterious.  </p>
+          <p xml:id="bryher_twoselves_130631">"Oh, my dear, what is it?" Mrs. Hearth, her face an interrogation, leaned forward. She must know. . . she must know. . .</p>
+          <p xml:id="bryher_twoselves_130632">"Oh, here are the others back again", Nancy turned, evading the question.</p>
+          <p xml:id="bryher_twoselves_130634">"I don't ask you, Nancy, in any spirit of vulgar curiosity, but I've known you all my life. Whisper to me what you have taken up. I will respect your confidence. . . " Mrs. Hearth's eyes almost projected the vision of the bandage making room where she would say next Monday, "that girl, you know, has come to her senses at last. Not spoilt as you might think. She has taken up (was it a crêche, motor driving, painting aeroplanes wings) she has taken <pb xml:id="bryher_twoselves_130633" n="116"/>up. . ." Mrs. Hearth hurried behind Nancy down the lawn. "You will tell me, won't you dear?"</p>
+          <p xml:id="bryher_twoselves_130635">"What it is I am doing? Oh, I must be getting off to my lesson. Thank you so much for being interested."</p>
+          <p xml:id="bryher_twoselves_130636">"But what is it? " begged Mrs. Hearth piteously. Nancy turned with a smile.</p>
+          <p xml:id="bryher_twoselves_130637">"I'm learning Greek."</p>
+          <pb xml:id="bryher_twoselves_130638" n="117"/>
+        </div>
+        <div xml:id="bryher_twoselves_013" n="11" type="Chapter">
+          <head>CHAPTER XI <lb/> MEETING</head>
+          <p xml:id="bryher_twoselves_130639">"If you're cold there's a spare blanket at the bottom of the bed."</p>
+          <p xml:id="bryher_twoselves_130640">"Thanks but I'll be all right. I've got on woolly pyjamas."</p>
+          <p xml:id="bryher_twoselves_130641">Nancy lay watching the stars set overhead like thousand stamens in some purple daisy. The tall silver leaves of a eucalyptus tree fell over the parapet about the flat roof. She had always wanted to sleep out of doors. And this was like being on the deck of a ship with the Newlyn lights, tiny flashes of gold, cutting between the branches. If one raised one's self, one saw the black masts of boats.</p>
+          <p xml:id="bryher_twoselves_130642">"What fun," said Doreen.</p>
+          <p xml:id="bryher_twoselves_130643">"I should have thought it would be colder." </p>
+          <p xml:id="bryher_twoselves_130644">"The roof is dry. That helps."</p>
+          <p xml:id="bryher_twoselves_130646">Over the trees behind them day fell, a wild rose topping on dark brambles. There was the hoot of <pb xml:id="bryher_twoselves_130645" n="118"/>an owl. The bark of a dog. Footsteps. Sounds were silver in this night that had hardly faded from twilight. Strange how right poets were; if only one had a chance to test them. Nice word of Middleton's, "twitterlight." It suggested the movement of shadows. America lay over the water, China. The black convoy. The same convoy as two years ago, sailing past. Beautiful light of boats, beautiful stars. "Can't help seeing the stars as beauty, to-night. If the way I say it is a cliché." Stars, stamens of wild rose, sky. One thought of the night as that, automatically. Hoot of another owl. Dark grey against the silver.</p>
+          <p xml:id="bryher_twoselves_130647">Owls are soft and warm, like baby gulls. Like Greek words.</p>
+          <p xml:id="bryher_twoselves_130648">"Strange she should be so near," said Nancy, thinking of the letter she had just posted.</p>
+          <p xml:id="bryher_twoselves_130649">"Oh, Cornwall's a great place for poets," Doreen said, too calmly.</p>
+          <p xml:id="bryher_twoselves_130650">"If she doesn't answer, I'm going to fall into the cove and she can hardly refuse to let me sit by her fire and dry my clothes."</p>
+          <p xml:id="bryher_twoselves_130651">"You could say you had seen a spy signalling from the cliffs and would she mind if you watched from her garden."</p>
+          <p xml:id="bryher_twoselves_130652">"I might offer to sell her a pot of jam."</p>
+          <p xml:id="bryher_twoselves_130653">"If she eats it." </p>
+          <p xml:id="bryher_twoselves_130655">"True. She may not worry about such matters. I should think she would though. Most poets are <pb xml:id="bryher_twoselves_130654" n="119"/>interested in food. There's hardly an Elizabethan play without a banquet in it and the Greeks must have been frightfully particular about their meals to judge from the times fat roast kid is mentioned. Anyhow I'll get there some way. The cove sounds the best idea. I could hide some dry clothes in a furze bush and dip the others in the sea. She may have a cook though. That would be awkward."</p>
+          <p xml:id="bryher_twoselves_130656">"She may answer your letter."</p>
+          <p xml:id="bryher_twoselves_130657">"From a stranger? I doubt it. I could always say a bull was chasing me. Funny she should be so near."</p>
+          <p xml:id="bryher_twoselves_130658">"There's another owl. Hear it?"</p>
+          <p xml:id="bryher_twoselves_130659">"Yes. I'm worried about those stars. They're early yellow, you know, or primrose. But that's been said too often. Must say things a new way or cut them out. Do you think anyone's had "moongreen"? No, that's too clumsy even if they haven't. They're not yellow enough for honey. Too cold for honeysuckle. Tell you what they're a little like. . . the phosphorescence in the Naples bay."</p>
+          <p xml:id="bryher_twoselves_130660">"Let the stars alone. What happened to your novel?"</p>
+          <p xml:id="bryher_twoselves_130661">"Oh, that. I dropped it on some publisher's"</p>
+          <p xml:id="bryher_twoselves_130662">"Did they take it?"</p>
+          <p xml:id="bryher_twoselves_130663">"No. Wrote me after they'd had the thing two months to go and see them. They were more interested than I was. Asked me to give it a romantic ending and take it back to them."</p>
+          <p xml:id="bryher_twoselves_130664">"Are you going to?"</p>
+          <pb xml:id="bryher_twoselves_130665" n="120"/>
+          <p xml:id="bryher_twoselves_130666">"No. I don't feel romantic. And I have to feel things before I can write them. It would be much more fun to write a book on modern American poetry."</p>
+          <p xml:id="bryher_twoselves_130667">"Those eucalyptus leaves keep away the flies."</p>
+          <p xml:id="bryher_twoselves_130668">"What nights we've wasted. If only we had slept out other summers."</p>
+          <p xml:id="bryher_twoselves_130669">Scent of lavender and beans blew up. . . cool. . . cool. . . under the wide blue-purple sky. Knife of salt the air. Bees in the garden. The gold hive. World was poetry if one were let alone. Free. A poet near. Would she answer? It was too late anyhow. Too late to have a friend. To see, speak once or twice. Why live if one could not be free? Speak one's own thoughts. Be answered. Too late. Hylas, "a shooting star headlong in the sea." Why the salt wind stealing through the pansies ? Calling. Silly to feel the sea call still. Not to go back to London. . . to the same thoughts. . .eating one's own mind in a narrow room. Oh, the wild rose of the sky. Darkness, darkness, not to sleep, to be. . . adventure.</p>
+          <p xml:id="bryher_twoselves_130670">"Doreen, the stars. . . "</p>
+          <p xml:id="bryher_twoselves_130671">"What?" grunted a voice sleepily.</p>
+          <p xml:id="bryher_twoselves_130672">"I've got it. Cowslip buds. . . they're cowslip yellow."</p>
+          <p xml:id="bryher_twoselves_130673">The tide surged between the moving leaves, out to the far ships, called, crept in again. Night was anchored to the branches. Birds were still.</p>
+          <pb xml:id="bryher_twoselves_130674" n="121"/>
+          <p xml:id="bryher_twoselves_130675">"What do you want, Nancy?" Doreen grumbled. They were lying out on the sand opposite a large white gull. There was a tiny crust of foam beyond them where the tide crept gradually out. "How would it be different if you went away? You don't seem to want. . . what most girls want."</p>
+          <p xml:id="bryher_twoselves_130676">"I don't know what most girls want. They bewilder me; If I went away it would be different. It would be action. I would stop in England but I'd clash with people I had known. I could be myself better in another country."</p>
+          <p xml:id="bryher_twoselves_130677">"But how aren't you, yourself, now?" Doreen was a little peevish. "</p>
+          <p xml:id="bryher_twoselves_130678">"I am, lying here by this sea." Nancy assured her.</p>
+          <p xml:id="bryher_twoselves_130679">But she wasn't herself really. Only she could not explain this to Doreen. She could not tell her bluntly. . . if I did what I felt and shouted poems to the waves, to the gulls, you'd think I'd gone mad and you'd say, "stop being soft." Eleanor would understand my shouting stuff but she would not get why I would rather lie here thinking about a word than climb that cliff with her. You can't explain yourself to people when they don't know what you feel.</p>
+          <p xml:id="bryher_twoselves_130680">The gull flecked some sand specks from its wings. Spread the tips of them, met a wave. And then flew out of the water across the silver crests running to the shore, straight toward the open sky.</p>
+          <pb xml:id="bryher_twoselves_130681" n="122"/>
+          <p xml:id="bryher_twoselves_130682">Schools ought not to do things suddenly to children. It was all that day at Downwood. Something had cleft her from herself. She was two personalities now, sitting on the sand. Something, like an axe, had hit her and taught her to keep hidden in herself. Because people found out what you cared about and hurt you through it, when you would not agree with them.</p>
+          <p xml:id="bryher_twoselves_130683">Keep the mind straight. Nothing else mattered. It was very funny. Only they had shut the girl round the corner up. Easy enough to call anyone queer. Good thing perhaps-this disassociation trick. If you spoke straight out your thought they called you queer and shut you up. That was if you were rich. If you were poor and spoke your mind you lost your job. Then you starved. So it came to the same thing in the end.</p>
+          <p xml:id="bryher_twoselves_130684">Civilization. . . fighting for civilization! Had anyone stopped to think what a rotten substance it was?</p>
+          <p xml:id="bryher_twoselves_130685">With Carthage a flame and with Troy broken there was one way out.</p>
+          <p xml:id="bryher_twoselves_130686">Ah, not to live a slave, not that.</p>
+          <p xml:id="bryher_twoselves_130687">Shrug one's shoulders and watch the sea. If there were no other way, walk forward. Into the waves. Life was straight and death was straight but between them was a lie. Life one loved. The gulls, the wind. But if it were impossible to have truth otherwise, go forward. Till the water clashed into the ears. Arms al the sides, the Viking way.</p>
+          <pb xml:id="bryher_twoselves_130688" n="123"/>
+          <p xml:id="bryher_twoselves_130689">All the wisdom that one had not learned. Curious insistent memory. The sea below Corinth.</p>
+          <p xml:id="bryher_twoselves_130690">It would have to be decided soon. It was a pity to throw life away, yes. But if one didn't have life? "Perhaps you'll be able to make this writer you've written to, understand what you mean," Doreen suggested grimly.</p>
+          <p xml:id="bryher_twoselves_130691">"Oh, it will be amusing to see her. But I don't expect much from the meeting. Writers are disappointing after their books."</p>
+          <p xml:id="bryher_twoselves_130692">She could not wish even, any more. "Come along, we'd better start up the hill. It's getting late."</p>
+          <p xml:id="bryher_twoselves_130693">She must not be eager. She must not expect. Could she stay longer than an hour? To meet poets, people said, was always disappointing. Especially if one liked their work. But a writer would know about books. One could forgive much to a mind that felt as one's own mind. That could write in words the beauty that left one dumb. Only she, Nancy, had nothing to offer to a poet in exchange for life or words.</p>
+          <p xml:id="bryher_twoselves_130694">She had never heard words spoken. Real words. Only the headlines of the papers repeated over and over again. Or the phrases of an older generation that had no link with her thought. Never words leaping, shining with meaning, saying a fact.</p>
+          <p xml:id="bryher_twoselves_130696">A brown calf trotted toward the sea. Foxgloves, wet with rain, spiked the bracken with their Tyrian <pb xml:id="bryher_twoselves_130695" n="124"/>bells. It was an old Phoenician path that curved, black earth between grey stones, along the line of the hill.</p>
+          <p xml:id="bryher_twoselves_130697">Beauty was escape; beauty was another world. Greek chariots, the rainbow of the ships. That childhood in Sicily long ago. (Almond blossoms, you are soft, you are the dove white rain.) The mad rough world of Middleton. Knossos of the scarlet poppies. I understand her mind. Thoughts, thoughts.</p>
+          <p xml:id="bryher_twoselves_130698">"What have you read?" That would be sure to be the first question. She knew the Elizabethans backward. "No, I never got through the Arcadia but I like Euphues." She ought to be all right on the French stuff. Twenty four. And she had read everything she could in preparation for this day since she was ten.</p>
+          <p xml:id="bryher_twoselves_130699">There was a noise of bird songs. The brown butterfly speckled wings of a hawk fluttered from the cliff. Was something going to happen to her at last?</p>
+          <p xml:id="bryher_twoselves_130700">It was too late to care.</p>
+          <p xml:id="bryher_twoselves_130701">If she found a friend they might shut her up. Everyone, Eleanor, Doreen, Downwood. Because if she had a friend something would burst and she would shoot ahead, be the thing she wanted and disgrace them by her knowledge. Because she would care for no laws, only for happiness.</p>
+          <p xml:id="bryher_twoselves_130702">If she found a friend, an answer, the past years would vanish utterly from her mind. </p>
+          <p xml:id="bryher_twoselves_130704">At all costs they would fight to break this; <pb xml:id="bryher_twoselves_130703" n="125"/>everyone she had known. They tried already when she had no friend.</p>
+          <lb/>
+          <p xml:id="bryher_twoselves_130705">"Why do you want to go to America, Nancy?"</p>
+          <p xml:id="bryher_twoselves_130706">"Why can't you settle down?" </p>
+          <p xml:id="bryher_twoselves_130707">"Why can't you behave like other girls?"</p>
+          <p xml:id="bryher_twoselves_130708">"The trouble is, you've had your own way too much."</p>
+          <lb/>
+          <p xml:id="bryher_twoselves_130709">An eye for an eye. A school for a school. Something deep and slow and vengeful had grown in her. She wanted her experience to triumph, her sense of truth. To sow beauty, to sow happiness, where Miss Sampson sowed acquiescence and a nation sowed brutality.</p>
+          <p xml:id="bryher_twoselves_130710">Better not try to find a friend. Better drown under the cliffs. One stab of water and no fear more "Dying is ceasing to be afraid. . . dying. . . is ceasing be afraid." Wycherley was a moralist and they put him in prison. Wycherley laughed at the horde; they broke him. "Ceasing to be afraid", he said. Better be done with it, under the cliff, forget the anemones, the sea call, the adventures. One choke of water and no fight more. Better not try to find. . .</p>
+          <p xml:id="bryher_twoselves_130711">But the Phoenician path stopped at a grey cottage that faced the south-blue sea. Familiar yellow covers, French books, were piled at an open window. Better not try to find. . . oh, take a chance on adventure.</p>
+          <pb xml:id="bryher_twoselves_130712" n="126"/>
+          <p xml:id="bryher_twoselves_130713">This was the place. She knocked.</p>
+          <p xml:id="bryher_twoselves_130714">She was too old to be disappointed if an elderIy woman in glasses bustled out. Poets, of course, were not what they wrote about. It was the mind that mattered.</p>
+          <p xml:id="bryher_twoselves_130715">A tall figure opened the door. Young. A spear flower if a spear could bloom. She looked up into eyes that had the sea in them, the fire and colour and the splendour of it. A voice all wind and gull notes said:</p>
+          <p xml:id="bryher_twoselves_130716">"I was waiting for you to come."</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

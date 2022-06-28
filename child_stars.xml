@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="child_stars_130256">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>The Stars and Stripes: A Melodrama, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Child, Lydia Maria Francis, 1802-1880</reg><orig>Lydia Maria Child</orig></choice></name>
+          
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>75kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="child_stars_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Emory Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17bd6</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Child, Lydia Maria. The Stars and Stripes: A Melodrama. <publisher>National Anti-Slavery Standard</publisher> (January 23 and 30, <date>1853</date>): 4. (Originally published in The Liberty Bell)</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="child_stars_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Abolition, Freedom, and Rights</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Drama</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Slaves--United States--Social conditions--Drama.</item>
+            <item>Fugitive slaves--United States--Drama.</item>
+            <item>Antislavery movements--United States--Drama.</item>
+            <item>American drama--Women authors--19th Century.</item>
+            <item>Race relations.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2000</date><label>Staff</label><name>Anna Engle</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck
+	    Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="child_stars_130255">
+    <body xml:id="child_stars_130254">
+      <div xml:id="child_stars_001" type="Drama">
+        <docAuthor>Lydia Maria Child</docAuthor>
+        <head>The Stars and Stripes: A Melodrama</head>
+        
+        <bibl><title>National Antislavery Standard</title>(January 23 and 30, 1853): 4.</bibl>
+        <p xml:id="child_stars_1303">Scene I.</p>
+        <p xml:id="child_stars_1304">[A planter's house, with negro huts in the rear of it. The Fourth of July. On the open lawn, under the shadow of a group of trees, is a pic-nic table spread with fruit, flowers, decanters of wines, &amp;c. Near by, is an arch made of evergreens, with the word LIBERTY interwoven with flowers. A group of Carolinians, at the table, are singing a verse of "Adams and Liberty." At the close of the verse, they rise, touch glasses, and swinging them triumphantly, sing, "Ne'er shall the sons of Columbia be slaves!"</p>
+        <p xml:id="child_stars_1305">[While they are singing, the American Flag is brought in by two negroes, attended by a vulgar-looking overseer, somewhat intoxicated. On the top of the flag-staff is a Liberty Cap, which falls, accidentally, while they are attempting to plant the pole in the ground. William, a genteel-looking light mulatto, the personal attendant of Mr. Masters, picks it up, and, excited by the general exhilaration, he claps it on his head, with a smile. The overseer snatches it off, and gives him a box on the ear.]</p>
+        <p xml:id="child_stars_1306"><hi rend="italic">Overseer</hi>.---Take <hi rend="italic">that</hi>, you black rascal!</p>
+        <p xml:id="child_stars_1307">[William turns upon him quickly, half raises his hand in anger, then lowers it, and walks sullenly away.]</p>
+        <p xml:id="child_stars_1308"><hi rend="italic">Overseer</hi>.---Strike <hi rend="italic">me</hi>, will you? You'd better <hi rend="italic">try</hi> striking a white man, and see what you'll <hi rend="italic">git</hi> by it.</p>
+        <p xml:id="child_stars_1309">There, take another, you damned
+nig!</p>
+        <p xml:id="child_stars_13010">[He strikes him again. William's breast swells, and his
+eyes flash, but he remains motionless. A youth at the pic-nic table
+exclaims:]</p>
+        <p xml:id="child_stars_13011">Serves him right! Damn his impudence! That'll teach him to remember the difference between masters and niggers.</p>
+        <p xml:id="child_stars_13012">[While this scene has been going on, the flag-staff has been firmly fixed in the ground, and the American flag, surmounted by the Liberty Cap, is floating in the breeze. The gentlemen wave their handkerchiefs toward it, hurra, and sing:]</p>
+        <lg type="stanza">
+          <l n="1">"'Tis the star-spangled banner! O long may it wave</l>
+          <l>O'er the land of the free and the home of the brave!"</l>
+        </lg>
+        <p xml:id="child_stars_13013"><hi rend="italic">Mr. Masters</hi>.---A pleasant scene this, eh?</p>
+        <p xml:id="child_stars_13014"><hi rend="italic">Mr. North</hi>.---I never spent a happier Fourth of July; and I consider it a great piece of good luck that I happen to be in this beautiful part of the country, to witness such a celebration. How I pity the poor oppressed people in Europe, who have no idea what liberty is!</p>
+        <p xml:id="child_stars_13015"><hi rend="italic">Masters</hi>.---Their situation is, indeed, pitiable. If they happen to get any ideas of freedom, by visiting our happy country, and seeing the working of our free and equal institutions, they are obliged to conceal their thoughts when they get home; otherwise, they would soon be silenced by some king, emperor, or pope. The British tried that game with <hi rend="italic">us</hi>; but they found it was no go. You like the South, do you sir?</p>
+        <p xml:id="child_stars_13016"><hi rend="italic">North</hi>.---I consider it the best and most favoured [sic] portion of the country, sir. But it's none too good for the true gentlemen and true Democrats that govern it. Here's none of the cursed aristocracy there is in Boston. I've traded round in New England these ten years, and no rich gentleman ever invited me to his house. Here, I find one man's as good as another.</p>
+        <p xml:id="child_stars_13017"><hi rend="italic">Masters</hi>.---"And a damned sight better," as the Irishman said. By the way, that Irish patriot, Mitchel, is a fine, sensible fellow, and a first rate democrat.</p>
+        <p xml:id="child_stars_13018"><hi rend="italic">North</hi>.---So he is, sir. No sentimental twaddle about <hi rend="italic">him</hi>. I am of his opinion. There's nothing I should like better than a well-stocked plantation, myself.</p>
+        <p xml:id="child_stars_13019"><hi rend="italic">Masters [slapping him heartily on the shoulder]</hi>.---Perhaps you will have it some day. So you don't believe what the Abolitionists tell about us? Eh?</p>
+        <p xml:id="child_stars_13020"><hi rend="italic">North</hi>.---Don't I see for myself, that their stories are a cursed pack of lies? I am free to say that I never set eyes on a happier set of fellows than your slaves.</p>
+        <p xml:id="child_stars_13021"><hi rend="italic">Masters</hi>.---We always call 'em <hi rend="italic">boys</hi>, sir. We never say slaves. I feed my boys well, and clothe 'em well, as you see. They're so attached to me and their mistress that we couldn't <hi rend="italic">whip</hi> 'em away from us, if we <hi rend="italic">tried</hi>. [<hi rend="italic">He beckons to his mulatto servant, William.</hi>] Hallo, Bill! I say, Bill, you don't want your freedom, do you, you dog?</p>
+        <p xml:id="child_stars_13022"><hi rend="italic">William</hi>.---Oh, no, massa.</p>
+        <p xml:id="child_stars_13023"><hi rend="italic">Masters</hi>.---You wouldn't thank me for it, if I'd give it to you. <hi rend="italic">Would</hi> you?</p>
+        <p xml:id="child_stars_13024"><hi rend="italic">William</hi>.---No, indeed, massa. I'd rather be a stray dog than a free nigger.</p>
+        <p xml:id="child_stars_13025"><hi rend="italic">Masters</hi>.---That's right, Bill! You may go. Mr. North, you can tell that to the bobolitionists, when you get back to Yankee-land. <hi rend="italic">You</hi> are a competent witness; for you have seen with your own eyes, and heard with your own ears.</p>
+        <p xml:id="child_stars_13026"><hi rend="italic">North</hi>.---So I have, sir; and I shall be proud to bear testimony in favour of your patriarchal institution.</p>
+        <p xml:id="child_stars_13027"><hi rend="italic">Masters [slapping him on the shoulder]</hi>.---I see that you are a man of sense. But let us rejoin my guests; they are preparing to give a toast.</p>
+        <p xml:id="child_stars_13028">[A guest at the pic-nic table rises and proposes a toast:]</p>
+        <p xml:id="child_stars_13029">Confusion to the Abolitionists! If we catch one of 'em here we'll give him a suit of tar and feathers, and ride him on a rail.</p>
+        <p xml:id="child_stars_13030"><hi rend="italic">North</hi>.---Serve him right, too. I should like to <hi rend="italic">help</hi> you do it.</p>
+        <p xml:id="child_stars_13031"><hi rend="italic">Masters</hi>.---You're a true patriot, sir. If we catch one of the canting crew here, he'll run a fair chance of being treated as our brave Brooks served that miserable traitor, Sumner.</p>
+        <p xml:id="child_stars_13032">[The tipsy overseer swings his glass, and sings:]</p>
+        <lg type="stanza">
+          <l>We'll feather him,</l>
+          <l>And ride him on a rail,</l>
+          <l>Then black his ugly face,</l>
+          <l>And lock him up in jail.</l>
+          <l>If he speaks, we'll pull the trigger,</l>
+          <l>And shoot him dead as any nigger.</l>
+        </lg>
+        <p xml:id="child_stars_13033">[Masters, waving his hand to silence them, says:]</p>
+        <p xml:id="child_stars_13034">One of our friends has composed a song for this occasion. Please give the gentleman an opportunity to sing it.</p>
+        <p xml:id="child_stars_13035">THE FILIBUSTERS' SONG</p>
+        <lg type="stanza">
+          <l>What nation can with us compare,</l>
+          <l>In brav'ry, skill, or worth?</l>
+          <l>Was ever a people like to us,</l>
+          <l>Upon the wide, wide earth?</l>
+        </lg>
+        <lb/>
+        <lg type="stanza">
+          <l><hi rend="italic">Chorus</hi>.</l>
+          <l>John Bull! you'd better not set bounds</l>
+          <l>Unto our bold career!</l>
+          <l>A whipping they will surely get,</l>
+          <l>That dare to interfere.</l>
+        </lg>
+        <lb/>
+        <lg type="stanza">
+          <l>We'll take and keep whate'er we like,</l>
+          <l>And ask no leave of man;</l>
+          <l>"For they should take who have the power,</l>
+          <l>And they should keep who can."</l>
+        </lg>
+        <lb/>
+        <lg type="stanza">
+          <l><hi rend="italic">Chorus</hi>.---John Bull! you'd better not set bounds, &amp;c.</l>
+        </lg>
+        <lb/>
+        <lg type="stanza">
+          <l>We've set our foot on Mexico,</l>
+          <l>And got her mines of gold,</l>
+          <l>And land enough for twenty States,</l>
+          <l>Where niggers may be sold.</l>
+          <l><hi rend="italic">Chorus</hi>.---John Bull! &amp;c.</l>
+        </lg>
+        <lb/>
+        <lg type="stanza">
+          <l>The isle of Cuba we will wrest</l>
+          <l>From the weak hand of Spain,</l>
+          <l>On Hayti, too, we'll get strong hold,</l>
+          <l>And rule the Central Main.</l>
+          <l><hi rend="italic">Chorus</hi>.---John Bull! &amp;c.</l>
+        </lg>
+        <lb/>
+        <lg type="stanza">
+          <l>And if it suits our sovereign will</l>
+          <l>T'annex the planet Mars,</l>
+          <l>What business need it be to <hi rend="italic">you</hi>,</l>
+          <l>How we increase our stars?</l>
+          <l><hi rend="italic">Chorus</hi>.---John Bull! &amp;c.</l>
+        </lg>
+        <lb/>
+        <lg type="stanza">
+          <l>'Tis plain that Fate marks us to be</l>
+          <l>The masters of the world!</l>
+          <l>O'er Sandwich Isles, and far Niphon,</l>
+          <l>Our flag shall be unfurled.</l>
+          <l><hi rend="italic">Chorus</hi>.---John Bull! &amp;c.</l>
+        </lg>
+        <p xml:id="child_stars_13036"><hi rend="italic">Masters</hi>.---That's a capital song.</p>
+        <p xml:id="child_stars_13037"><hi rend="italic">North</hi>.---Brim full of patriotism. We <hi rend="italic">are</hi>a wonderful nation, that's a fact.</p>
+        <p xml:id="child_stars_13038">[<hi rend="italic">Guests of the table.</hi>]---Encore! Encore!</p>
+        <lb/>
+        <p xml:id="child_stars_13039">SCENE II.</p>
+        <p xml:id="child_stars_13040">[Cotton fields and negro huts two miles from the planter's house. Evening of the Fourth of July. Pine torches stuck in the trees. Slaves dancing about, half tipsy, singing:]</p>
+        <lg type="stanza">
+          <l>Hurra for Dependent Day!</l>
+          <l>Hurra! de nigger may play!</l>
+          <l>Ole hoe on de groun he lay</l>
+          <l>Ole massa gib rum to-day.</l>
+          <l>Drink, boys, drink! for we no pay,</l>
+          <l>Hurra for Dependent Day!</l>
+        </lg>
+        <p xml:id="child_stars_13041"><hi rend="italic">Old Negro Woman</hi>.---Stop dat ar! Jim's gwine to sing; and you all know Jim's extr'ornary.</p>
+        <p xml:id="child_stars_13042">Jim, a merry-looking black lad, sings to the accompaniment of his banjo:]</p>
+        <lg type="stanza">
+          <l>"Come, broders, let us leave</l>
+          <l>Dis Buckra lan for Hayti;</l>
+          <l>And dar we be receive</l>
+          <l>As Gran as Lar-fay-<hi rend="italic">i</hi>-tee.</l>
+        </lg>
+        <lb/>
+        <lg type="stanza">
+          <l>"Dar we'll make a mighty show,</l>
+          <l>In gran-hus, as you'll see;</l>
+          <l>I shall be all the go,</l>
+          <l>And you like Gub'nor Shootsy.</l>
+        </lg>
+        <lb/>
+        <lg type="stanza">
+          <l>"Dar no more barrow wheel;</l>
+          <l>And dat's a mighty jerkus;</l>
+          <l>Dar no more 'bliged to steal,</l>
+          <l>And den be sent to work-hus.</l>
+        </lg>
+        <lb/>
+        <lg type="stanza">
+          <l>"We'll dance in great big hall,</l>
+          <l>Will hole full half a million;</l>
+          <l>We'll dance togeder all</l>
+          <l>What white man call cotillion.</l>
+        </lg>
+        <lb/>
+        <lg type="stanza">
+          <l>"We'll lead our partners out,</l>
+          <l>Forward two, and backy;</l>
+          <l>Cross hans, an wheel about,</l>
+          <l>And den go home in hacky."</l>
+        </lg>
+        <lb/>
+        <p xml:id="child_stars_13043">[Jim receives great applause. The slaves exclaim, Dat's fustest rate! They jump about, laughing and singing:]</p>
+        <p xml:id="child_stars_13044">Hurra for Dependent Day!</p>
+        <p xml:id="child_stars_13045">[Jim waves his hand with an air of importance, and says:]</p>
+        <p xml:id="child_stars_13046">Now, you niggers, b'have spectable! will yer? I'se done got ready a song, spressly for dis 'casion.</p>
+        <p xml:id="child_stars_13047">[He takes his banjo and sings:]</p>
+        <lb/>
+        <lg type="stanza">
+          <l>I hearn massa tell 'em so!</l>
+          <l>All de folks born free in dis 'ere country, O!</l>
+          <l>But when I 'ave ask if Jim born so,</l>
+          <l>Den my master tell me no.</l>
+        </lg>
+        <lb/>
+        <lg type="stanza">
+          <l>Mighty queer some tings I know,</l>
+          <l>If all folks born free in dis 'ere country, O!</l>
+          <l>Dis nigger he know dat tings no go,</l>
+          <l>Jus as massa tole 'em O!</l>
+        </lg>
+        <lb/>
+        <p xml:id="child_stars_13048">[This performance is received with guffaws of laughter, and repetitions of--]</p>
+        <lg type="stanza">
+          <l>Dis nigger he knows dat tings no go,</l>
+          <l>Jus as massa tole 'em, O!</l>
+        </lg>
+        <p xml:id="child_stars_13049">[Jim again waves his hand magisterially, and says:]</p>
+        <p xml:id="child_stars_13050">Nuff of dat ar! I'se gwine to sing the great big song dat white folkds made spressly fur dis splendiferous day, when Freedom was dispensed wid throughout dis ere land. Come, broders and sisters, jine wid me!</p>
+        <p xml:id="child_stars_13051">[They sing:]</p>
+        <p xml:id="child_stars_13052">"Fur n'er shall de sons of Columby be slaves."</p>
+        <p xml:id="child_stars_13053">[White men rush in among them, brandishing whips:]</p>
+        <p xml:id="child_stars_13054">Damn your impudence, you black rascals! What are you at? Off with you! Every nigger of you! If one of you is seen out again to-night, he'll be tied up and get thirty-nine, well laid on. Off with you!</p>
+        <p xml:id="child_stars_13055">[The slaves disperse hastily. Jim hides himself with one of his companions. When the white men have gone, they step out on tiptoe, stealthily. Jim nudges his companion, gyrates his finger on his nose, and says with great gravity.]</p>
+        <p xml:id="child_stars_13056">Sambo, jus touch de banjo, while I sing--</p>
+        <p xml:id="child_stars_13057">"Hail Columby! <hi rend="italic">happy</hi> lan!"</p>
+        <lb/>
+        <p xml:id="child_stars_13058">SCENE III.</p>
+        <p xml:id="child_stars_13059">[Interior of one of the servants' huts, in the rear of Mr. Master's house. The mulatto, William sits leaning his head thoughtfully on his hand, while Ellen, his wife, clears their frugal supper-table. Being favourite personal attendants upon their master and mistress, they have caught the language of genteel white people, and are familiar with the music they have heard in the parlour. Ellen, who might pass for a white woman, has an air of refinement in her dress and motions; and as she glides about the humble little apartment she now and then sings snatches of favourite operas. From time to time she glances uneasily at her husband, and at last playfully places her hand on his shoulder, while she sings:]</p>
+        <lb/>
+        <lg type="stanza">
+          <l>My love is sad! my love is sad!</l>
+          <l>What shall I do to please him?</l>
+          <l>Will he be glad, will he be glad</l>
+          <l>To have his Ellen tease him?</l>
+        </lg>
+        <lb/>
+        <p xml:id="child_stars_13060">[Meeting with no response, she chants slowly, with a kind of mock solemnity:]</p>
+        <lg type="stanza">
+          <l>Shall I sing to him of the cold, dim moon,</l>
+          <l>Sailing through weeping clouds over a tomb?</l>
+          <l>Shall I sing <hi rend="italic">so</hi>?</l>
+        </lg>
+        <lb/>
+        <p xml:id="child_stars_13061">[She stoops to look up in his troubled face, then springs back, singing gaily and rapidly:]</p>
+        <lb/>
+        <lg type="stanza">
+          <l>No, no, no, no,</l>
+          <l>I wont sing so:</l>
+          <l>But like the summer morning.</l>
+          <l>When streamlets flow,</l>
+          <l>Bright dew-drops glow,</l>
+          <l>And birds salute the dawning.</l>
+        </lg>
+        <lb/>
+        <lg type="stanza">
+          <l>Rich warble and gush!</l>
+          <l>Quick twitter and trill!</l>
+          <l>The twirling notes rush</l>
+          <l>Like drops from a mill.</l>
+        </lg>
+        <lb/>
+        <p xml:id="child_stars_13062">[While she sings, William's countenance gradually relaxes into a smile. He looks up with fond admiration, and says:]</p>
+        <p xml:id="child_stars_13063">Really, Jim was in the right, when he said it was extror'nary what yer upter. I believe the music master never gave young missis a lesson, without your learning it by heart at the very first hearing. And <hi rend="italic">she</hi>! what a bungling piece of work she makes with a new tune, even when she has been practising [sic] a month! What a shame that <hi rend="italic">she</hi> should have a grand piano, while <hi rend="italic">you</hi> haven't even an accordion!</p>
+        <p xml:id="child_stars_13064"><hi rend="italic">Ellen</hi>.---Never mind, Willie, dear! God has given me an ear and a voice; and <hi rend="italic">they</hi> can't be <hi rend="italic">bought</hi>, like a piano.</p>
+        <p xml:id="child_stars_13065"><hi rend="italic">William [with mournful earnestness]</hi>.---But they can be <hi rend="italic">sold</hi>, Ellen! They can be <hi rend="italic">sold</hi>! I tremble when I hear you sing so sweetly, for fear somebody will buy you for the sake of your ear and voice. If a large price was offered, do you suppose massa would hesitate to sell you? Not <hi rend="italic">he</hi>! Wasn't my handsome sister sold to a New Orleans trader, in order to raise money to buy that cursed piano? I want to smash all the wires whenever I see it.</p>
+        <p xml:id="child_stars_13066"><hi rend="italic">Ellen [caressingly]</hi>.---You are sad and cross to-night, Willie. I'm afraid you're like the rest, head-achy with drinking, yesterday, and tired out with hurraing for Independence.</p>
+        <p xml:id="child_stars_13067"><hi rend="italic">William [contemptuously]</hi>.---<hi rend="italic">Independence!</hi> What a mockery! I hurraed with the rest, for fear they would take notice if I did not, and make it a pretext to hang me, on the charge of plotting an insurrection. How I wanted to kick that fellow that struck me for putting on the Liberty Cap for fun! I didn't think of it when I put on the Cap, but perhaps there was an omen in it. Thoughts have been very busy in my head since yesterday morning; and it isn't the <hi rend="italic">first</hi> time that the Fourth of July has set me to thinking. I told you what a rage massa was in about a newspaper sent to him from Boston. He said some damned Abolitionist had done it. He tore it into fifty pieces, and ground them under the heel of his boot. I found some of the crumpled pieces among the bottles, under the pic-nic table. I hid them in my shoes, and I've been reading them, till I've learned them by heart. Here is a verse that I shall always think of whenever I see the flags flying on Independent day. [<hi rend="italic">He reads from a scrap of newspaper:</hi>]</p>
+        <lb/>
+        <lg type="stanza">
+          <l>"Oppression should not linger</l>
+          <l>Where starry banners wave;</l>
+          <l>The swelling shout of Freedom</l>
+          <l>Should echo for the slave."</l>
+        </lg>
+        <lb/>
+        <p xml:id="child_stars_13068"><hi rend="italic">Ellen</hi>.---O pray burn all those scraps of paper, Willie. If they should find out that you picked them up and saved them, it might cost you a dreadful flogging.</p>
+        <p xml:id="child_stars_13069"><hi rend="italic">William [laughingly]</hi>.---Why should he be afraid to have his slaves read Abolition papers? You know he says he couldn't <hi rend="italic">whip</hi> 'em away from him, if he <hi rend="italic">tried</hi>. How came massa and missis to take <hi rend="italic">free</hi> negroes with them, when they started for the North, this morning? Why are you and I to be sent to his brother's, to-morrow, to stay till they come back? Of course, it is because they are so sure that they couldn't <hi rend="italic">whip</hi> us away from 'em, if they <hi rend="italic">tried</hi>. Heaven knows there's been whipping enough on the plantation to drive 'em all off, if <hi rend="italic">whipping</hi> would do it. Yet how coolly he tells the lie before our very faces, and calls upon us to confirm it, because he knows we dare not do otherwise. If the Yankees were half as 'cute as they're cracked up to be, I should think they would see through such shams. How <hi rend="italic">tired</hi> I am of hearing him repeat to every visitor that he couldn't <hi rend="italic">whip</hi> us away from him, if he <hi rend="italic">tried</hi>.</p>
+        <p xml:id="child_stars_13070"><hi rend="italic">Ellen</hi>.---And so am I, Willie. But there are things worse to bear than <hi rend="italic">that</hi>. I have been afraid to tell you all my troubles, for fear you would do something rash, and then they would burn you alive, as they did poor Peggy's husband. But now massa has gone away, and you will have time to get cool before he comes back; and so I will tell you all. When I am at the big house, sewing for missis, as sure as she goes out to ride, he comes into my room and asks me to sing, and tells me how pretty I am. And--and--I know by his ways that he don't mean any good. He gave me this breast-pin, and I was afraid not to take it. You know why poor Peggy's husband was to be sent off to Georgia, and how he tried to poison massa, when he found it out. Now massa says if I make him angry, he will sell <hi rend="italic">you</hi> to the traders.</p>
+        <p xml:id="child_stars_13071"><hi rend="italic">William [clenching his fist]</hi>.---The old villain! and he knows all the while that you are his own daughter!</p>
+        <p xml:id="child_stars_13072"><hi rend="italic">Ellen</hi>.---I told him <hi rend="italic">that</hi>, but he paid no attention to it. My poor, poor mother! I suppose <hi rend="italic">she</hi> was afraid, too; for I remember she always seemed so modest. Oh, it is a dreadful situation to be in! [<hi rend="italic">She bursts into tears.</hi>]</p>
+        <p xml:id="child_stars_13073"><hi rend="italic">William</hi>.---Don't cry, dear Ellen. It shall never be. <hi rend="italic">Never!</hi></p>
+        <p xml:id="child_stars_13074"><hi rend="italic">Ellen</hi>.---Oh, how can we help it? We are slaves; and there is no law to protect us. Sometimes I have thought I would tell missis all about it, and ask <hi rend="italic">her</hi> to protect me. But I am afraid to do it, for fear they will sell <hi rend="italic">me</hi> to Georgia traders, and keep you. I think missis begins to mistrust something; for she has been terribly cross to me lately. See how she burned my arm with hot sealing-wax, because I broke a tooth from her comb, when I was dressing her hair for their great ball, Independent night.</p>
+        <p xml:id="child_stars_13075">[<hi rend="italic">William stoops to kiss the arm, and says in a low tone:</hi>]</p>
+        <p xml:id="child_stars_13076">There is but <hi rend="italic">one</hi> way, dear Ellen. We know the North Star; we have often talked of following it; and we must start to-night, before massa's brother comes for us.</p>
+        <p xml:id="child_stars_13077"><hi rend="italic">Ellen</hi>.---Oh, Willie, if I only had courage enough! There seems to be nothing else left for us to do. But how <hi rend="italic">can</hi> we get away? The patrols are always about. There's a man, only a mile off, who keeps bloodhounds to track runaways, and massa's brother will certainly send for him when he finds we are gone.</p>
+        <p xml:id="child_stars_13078"><hi rend="italic">William</hi>.---He supposed us to be such contented slaves, that he won't hurry to come for us. Meanwhile, we must escape. Very likely the dogs will be after us; but it is better to <hi rend="italic">die</hi> by dogs than to live to be <hi rend="italic">treated</hi> as dogs. To-night is our only chance.</p>
+        <p xml:id="child_stars_13079"><hi rend="italic">Ellen</hi>.---But they say there are such deadly snakes in the swamps.</p>
+        <p xml:id="child_stars_13080"><hi rend="italic">William</hi>.---That is very true. Snakes may sting your <hi rend="italic">body</hi>, but they will not sting into the <hi rend="italic">soul</hi>, like the brutal overseer's lash; and that will be your portion, if you resist your master.</p>
+        <p xml:id="child_stars_13081"><hi rend="italic">Ellen</hi>.---Oh, Willie! [<hi rend="italic">She sobs violently.</hi>]</p>
+        <p xml:id="child_stars_13082"><hi rend="italic">William</hi>.---Come, dear Ellen, if you love me, try to be courageous. I know where there is a suit of young massa's clothes, and I have no doubt they will fit you. You can pass for a white lad, and I will be your servant.</p>
+        <p xml:id="child_stars_13083"><hi rend="italic">Ellen [smiling through her tears]</hi>.---I will tell them I couldn't <hi rend="italic">whip</hi> you away from me, if I <hi rend="italic">tried</hi>. Hark! What's that? Has there been anybody about, listening to what we've said?</p>
+        <p xml:id="child_stars_13084"><hi rend="italic">William [after a moment's silence]</hi>.---It's nobody but Jim. I thought it was his whistle. And don't you hear him singing, "The Blue-tailed Fly?" I wish I could be as thoughtless as that merry fellow.</p>
+        <p xml:id="child_stars_13085"><hi rend="italic">Ellen</hi>.---You can't, Willie, because you know too much.</p>
+        <p xml:id="child_stars_13086">[Jim enters, singing:]</p>
+        <lg type="stanza">
+          <l>"Jim crack corn-don't care!</l>
+          <l>Ole massa's gone away."</l>
+        </lg>
+        <p xml:id="child_stars_13087">[He gives a bobbing bow to Ellen, and says, with a knowing grin:]</p>
+        <p xml:id="child_stars_13088">Who's gwine to dress missis har? [<hi rend="italic">He nudges William, and adds, with a wink:</hi>] I'se boun dey tink bobolitionists wud talk to yer, if dey tuk yer way to de North. 'Peers like he's skeery. What's he skeered bout? You tole him, hunder times, you'd ruther be a stray dog nur a free nigger. Couldn't <hi rend="italic">whip</hi> dis ere nigger away. <hi rend="italic">Could</hi> he now? [<hi rend="italic">Puts his hands on his knees, and laughs aloud</hi>.]</p>
+        <p xml:id="child_stars_13089"><hi rend="italic">William</hi>.---Take care, Jim! Don't make so much noise! Those cursed patrols may be prowling about.</p>
+        <p xml:id="child_stars_13090"><hi rend="italic">Jim</hi>.---Sound asleep, I'se be boun for 'em. Tuckered out, and done up wid drinkin.</p>
+        <lg type="stanza">
+          <l>"Jim crack corn-don't care!</l>
+          <l>Ole massa's gone away."</l>
+        </lg>
+        <p xml:id="child_stars_13091"><hi rend="italic">Ellen</hi>.---I'm afraid some of the rum got into <hi rend="italic">your</hi> head, Jim.</p>
+        <p xml:id="child_stars_13092"><hi rend="italic">Jim</hi>.---Dis 'ere nigger's sober's deacon. I'se gwine to Metodest meetin. I'se boun to git religion. Now you'se an extror'nary critter! Up to ebery ting, jus de same as white folks. You know how massa write de pass. Mebbe you'd write a pass for Jim?</p>
+        <p xml:id="child_stars_13093">[Ellen looks inquiringly at her husband, who nods assent. While she is writing the pass, Jim begins to sing:]</p>
+        <lg type="stanza">
+          <l>I hearn massa tell 'em so!</l>
+          <l>All de folks born free in dis 'ere country, O!</l>
+        </lg>
+        <lb/>
+        <p xml:id="child_stars_13094"><hi rend="italic">William</hi>.---Hush! hush! Jim. You will bring us all into trouble with your noisy fun. If you <hi rend="italic">must</hi> be singing all the time, do sing "Old Dan Tucker," or "The Blue-tailed Fly," or something of that sort. But, tell, me, seriously, <hi rend="italic">is</hi> there a Methodist meeting in the woods, to-night?</p>
+        <p xml:id="child_stars_13095"><hi rend="italic">Jim</hi>.---I call dat ar an extror'nary question, when a spectable nigger asks to hab a pass gin to him. Dar's a mighty big meetin tree miles off, in Middleton Woods.</p>
+        <p xml:id="child_stars_13096">[Ellen hands him his pass.]</p>
+        <p xml:id="child_stars_13097"><hi rend="italic">Jim</hi>.--Tankee! Tankee! You've allers bin rale kine to dis 'ere nigger. Hope de Lord's got a blessin fur bofe on yer.  Good bye.</p>
+        <p xml:id="child_stars_13098"><hi rend="italic">Ellen</hi>.--Thoughtless as Jim seems, I reckon he's going further than Middleton Woods, to-night. Did you notice how he bid us good bye?</p>
+        <p xml:id="child_stars_13099"><hi rend="italic">William</hi>.--I had my own thought, as soon as he asked for a pass. If he wasn't so noisy, I should like to have him go with us. But it is safest to keep our own counsel, and go alone. I will go and bring young massa's clothes, and you must be thinking how to pass for a white young gentleman, if anybody speaks to us. Our greatest danger is in this county, where so many people know massa, and have seen me with him. But if you can only keep up your courage, Ellen, I trust the Lord will help us to arrive safe in Canada.</p>
+        <lb/>
+        <p xml:id="child_stars_130100">SCENE IV.</p>
+        <p xml:id="child_stars_130101">[A swampy island in the midst of a dense forest, the trees profusely hung with Virginia moss. Twilight is settling into evening, when William and Ellen creep stealthily toward the borders of the wood. They both look travel-worn and weary.]</p>
+        <p xml:id="child_stars_130102"><hi rend="italic">Ellen [in a low voice]</hi>.--How awfully lonesome was the spot where we have been hiding all the day! I expected every minute to be stung by a rattlesnake, or a cotton-mouth. How tired we must have been to drop asleep in such a place!</p>
+        <p xml:id="child_stars_130103"><hi rend="italic">William</hi>.--It was out of the way of white men, Ellen; and we have more cause to dread <hi rend="italic">them</hi> than we have to dread the snakes.</p>
+        <p xml:id="child_stars_130104"><hi rend="italic">Ellen</hi>.--I know it! I know it! Father of mercies! I seem to hear those blood-hounds yelping now. How close they came upon us! If we had crossed that brook a minute later, they wouldn't have lost the track, and we should have been torn to pieces. I tremble all over, when I think of it.</p>
+        <p xml:id="child_stars_130105"><hi rend="italic">William</hi>.--I'm afraid they got upon the track of some other poor fugitive, and so let <hi rend="italic">us</hi> escape. I was sure I heard a scream.</p>
+        <p xml:id="child_stars_130106"><hi rend="italic">Ellen</hi>.--Oh, Willie, <hi rend="italic">shall</hi> we ever get to Canada?</p>
+        <p xml:id="child_stars_130107"><hi rend="italic">William</hi>.--He who knoweth all things alone can tell. We must put our trust in Him? [sic]</p>
+        <p xml:id="child_stars_130108"><hi rend="italic">Ellen</hi>.--Before we start on our night-journey, let us kneel and ask his blessing.</p>
+        <lb/>
+        <lg type="stanza">
+          <l>THE FUGITIVES' PRAYER</l>
+          <l>Father of all! To Thee we bend;</l>
+          <l>On Thee alone can we depend,</l>
+          <l>Guiltless of wrong, yet shunning light,</l>
+          <l>Bewildered trav'lers of the night,</l>
+          <l>When others to their rest have gone,</l>
+          <l>We wander through the world alone.</l>
+          <l>Thou, who created all,</l>
+          <l>Oh, hear our anxious call,</l>
+          <l>And guide us right,</l>
+          <l>Through the dark night.</l>
+        </lg>
+        <lb/>
+        <lg type="stanza">
+          <l>Weary, and worn, and full of fear,</l>
+          <l>We travel through the forests drear;</l>
+          <l>Fierce wolves may seek us for their prey,</l>
+          <l>And cruel men more fierce than they.</l>
+          <l>Help us to put our trust in Thee!</l>
+          <l>Our efforts bless, and make us free!</l>
+          <l>On earth we have no friend,</l>
+          <l>Oh, guide us to the end,</l>
+          <l>From ev'ry snare,</l>
+          <l>Hear thou our prayer!</l>
+        </lg>
+        <lb/>
+        <p xml:id="child_stars_130109">[They rise and prepare for their journey. Suddenly a light gleams over the foliage, on one side of the forest. Ellen grasps her husband's arm, and points to the light, saying, in low tones:]</p>
+        <p xml:id="child_stars_130110">Now Heaven help us! There are men coming with torches.</p>
+        <p xml:id="child_stars_130111"><hi rend="italic">William</hi>.--Creep into the bushes and lie flat on your face.</p>
+        <p xml:id="child_stars_130112">[Through the deep stillness voices are heard singing:]</p>
+        <lg type="stanza">
+          <l>Trust in Him who blessed the poor!</l>
+          <l>O, glory, hallelujah!</l>
+          <l> He's a friend forever sure!</l>
+          <l>O, glory, hallelujah!</l>
+        </lg>
+        <lb/>
+        <lg type="stanza">
+          <l>Broders, sisters, why do ye mourn?</l>
+          <l>Sing glory, hallelujah!</l>
+          <l>He's got no massa whar he's gone!</l>
+          <l>O, glory, hallelujah!</l>
+        </lg>
+        <lb/>
+        <p xml:id="child_stars_130113"><hi rend="italic">Ellen</hi>.--Oh, Willie, don't it seem as if God sent that hymn as an answer to our prayer?</p>
+        <p xml:id="child_stars_130114"><hi rend="italic">William</hi>.--It does, indeed; and I joyfully accept the omen from my poor brothers in misfortune. They are slaves, secretly holding a meeting in the woods. Some of them have died lately, I suppose; and this is the way they give vent to their feelings. How wild and solemn it sounds here among the trees in the star-light.</p>
+        <p xml:id="child_stars_130115"><hi rend="italic">Ellen</hi>.--We have been so lonely, all day, that the sound of human voices is pleasant. Let us wait awhile, and listen.</p>
+        <p xml:id="child_stars_130116"><hi rend="italic">William</hi>.--Poor fellows! Some of them might be tempted to betray us, in hopes of getting a silver bit, or a red handkerchief. Perhaps, too, there may be patrols lurking round to watch the meeting, and some of them might know me. It's not safe to stay here. So keep fast hold of me and creep along through the darkest of the shadows.</p>
+        <p xml:id="child_stars_130117">[They disappear, while the unseen chorus are repeating:]</p>
+        <lg type="stanza">
+          <l>He's got no massa whar he's gone!</l>
+          <l>O, glory, hallelujah!</l>
+        </lg>
+        <p xml:id="child_stars_130118">(CONCLUDED NEXT WEEK.)</p>
+        <pb xml:id="child_stars_130119" n="January 30, 1853"/>
+        <p xml:id="child_stars_130120">CONCLUDED.</p>
+        <p xml:id="child_stars_130121">SCENE V&gt;</p>
+        <p xml:id="child_stars_130122">[Fast midnight. The moon shining on a broad river. No houses in sight. William and Ellen creep out from a quantity of boards and barrels, piled up near the river.]</p>
+        <p xml:id="child_stars_130123"><hi rend="italic">Ellen</hi>.--It seemed frightful to be alone in the woods with wolves and snakes. But I'm more afraid here in the open country. [<hi rend="italic">She clings to him, and speaks low.</hi>] When I pressed your arm a little while ago, didn't you think you heard something breathing near us?</p>
+        <p xml:id="child_stars_130124"><hi rend="italic">William</hi>.--Yes, I did, and it brought my heart up into my throat. But I suppose it must have been some sleeping cat or pig. Try to keep up your courage a little longer. There is the Ohio! The river we have so <hi rend="italic">longed</hi> to see! If we can only get across it, we shall be in the free States, at last. So far, we have got along very well, thanks to your white face, and passing yourself for a slaveholder. If we hadn't been so unlucky as to meet that acquaintance of massa's down at the tavern yonder, we needn't be skulking now. But he looked hard at me, and you were a little confused when you answered his questions. Perhaps he suspected something wrong, and perhaps he didn't. But it is safest for us to keep out of the way of the travelled [sic] roads. That nigger we overheard talking about taking some barrels across the river, said he was going to take them from such a place as this. We must try to get a passage with him. Your clothes are so worn and dusty, that you can hardly pass for the son of a rich slaveholder; but you may be taken for a poor white, emigrating with his only nigger. We have a little money left, and that may induce him to take us. The worst of it is, if he suspects us, he may inform against us, when he gets back to Kentucky, in hopes of getting more money. But we must run the risk.</p>
+        <p xml:id="child_stars_130125"><hi rend="italic">Ellen</hi>.--When will the day dawn? This night seems as long as ten nights. That same moon is shining on our old home, Willie. On the tree, where we used to sit and sing, on Sundays, after meeting. I loved that Southern land, where we were born, and where all our friends live. If our situation hadn't been so dreadful, I never <hi rend="italic">could</hi> have left it to seek a home among strangers.</p>
+        <p xml:id="child_stars_130126"><hi rend="italic">William</hi>.--I, too, was thinking what a pleasant home Carolina might be, if there was no slavery there. But I long to breathe free air, if it be the coldest blasts of a Canada winter.</p>
+        <p xml:id="child_stars_130127">[Ellen leans on her husband's shoulder, gazing pensively at the moon. After looking furtively round, to see whether any one is stirring, they sing, in a low voice:]</p>
+        <lg type="stanza">
+          <l>O, moonlight, deep and tender,</l>
+          <l>You shone thus silv'ry bright;</l>
+          <l>Or veiled in misty splendour [sic],</l>
+          <l>Where first we saw the light.</l>
+        </lg>
+        <lb/>
+        <lg type="stanza">
+          <l>Those scenes of youth have vanished,</l>
+          <l>We return to them no more;</l>
+          <l>For we are aliens, banished</l>
+          <l>From our own native shore.</l>
+        </lg>
+        <lb/>
+        <lg type="stanza">
+          <l>O, river, brightly glancing,</l>
+          <l>How beautiful to see!</l>
+          <l>Beneath the moonbeams dancing,</l>
+          <l>So joyfully and free!</l>
+        </lg>
+        <lb/>
+        <lg type="stanza">
+          <l>And yet to <hi rend="italic">us</hi> how dreary!</l>
+          <l>Who see it through our tears;</l>
+          <l>So lonely, sad and weary,</l>
+          <l>And trembling with our fears.</l>
+        </lg>
+        <lb/>
+        <lg type="stanza">
+          <l>O, river, gently flowing,</l>
+          <l>Bear us in safety o'er!</l>
+          <l>The friendly moonlight showing</l>
+          <l>Our way to Freedom's shore.</l>
+        </lg>
+        <lb/>
+        <p xml:id="child_stars_130128">[While they are singing, a black face pears out from between the boards, and watches them curiously for a minute, and is then lighted up with a broad smile. The head is withdrawn behind the boards, and presently, when all is still, a voice is heard singing:]</p>
+        <lg type="stanza">
+          <l>"Jim crack corn-don't care!</l>
+          <l>Ole massa's gone away!"</l>
+        </lg>
+        <lb/>
+        <p xml:id="child_stars_130129">[William and Ellen start, and look behind them.]</p>
+        <p xml:id="child_stars_130130"><hi rend="italic">William</hi>.--I could almost swear that was Jim's voice.</p>
+        <p xml:id="child_stars_130131"><hi rend="italic">Ellen</hi>.--You know <hi rend="italic">all</hi> the slaves sing that. It can't be that Jim is here. How my heart beats! What if we should be betrayed!</p>
+        <p xml:id="child_stars_130132">[The voice behind the boards sings:]</p>
+        <lg type="stanza">
+          <l>I hearn massa tell 'em so!</l>
+          <l>All de folks born free in die ere country, O!</l>
+        </lg>
+        <p xml:id="child_stars_130133"><hi rend="italic">William</hi>.--It <hi rend="italic">is</hi> Jim! [<hi rend="italic">He sings in response:</hi>]</p>
+        <p xml:id="child_stars_130134">"Ne'er shall the sons of Columbia be slaves."</p>
+        <p xml:id="child_stars_130135">[The voice behind the boards answers:]</p>
+        <lg type="stanza">
+          <l>Dis nigger he know dat tings no go,</l>
+          <l>Jus as massa tole 'em, O!</l>
+        </lg>
+        <p xml:id="child_stars_130136">[Jim jumps out, grasps their hands, and capers about.]</p>
+        <p xml:id="child_stars_130137"><hi rend="italic">Jim</hi>.--Peers like you've done clared out, too. Dis 'ere nigger sorter spected so. I say, Bill! massa couldn't <hi rend="italic">whip</hi> us away, <hi rend="italic">could</hi> he? <hi rend="italic">Tried</hi> hard enough, didn't he? Wouldn't <hi rend="italic">take</hi> our freedom, if massa <hi rend="italic">guv</hi> it to us, <hi rend="italic">would</hi> we? [<hi rend="italic">He sings:</hi>]</p>
+        <lg type="stanza">
+          <l>Dis nigger he know dat tings no go,</l>
+          <l>Jus as massa tole 'em, O!"</l>
+        </lg>
+        <p xml:id="child_stars_130138"><hi rend="italic">William</hi>.--It does me good to hear your merry voice again, Jim; but I think you had better keep more quiet till we get into Canada.</p>
+        <p xml:id="child_stars_130139"><hi rend="italic">Jim</hi>.--Skeered, ar ye? Who's feard? Not dis ere nigger. Cause, ye see, he knows what he's bout. You member my brudder Dick, dat was sole in Kentuck? Dick all'ers was quick as rat-trap. Extror'nary smart nigger! Dick's massa hires him out, to tote lumber down dis ere riber. Dick's got an arrant cross de riber, and he's gwine to tote dis ere nigger in a bar'l. Dars bar'ls nuff to tote us all. Dick wouldn't <hi rend="italic">take</hi> his freedom, if his massa <hi rend="italic">give</hi> it to him; an't green nuff fur <hi rend="italic">dat</hi>. But dis ere nigger sorter spects to see Dick in Canada. [<hi rend="italic">He bursts out singing.</hi>]</p>
+        <lg type="stanza">
+          <l>"And dar we be receive</l>
+          <l>As gran as Lar-fay-i-tee!"</l>
+        </lg>
+        <p xml:id="child_stars_130140"><hi rend="italic">Ellen</hi>.--But even if we succeed in crossing the river, we are not sure of reaching Canada. They say our masters have made a law, obliging people in the free States to catch runaway slaves, and send them back.</p>
+        <p xml:id="child_stars_130141"><hi rend="italic">William [bitterly]</hi>.--And they <hi rend="italic">call</hi> themselves <hi rend="italic">free</hi> States! But they say that slaves have friends in Ohio, who help 'em on toward Canada, by some kind of underground railroad. I wish I knew how to find them.</p>
+        <p xml:id="child_stars_130142"><hi rend="italic">Jim</hi>.--You go way! You knows a heap, Bill. Dar an't no manner o' doubt o' dat ar.  But dis ere nigger an't just woke up, nudder. Dick tole all bout dem ere cars. Dick knows a man in Hi-o, dat'll put us aboard. If massa's car come rattlin arter us, <hi rend="italic">Ki!</hi>--dey'll just put on de steam like house a fire! and way we go!</p>
+        <p xml:id="child_stars_130143">[He puffs like a steam-engine, imitates the car-whistle, and ends by singing:]</p>
+        <p xml:id="child_stars_130144">"Clar de track, ole Dan Tucker!"</p>
+        <p xml:id="child_stars_130145"><hi rend="italic">Ellen [uneasily]</hi>.--When <hi rend="italic">will</hi> your brother come? Every minute seems an hour.</p>
+        <p xml:id="child_stars_130146">[From a boat on the river, a bell is heard to ring three times, followed by a voice, singing:]</p>
+        <p xml:id="child_stars_130147">"Heighho! de boatmen row!"</p>
+        <p xml:id="child_stars_130148"><hi rend="italic">Jim</hi>.--Dat ar's Dick!</p>
+        <p xml:id="child_stars_130149">[They all run toward the river, and soon after, receding voices are heard singing:]</p>
+        <lg type="stanza">
+          <l>"Heighho! de boatmen row!</l>
+          <l>Floatin down riber Ohi-o!</l>
+        </lg>
+        <lb/>
+        <p xml:id="child_stars_130150">SCENE VI.</p>
+        <p xml:id="child_stars_130151">[Fields near Detroit. A company of men and women assembled to celebrate the First of August. Picnic tables are spread under an evergreen arch, with the word, EMANCIPATION, formed of dahlias. All the women wear veils, that Ellen, who is among them, need not be easily recognised [sic], in case of an emergency. William has a neat new dress, and wears a brown wig.]</p>
+        <p xml:id="child_stars_130152"><hi rend="italic">Mr. Freeman [shaking hands with Ellen]</hi>.--You are welcome here; and you may rest assured that you are among kind friends. I hear you have a voice like a bob-o-link. Won't you give us a song, on this pleasant occasion?</p>
+        <p xml:id="child_stars_130153"><hi rend="italic">Ellen</hi>.--I would most gladly, sir. But is it quite safe? I'm told the law compels you to give up fugitives.</p>
+        <p xml:id="child_stars_130154"><hi rend="italic">Mr. Freeman</hi>.--I blush to acknowledge that we <hi rend="italic">are</hi> disgraced by such a law; but we contrive many ways to evade it. You are more safe here than you would be in a city. This is not a public meeting. It is a pic-nic for Abolitionists only. No Southerner will be likely to intrude upon us. Is your master at the North?</p>
+        <p xml:id="child_stars_130155"><hi rend="italic">Ellen</hi>.--When he left home, he intended to travel North, sir.</p>
+        <p xml:id="child_stars_130156"><hi rend="italic">Freeman</hi>.--What is his name?</p>
+        <p xml:id="child_stars_130157"><hi rend="italic">Ellen</hi>.--Mr. Alfred Masters, of South Carolina.</p>
+        <p xml:id="child_stars_130158"><hi rend="italic">Freeman</hi>.--I know of no such name at the hotels; and our friends keep pretty close watch. But, to make your mind perfectly easy, I will tell you a secret. In that icehouse, covered with straw, yonder, there are steps that lead to the underground railroad. You have heard of the underground railroad, perhaps?</p>
+        <p xml:id="child_stars_130159"><hi rend="italic">Ellen [smiling]</hi>.--Oh yes, sir. We <hi rend="italic">came</hi> by that road.</p>
+        <p xml:id="child_stars_130160"><hi rend="italic">Freeman</hi>.--I shall keep spies on the watch. If any strangers approach, I will begin to sing, "Get out of the way, old Dan Tucker!" Then the women will run for ice, and you and your husband will run with them. There's <hi rend="italic">one</hi> slave under the ice-house already. He's so black, that it won't do for <hi rend="italic">him</hi> to show his face here; but you and your husband are both so light, that you would attract no attention. As for <hi rend="italic">you</hi>, no one unacquainted with your history would believe that you were not a white woman.</p>
+        <p xml:id="child_stars_130161"><hi rend="italic">Ellen</hi>.--I wish it were possible to cross over to Canada soon, sir.</p>
+        <p xml:id="child_stars_130162"><hi rend="italic">Freeman</hi>.--I deem it imprudent to attempt it just now. There are some Southerners at the hotel, in search of runaway slaves; and it is possible you might be recognised [sic] by some acquaintance of your master's. We will try to have you conveyed over to-morrow morning, before people are stirring. Meanwhile, I wish you would help us to celebrate the emancipation of your enslaved brethren in the British West Indies.</p>
+        <p xml:id="child_stars_130163"><hi rend="italic">Ellen</hi>.--I will try sir; but I am afraid my voice will tremble; for I am <hi rend="italic">very</hi> anxious. I will call William and we will sing together two verses, that a lady taught us last night. She said they were written by an Abolitionist, in Boston.</p>
+        <p xml:id="child_stars_130164">[Ellen sings:]</p>
+        <lg type="stanza">
+          <l>"Oh, sunny South, the pride of lands,</l>
+          <l>Whose joyous spring as Eden blooms</l>
+          <l>Whose rivers sweep o'er golden sands,</l>
+          <l>Whose harvests feed a million looms;</l>
+          <l>Why looks an anxious world on thee,</l>
+          <l>In sorrow for thy destiny?</l>
+        </lg>
+        <lb/>
+        <p xml:id="child_stars_130165">[William sings in response:]</p>
+        <lg type="stanza">
+          <l>"It is, that when the joyous sea</l>
+          <l>Bore from West Indian Isles the song</l>
+          <l>Of earth's most glorious jubilee,</l>
+          <l>Of right, triumphant over wrong--</l>
+          <l>Midst a <hi rend="italic">world's</hi> welcome, thou alone</l>
+          <l>Answered the tidings with a groan."</l>
+        </lg>
+        <lb/>
+        <p xml:id="child_stars_130166"><hi rend="italic">Freeman [to Ellen]</hi>.--You <hi rend="italic">are</hi> a bob-o'-link! We must hear your voice again, by-and-by. But now let us join in the chorus, in honour [sic] of our mother country.</p>
+        <lb/>
+        <p xml:id="child_stars_130167">[All the guests unite in singing:]</p>
+        <lg type="stanza">
+          <l>"Blow ye the trumpet abroad o'er the sea!</l>
+          <l>Britannia hath triumphed, the negro is free!"</l>
+        </lg>
+        <p xml:id="child_stars_130168">[The women begin to unpack bread, cakes, &amp;c., from the baskets. While they are thus occupied, Mr. Freeman sings:]</p>
+        <p xml:id="child_stars_130169">"Get out of the way, Old Dan Tucker!"</p>
+        <p xml:id="child_stars_130170">[The women exclaim:]</p>
+        <p xml:id="child_stars_130171">"O, we forgot the ice. Make haste and bring some ice!"</p>
+        <p xml:id="child_stars_130172">[Many of them run towards the ice-house; William and Ellen with them. While others arrange the tables, two strangers enter.]</p>
+        <p xml:id="child_stars_130173"><hi rend="italic">North [bowing to Mr. Freeman]</hi>.--Allow me to introduce my friend, Mr. Masters, from South Carolina. He never attended an Abolition meeting, and he was curious to see one.</p>
+        <p xml:id="child_stars_130174"><hi rend="italic">Masters</hi>.--Not so much to <hi rend="italic">see</hi> one as to listen to the <hi rend="italic">arguments</hi> that may be brought forward. I am a sincere seeker after light; and, perhaps you will be able to convince me.</p>
+        <p xml:id="child_stars_130175"><hi rend="italic">Freeman</hi>.--This is not one of our public meetings for discussing the subject, sir; but you are welcome to the best we have to offer, either for mind or body. Doubtless, we <hi rend="italic">might</hi> produce two or three arguments that would make some impression on you. But the ladies are preparing the refreshment tables. They can offer you some delicious fruit, refreshingly cool, for we have an ice-house near by.</p>
+        <p xml:id="child_stars_130176">[The Abolitionists glance at each other with a significant smile; and one says aside to another:]</p>
+        <p xml:id="child_stars_130177">Its contents wouldn't be very likely to cool <hi rend="italic">him</hi>!]</p>
+        <p xml:id="child_stars_130178"><hi rend="italic">Masters</hi>.--I thank you; but I cam here for argument, rather than refreshments. I hear you are great reasoners; but I hope to convince you that you are labouring [sic] under a mistake on this subject. I assure you our servants at the South are a very happy set of people. This gentleman, from Connecticut, can vouch for what I say.</p>
+        <p xml:id="child_stars_130179"><hi rend="italic">North</hi>.--Yes, sir, I can; and I am most happy to do it. I <hi rend="italic">know</hi> something about it. I've <hi rend="italic">been</hi> at the South; so, <hi rend="italic">I</hi> am a competent witness. And I'm free to say, I never saw a happier set of fellows than the niggers there. The poor in England have reason to envy their condition.</p>
+        <p xml:id="child_stars_130180"><hi rend="italic">Freeman</hi>.--Why don't you go as a missionary to England? They wouldn't mob you, as <hi rend="italic">we</hi> did George Thompson; and if you have half <hi rend="italic">his</hi> eloquence, perhaps you might persuade the English people to petition their government for leave to <hi rend="italic">become</hi> slaves. Such petitions would doubtless find some advocates; for there is a class there, as well as here, who consider slavery the most suitable condition for the poor.</p>
+        <p xml:id="child_stars_130181"><hi rend="italic">Masters</hi>.--You are pleased to be facetious, sir. But I do assure you that my slaves have not the least <hi rend="italic">desire</hi> to be free. I have an uncommonly intelligent slave, named William. He is so attached to me, that when I <hi rend="italic">offered</hi> him his freedom, he wouldn't <hi rend="italic">take</hi> it. <hi rend="italic">Would</hi> he, Mr. North?</p>
+        <p xml:id="child_stars_130182"><hi rend="italic">North</hi>.--No. He told me, himself, that he'd rather be a stray dog than a free nigger.</p>
+        <p xml:id="child_stars_130183"><hi rend="italic">Masters</hi>.--William is not peculiar in that respect. They all have the greatest contempt for free niggers. I'm a very kind master; <hi rend="italic">all</hi> my slaves are so contented with their situation that I couldn't <hi rend="italic">whip</hi> 'em away, if I <hi rend="italic">tried</hi>. <hi rend="italic">Could</hi> I, Mr. North?</p>
+        <p xml:id="child_stars_130184"><hi rend="italic">North</hi>.--No, indeed! They know too well on which side their bread is buttered.</p>
+        <p xml:id="child_stars_130185">[A voice, not far off, sings:]</p>
+        <lg type="stanza">
+          <l><hi rend="italic">Dis</hi> nigger he know <hi rend="italic">dat tings</hi> no go,</l>
+          <l>Jus as massa tole 'em, O!</l>
+        </lg>
+        <p xml:id="child_stars_130186"><hi rend="italic">Masters [looking round]</hi>.--Who was that?</p>
+        <p xml:id="child_stars_130187"><hi rend="italic">Freeman</hi>.--Ethiopian melodies are very popular here. Boys are always whistling or singing them. Some lad appears to have put new words to "Dandy Jim."</p>
+        <p xml:id="child_stars_130188"><hi rend="italic">Masters [smiling]</hi>.--It was an excellent imitation. It almost made me feel as if I were on the plantation, hearing my own boys singing merrily, at their work. They're a happy set, sir.</p>
+        <p xml:id="child_stars_130189">[<hi rend="italic">One of the abolitionists aside to another:</hi>] Some of them are his <hi rend="italic">own</hi> boys, in more senses than <hi rend="italic">one</hi>, I reckon.</p>
+        <p xml:id="child_stars_130190">[Meanwhile a man enters and hands Mr. Masters a letter. He glances over it, and takes up his hat hastily.</p>
+        <p xml:id="child_stars_130191"><hi rend="italic">Freeman</hi>.--You're not <hi rend="italic">going</hi>, sir? We have made arrangements to have a <hi rend="italic">debate</hi> with you, by-and-by. You said you wished to hear our arguments.</p>
+        <p xml:id="child_stars_130192"><hi rend="italic">Masters</hi>.--I must decline that pleasure, for the present, sir. I am summoned away on unexpected business.</p>
+        <p xml:id="child_stars_130193">[He touches his hat, takes Mr. North by the arm, and turns away. Mr. Freeman turns away in the opposite direction, and joins a knot of the Abolitionists, all of whom are keeping an eye on Mr. Masters and Mr. North, as they stand talking together.]</p>
+        <p xml:id="child_stars_130194"><hi rend="italic">Masters</hi>.--Would you <hi rend="italic">believe</hi> it? That rascal, Bill, has taken advantage of my absence, to run away! He and his wife Nelly have been seen near Ohio. The ungrateful wench! When I was willing to do so <hi rend="italic">much</hi> for her!</p>
+        <p xml:id="child_stars_130195"><hi rend="italic">North</hi>.--Is it possible? Now I <hi rend="italic">am</hi> surprised! What ingratitude!</p>
+        <p xml:id="child_stars_130196"><hi rend="italic">Masters</hi>.--The fact is, sir, the niggers are a singular race. They have several diseases, peculiar to themselves. The one which prevails most <hi rend="italic">generally</hi> is called by our doctors drapetomania; and the only way I can account for this strange affair, is by supposing that Bill and Nelly had an attack of that <hi rend="italic">disease</hi>.</p>
+        <p xml:id="child_stars_130197"><hi rend="italic">North</hi>.--Pray what sort of disease may that be, sir?</p>
+        <p xml:id="child_stars_130198"><hi rend="italic">Masters</hi>.--Doctors like to show their learning, you know; so they made a word from Greek. It means a mania for <hi rend="italic">running away</hi>. When niggers appear unusually sulky and dissatisfied, it's a sign that the disease is coming on; and preventive remedies ought to be applied immediately. The learned Dr. Cartwright, of Louisiana University, has written a celebrated book about nigger diseases. He advises that the whip should be freely applied when the first symptoms of drapetomania appear. He calls it "whipping the devil out of 'em." But the fact is, I never perceived any symptoms of it in Bill. He always seemed healthy. It is a very <hi rend="italic">singular</hi> disease, that drapetomania! There's no telling who may be seized by it. Some of the planters think it is becoming epidemic.</p>
+        <p xml:id="child_stars_130199"><hi rend="italic">North</hi>.--It <hi rend="italic">is</hi> singular, indeed, sir. Perhaps it's part of the curse of the Lord pronounced upon Canaan.</p>
+        <p xml:id="child_stars_130200"><hi rend="italic">Masters</hi>.--I've heard that idea suggested by our divines. The niggers <hi rend="italic">are</hi> a cursed race, if ever there <hi rend="italic">was</hi> one; that's a fact.</p>
+        <p xml:id="child_stars_130201"><hi rend="italic">North</hi>.--How lucky it is for <hi rend="italic">them</hi>, that they have kind masters to take care of them!</p>
+        <p xml:id="child_stars_130202"><hi rend="italic">Masters</hi>.--You know what good care I took of Bill; the ungrateful dog! Who would have thought of <hi rend="italic">his</hi> being seized with drapetomania? But what's to be done? Do you know anything about that infernal underground they tell of?</p>
+        <p xml:id="child_stars_130203"><hi rend="italic">North</hi>.--I dare say the police may know something about it, sir.</p>
+        <p xml:id="child_stars_130204"><hi rend="italic">Masters</hi>.--If I could only <hi rend="italic">see</hi> Bill and Nelly and <hi rend="italic">reason</hi> a little with 'em, I dare say they would be persuaded that they have done very wrong. When the disease of drapetomania begins to subside, they soon get tired enough of being free niggers, and would gladly go back, if they were not afraid of punishment.</p>
+        <p xml:id="child_stars_130205"><hi rend="italic">North</hi>.--That drapetomania is a very strange disease. I never heard of anybody's having it in New England. It <hi rend="italic">must</hi> be part of the curse upon Canaan.</p>
+        <p xml:id="child_stars_130206"><hi rend="italic">Masters</hi>.--Come! let us make inquiries of the police.</p>
+        <p xml:id="child_stars_130207">[<hi rend="italic">They go out. Freeman says to the picnic guests:</hi>]</p>
+        <p xml:id="child_stars_130208">Some of you go and caution that merry black Jim, not to be singing any <hi rend="italic">more</hi> scraps of songs till he gets into Canada. We've come to a narrow pass on the precipice, <hi rend="italic">now</hi>. There can be no doubt what news that <hi rend="italic">letter</hi> contained. I heard the word, police. How on earth shall we contrive to get them safely away from their hiding-place, and smuggle them over to Victoria's dominions?</p>
+        <p xml:id="child_stars_130209"><hi rend="italic">One of the guests</hi>.--I see how it can be done. There's a store of ready-made coffins near by, and the man who sells them is an Abolitionist. The coloured [sic] minister, Mr. Dickinson, died yesterday, and we can get his family to help us. William and Ellen must be stained black, and go among the mourners. Jim, who <hi rend="italic">can't</hi> be stained any blacker, must be carried in the coffin. They can all be locked up in a tomb; a place which the police will not think of searching. In the darkness of the night we can bring 'em near the ferry. The police will, doubtless, be on the watch during all the hours that the boat runs; but you know the ferryman is willing enough to oblige us, if he can do it without being found out. We must be scattered here and there, round the ferry, in numbers sufficient to divert the enemy's forces, if they take it into their heads to be stirring too early.</p>
+        <p xml:id="child_stars_130210"><hi rend="italic">Freeman</hi>.--I believe it is the best plan that is left for us; but it's risky business for all of us. That rogue, Jim, must be cautioned not to sing out from the coffin.</p>
+        <lb/>
+        <p xml:id="child_stars_130211">SCENE VII</p>
+        <p xml:id="child_stars_130212">[Road near Detroit. On one side of the road Mr. Freeman is passing slowly with a few Abolitionists. On the other side of the road are Police Officers, with brass stars on their coats, and brass bands on their hats, with the word, Police. They pass back and forth, as if on sentinel duty. Rowdy-looking Truckmen, with shirt sleeves rolled up, are armed with clubs and whips, as if ready for a mob. The sound of funeral music is heard approaching. A coffin is borne across the stage, followed by coloured [sic] men and women, and a band of music. After it has passed, Mr. Freeman stops in front of a Police Officer, and says to one of his Abolition companions:]</p>
+        <p xml:id="child_stars_130213">Whose funeral was that? It is not <hi rend="italic">common</hi> to have a <hi rend="italic">band</hi> out on such occasions.</p>
+        <p xml:id="child_stars_130214"><hi rend="italic">Abolitionist</hi>.--I presume it is done in honour [sic] of Mr. Dickson, the coloured [sic] minister. I heard he was to be buried to-day, and I noticed his family among the mourners.</p>
+        <p xml:id="child_stars_130215">[<hi rend="italic">A Truckman says, in a loud voice, to the Police Officer:</hi>] Damned set of amalgamationists! No doubt they're hob-nob with all the <hi rend="italic">fust</hi> niggers.</p>
+        <p xml:id="child_stars_130216">[<hi rend="italic">Police Officer speaks apart to his companions:</hi>] They must be <hi rend="italic">expected</hi> on this road, or the <hi rend="italic">Abolitionists</hi> would not linger about here so.</p>
+        <p xml:id="child_stars_130217">[<hi rend="italic">When Mr. Freeman reappears, talking with a friend, the Police Officer says gruffly to him:</hi>] What are you loitering about <hi rend="italic">here</hi> for, sir?</p>
+        <p xml:id="child_stars_130218"><hi rend="italic">Freeman</hi>.--I will imitate the Yankees, who, they say, answer one question by asking another. Pray what are <hi rend="italic">you</hi> loitering about here for?</p>
+        <p xml:id="child_stars_130219"><hi rend="italic">Police Officer</hi>.--We're watching for two runaway niggers.</p>
+        <p xml:id="child_stars_130220"><hi rend="italic">Freeman</hi>.--Only <hi rend="italic">two</hi>, sir? <hi rend="italic">Many</hi> pass through this place to Canada.</p>
+        <p xml:id="child_stars_130221"><hi rend="italic">A Truckman</hi>.--Yes, and it's all owing to the <hi rend="italic">cussed</hi> jugglery of you bobolitionists and your friends, the niggers.</p>
+        <p xml:id="child_stars_130222"><hi rend="italic">Freeman</hi>.--I am happy to hear that we are so useful.</p>
+        <p xml:id="child_stars_130223"><hi rend="italic">Police Officer</hi>.--But you won't catch a weasel asleep <hi rend="italic">this</hi> time. Mr. Masters, of South Carolina, a very polite gentleman, and a very kind master, has lost two valuable servants. We've got on the track of 'em, and we're determined to catch 'em for him. We've got the <hi rend="italic">law</hi> on <hi rend="italic">our</hi> side.</p>
+        <p xml:id="child_stars_130224"><hi rend="italic">Freeman</hi>.--As I have no wish to earn blood-money by turning slave-hunter for <hi rend="italic">any</hi> of our Southern <hi rend="italic">masters</hi>, the information does not particularly interest <hi rend="italic">me</hi>.</p>
+        <p xml:id="child_stars_130225">[Several of the Abolitionists, who have been looking on the Police and the rowdies with disgust, break out singing:]</p>
+        <lg type="stanza">
+          <l>"No slave-hunt in <hi rend="italic">our</hi> borders!</l>
+          <l>No pirates on <hi rend="italic">our</hi> strand!</l>
+          <l>No fetters in the <hi rend="italic">free</hi> States!</l>
+          <l>No slave upon <hi rend="italic">our</hi> land!"</l>
+        </lg>
+        <p xml:id="child_stars_130226">[<hi rend="italic">The Truckmen double their fists, and shake their whips. The Police Officer gets angry, and exclaims:</hi>] I tell you what, you'd better go about your business, if you know what is good for yourselves.</p>
+        <p xml:id="child_stars_130227"><hi rend="italic">Freeman</hi>.--I trust we are at liberty to <hi rend="italic">choose</hi> our business. Our Southern masters are <hi rend="italic">kind</hi> masters. They have left us a <hi rend="italic">few</hi> privileges. I believe citizens of the free States are not <hi rend="italic">yet</hi> forbidden by United States law to walk in their own streets; or even to <hi rend="italic">talk</hi> together in the street, when they think proper. But why so angry, <hi rend="italic">gentlemen</hi>? You surely are not ashamed of your <hi rend="italic">employment</hi>? Is it not a <hi rend="italic">manly</hi> employment? Is it not fitting business for <hi rend="italic">you</hi>, sir, who bear the illustrious name of John Adams? And for <hi rend="italic">you</hi>, sir, who are accustomed to boast, at political meetings, that you are a true <hi rend="italic">democrat</hi>, dyed in the wool? I see you <hi rend="italic">are</hi> ashamed, notwithstanding all the <hi rend="italic">brass</hi> you have about you.</p>
+        <p xml:id="child_stars_130228">[Some link away; some shake their fists. One of the Police says:]</p>
+        <p xml:id="child_stars_130229">Damn your impudence! If you don't hold your tongue, I'll arrest you for disturbing the peace.</p>
+        <p xml:id="child_stars_130230">[The Abolitionists laugh, and go off singing:]</p>
+        <lg type="stanza">
+          <l>Bring garlands for the free and brave!</l>
+          <l>Bold hunters of the flying slave!</l>
+        </lg>
+        <lb/>
+        <p xml:id="child_stars_130231">SCENE VIII</p>
+        <p xml:id="child_stars_130232">[Early morning. The Ferry, at Detroit; half a mile across to the Canada shore. Mr. Freeman appears, and after looking all round carefully, knocks three times at a door, near the water. The Ferryman opens the door.]</p>
+        <p xml:id="child_stars_130233"><hi rend="italic">Mr. Freeman</hi>.--The passengers you agreed to take are here. Please lose no time.</p>
+        <p xml:id="child_stars_130234">[Ferryman hastens to the boat; William, Ellen, and Jim jump in. The fastenings are loosened. The boat is an oar's length from the shore, when Mr. Masters and Mr. North come running, out of breath, followed by ten or twelve Abolitionists. Mr. Masters points his pistol at the Ferryman, and calls out:]</p>
+        <p xml:id="child_stars_130235">Put back that boat! Those are <hi rend="italic">my</hi> slaves. Put back that boat, or I'll blow your brains out! Hell! There's Jim, too! Where the devil's the police! Call the police, Mr. North! Put back that boat!</p>
+        <p xml:id="child_stars_130236">[For an instant, the Ferryman holds his oars suspended in hesitation. William, in an agony of anxiety, springs upon him, and exclaims:]</p>
+        <p xml:id="child_stars_130237">I'll strangle you, if you do.</p>
+        <p xml:id="child_stars_130238"><hi rend="italic">Ferryman</hi>.--If I <hi rend="italic">must</hi> die, I'll die doing my <hi rend="italic">duty</hi>.</p>
+        <p xml:id="child_stars_130239">[He pushed off. Some one behind Mr. Masters knocks the pistol from his hand. The Ferryman and William row with all their might. The Abolitionists swing their hats, and hurra. The Police come in time to see the boat half way across. An American vessel is on the stocks near by, with the name of Henry Clay, floating on its banner. The workmen on board catch the contagion of the scene. They wave their caps, and hurra. The noise attracts people on the Canada side. They see a negro in the boat, and, guessing the rest, they hurra. In the intervals, Jim's voice comes across the water:]</p>
+        <p xml:id="child_stars_130240">"Don't care! <hi rend="italic">Ole</hi> massa's gone away!"</p>
+        <p xml:id="child_stars_130241">[From shore to shore:]</p>
+        <p xml:id="child_stars_130242">Hurra! Hurra! Hurra!</p>
+        <p xml:id="child_stars_130243"><hi rend="italic">Mr. Freeman to Mr. Masters</hi>.--Couldn't <hi rend="italic">whip</hi> 'em away from you; <hi rend="italic">could</hi> you, sir?</p>
+        <p xml:id="child_stars_130244"><hi rend="italic">Freeman to the Police Officer</hi>.--Didn't catch a weasel asleep <hi rend="italic">this</hi> time, did we?</p>
+        <p xml:id="child_stars_130245">[From shore to shore:]</p>
+        <p xml:id="child_stars_130246">Hurra! Hurrah! Hurrah!</p>
+        <p xml:id="child_stars_130247"><hi rend="italic">Mr. North, walking away with Mr. Masters, says</hi>.--What a very remarkable case of drapetomania!</p>
+        <p xml:id="child_stars_130248">[From shore to shore:]</p>
+        <p xml:id="child_stars_130249">Hurra! Hurra! Hurra!</p>
+        <p xml:id="child_stars_130250">[On the Canada side, they strike up--]</p>
+        <p xml:id="child_stars_130251">"God save the Queen!"</p>
+        <p xml:id="child_stars_130252">[On the other side, the Abolitionists respond:]</p>
+        <lg type="stanza">
+          <l>"Blow ye the trumpet aloud o'er the sea!</l>
+          <l>Freedom hath triumphed! The slaves are now free!"</l>
+        </lg>
+        <p xml:id="child_stars_130253">N.B. The scene here described did really occur at Detroit, some years ago, while a vessel, named the Henry Clay, was on the stocks; and the Ferryman made the exclamation here attributed to him.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

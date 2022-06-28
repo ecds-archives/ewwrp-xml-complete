@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lkr_Jubilee_1306">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>A Jubilee for The Nancy Hart Highway</title>
+        <author>
+          <name type="person"><choice><reg>Rogers, Loula Kendall, 1838-1931</reg><orig>Mrs. Loula Kendall Rogers</orig></choice></name>         
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10k</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="lkr_Jubilee_1301">2008 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>2008</date><idno type="ark">http://pid.emory.edu/ark:/25593/17d7q</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Rogers, Loula Kendall, "A Jubilee for The Nancy Hart Highway" Loula
+	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
+	   Library, Emory University</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="lkr_Jubilee_1302">This digital text is produced from the Loula Kendall
+	   Rogers Papers, generously loaned to the Beck Center by    	
+The Manuscript, Archives, and Rare Book Library at Emory University.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="language">American</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Poetry</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Hart, Nancy Morgan.</item>
+            <item>Women authors, American--19th Century</item>
+            <item>Women authors, American--20th Century</item>
+            <item>Daughters of the American Revolution</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2008</date><label>Woodruff Graduate Fellow</label><name>Stewart Varner</name>XML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="lkr_Jubilee_1305">
+    <body xml:id="lkr_Jubilee_1304">
+      <pb facs="lkr_jubilee001" xml:id="lkr_Jubilee_1303" n="[1]"/>
+      <div xml:id="lkr_Jubilee_lkr_jubilee">
+        <head rend="center">
+          <seg type="short-title">A JUBILEE<lb/><hi rend="italic">For The Nancy Hart Highway</hi></seg>
+          <lb/>
+          <hi rend="italic">Air "Tramp, Tramp, Tramp."</hi>
+        </head>
+        <byline rend="center">
+          <hi rend="italic">By Mrs. Loula Kendall Rogers, Chaplain Major<lb/>
+      General Samuel Elbert Chapter Daughters<lb/>
+      of The American Revolution</hi>
+        </byline>
+        <lg type="stanza">
+          <l>Let us join the D. A. R.</l>
+          <l>As they come from near and far</l>
+          <l>And unite to honor all who did their part,</l>
+          <l rend="indent">For our country when 'twas new,</l>
+          <l rend="indent">Every patriot tried and true</l>
+          <l>Now we come to honor brave old Nancy Hart!</l>
+        </lg>
+        <lg type="stanza">
+          <head rend="center">CHORUS</head>
+          <l>Honk!  honk!  honk!  The horns are blowing!</l>
+          <l>Let us all be bright and gay,</l>
+          <l rend="indent">Cast aside all care and woe,</l>
+          <l rend="indent">As we onward swiftly go,</l>
+          <l>While we glide along the Nancy Hart Highway!</l>
+        </lg>
+        <lg type="stanza">
+          <head rend="center">II.</head>
+          <l>Passing swiftly o'er the trail,</l>
+          <l>Never mind the Eastern gale,</l>
+          <l>Sing a merry song of Jubilee today,</l>
+          <l rend="indent">Let <hi rend="quote">Old Glory</hi> be unfurled</l>
+          <l rend="indent">Wave its colors o'er the world</l>
+          <l>As we glide along the Nancy Hart Highway!</l>
+        </lg>
+        <lg type="stanza">
+          <head rend="center">III</head>
+          <l rend="indent">May kind heaven ever bless</l>
+          <l rend="indent">With Great joy and all success,</l>
+          <l>Every one who on this Highway swiftly speeds,</l>
+          <l rend="indent">Then, oh, let us ne'er forget</l>
+          <l rend="indent">Till our evening sun has set</l>
+          <l>Nancy Hart and all her many glorious deeds!</l>
+        </lg>
+        <lg>
+          <l rend="bold">CHORUS</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

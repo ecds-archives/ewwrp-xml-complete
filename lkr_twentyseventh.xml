@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lkr_twentyseventh_13011">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>For the Twentyseventh Birthday</title>
+        <author>
+          <name type="person"><choice><reg>Rogers, Loula Kendall, 1838-1931</reg><orig>Mrs. Loula Kendall Rogers</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10k</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="lkr_twentyseventh_1301">2008 Emory University. Permission is granted to
+
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>2008</date><idno type="ark">http://pid.emory.edu/ark:/25593/17dk3</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Rogers, Loula Kendall, "For the Twentyseventh
+
+	    Birthday," <date>27 March 1896</date> Loula
+
+	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
+
+	   Library, Emory University</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="lkr_twentyseventh_1302">This digital text is produced from the Loula Kendall
+
+	   Rogers Papers, generously loaned to the Beck Center by    	
+
+The Manuscript, Archives, and Rare Book Library at Emory University.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="language">American</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Poetry</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>United Daughters of the Confederacy.</item>
+            <item>Women authors, American--19th Century</item>
+            <item>Women authors, American--20th Century</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2008</date><label>Woodruff Graduate Fellow</label><name>Stewart Varner</name>XML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="lkr_twentyseventh_13010">
+    <body xml:id="lkr_twentyseventh_1306">
+      <pb facs="lkr_twentyseventh001" xml:id="lkr_twentyseventh_1303" n="[1]"/>
+      <div xml:id="lkr_twentyseventh_1305" type="poem">
+        <head><seg type="short-title"><hi rend="underline">FOR THE TWENTYSEVENTH BIRTHDAY</hi><lb/>
+
+      Of the Willie Hunt Smith Chapter of Daughters of the Confederacy,</seg><lb/>
+
+      Organized by Mrs. Loula Kendall Rogers as the Barnesville Chapter,<lb/>
+
+      On the 27th of March 1896<lb/></head>
+        <lg type="stanza">
+          <l>One day as glorious Spring time came</l>
+          <l>to scatter Winter's gloom away,</l>
+          <l>A faithful circle pledged their name</l>
+          <l>To honor due them shall be paid,</l>
+          <l>Their wondrous fame shall never die!</l>
+        </lg>
+        <lg type="stanza">
+          <l>The ship was launched.  The valiant crew</l>
+          <l>Moved onward toward the shining goal,</l>
+          <l>And day by day its numbers grew,</l>
+          <l>Till three score glorified the roll!</l>
+          <l>Then Georgia's great and gifted men,</l>
+          <l>As April brought Memorial Day,</l>
+          <l>Renewed each patriot soul again</l>
+          <l>With memories of "The Gallant Gray."</l>
+        </lg>
+        <lg type="stanza">
+          <l>Instructors, preachers, merchants all,</l>
+          <l>And brave cadets with pride unite</l>
+          <l>In heeding thus the bugle call,</l>
+          <l>To honor chivalry and right,</l>
+          <l>And there with loyal hand each year,</l>
+          <l>I placed the rose and violet,</l>
+          <l>Till sorrows came with parting tear</l>
+          <l>And broken home!  Can I forget?</l>
+        </lg>
+        <lg type="stanza">
+          <l>And then the "Old Guard" bade adieu,</l>
+          <l>As gentle faithful Mrs. Neal</l>
+          <l>Assumed the duties ever true </l>
+          <l>With love and hope and earnest zeal.</l>
+          <l>Alas!  She has gone! but far above</l>
+          <l>Her spirit still is hovering o'er</l>
+          <l>United there in Heavenly love</l>
+          <l>With our faithful members gone before.</l>
+        </lg>
+        <lg type="stanza">
+          <l>Amid the shadows came a gleam </l>
+          <l>Of radiant light!  That ship most brave</l>
+          <l>Each cloud of fate, each flickering beam,</l>
+          <l>And should ne'er be gulphed in stormy wave,</l>
+          <l>So one was chosen then to steer,</l>
+          <l>Whose love and beauty in her youth</l>
+          <l>Brought in their train sweet smiles of cheer,</l>
+          <l>And from her life the gems of Truth.</l>
+        </lg>
+        <lg type="stanza">
+          <l>Willie Hunt Smith!  Bring flowers bright,</l>
+          <l>To wreath upon sunlit prow,</l>
+          <l>While o'er the wave a holy light</l>
+          <pb facs="lkr_twentyseventh002" xml:id="lkr_twentyseventh_1304" n="2"/>
+          <l>Illumes with love each patriots brow.</l>
+          <l>The kindly word, the smile that cheered</l>
+          <l>Can never from our soul depart</l>
+          <l>And features fair by love endeared</l>
+          <l>Will ever live within the heart!</l>
+        </lg>
+        <lg type="stanza">
+          <l>Full twenty-seven years have passed,</l>
+          <l>Our monuments have sprung to view,</l>
+          <l>And yet the fields ahead are vast,</l>
+          <l>With much we hope in time to do.</l>
+          <l>With Mrs. Peacock, faithful guide</l>
+          <l>And pilot o'er the summer sea,</l>
+          <l>With Loyal heart we will abide</l>
+          <l>Forever true to U. D. C.</l>
+        </lg>
+      </div>
+    </body>
+    <back xml:id="lkr_twentyseventh_1309">
+      <pb facs="lkr_twentyseventh003" xml:id="lkr_twentyseventh_1307" n="3"/>
+      <div xml:id="lkr_twentyseventh_2" type="authors_note">
+        <p xml:id="lkr_twentyseventh_1308">For the Willie Hart Smith<lb/>
+
+      Chapter U.D.C.<lb/>
+
+      (2 copies)<lb/>
+
+      1929<lb/><hi rend="underline">1896</hi><lb/>
+
+      33 years ago</p>
+      </div>
+    </back>
+  </text>
+</TEI>

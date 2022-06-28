@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stanton_fair_13019">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Sunday at the World's Fair, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Stanton, Elizabeth Cady, 1815-1902</reg><orig>Elizabeth Cady Stanton</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>15kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="stanton_fair_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Emory Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17f38</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Stanton, Elizabeth Cady. Sunday at the World's Fair. <publisher>North American Review</publisher> 413 (February <date>1892</date>): 254-6.</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="stanton_fair_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Women's Advocacy</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Essay</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Women authors, American--19th Century.</item>
+            <item>Sunday legislation--United States--History.</item>
+            <item>Chicago.</item>
+            <item>World's Fair.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2000</date><label>Staff</label><name>Anna Engle</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="stanton_fair_13018">
+    <body xml:id="stanton_fair_13017">
+      <div xml:id="stanton_fair_stantonf.001" type="Essay">
+        <head>Sunday at the World's Fair</head>
+        <p xml:id="stanton_fair_1303">Some of our people are already passing resolutions in their convocations and rolling up petitions to Congress asking that the World's Fair in Chicago may be closed on Sundays, and it is important that those holding opposite views should be heard.</p>
+        <p xml:id="stanton_fair_1304">To my mind the fair should be open for many reasons. It is the only day that the laboring masses can enjoy it, as they are practically excluded every other day by the necessities of their condition. When the vast army of men who will construct the magnificent buildings and beautify the grounds, who day by day will lift the heavy machinery and foreign exhibits in place, desire to bring their wives and children to the exposition, Sunday will be the only day they will have leisure to do so; the only day, too, when farm-hands from the country, men and women from the workshops and the factories, clerks from the busy marts of trade, servants from their domestic vocations, can claim a few hours for recreation. When we consider the multitudes that comprise these classes and their immense value in the world of work, we appreciate the importance of their rights and interests in all the arrangements of society, whether for profit or pleasure. So far from the fair being closed on Sunday, it should be the one day especially reserved for the masses, when all those who have other opportunities should not crowd the exposition.</p>
+        <p xml:id="stanton_fair_1306">Though the Centennial Exposition in 1876 was closed on Sunday, yet favored statesmen, millionaires, and foreign diplomats visited every department on that day and viewed the exhibits at their leisure. Whether the fair is open or not, the city of Chicago will inevitably be crowded on Sunday. People will come from all parts of the State, to look at each other, at the exposition buildings, the parks, and to enjoy whatever attractions the surroundings afford. If the exposition is closed, they must necessarily crowd
+<pb xml:id="stanton_fair_1305" n="255 NOTES AND COMMENTS."/>
+less desirable places of amusement; hence if it is the best interests of the people those in authority aim at, they will keep the fair open on Sunday.</p>
+        <p xml:id="stanton_fair_1307">It is said that "those who watch the exhibits and serve the public through the week should have one day of rest." As their labors are transient, lasting only a few months, and as their surroundings are varied, beautiful, and entertaining, the tax on their time and patience would be light compared with the dreary monotony of the lives of ordinary laborers who spend year after year in dingy workshops and dark offices, or with multitudes of young men, sitting with bent shoulders, writing by artificial lights,--a class as much to be pitied as those who dig in the mines, scarcely ever seeing the light of day.</p>
+        <p xml:id="stanton_fair_1308">Those who can dispose of their time as they see fit can hardly appreciate what a Sunday at the World's Fair would be for large classes of their fellow men. It is difficult to see from what standpoint those women viewed the happiness of their fellow beings, who, in convention assembled, passed resolutions in favor of closing the fair on Sunday.</p>
+        <p xml:id="stanton_fair_1309">That noble Quakeress, Lucretia Mott, seeing that the laboring masses were practically excluded from the Centennial Exposition, made her protest against the injustice by never passing within the gates herself. With fifteen added years of experience one would think all American women might have reached a similar standard of justice and common-sense.</p>
+        <p xml:id="stanton_fair_13010">What is the duty of the State in this matter? Clearly, to do whatever conserves the welfare of the majority of the people. The minority have the right to stay away from the exposition on Sunday, but they have no right to throw obstacles in the way of a majority by influencing popular sentiment or securing legislative enactments to prevent them from enjoying that day in whatever way they may see fit, provided they do not infringe on the rights of the minority.</p>
+        <p xml:id="stanton_fair_13011">Again, in a financial point of view, the State has no right to cripple a great popular enterprise, wholly beneficial in its results, by any interference. The managers of the exposition, before everything is completed, must expend fabulous sums of money in realizing their ideal of what an exposition should be, and to close the gates the very day the greatest numbers could be there would be hostile to the interests of the managers as well as the happiness of the people. If to close the fair would drive the laboring masses to the churches, there to drop their dimes into the collection-boxes, there might be some reason for ecclesiastical interference. But the majority will not go to the churches, but rather crowd the drinking and gambling saloons, the restaurants, and the dance-houses, and make the city a pandemonium by night. But, after a long, well-spent day mid such fairy scenes as the exposition will present, wandering round the beautiful park or sailing on the lake, the majority would take the evening trains to their respective homes, with pleasant memories of all they had seen--enough to gladden the remaining days of the week.</p>
+        <p xml:id="stanton_fair_13013">If we would lift the masses out of their gross pleasures, we must cultivate their tastes for more refined enjoyments. The object of Sunday observance is primarily to give the people a day of rest and recreation, a change from their ordinary employments, a little space of time, in the hard struggle of life, for amusement. Sunday by common consent is the day set aside to use the best influences society possesses, to cultivate the religious emotions, the moral sentiments, to teach the dignity of humanity and the brotherhood of the race. It needs but little reflection to see what a potent
+<pb xml:id="stanton_fair_13012" n="266  THE NORTH AMERICAN REVIEW."/>
+influence in all these directions the World's Fair will be. The location is in every way most desirable. A magnificent park, whose shores are washed by an inland sea, vast buildings, that in grandeur and beauty of architecture have never been equalled [sic], filled with the most wonderful productions of all that is new in art and science, from every nation on the globe--what an impressive scene this will be! With multitudes of men and women in happy companionship, now wandering through this museum of wonders, and now down the winding walks of the boundless park, now seated in that beautiful pavilion on the shores of Lake Michigan, watching the rolling waves break at their feet, or in the grand concert-hall listening to interpretations by Theodore Thomas, Seidl, or Damrosch, of the divine melodies of the old masters--where else could such a rare combination of pleasures, mid such surroundings, be so easily provided for the people?</p>
+        <p xml:id="stanton_fair_13014">Here, too, in shady nooks gifted orators might speak to the multitudes on popular reforms or religious questions, for there are no meetings more impressive than those held in the open air, and many assemblies might be held in that vast space without interfering with each other.</p>
+        <p xml:id="stanton_fair_13015">If, then, the influence of the exposition on the minds of the people, can be alike entertaining and instructive, we may well ask, Why should it be closed on Sunday?</p>
+        <p xml:id="stanton_fair_13016">ELIZABETH CADY STANTON.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

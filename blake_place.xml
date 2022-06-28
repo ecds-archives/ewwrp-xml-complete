@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="blake_place_13012">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Put Us in Your Place, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Blake, Lillie Devereux, 1833-1913</reg><orig>Lillie Devereux Blake</orig></choice></name>
+          
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="blake_place_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Emory Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/179z9</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Blake, Lillie Devereux. Put Us in Your Place. <publisher>Revolution</publisher> 8.11 (Sept. 14, <date>1871</date>).</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="blake_place_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Women's Advocacy</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Essay</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Women authors, American--19th Century.</item>
+            <item>Women--Suffrage.</item>
+            <item>Equality before the law--Women.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2000</date><label>Staff</label><name>Anna Engle</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="blake_place_13011">
+    <body xml:id="blake_place_13010">
+      <div xml:id="blake_place_001" type="Essay">
+        <docAuthor>Lillie Devereux Blake</docAuthor>
+        <head>Put Us in Your Place</head>
+        
+        <bibl><title>Revolution</title> 8.11 (Sept. 14, 1871).</bibl>
+        <p xml:id="blake_place_1303">The opponents of woman suffrage have sometimes declared that the so-called weaker sex is by nature incompetent for the exercise of the high privileges of political life, and if, perchance, any woman does blunder in her public career, there are plenty of amiable journalists to cry out, "I told you so!" Let us for a moment suppose that women should do as men do, what then must be said?</p>
+        <p xml:id="blake_place_1304">Imprimis: Fault has sometimes been found with the proceedings of woman suffrage meetings as lacking in parliamentary decorum, and funny reporters have been found to say, that "Woman-like, they all talked at once." Woman-like, indeed! They had better have said man-like! Only for one moment imagine that a suffrage convention were to be carried on like a session of the lower house of Congress! A good many, even of us silly sisters, have been there, and know what a wild scene of confusion there is in that political bear garden. One man may be seen shouting and screaming in a voice that seems to come from the roof of his mouth, while his fellow legislators are talking together without paying the slightest heed to the orator. Should we ever hear the last of it, if, during a meeting of the New York Woman Suffrage Association, Miss Anthony should deliver an harangue while all the rest of us, instead of listening with respectful attention, should be chattering in audible tones each one with her neighbor?</p>
+        <p xml:id="blake_place_1305">I have been this summer many times to the village church on a Sunday. On every occasion I have seen outside a dozen farmers who spent the hour of the service in gossiping with each other, leaving their wives and daughters to do their worshipping for them. What would be said if as many women were to occupy their places on some fine Sabbath with newspapers, or chat and while away the time usually passed in church? Would not the whole community be scandalized?</p>
+        <p xml:id="blake_place_1306">A friend of mind, a remarkably intelligent woman, tells me that she was once at a State fair where the man who had been appointed inspector of <hi rend="italic">sewing machines</hi> came to her in great distress; said he, "I don't know one sewing machine from another. I never have examined one in my life; do tell me something about them." It never occurred to those giving the office that a woman could probably be found more competent for it than any man. But what would they have said had the tables been turned, and all the appointments been in the hands of a board of ladies, who had selected an incompetent woman as judge of mowing machines?</p>
+        <p xml:id="blake_place_1307">Finally, only imagine that Mrs. Stanton equaled Mr. Greeley in the force and vigor of the expletives with which she adorned her conversation. Would not the <hi rend="italic">Tribune</hi> be the first to write an editorial to prove that Mrs. Stanton's profanity was the direct result of her desire to vote?</p>
+        <p xml:id="blake_place_1308">It is well to look a little at the relation between cause and effect. Said a lady lately, "I was a strong advocate of woman suffrage; but since the women in Paris have behaved so badly I have changed my man." The natural result of her proposition would be to deny the ballot to both sexes, since her syllogism runs somewhat thus: "The women of Paris have behaved badly, therefore women ought not to vote;" which would naturally be followed by the corresponding statement: "The men of Paris behaved badly, therefore men ought not to vote."</p>
+        <p xml:id="blake_place_1309">That was a wise remark of the old philosopher that "human nature is poor stuff;" but let not the errors of women be held to debar them from political enfranchisement when the crimes of men are no barrier.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

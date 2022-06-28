@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lkr_absent_1307">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>To My Absent Husband</title>
+        <author>
+          <name type="person"><choice><reg>Rogers, Loula Kendall, 1838-1931</reg><orig>Mrs. Loula Kendall Rogers</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>6k</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="lkr_absent_1301">2008 Emory University. Permission is granted to
+
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>2008</date><idno type="ark">http://pid.emory.edu/ark:/25593/17cqj</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Rogers, Loula Kendall, "To My Absent Husband" Loula
+
+	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
+
+	   Library, Emory University</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="lkr_absent_1302">This digital text is produced from the Loula Kendall
+
+	   Rogers Papers, generously loaned to the Beck Center by    	
+
+The Manuscript, Archives, and Rare Book Library at Emory University.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="language">American</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Poetry</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Marriage--United States--19th Century.</item>
+            <item>Civil War, U.S., 1861-1865--Poetry</item>
+            <item>American poetry--19th century.</item>
+            <item>Women authors, American--19th Century</item>
+            <item>Women authors, American--20th Century</item>
+            <item>War.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2008</date><label>Woodruff Graduate Fellow</label><name>Stewart Varner</name>XML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="lkr_absent_1306">
+    <body xml:id="lkr_absent_1305">
+      <pb facs="lkr_absent001" xml:id="lkr_absent_1303" n="[1]"/>
+      <div xml:id="lkr_absent_1304">
+        <head rend="center">(FOR THE SOUTHERN CONFEDERACY)<lb/><seg type="short-title">TO MY ABSENT HUSBAND</seg></head>
+        <lg type="stanza">
+          <l>Thou'rt gone!  Thou'rt gone! no more may I hear</l>
+          <l>Love's lingering tones lowly breathed in my ear.</l>
+          <l>My bower is desolate where lately there shone</l>
+          <l>A bright beaming star - but now I'm alone.</l>
+          <l>'Tis beautiful there, more brilliant the flowers</l>
+          <l>Of autumn than those of the past summer hours,</l>
+          <l>Sweet birds too are singing, but I hear not their lay</l>
+          <l>My spirit is lonely for thou art away.</l>
+        </lg>
+        <lg type="stanza">
+          <l>Each favorite haunt tells me, dearest of thee,</l>
+          <l>On my heart is thine image where'er I may be;</l>
+          <l>When I call to the echo no sound is so sweet</l>
+          <l>As the name of all others I'd rather repeat;</l>
+          <l>But thy country has called thee, in her hour of need,</l>
+          <l>While the groans of her dying for victory plead,</l>
+          <l>And I know that thy valor  in her service will shine</l>
+          <l>Though thy strength may be feeble, her glory is thine!</l>
+          <l>God shield thee in suffering, and keep thee from harm</l>
+          <l>In peace or in battle, in sunlight or storm,</l>
+          <l>And memory, sweet memory illumine thy heart</l>
+          <l>With dreams of our past that ne'er may depart.</l>
+        </lg>
+        <lg type="stanza">
+          <l>Thou'rt away!  Thou'rt away, where the cannon's loud roar</l>
+          <l>Sends terror to thousands who'll hear it no more;</l>
+          <l>There war wildly rages and dangers beset,</l>
+          <l>Yet thy home and thy loved one thou'lt never forget.</l>
+          <l>I gazed on thy form as it passed from my sight,</l>
+          <l>Thine cager war charger exulting in might,</l>
+          <l>And called in my anguish on the God of the free,</l>
+          <l>Believing He'd watch o'er my brothers and thee.</l>
+          <l>Each morning and evening our prayers will unite,</l>
+          <l>That he may defend us in justice and right,</l>
+          <l>Give us liberty and triumph with gladness again,</l>
+          <l>And no more let battle cries sound o'er the plain.</l>
+        </lg>
+        <byline>
+          <name type="person"><choice><reg>Rogers, Loula Kendall</reg><orig>LEOLA</orig></choice></name>
+
+        </byline>
+      </div>
+    </body>
+  </text>
+</TEI>

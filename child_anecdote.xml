@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="child_anecdote_13015">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Anecdote of Elias Hicks, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Child, Lydia Maria Francis, 1802-1880</reg><orig>Lydia Maria Child</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="child_anecdote_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to
+the work claimed by Emory University for non-profit educational purposes, provided 
+this header is included in its entirety.  For inquiries about commercial uses, contact
+either: Women Writers Resource Project or Lewis H. Beck Center for Electronic
+collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17b9s</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Child, Lydia Maria.  Anecdote of Elias Hicks.
+	   <publisher>The Liberty Bell</publisher>. Boston: American Anti-Slavery Society. 25 Cornhill, <date>1839</date> (vol. 1).  American Periodical Series 1800-1850 microfilm.  APS 1207 Liberty Bell Volumes 1-13 (1839-52) reel 491. </bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="child_anecdote_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Abolition, Freedom, and Rights</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Article</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Hicks, Elias, 1748-1830.</item>
+            <item>Women authors, American--19th Century.</item>
+            <item>Quaker abolitionists.</item>
+            <item>Quakers.</item>
+            <item>Religiosity.</item>
+            <item>Social reformers.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1997</date><label>Staff</label><name>Scott Ellis</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck
+	    Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="child_anecdote_13014">
+    <body xml:id="child_anecdote_13013">
+      <div xml:id="child_anecdote_001" type="Article">
+        <head>ANECDOTE OF ELIAS HICKS.</head>
+        <byline>BY LYDIA MARIA CHILD.</byline>
+        <p xml:id="child_anecdote_1303">The following anecdote was told to me by a member of the Society of Friends. It made a strong impression on my mind, because it shows so clearly the excellence of a bold meekness and Christian firmness in the discharge of duty; because it adds another fact to prove that he who trusts in moral power hath ever a brave indifference to threats of physical violence.</p>
+        <p xml:id="child_anecdote_1305">When Elias Hicks was preaching in Virginia, many years ago, he took occasion to bear a powerful testimony against the sin of slavery. Among the large audience collected together by the fame of his eloquence were several planters; and they, of course, were sorely aggriev-
+<pb xml:id="child_anecdote_1304" n="66"/>
+ed by his remarks. One in particular was so filled with wrath, that he swore vehemently he would blow out the preacher's brains, if he ventured near his plantation.</p>
+        <p xml:id="child_anecdote_1306">When this threat was repeated to Elias, he quietly put on his hat and proceeded straightway to the forbidden spot. In answer to his inquiries, a slave informed him that his master was then at dinner, but would see him in a short time.</p>
+        <p xml:id="child_anecdote_1307">The preacher seated himself, and waited quietly until the planter entered the room. In serene tones he addressed him thus: " Friend, I understand thou hast threatened to blow out the brains of Elias Hicks, if he comes near thy plantation. I am Elias Hicks!"</p>
+        <p xml:id="child_anecdote_1309">What could brute force do in a dilemma like this?  To have taken pistols and deliberately shot an unresisting guest would have been too assassin-like. It would have been a deed of ill appearance; and moreover it <hi rend="italic">could not</hi> be done, 
+<pb xml:id="child_anecdote_1308" n="67"/>
+by reason of a restraining power within. Earnestly, as the planter might wish the preacher in heaven, he could not, under such circumstances help to send him thither. He did the best he could to sustain his position. He stammered forth, in surly tones, an acknowledgment that he did make use of such a threat; and he considered it perfectly justifiable when a man came to preach rebellion to his slaves.</p>
+        <p xml:id="child_anecdote_13010">"Friend," replied Elias, "I came to preach the Gospel, which inculcates forgiveness of injuries upon slaves, as well as upon other men; but tell me, if thou canst, how this Gospel can be truly preached without showing the slaves that they <hi rend="italic">are</hi> injured, and without making a man of thy sentiments feel as if they were encouraged in rebellion."</p>
+        <p xml:id="child_anecdote_13012">This led to a long argument, maintained in the most friendly spirit. At parting, the slave-holder cordially shook hands with the Quaker, 
+<pb xml:id="child_anecdote_13011" n="68"/>
+and begged him to come again. His visits were renewed; and six months after, the Virginian emancipated all his slaves.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

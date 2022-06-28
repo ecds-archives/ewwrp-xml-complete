@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lkr_glimpses_1307">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Glimpses of the Great Work Wrought By Georgia
+
+	   Daughters of the Confederacy</title>
+        <author>
+          <name type="person"><choice><reg>Rogers, Loula Kendall, 1838-1931</reg><orig>Mrs. Loula Kendall Rogers</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10k</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="lkr_glimpses_1301">2008 Emory University. Permission is granted to
+
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>2008</date><idno type="ark">http://pid.emory.edu/ark:/25593/17d0r</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Rogers, Loula Kendall, "Glimpses of the Great Work
+
+	    Wrought By Georgia Daughters of the Confederacy," <date>[1925]</date>. Loula
+
+	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
+
+	   Library, Emory University</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="lkr_glimpses_1302">This digital text is produced from the Loula Kendall
+
+	   Rogers Papers, generously loaned to the Beck Center by    	
+
+The Manuscript, Archives, and Rare Book Library at Emory University.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="language">American</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Poetry</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>United Daughters of the Confederacy.</item>
+            <item>Women authors, American--19th Century</item>
+            <item>Women authors, American--20th Century</item>
+            <item>Confederate States of America.</item>
+            <item>Civil War, U.S., 1861-1865</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2008</date><label>Woodruff Graduate Fellow</label><name>Stewart Varner</name>XML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="lkr_glimpses_1306">
+    <body xml:id="lkr_glimpses_1305">
+      <pb facs="lkr_glimpses002" xml:id="lkr_glimpses_1303" n="[1]"/>
+      <div xml:id="lkr_glimpses_1304" type="poem">
+        <head rend="center">GLIMPSES OF THE GREAT WORK WROUGHT BY<lb/>
+
+      GEORGIA DAUGHTERS OF THE CONFEDERACY</head>
+        <byline rend="center">By Mrs. Loula Kendall Rogers, Poet Laureate Georgia Division</byline>
+        <lg type="stanza">
+          <l>Go ask the <hi rend="underline">hills</hi> the <hi rend="underline">mighty hills</hi></l>
+          <l rend="indent">Where neither church nor school were known</l>
+          <l>No upward path to life and light</l>
+          <l rend="indent">Or judgment at Jehovah's throne?</l>
+          <l>And there 'tis found that woman's hands</l>
+          <l rend="indent">Have reared a shrine where love abides,</l>
+          <l>Where education opes the way</l>
+          <l rend="indent">And knowledge over mind presides.</l>
+        </lg>
+        <lg type="stanza">
+          <l>At <hi rend="underline">Rabun Gap</hi> 'neath mountain height</l>
+          <l rend="indent">What wondrous changes have been wrought!</l>
+          <l>What stores of thought unlocked each day</l>
+          <l rend="indent">And gems revealed 'till then unsought!</l>
+          <l>O brave Bartow! Thy spirit dwells</l>
+          <l rend="indent">On every tree and sparkling rill,</l>
+          <l>Each zephyr tells to passers by</l>
+          <l rend="indent">"Though dead, his fame is living still."</l>
+        </lg>
+        <lg type="stanza">
+          <l>At <hi rend="underline">Liberty Hall</hi>, a mansion stands</l>
+          <l rend="indent">In reverence to him who freely gave</l>
+          <l>Heart, hands and mind to train our youth</l>
+          <l rend="indent">And from a reckless life to save</l>
+          <l>Hail gallant Stephens! In memory hail!</l>
+          <l rend="indent">Thy labor was never spent in vain,</l>
+          <l>But illumined all who followed the gleam</l>
+          <l rend="indent">And in eternity they reign.</l>
+        </lg>
+        <lg type="stanza">
+          <l>The honored names of our Generals shrine</l>
+          <l rend="indent">At many hospitals o'er the sea</l>
+          <l>Bearing comfort to each soldier brave</l>
+          <l rend="indent">And gratitude to U.D.C.</l>
+          <l>In World War records Georgia won</l>
+          <l rend="indent">The highest prize!  And ne'er shall fade</l>
+          <l rend="indent">The gift of noble <hi rend="underline">Hector</hi> church</l>
+          <l rend="indent">When ten thousands at our feet were laid!</l>
+        </lg>
+        <lg type="stanza">
+          <l>Go ask the winds that sweep <hi rend="underline">Oconee</hi></l>
+          <l rend="indent">Far down the crimson hills of Hall</l>
+          <l>What wondrous stories they are singing</l>
+          <l rend="indent">Of Athens queenliest queen of all</l>
+          <l>Ah, there sweet <hi rend="underline">Winnie Davis</hi> smiles</l>
+          <l rend="indent">As daughters of heroes come afar</l>
+          <l>To life high and higher the banner of learing,</l>
+          <l rend="indent">Until its <hi rend="underline">folds entwine a-star</hi>.</l>
+        </lg>
+        <lg type="stanza">
+          <l>Throughout <hi rend="underline">all Georgia lands</hi> are found</l>
+          <l rend="indent">Memorials of our "Boys in Gray."</l>
+          <l>And truths of history certify</l>
+          <l rend="indent">A stainless banner led their way</l>
+          <l>From broad Savannah on the east</l>
+          <l rend="indent">To Chattahoochee's rhythmic wave</l>
+          <l>Confederate daughters ne'er have ceased</l>
+          <l rend="indent">To <hi rend="underline">honor, revere</hi> and <hi rend="underline">crown
+
+	</hi> <hi rend="underline">the </hi> <hi rend="underline">brave</hi>.</l>
+        </lg>
+        <lg type="stanza">
+          <l>On mountain crest,<add place="supralinear">Stone Mountain </add> a vision lives</l>
+          <l rend="indent">The wonderous dream of Helen Plane</l>
+          <l><hi rend="underline">Heaven gave</hi> the <hi rend="underline">hallowed </hi> <hi rend="underline">Cenotaph</hi></l>
+          <l rend="indent">All through the years it must remain</l>
+          <l>Oh mountain, speak with loving voice!</l>
+          <l rend="indent">The merit of they sons proclaim,</l>
+          <l>And tell to cycling years that roll</l>
+          <l>They won <hi rend="underline">by </hi> <hi rend="underline">right</hi>, <hi rend="underline">eternal </hi> <hi rend="underline">fame</hi>!</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

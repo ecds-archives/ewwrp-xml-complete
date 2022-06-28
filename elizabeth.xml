@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="elizabeth_13020">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Queene Elizabeth's Speech to Her Last Parliament, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Elizabeth I, Queen</reg><orig>Elizabeth [Queen]</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>15kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="elizabeth_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to
+the work claimed by Emory University for non-profit educational purposes, provided 
+this header is included in its entirety.  For inquiries about commercial uses, contact
+either: Women Writers Resource Project or Lewis H. Beck Center for Electronic
+collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17bsq</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl> Elizabeth, Queen of England "Queene Elizabeth's Speech to Her Last Parliament." London, <date>1642</date>. 5 pages. PEEB 142:12 and 259:E.200(15) TT 35:E.200(15)</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="elizabeth_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early Modern through the 18th Century</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Speech</rs>
+        <rs type="geography">Great Britain</rs>
+        <date>1600-1699</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Queens--Great Britain--Sources.</item>
+            <item>Speeches, addresses, etc., English--17th Century.</item>
+            <item>Women authors, English--17th Century.</item>
+            <item>Great Britain--History--Elizabeth, 1558-1603--Sources.</item>
+            <item>Great Britain--Politics and government--1558-1603--Sources.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1997</date><label>Staff</label><name>Scott Ellis</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="elizabeth_13019">
+    <body xml:id="elizabeth_13018">
+      <div xml:id="elizabeth_001" type="Speech">
+        <head>QUEENE<lb/>
+ELIZABETHS<lb/>
+SPEECH<lb/>
+TO HER LAST<lb/>
+PARLIAMENT.</head>
+        <p xml:id="elizabeth_1303">The 30 of November 1601, her Maiestie being set ronder State in the
+Councell Chamber at Whitehall, the Speaker, accompanied with Privy
+Councellours, besides Knights and Burgesses of the lower House to the
+number of eight-scoore, presenting themselves at her Maiesties feet, for
+that so graciously and speedily shee had heard and yielded to her Subjects
+desires, and proclaimed the same in their bearing as followeth.</p>
+        <p xml:id="elizabeth_1304">Mr. Speaker,</p>
+        <p xml:id="elizabeth_1306">Wee perceive your comming is to present thankes unto Us, Know I accept them
+with no lesse joy then your loves can have desire to offer such a Present,
+and doe more esteeme it them any Treasure or Riches, for those Wee know how
+to prize, but Loyaltie, Love, and Thankes, I account them invaluable; and
+though God hath raysed Mee high, yet this I account the glorie of my
+Crowne, that I have reigned with your Loves. This makes that I doe not so
+much rejoyce that God hath made Mee to bee a Queene
+<pb xml:id="elizabeth_1305" n="A2"/>
+ as to bee a Queene over so thankefull a People, and to bee the meane under
+God to conserne you in safety, and preserve you from danger, yea to bee the
+Instrument to deliver you from dishonour, from shame, and from infamie; to
+keepe you from out of servitude, and from slaverie under our Enemies, and
+cruell tyranny, and vilde oppression intended against us: for the better
+withstanding wherof, Wee take very acceptably your intended helpes, and
+chiefely in that it manifesteth your loves and largenesse of heart to your
+Soverigne. Of My selfe I must say this, I never was any greedy scraping
+grasper, nor a strict fast-holding Prince, nor yet a waster, My heart was
+never set upon any worldly goods, but onely for my Subjects good. What you
+doe bestow on Me, I will not hoard up, but receive it to bestow on you
+againe; yea Mine owne Properties I account yours to bee expended for your
+good, and your eyes shall see the bestowing of it for your wellfare.</p>
+        <p xml:id="elizabeth_1307">Mr. Speaker, I would wish you and the rest to stand up, for I feare I shall
+yet trouble you with longer speech.</p>
+        <p xml:id="elizabeth_1308">Mr. Speaker, you give me thankes, but I am more to thanke you, and I charge
+you, thanke them of the Lower-House from Me, for had I not received
+knowledge from you, I might a fallen into the lapse of an Error, onely for
+want of true information.</p>
+        <p xml:id="elizabeth_1309">Since I was Queene yet did I never put My Pen to any Grant but upon pretext
+and semblance made Me, that it was for the good and availe of my subjects
+generally, though a private profit to some of my ancient Servants who have
+deserved well: But that my Grants shall bee made Grievances to my People,
+and Oppressions, to bee privileged under colour of Our Pattents, Our
+Princely Dignitie shall not suffer it.</p>
+        <p xml:id="elizabeth_13011">When I heard it, I could give no rest unto my thoughts untill I had
+reformed it, &amp; those Varlets, lewd persons, abusers of my bountie, shall
+know I wil not suffer it. And Mr. Speaker, tell the House from mee, I take
+it exceeding gratefull, that the knowledge of these things are come unto
+mee from them. And though amongst them the principall Members are such as
+are not touched in private, and therefore need not speake from any feeling
+of the griefe, yet We have heard that other Gentlemen also of the House,
+who stand as free, have spoken as freely in it; which gives Us to know that
+no respects or intrests have moved them other then the mindes they beare to
+suffer no diminution of our Honour, and our Subjects love unto Us. The
+zeale of which affection tending to ease my People, &amp; knit their hearts
+unto us, I embrace with a Princely care farre above all earthly Treasures.
+I esteeme my Peoples love, more then which I desire not to merit: And god
+that gave me here to sit, and placed mee over you, knowes that I never
+respected 
+<pb xml:id="elizabeth_13010" n="A3"/>
+my selfe, but as your good was conserved in mee; yet what dangers, what
+practises, and what perills I have passed, some, if not all of you know:
+but none of these things doe moove mee, or ever made mee feare, but it is
+God that hath delivered me.</p>
+        <p xml:id="elizabeth_13012">And in my governing this Land, I have ever set the last Judgement day
+before mine eyes, and so to rule, as I shall be judged and answer before a
+higher Judge, to whose judgement Seat I doe appeale in that never thought
+was cherished in my heart that tended not to my Peoples good.</p>
+        <p xml:id="elizabeth_13013">And if my Princely bountie have beene abused, and my Grants turned to the
+hurt of my People contrary to my will and meaning, or if any in Authoritie
+under mee have neglected, or converted what I have committed unto them, I
+hope God will not lay their culps to my charge.</p>
+        <p xml:id="elizabeth_13014">To be a King, and weare a Crown, is a thing more glorious to them that see
+it, then it is pleasant to them that beare it: for my selfe, I never was so
+much inticed with the glorious name of a King, or the royall authoritie of
+a Queene, as delighted that God hath made me His Instrument to maintaine
+His Truth and Glorie, and to defend this Kingdome from dishounour, dammage,
+tyrannie, and oppression. But should I ascribe any of these things unto my
+selfe, or my sexly weaknesse, I were not worthy to line, and of all most
+unworthy of the mercies I have received at Gods hands but to God onely and
+wholly all is given and ascribed.</p>
+        <p xml:id="elizabeth_13015">The cares and trouble of a Crowne I cannot more fitly resemble then to the
+Drugges of a learned Physitian, perfumed with some Aromaticall Savour, or
+to bitter Pils guilded over, by which they are made more exceptable or
+lesse offensive, which indeed are bitter and unpleasant to take; and for my
+owne part, were it not for Conscience sake to discharge the dutie that God
+hath layd upon me, and to maintaine his glorie, and keepe you in safetie,
+in mine owne disposition I should be willing to resigne the place I hold to
+any other, and glad to be freed of the Glory with the Labors, for it is not
+my desire to live nor to reign longer then my life and reigne shall bee for
+your good. And though you have had and may have many mightier and wiser
+Princes fitting in this Seat, yet you never had nor shall have any that
+will love you better.</p>
+        <p xml:id="elizabeth_13016">Thus Mr. Speaker, I commend mee to your loyall Loves, and yours to my best
+care and your further Councels, &amp; I pray you Mr. Controullor, &amp; Mr.
+Secretary, and you of my Councell, that before these Gentlemen depart into
+their Countreys you bring them all to kisse my Hand.</p>
+        <p xml:id="elizabeth_13017">FINIS.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

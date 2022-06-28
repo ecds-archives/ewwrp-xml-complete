@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eleanor_reader_13018">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Reader, the heavy hour at hand, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Douglas, Eleanor, Lady, d. 1652</reg><orig>Lady Eleanor</orig></choice></name>
+          
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>15kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="eleanor_reader_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Emory Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17bqf</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Eleanor, Lady. Reader, the heavy hour at hand . . . London: s.n., <date>1648</date></bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="eleanor_reader_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early Modern through the 18th Century</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Prose</rs>
+        <rs type="geography">Great Britain</rs>
+        <date>1600-1699</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Prophecies.</item>
+            <item>Women authors, English--17th Century.</item>
+            <item>Religiosity.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2000</date><label>Staff</label><name>Erika Farr</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="eleanor_reader_13017">
+    <body xml:id="eleanor_reader_13016">
+      <pb xml:id="eleanor_reader_1303" n="(1)"/>
+      <div xml:id="eleanor_reader_001" type="Prose">
+        <docAuthor>Eleanor, Lady</docAuthor>
+        <head>Reader, the heavy hour at hand . . .</head>
+        
+        <bibl> London 1648.</bibl>
+        <p xml:id="eleanor_reader_1304">READER,</p>
+        <p xml:id="eleanor_reader_1305"><hi rend="italic">THe heavy </hi> hour at hand, <hi rend="italic">that it should not </hi> as a Thief surprize us in the night, Babylons <hi rend="italic">scattering whirlwind our final or utter blow; or lest should say, </hi> There had not a Prophet been amongst them, <hi rend="italic">could not refrain giving thee warning, though </hi> like rolling the restles stone, <hi rend="italic">prove but </hi> labor in vain. </p>
+        <p xml:id="eleanor_reader_1307"><hi rend="italic">Where </hi> Line upon Line, <hi rend="italic">no vain repetition, stiles them </hi> A house of Rebellion, <hi rend="italic">and </hi> Most Rebellious, <hi rend="italic">Cap. Ver. &amp;c.  Nay (as it were) had been sent to the house of </hi> Austria <hi rend="italic">their Churches, replyed, </hi> Had long ere this in sackcloth and ashes; <hi rend="italic">or to a People of </hi> a deep lip, of another language, <hi rend="italic">&amp;c.  The first-fruits of which Ambassage, shewing Israel being cut off, as by </hi> Ezekiel <hi rend="italic">tasted of, </hi> watchman over the rebellious house of Israel, <hi rend="italic">made </hi> to eat the roll or writ, Lamentation, Mourning <hi rend="italic">and </hi><seg type="catch">Woe,</seg><pb xml:id="eleanor_reader_1306" n="(2)"/>
+ Woe, <hi rend="italic">superscribed within and without; so by all signs and tokens without doubt served on our three sinful Kingdoms, home charged with open Rebellion, neither hearkning to the Prophet bidden, </hi> stamp with the foot, smite with the fist, with the breaking of thy loyns sigh, <hi rend="italic"> their musick but made and song, The Lord of Hosts when uttering his thundring voyce, roaring as a Lyon, the tokens of his coming, an end come on the four corners of the earth, ready to fall asleep, </hi> or sitting in the seat of scorners, <hi rend="italic">All their elbows grown to the pillows, they and their fathers.</hi></p>
+        <p xml:id="eleanor_reader_1309"><hi rend="italic">And so farther informing whether silent or otherwise, as it came to pass in the fifth year of such a Kings captivity accomplished </hi> (Ezekiel Cap.I.) <hi rend="italic">the hand of the Lord when upon him, his word coming expresly to him, saw the great Vision of God, he amongst the captives;  Also from this place, the Kings Bench Prison amongst this Society, give to understand; to accompany this warning piece of the</hi>  Turkish Armado's <hi rend="italic">preparation, added a sign, as</hi>  Isaiah <hi rend="italic">sometime gave one of the </hi> Suns going back so many degrees retiring, <hi rend="italic">before their captivity at</hi><seg type="catch"><hi rend="italic">hand</hi></seg><pb xml:id="eleanor_reader_1308" n="(3)"/><hi rend="italic"> hand foreshewed then; Another given of the </hi> Moon, <hi rend="italic">from his giving the </hi> Three half Moons, <hi rend="italic">whose Army harbors at </hi> Argier, <hi rend="italic">attending</hi>  Sions <hi rend="italic">being delivered up into his possession:  These</hi>  Islands <hi rend="italic">three to be under his lash of Iurisdiction, drawn from which premises these, for his Crest or Coat of Arms who gives the</hi> Half Moon, <hi rend="italic">not far off his house called</hi> Sion, <hi rend="italic">committed to whom three prisoner Princes, one of no inferior estate, under</hi>  Babylons Bashaws, <hi rend="italic">typyfying even our estate, those </hi> Mahometans <hi rend="italic">our guardians, the third Earldom of this Realm, assigned thereby to </hi> Algernon <hi rend="italic">Earl of </hi>  Northumberland <hi rend="italic">by Name, sometime Admiral of the Seas, paralleld with that Northern scourge, </hi> The Assyrian Army, <hi rend="italic">how given up into his protection the houses of the Lord. </hi></p>
+        <p xml:id="eleanor_reader_13011"><hi rend="italic">And so much </hi> (Reader) <hi rend="italic">for this flight of ours, and this new sign of the  </hi> New Moon <hi rend="italic">going before it, where cannot pass over </hi> Ezekiels <hi rend="italic">portraying our Cities siege, shewed by those battering rams or brazen Engines, so to the life their swift doing execution; and dreadful wheels motions and thndring voyce, in those living creatures (as </hi><seg type="catch"><hi rend="italic">sha</hi></seg><pb xml:id="eleanor_reader_13010" n="(4)"/><hi rend="italic">shadowed under the </hi> Seraphin work of the Tabernacles Curtains, <hi rend="italic">the Lord of Hosts Pavillion, each loop of which not without a Mystery, as observable </hi> Fifty in one curtain, and fifty in the other, (Exod. 26) <hi rend="italic">containing the mystery of winged time, the midst of the Century, even directed to, joyned like those Cherubin wings of theirs. </hi></p>
+        <p xml:id="eleanor_reader_13012"><hi rend="italic">And of this your day drawing near, whose silver and gold the stumbling block, Author of unhappiness all, as he unto all the people of</hi>  Judah, <hi rend="italic">saying from such a year of the King of</hi>  Judah, <hi rend="italic">even unto this day; that is, the Three and twenty year </hi> (Jer. Cap. 25.) <hi rend="italic"> Also the word of the Lord have I spoken unto you, rising early, but, &amp;c. </hi></p>
+        <p xml:id="eleanor_reader_13013">
+          <hi rend="center"> 1648.  23. of the present Reign.</hi>
+        </p>
+        <p xml:id="eleanor_reader_13014">_________ _____________ __________ ________ ______________ ____________</p>
+        <p xml:id="eleanor_reader_13015">
+          <hi rend="center">F I N I S .</hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

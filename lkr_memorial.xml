@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lkr_memorial_1307">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Memorial Song</title>
+        <author>
+          <name type="person"><choice><reg>Rogers, Loula Kendall, 1838-1931</reg><orig>Mrs. Loula Kendall Rogers</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10k</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="lkr_memorial_1301">2008 Emory University. Permission is granted to
+
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>2008</date><idno type="ark">http://pid.emory.edu/ark:/25593/17dc8</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Rogers, Loula Kendall, "Memorial Song," <date>26 April 1917</date>. Loula
+
+	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
+
+	   Library, Emory University</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="lkr_memorial_1302">This digital text is produced from the Loula Kendall
+
+	   Rogers Papers, generously loaned to the Beck Center by    	
+
+The Manuscript, Archives, and Rare Book Library at Emory University.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="language">American</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Poetry</rs>
+        <rs type="geography">United States</rs>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>United Daughters of the Confederacy.</item>
+            <item>Women authors, American--19th Century</item>
+            <item>Women authors, American--20th Century</item>
+            <item>World War, 1914-1918--Poetry</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2008</date><label>Woodruff Graduate Fellow</label><name>Stewart Varner</name>XML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="lkr_memorial_1306">
+    <body xml:id="lkr_memorial_1305">
+      <pb facs="lke_memorial0004" xml:id="lkr_memorial_1303" n="[1]"/>
+      <div xml:id="lkr_memorial_1304" type="poem">
+        <head>
+          <seg type="short-title">MEMORIAL SONG</seg>
+          <lb/>
+          <stage>For the unveiling of the Memorial Fountain erected in Tennille, Georgia,<lb/>
+
+      by the Daughters of the Confederacy, April 26, 1917.  Written by Mrs.<lb/>
+
+      Loula Kendall Rogers.  Air "Columbia, Gem of the Ocean." For the<lb/>
+
+      Loula K. Rogers Chapter C. of C.<lb/></stage>
+        </head>
+        <lg type="stanza">
+          <l>This day will our hearts ever cherish,</l>
+          <l>Fond thoughts of the brave and the true,</l>
+          <l>May their fame, and their glory ne'er perish,</l>
+          <l>For memory shall bring them to view,</l>
+          <l>Gather chaplets of lilies and roses,</l>
+          <l>And laurels they won on the field,</l>
+          <l>And place them where valor reposes</l>
+          <l>Bright Honor illumined their shield.</l>
+        </lg>
+        <lg type="stanza">
+          <head rend="indent">CHORUS -</head>
+          <l>Three cheers for the loyal and true!</l>
+          <l>Three cheers for the Loyal and true.</l>
+          <l>North and South, East and West forever,</l>
+          <l>Three cheers for the loyal and true!</l>
+        </lg>
+        <lg type="stanza">
+          <l>The Southern Cross, with "Old Glory" united,</l>
+          <l>O'er millions their stars brightly beam,</l>
+          <l>Hearts and hands for our country are plighted,</l>
+          <l>All America is led by their gleam,</l>
+          <l>Then if War spreads its wide <sic>decolation</sic>,</l>
+          <l>Out defenders are the "Gray and the Blue."</l>
+          <l>Both will watch o'er the fate of our nation,</l>
+          <l>Three cheers for the loyal and true!</l>
+          <trailer rend="bold">CHORUS -</trailer>
+        </lg>
+        <lg type="stanza">
+          <l>With hearts ever faithful and tender</l>
+          <l>For all who have bled in the fray,</l>
+          <l>We've remembered each gallant defender</l>
+          <l>Inscribed on the marble today,</l>
+          <l>And whether on ocean or mountain,</l>
+          <l>Our Army and Navy shall be,</l>
+          <l>Like, the waters that flash from this Fountain,</l>
+          <l>May their light shine as pure and as free</l>
+          <trailer rend="bold">CHORUS -</trailer>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="griffith_slavery_13015">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Not Slavery and a Truce, But Emancipation and Peace, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Browne, Martha Griffith, d. 1906</reg><orig>Mattie Griffith</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent/>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="griffith_slavery_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Emory Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17cc5</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Griffith, Mattie [Martha]. Not Slavery and a Truce,
+	   But Emancipation and Peace. <publisher>National Anti-Slavery Standard</publisher> Vol. XXIV, No. 14. <date>[186-?]</date></bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="griffith_slavery_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Abolition, Freedom, and Rights</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Letter</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Antislavery movements--United States--History--Sources.</item>
+            <item>Women authors, American--19th Century.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2000</date><label>Staff</label><name>Natalie Prestwich</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="griffith_slavery_13014">
+    <body xml:id="griffith_slavery_13013">
+      <div xml:id="griffith_slavery_001" type="Letter">
+        <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+        <docAuthor>Browne, Mattie Griffith</docAuthor>
+        <head><seg type="short-title">Not Slavery and a Truce</seg>, But Emancipation and Peace</head>
+        
+        <bibl><title>National Anti-Slavery Standard</title> Vol. XXIV, No. 14</bibl>
+        <p xml:id="griffith_slavery_1303">
+          <hi rend="italic">To the Editor of The Independent:</hi>
+        </p>
+        <p xml:id="griffith_slavery_1304">SIR:  Your readers may probably find interest in a brief statement-which I desire to make-of the origin and single object of an Association of ladies lately organized in this city under the title of the "Women's Loyal National League."</p>
+        <p xml:id="griffith_slavery_1305">This League, which pledges its most warm and earnest influence to support "the National government in its prosecution of the war for Freedom and for the restoration of the National Unity," has thought that it can best redeem its pledge by confining its efforts to a single, practical point, that is, to the one object of procuring a Petition to be signed by one million names and upward-to be presented to the next Congress-praying for a speedy passage of an act emancipating all persons of "African descent held to slavery in the United States."</p>
+        <p xml:id="griffith_slavery_1306">The members of the League find it to be the opinion of those best experienced in the motives which usually actuate legislative bodies, that such an overwhelming evidence of public sentiment-if it could be obtained and presented to Congress-would be likely to seriously influence its action.  And they also believe of all the public measures probably to come before the next Congress, none will exceed in importance an act of immediate Emancipation.</p>
+        <p xml:id="griffith_slavery_1307">They regard such a law in a twofold light.  First, as an act of too long delayed justice and humanity, in failing to consummate which this nation can neither ask the blessing of God nor the sympathy of mankind; and again, they regard it as an endorsement and enlargement of the President's noble Proclamation of Emancipation, by which means alone we can obtain that blessing which we regard as second only to freedom-a solid and permanent peace.</p>
+        <p xml:id="griffith_slavery_1308">We believe with many others that a petition for emancipation is likewise a prayer for peace.  We believe that calm, domestic tranquility can never be reëstablish on a less broad or comprehensive basis.  In other words, we believe it is only by doing God's holy work of mercy (nay, less than mercy-justice) that we can ever again sit down in sweet security under the shade of "our own vine and fig-tree, with none to make us afraid."</p>
+        <p xml:id="griffith_slavery_1309">We greatly fear a temporizing policy.  We fear it because many good men and women-sometimes, perhaps, from honest motives-may be tempted to advocate it.  We have witnessed, with sinking hearts, month after month, the dreadful sufferings, the terrible loss of life, and the long line of countless miseries attendant upon war.  We have realized, as only those living amid civil strife <hi rend="italic">can</hi> realize, the evil passions, the crimes, the desolation that follow in its desperate track.  We have felt, as never before, what an outrage it is upon civilization and Christianity.  All this presses heavily upon our hearts, and the quick impulse is to put an end at once and for ever to these wholesale slaughterings-no matter how priceless the cost may be.</p>
+        <p xml:id="griffith_slavery_13010">Our impulse is to sacrifice the present to the future-to patch up a peace in our day, no matter what the result to those who shall come after us; nay, to ourselves, perhaps, when a few short years shall have passed.  The impulse is, no doubt, strong even among many of those who generously gave fathers, brothers, husbands, for the country's defense, to see these war-worn soldiers return once more to quiet homes-under any conditions short of national shame.  The members of the Women's Loyal League yield to none in their earnest longing for peace.  But they have never been able to believe that there <hi rend="italic">can</hi> be peace, except in the shade of a few years' truce, so long as the cause which produced the first rebellion remains uneradicated to produce a second.  They are willing to suffer yet more-they are willing to endure to the end, so they can but see the poison-weed extirpated, and peace-when it shall be made-based upon a firm rock.  They think it much easier to crush this first rebellion, with its powers now so crippled by recent losses, and the blockade cramping all its resources, and greatly dispirited by the disasters of the last month, than to encounter a second after several years of breathing-time shall have given renewed strength and spirit, and afforded time sufficient for a fresh and more terrible contest.</p>
+        <p xml:id="griffith_slavery_13011">Thus the members of the League believe that an Act of Congress pledging the Nation to Emancipation as the great preliminary of Peace, is of all public measures the one which the true friends of national unity should the most earnestly and perseveringly urge.</p>
+        <p xml:id="griffith_slavery_13012">The League has so far received through its correspondence, from all parts of the Northern States, the most encouraging evidences of zeal and interest in this noble cause.  The one difficulty, which yet restricts their efforts, is an insufficiency of funds.  I feel quite assured that if the true and zealous friends, whether it be the poor oppressed, persecuted, and innocent colored race, or of the cause of Peace, but estimated at their actual value in practice the results of this effort to bring public sentiment to bear upon Congress, the means would not long be wanting to enable the ladies of the League to proceed, with the speed and energy so great an undertaking demands, in the self-imposed task they have already successfully commenced.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

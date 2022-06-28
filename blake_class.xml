@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="blake_class_13012">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Are Women a Class? an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Blake, Lillie Devereux, 1833-1913</reg><orig>Lillie Devereux Blake</orig></choice></name>
+         
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="blake_class_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Emory Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/179x5</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Blake, Lillie Devereux. Are Women a Class? <publisher>Revolution</publisher> 5.10 (Mar. 10, <date>1870</date>).</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="blake_class_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Women's Advocacy</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Essay</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Women authors, American--19th Century.</item>
+            <item>Women--Suffrage.</item>
+            <item>Social class.</item>
+            <item>Suffrage.</item>
+            <item>Feminism.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2000</date><label>Staff</label><name>Anna Engle</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="blake_class_13011">
+    <body xml:id="blake_class_13010">
+      <div xml:id="blake_class_001" type="Essay">
+        <docAuthor>Lillie Devereux Blake</docAuthor>
+        <head>Are Women a Class?</head>
+        
+        <bibl><title>Revolution</title> 5.10 (Mar. 10, 1870).</bibl>
+        <p xml:id="blake_class_1303">From an article in the Brooklyn <hi rend="italic">Index</hi>, entitled "Susan's Mistake," I cut the following which contains the "gist" of what is in some respects a very sensible argument:</p>
+        <lb/>
+        <p xml:id="blake_class_1304">Are the women of this country to be regarded as a distinct class of people? If that is the case, then Miss Anthony-(we like better her plain Quaker name of Susan, which some of our brethren are doing their worst to trail in the mire)-if that is the case, we say, then Susan holds a logical position.</p>
+        <p xml:id="blake_class_1305">If, however, the opposite doctrine is true, then all that distinctive phase of the Woman Suffrage movement which is represented by Susan B. Anthony, must be regarded as pure moonshine, and entirely destitute of fructifying promise.</p>
+        <lb/>
+        <p xml:id="blake_class_1306">As a new comer into the ranks of the advocates of suffrage, one having only enjoyed the honor of Miss Anthony's acquaintance a short time, and not familiar with all her public utterances, I propose to confine my observations to this especial part of the article. To me it seems as if Miss Anthony had very much of reason in claiming that women so far as laws and representation are concerned, are a different class from men.</p>
+        <p xml:id="blake_class_1307">The opponents of Woman Suffrage frame argument something like this. "Women are not a distinct class of the community, their interests are identical with those of the men among whom they live, and as they are feebler than men, their proper pursuits evidently within doors, therefore men ought to vote for them." Now let us see how men would like a similar course of reasoning as applied to themselves. Every one knows that the number of men who vote at every election greatly complicate the difficulties of carrying it on, and increase the opportunities for fraud. Suppose, to remedy this, a law should be passed making physical strength the requisite for the ballot. This would exactly suit the opponents of Woman Suffrage, who think that women ought not to vote because they cannot do military duty-suppose then a law was to be framed declaring that only men who are six feet tall and can lift five hundred pounds shall vote, this would be fair, would it not? The interests of these men would be identical with that of the others, among whom they lived, and as the pursuits of many of these public men are within doors, therefore they ought to be content to let the strong men vote for them.</p>
+        <p xml:id="blake_class_1308">Lengthy comment is unnecessary. This proposition is as fair as the other, and yet what a storm of indignation it would raise to propose it! Those smaller men would declare that no one person can vote for another, that property and intellect, and not brute force ought to be the requisite for the ballot, and so one with most of the arguments now advanced for Woman Suffrage. Well, now it is as fair to claim that women are a class requiring the ballot as much as small men or even foreign men, or colored men; indeed I may say it would be fairer to let the native born American dry-goods man vote for the Irish and negro dry-goods man, than to allow the dry-goods husband to vote for the school teaching wife, the political interests here of the two being perchance at variance.</p>
+        <p xml:id="blake_class_1309">Every argument advanced to prove that women and men have different "spheres" in life and diverse places in the world, goes to prove that their interests must differ, and that women and men do form distinct classes. For to illustrate, if all women were to remain at home, merely caring for their households and children, while all men were to go out as workers, a radical difference of interests in political questions would spring up at once, the women as consumers might find free trade to their benefit, while the men as producers might desire various kinds of protection. It is this sort of difference of interests, coupled with the fact that while perhaps one half the women of the country have husbands able to provide for them, the other half either have no husbands at all, or must work for their living because the husband cannot earn it, which causes Miss Anthony and others to urge that this great class of the community require the ballot to give them direct representation.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

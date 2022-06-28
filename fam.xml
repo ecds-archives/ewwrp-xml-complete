@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fam_130298">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title><seg type="short-title">A Family Discussion</seg> Between the King and the Queen
+	    Regent, His Mother, Concerning Current Affairs, an
+	    electronic edition. Edited with an introduction by Amy Enright</title>
+        <author>
+          <name type="person"><choice><reg>Anonymous</reg><orig>Anonymous</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Amy Enright</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>115kb</extent>
+      <publicationStmt><publisher>Emory University General Libraries</publisher><address>
+          <addrLine>Atlanta, GA</addrLine>
+        </address><idno/><availability>
+          <p xml:id="fam_1301">Available at Emory University through the Lewis H. Beck Center.</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17c1s</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>A Family Discussion</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="fam_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early Modern through the 18th Century</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Edited</rs>
+        <rs type="genre">Prose</rs>
+        <rs type="geography">Great Britain</rs>
+        <date>1600-1699</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Mazarinades.</item>
+            <item>Louis XIV, King of France, 1638-1715.</item>
+            <item>Anne of Austria, 1601-1666.</item>
+            <item>Anne, Queen, consort of Louis XIII, King of France, 1601-1666.</item>
+            <item>Women authors, French--17th Century.</item>
+            <item>France--History--Louis XIV, 1643-1715.</item>
+            <item>France--Court and courtiers.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1997</date><label>Staff</label><name>Hamilton Carroll</name>Tagged according to TEI Lite conventions</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="fam_130297">
+    <body xml:id="fam_130295">
+      <div xml:id="fam_000" type="critical_introduction">
+        <div xml:id="fam_001" type="Introduction">
+          <head> Introduction to <title>A Family Discussion</title></head>
+	  <docAuthor>Enright, Amy</docAuthor>
+          <div xml:id="fam_002" type="Section">
+            <head>The Process of Edition and Translation  </head>
+            <p xml:id="fam_1303"> The hermeneutical disadvantage inherent in the edition and particularly in the translation of historical texts is the inevitable camouflaging of the differences between the culture of the author and that of the reader. The opening pages of this edition seek to redress that disadvantage by means of visual metaphor. On the cover page, the image of the original title page, creased and blurred, exhibits the age of this document. Moreover, the image fades into the blackness of the border, just as its context and contents are fading into the darkness of lost history. This is the true state of this document: aged, discarded, fading. The following page demonstrates the artificial transformation achieved by the processes of translation and edition. Suddenly, the text is in English, the fonts regular, and the borders straight. Here, the encroaching blackness of history is absent; the text is, to all appearances, accessible to the modern reader. Nevertheless, the cultural leap between early modern Paris and twentieth century America remains immense.</p>
+            <p xml:id="fam_1304"> It is of vital importance to keep in mind that this document, now presented in the context of things academic and abstract, was written, printed, sold, and read by people gripped with the urgency of their situation. The aim of this translation is to acknowledge the disparity between the culture of the reader and that of the author and, paradoxically, to attempt to bridge that gap which is larger than years or miles can measure. It seeks to investigate the opinions and assumptions of the author, examining them as a means by which early modem views of female rulership can be better understood.</p>
+            <p xml:id="fam_1305"> The camouflaging of cultural difference can be partially remedied by editorial manipulation. To this end, the seventeenth century French text has been included with the English translation. Its presence will afford francophone readers the opportunity to explore the original style of the prose while reminding readers of English that they are handling a foreign text. In an additional effort to create a translation faithful to the spirit of the original, the historical and literary notes have been placed on the pages opposing the terms they describe. It is hoped that this placement will facilitate their accessibility without interrupting the fluid banter of the pamphlet, as footnotes doubtlessly would have done. Finally, as few alterations as possible have been made to the French text, though u/i/y have been modernized to v/j/i in most cases. The English translation closely follows the literary style and grammatical construction of the French; antecedents and direct objects have been added in brackets only in those cases where their absence might cause confusion.</p>
+            <p xml:id="fam_1306"> In a fnal note, the author is pleased to acknowledge her debt to Professor William Beik of Emory University. His kind offer to review the translated portion of the text and his subsequent suggestions did much to bring the project to fruition.</p>
+          </div>
+          <div xml:id="fam_003" type="Section">
+            <head>'My good mother...': <seg type="short-title">Regency and Revolt</seg> in mid- seventeenth-century France  </head>
+            <p xml:id="fam_1307">History records her as Anne 'of Austria,' but, in fact, Anne's life was shaped by the erratic relationship between the kingdoms of Spain and France during the seventeenth century. She was raised as a Spanish princess, the first child of Philip III of Spain and Margaret of Austria, and married at age fourteen to Louis XIII of France with the hopes that under her influence Louis would prove more of a friend to the powerful Spanish monarchy than his father, the bellicose Henry IV, had been. Henry IV had feared that an alliance with the powerful Hapsburg empire which surrounded France -- to the north in the Netherlands and to the South in Spain and Italy -- would reduce his newly-won kingdom to the level of a client-state. After Henry's assassination in 1610, his widow, Marie de Medici, reversed French foreign policy by pursuing a marriage alliance between her eldest son and Princess Anne, an act of union which would wed the two most powerful Catholic nations in Europe.</p>
+            <p xml:id="fam_1308"> Hopes that Anne would grow so close to Louis as to sway him towards pro-Spanish policy grew quickly dim. Louis was not an overly intimate person and those few favorites he did have did not include his wife. Married as adolescents, the couple led separate lives punctuated by formal meetings and unpleasant quarrels prompted by Louis' periodic dismissal of the Spanish members of Anne's household. When pressed to explain his neglect of his wife, Louis claimed that though Anne might begin to look French as she acclimated to Gallic styles of dress and comportment, she remained Spanish at heart. For this reason, he distrusted and avoided her.<ref target="#fam.006.in1">1</ref><note xml:id="fam.006.in1" n="1">Ruth Kleinman. <title>Anne of Austria</title> (Columbus, OH, 1985), p.39.</note>  Even after 1620, when their marriage improved to the point where Louis lived with her as husband, Anne's status with him remained low, for she did not conceive often nor was she able to bring a child to term and thus fulfill her role as queen. Rather than playing the dutiful wife, Anne's interests centered on her religious life, especially on Val-de-Grâce, the convent she founded, and on her friendships, friendships that often allied her with those of whom Louis disapproved.</p>
+            <p xml:id="fam_1309"> Anne's life with Louis reached its nadir in a succession of scandals that implicated her in behavior treacherous to both the King and to France. In 1625, rumor broke out that the seductive Duke of Buckingham, sent from England on a diplomatic mission, had made amorous advances to her. Three years later, Cardinal Richelieu, a protégé of Marie de Medici who had grown in power to become Louis' principal advisor and foremost policy-maker, suspected Anne of involvement in a plot to induce England to invade France. The plan had been hatched by Anne's close friend, Madame de Chevreuse, but the Cardinal could find no evidence of the Queen's complicity. A decade later in 1637, Richelieu, who monitored Anne's correspondence as a matter of course, found the "proof" needed to disgrace her. He brought to Louis' attention letters written by Anne to her family in Spain, to the Spanish ambassador, and to exiled friends. Though the letters contained nothing of a political nature, they were addressed to enemies of France and Anne's king and husband forced her to sign a full confession of her "traitorous" associations. As Richelieu's policies regarding the Thirty Year's war turned toward active involvement against the Catholic Hapsburg threat, Anne's position at court grew increasingly unstable and she feared that Louis would repudiate her and send her back to Spain.</p>
+            <p xml:id="fam_13010"> Anne's split loyalties between Spain and France were resolved, at least in her own mind, by her successful production of a son and heir in her twenty-third year of marriage. Louis XIV was born in September 1638, an event Anne attributed to the miraculous mercy of God. She genuinely loved her long-awaited son, as much for maternal reasons as for the fact that she was now queen in deed as well as name. Anne interested herself in the raising of her son and rejoiced at the birth of a second child, Philip, three years later. In spite of the birth of their sons, Anne and Louis' marriage had not improved; when Richelieu died in December of 1642 there was little likelihood that Louis' loss would result in a closer relationship with his wife.</p>
+            <p xml:id="fam_13011"> The dislike and distrust that had existed for decades between Anne and Louis was brought to center stage as it became clear, during the winter and spring of 1643, that Louis, though only in his early forties, would shortly follow Richelieu to the grave. The establishment of a regency government during Louis XIV's minority plagued the King for two reasons. In the first case, royal power generally tended to suffer reverses during regencies because the young king did not enjoy full legislative power. Until age thirteen and his coronation, a French king could not hold the special ceremony of the <hi rend="italic">"lit de justice" </hi>whereby he attended the Parlement of Paris in order to declare significant or innovative laws. Legislative power such as this could not be transferred to a regent or a council -- as long as the king was a minor, the monarchy was unable to function fully.</p>
+            <p xml:id="fam_13012"> A recent example of this sort of legislative vacuum had occurred at the death of Louis' own father, Henry IV. His assassination in Louis' ninth year had resulted in a struggle between the monarchy and the Parlement of Paris as to whether it had been the irregular<hi rend="italic"> lit de justice  </hi>of a king in his minority or the writ of the Parlement which had legally declared Louis' mother regent.<ref target="#fam.006.in2">2</ref><note xml:id="fam.006.in2" n="2">Sarah Hanley. <title>The Lit de Justice of the Kings of France</title>. (Princeton, 1983), p.246.</note> In 1643, Louis' solution to this potential threat to royal power was to make a Regency Declaration rather than risk the Parlement of Paris taking the initiative after his death and attempting to appoint the regent.</p>
+            <p xml:id="fam_13013"> The second cause of Louis' concern was the choice of regent, for precedent, including his own mother's example, demanded that the Queen serve alone. Yet his reservations concerning Anne's loyalty to France suggested that he appoint a regency council, composed of ministers and princes of the royal family as well as the Queen, in order to minimize her power. Louis went so far as to re-instate his brother Gaston, whom he had good reason to distrust, as a potential regent in his effort to create alternatives to Anne's rule. In the end, Louis decided to establish the regency council, a direct slap in the face to Anne but one that she, who had never involved herself with political affairs previously, managed to counter.</p>
+            <p xml:id="fam_13014"> As the health of Richelieu and Louis declined, Anne had naturally gained a great many long-sighted 'friends' at court who imagined that, should Louis die, she would serve as regent until Louis XIV reached his majority. Most notable among her new supporters were a group of malcontents headed by the Duke of Beaufort,<ref target="#fam.006.in3">3</ref><note xml:id="fam.006.in3" n="3">See Appendix A.</note> a grandson of Henry IV through the illegitimate line of Vendôme, who had been imprisoned under Louis XIII. Referred to as <hi rend="italic">Les Importants </hi> because of their confidant expectation to gain access to the reins of power during the coming regency, this faction included all those who had opposed and therefore suffered under Richelieu -- a characteristic shared, of course, by Anne. In April of 1643, as Louis' decision to establish a regency council became common knowledge, Anne opened communications with each of the various factions at court -with the <hi rend="italic">Importants; </hi>with Gaston of Orleans<ref target="#fam.006.in4">4</ref><note xml:id="fam.006.in4" n="4">See Appendix A.</note>, Louis XIII's royal brother; with the twenty-two- year-old Louis II, Prince of Condé,<ref target="#fam.006.in5">5</ref><note xml:id="fam.006.in5" n="5">See Appendix A.</note> Louis XIV's royal cousin and most successful military general; and with the Parlement of Paris -- in an effort to enlist their aid in disbanding the humiliating council. Anne shrewdly played each faction off of one another, implying to each that they would enjoy greater power under her solitary rule than under a council.</p>
+            <p xml:id="fam_13015"> Evidently Anne was convincing, for within days of the King's death, the Parlement of Paris participated in yet another minority <hi rend="italic">lit de justice, </hi>led by a five-year old Louis XIV, which removed all of the limitations established by Louis on Anne's power as regent. The Parlement of Paris' permission of full legislative power to a juvenile king put a powerful tool in the hands of the monarchy by reinforcing the absolutist argument that kingship was dynastic, passed through the blood from father to son, rather than conferred by law. The 1643 <hi rend="italic">lit de justice </hi>set the stage for Parlementary debates over the validity of later minority <hi rend="italic">lit de justice </hi>ceremonies and over Parlement's precise role in the placing and displacing of regents. But, for the moment, Anne had triumphed; the Spanish princess had become the French regent.</p>
+            <p xml:id="fam_13016"> The <hi rend="italic">Importants </hi>viewed Anne's regency as an opportunity to remove all traces of Richelieu's influence from French government and expected her to summarily dismiss all those who had served with the Cardinal, appointing in their stead members of their own faction. In fact, Anne accepted the power that the <hi rend="italic">Importants </hi>had helped to bestow upon her and chose her own course of action. It was during the negotiations preceding the death of the King that Anne had first benefited from the counsel of Cardinal Jules Mazarin. Mazarin was an Italian papal legate brought by Cardinal Richelieu into French service where his industry had earned him the positions of prime minister (upon the death of his mentor) and god-father to Louis XIV. In 1643, when Anne, as Queen Regent, created a royal council of her own making, she chose Mazarin, Richelieu's protégé, to remain as a minister of state and, moreover, to head the council in the absence of the royal princes Gaston of Orleans and Louis II of Condé.</p>
+            <p xml:id="fam_13017"> Mazarin's value to Anne lay in his ideological defense of absolute monarchy (thus preserving the throne for her son in the face of royal princes ambitious to regain influence over French policy), in his willingness to provide her with a crash course in statecraft, and in his personal charm. The majority of the court, as well as the Parlement of Paris, were stunned at Mazarin's rise to power during the regency and at the perpetuation of Richelieu's policies, which included war with Spain. Rumors flew that Anne was in love with Mazarin, bewitched by her own overwhelming passions or by his supernatural seductions into a state of blind obedience.</p>
+            <p xml:id="fam_13018"> The seeds of disillusionment sown in 1643 among the <hi rend="italic">Importants </hi>and other factions did not bear fruit until five years later when, goaded by mounting economic pressure, the Parlement of Paris joined with treasury of ficials to call for administrative reform. The growing economic distress of the officials was attributed to the leadership of Richelieu and Mazarin as it related to their domestic and foreign policies. With regard to foreign policy, the entrance of France into the Thirty Year's War in 1635 had drained tax money from the pockets of the lower classes and the parlementary officials on an unprecedented scale for over ten years. In the case of domestic policy, the administrative innovations implemented by Richelieu, whereby a second body of civil officials, the <hi rend="italic">intendants, </hi>was created, diminished the authority and ultimately the salary of the traditional parlementary and financial officials.</p>
+            <p xml:id="fam_13019"> That the interests of the Parlement of Paris and the regency government were on a collision course is demonstrated by the January 1648 <hi rend="italic">lit dejustice </hi>which declared an edict calling for the creation of additional offices as a fund-raising measure for the regency war effort. The Parlement did not approve of additional offices which would serve to undermine their own function and so questioned the constitutional legitimacy of this legislative procedure performed by a juvenile king. Encouraged by those court figures discontent with Anne and Mazarin's administration, the Parlement of Paris convened the Chamber of St. Louis, a congregation of thirty-two delegates from the various Parisian bureaucratic courts, in June of 1648. The aim of the Chamber of St. Louis was to protest and reform the policies of the regency government. It called for the decrease of taxes, the regulation of tax-farmers,<ref target="#fam.006.in6">6</ref><note xml:id="fam.006.in6" n="6">Tax-farmers were wealthy men who bought the right from the monarchy to collect the taxes owed to the king in a specific region of France. The system allowed the government to raise large amounts of money quickly and resulted in huge private fortunes for the tax-farmers who generally managed to make a profit by collecting more than the amount due.</note> and the abolition of the both the <hi rend="italic">intendants </hi>and the <hi rend="italic">lettres de cachet</hi>.<ref target="#fam.006.in7">7</ref><note xml:id="fam.006.in7" n="7"><hi rend="italic">Lettres de Cachet</hi> were royal warrants of arrest which allowed the king to arrest and imprison an individual indefinitely, without recourse to trial.</note> The declaration emanating from the Chamber of St. Louis also directly challenged royal authority by stating that all financial edicts not registered with Parlement (i.e. carried out by <hi rend="italic">lit dejustice </hi>prerogative of the king) would be revoked.<ref target="#fam.006.in8">8</ref><note xml:id="fam.006.in8" n="8">Hanley, p.317</note></p>
+            <p xml:id="fam_13020"> Anne was outraged by the presumption of the Parlement of Paris' attempt to dictate governmental policy, for they had no constitutional right to question royal authority. She advocated immediate punitive measures, but was forestalled by Mazarin who sent Gaston of Orleans, the King's royal uncle, to negotiate with the reformers. The monarchy implemented minor reforms throughout the negotiations, and in the <hi rend="italic">lit de justice  </hi>of July 31, 1648, it capitulated to the majority of the demands drawn up by the Chamber of St. Louis in an effort to appease the Parlement. Nevertheless, that body continued in its efforts to shape policy and, despite Mazarin's advice for caution, Anne and the council decided to arrest three of the most outspoken members of the Parlement: Charton. Broussel, and Blancmesnil.</p>
+            <p xml:id="fam_13021"> The Parlementary officers were to be seized as they exited the Cathedral of Notre Dame after the <hi rend="italic">Te Deum, </hi>or thanksgiving mass, sung for Condé's recent victory against the Spanish at Lens. The arrests, two of which were successful, were counter-productive to the cause of repression, for they succeeded in alarming the citizens of Paris, who flooded into the streets in protest, building barricades to keep the royal troops at bay. The regency was unable to control the crowds and the uproar faded only after the prisoners were released and the Parlement of Paris quieted the people. Supported by popular feeling, the Parlement of Paris began to debate the nature of regency and investigate the possibility of replacing Anne as regent with Gaston of Orleans, Louis XIV's uncle.<ref target="#fam.006.in9">9</ref><note xml:id="fam.006.in9" n="9">Kleinman, p. 208.</note> At this point, Mazarin advised Anne to take the royal family out of Paris while negotiations with Parlement continued and so it was at the palace of St. Germain-en-Laye in late October that she signed the Declaration prepared by the Parlement, which re-confirmed the reforms of the Chamber de St. Louis and, in return, promised an end to Parlementary interference in political policy. At the end of the month, the royal family returned to its recalcitrant capital. The first round of the Fronde<ref target="#fam.006.in10">10</ref><note xml:id="fam.006.in10" n="10">In late 1648, the rebellion of the Parliament against the policies and powers of the regency began to be referred to as the <hi rend="italic">fronde</hi>, a term denoting the slingshot used by insubordinate street urchins.</note> was soundly won by the Parlement.</p>
+            <p xml:id="fam_13022"> As the year 1648 wore away, it became clear that the events of the summer had resolved nothing: The regency continued its demands for money and the Parlement persisted in its political debate. Finally, Mazarin joined Anne in thinking that the time for governmental repression had come. The aid of Gaston of Orleans and the Prince of Condé was enlisted, troops were maneuvered into position around Paris, and, during the night of January 5, 1649 -- the eve of Twelfth Night -- the royal family was secreted out of the capital to St. Germain. It was then clear to Mazarin (and to the Parlement and citizens of Paris) that the way was open for the blockade and subjugation of the city. Each camp gathered its military resources: The royal army under the Prince of Condé squared off against the Parisian militia, supported by the Duke of Beaufort, as well as the Prince of Conti<ref target="#fam.006.in11">11</ref><note xml:id="fam.006.in11" n="11">See Appendix A.</note> and Duke of Longueville.<ref target="#fam.006.in12">12</ref><note xml:id="fam.006.in12" n="12">See Appendix A. </note> These last were members of Condé's own family who were disenchanted with the regency government. Plagued by food rationing and a flooding Seine, Paris nonetheless maintained high morale until the beginning of February when the Parlementary forces failed to halt Condé's capture of Charenton, a small town outside of Paris, whose defeat completed the encirclement of Paris.</p>
+            <p xml:id="fam_13023"> If the situation looked bleak for the Parisians and their noble supporters, it was becoming equally desperate for the regency. Paris had not fallen quickly, as hoped, and Condé and his troops were needed back at the Northern border to begin another year's fighting against the Spanish. Demands to settle the domestic rebellion before facing the foreign challenge and the late-breaking news that General Turenne had joined the side of <hi rend="italic">the frondeurs </hi>encouraged Mazarin to advocate a quick settlement with Parlement, devoid of debilitating conditions or severe punishments. For its part, the Parlement, witness to the enemy invasion of France and capture of the city of Laon, began to comprehend Mazarin's argument that Spain was the true enemy of French freedom and they, too, signed the Treaty of Rueil on March 11, 1649.</p>
+            <p xml:id="fam_13024"> Unfortunately for Anne, a second test of her regency was yet to come as the Prince of Condé, once the defender of royal power, joined the disaffected nobles protesting the policies and exalted position of her first minister, Mazarin. Condé's rebellion and the <hi rend="italic">Frondeur </hi>agitation occurring in the provinces continued for the next three years, during which time political pressure induced her to ask for Mazarin's resignation twice. On both occasions, Mazarin went into voluntary exile, though his influence did not disappear from France. Anne depended on the counsel contained in his letters in order to perform her most important duty as Queen Regent: to protect the throne of France for her son.</p>
+            <p xml:id="fam_13025"> Anne's dubious reputation as queen was ameliorated only after the ascension of her son, Louis XIV, to the throne and his subsequent marriage to the Spanish princess, Maria Teresa. Though noble and parlementary sentiment against the absolute power of the monarchy never disappeared, Condé's supporters, prompted by the fear of anarchy, melted away to the royalist cause. In October of 1652, Louis XIV entered Paris in triumph and, in June of 1654 he was crowned King of France at Reims. The previous February, Mazarin had quietly returned to the King's side from exile. In contradiction to Louis XIII's spurious accusations of treachery, Anne had shown herself thoroughly French at heart. All of her actions as regent, particularly the pursuit of war against Spain, were motivated by the desire to maintain the strength and authority of the French throne for her son. How great her pleasure, then, when Mazarin successfully negotiated peace with Spain in 1660 and sealed the alliance with Louis XIV's marriage. Having seen her son grow in power and assurance, Anne enjoyed the rest of her life. Five years after Mazarin's death in 1661, she died of cancer, beloved by her son, the King, and, finally, by the French people.</p>
+            <p xml:id="fam_13026"> As regent during the Fronde, however, Anne had certainly not possessed the goodwill of the Parlement or the people. Printed political commentary and propaganda have a long history in early modern France and the Fronde produced ample fodder for the presses.<ref target="#fam.006.in13">13</ref><note xml:id="fam.006.in13" n="13">Jeffrey K. Sawyer. <title>Printed Poison: Pamphlet Propaganda, Faction politics, and the Public Sphere in Early Seventeenth Century France</title>. (Berkeley, 1990), see introduction.</note> Within the five years of the rebellion, approximately five thousand anti-regency tracts, called Mazarinades, were printed; an outpouring of invective so great that one Mazarinade styled itself as a note of gratitude from the printers of Paris to the Italian minister of state, whose unpopular policies and person created such dependable business for them. The Mazarinades attacked the corruption and favoritism allegedly rampant throughout the regency government and, in so doing, employed a wide range of literary styles. Formal argument, satire, rhyming burlesque, witty anagrams of the names of political actors, letters of advice: Political discourse was created to engage people of every level of education and, as they were usually read out loud in public places, they were available for a wide audience, regardless of literacy.</p>
+            <p xml:id="fam_13027"> During the parlementary Fronde, the Mazarinades were employed as a method of maintaining the alliance between the Parlementary supporters and the Parisian people that had been forged in August of 1648 during the popular protest to the arrest of Broussel and Blancmesnil.<ref target="#fam.006.in14">14</ref><note xml:id="fam.006.in14" n="14">Orest Ranum. <title>The Fronde: A French Revolution 1648-1652</title>. (New York, 1993), pp. 177-176.</note> Though political propaganda in the seventeenth century had often been controlled by the court factions, Orest Ranum suggests in his analysis of the Fronde that the pamphlets appearing during the beginning of the blockade of Paris, in the winter and spring of 1649, were "an authentic expression of the variegated, deeply-engaged political culture."<ref target="#fam.006.in15">15</ref><note xml:id="fam.006.in15" n="15">Ranum, p. 201.</note> These political pamphlets, which appeared in Paris at a rate of approximately ten per day and were usually sold on the Pont-Neuf, debated the nature of monarchy.<ref target="#fam.006.in16">16</ref><note xml:id="fam.006.in16" n="16">Robert Darnton. <title>The Forbidden Best-Sellers of Pre-Revolutionary France</title>. (New York, 1995), p. 206 offers the statistic that ten pamphlets were produced per day in paris during January-March of 1649.</note> Though they came to diverse conclusions as to who was to blame in the current situation and who was capable of restoring just government, one theme was echoed again and again: If the evil councilors -- whoever they might be (though Mazarin was undoubtedly the target of choice) -- could be disposed of, the King would naturally champion the well-being of his people.</p>
+            <p xml:id="fam_13028"> That <hi rend="italic">The Family Discussion between the King and the Queen Regent his mother concerning current affairs </hi>was written during the winter of 1649 is very likely for several reasons. First, the pamphlet professes to have been presented on Ash Wednesday, 1649, which occurs in early February. It was written at least after February eighth, 1649, because it refers to Condé's capture of Charenton, which was achieved on that date. In addition, the general theme of the pamphlet -- that all would be well if the king returned to Paris without his councilors or the Queen Regent, -- the current events described, and the bias displayed suggest an author or authors who are sympathetic to the cause of the Parlement of Paris and concerned for the safety of the people within a besieged Paris.</p>
+            <p xml:id="fam_13029"> While concerned with a specific crisis during the Fronde, <hi rend="italic">The Family Discussion... </hi>shares the general literary characteristics of Mazarinades produced throughout the rebellion. The pamphlet implicates Anne of Austria in the tyranny of her regency government by "recording" an intimate conversation between mother and son on the state of French affairs. It was popular in contemporary pamphlet literature to create hypothetical tableaux whereby the views of the characters within could be either advanced or mocked. Frequently, the characters evoked were the political actors of the day. For example, one Mazarinade described the ghost of Louis XIII returning to chastise Anne for her political and supposedly sexual association with Mazarin.<ref target="#fam.006.in17">17</ref><note xml:id="fam.006.in17" n="17">Jeffrey Merrick. "The Cardinal and the Queen: Sexual and Political Disorders in the Mazarinades," in <title>French historical Studies</title> vol. 18, no. 3 (Spring 1994), p. 687.</note> The format of <hi rend="italic">A Family Discussion...</hi>, a series of questions and responses, lends itself to satirical humor. As Ranum asserts, the Mazarinades of the Fronde did much to raise sarcasm and criticism to the level of a literary art.<ref target="#fam.006.in18">18</ref><note xml:id="fam.006.in18" n="18">Ranum, p. 202.</note></p>
+            <p xml:id="fam_13030">At first glance, <hi rend="italic">A Family Discussion... </hi>appears no different from other Mazarinades in that it is a rather cleverly conceived harangue against the regency government, written in reaction to current events and evincing a particular factional bias. Yet <hi rend="italic">A Family Discussion... </hi> is exceptional, for it holds Anne, rather than Mazarin, responsible for the greatest share of the damage done to France. Because of this unusual focus on the Queen Regent, an examination of the nature of the accusations and insults directed at Anne of Austria in <hi rend="italic">A Family Discussion... </hi>will provide rare insight into the challenges faced by an early modern French female regent as a result of her gender.</p>
+            <p xml:id="fam_13031"> The author stages a two-pronged attack on the regency government. The first indictment cites the evils of the present system and the second identifies the Queen Regent's role in bringing them about. The accusations leveled at the government are common to the whole corpus of Mazarinades: The regency government is riddled with favoritism, nepotism and corruption. The charge of tyrannical rule stands out as a particularly timely issue, as demonstrated by the complaints concerning the harsh repression of opposing viewpoints and by the examples given of arbitrary government. Three incidents -- the replacement of Louis' guards, the protection by Mazarin of certain of his clients in spite of their military failures, and the imprisonment of the Marshall de la Mote Hodancour -- are put forth as particularly acute cases of Anne and Mazarin's growing despotism.</p>
+            <p xml:id="fam_13032"> For the most part, the instances of tyranny cited only provide counterpoint to the major theme which describes the power of the Queen Regent to affect the well-being of the kingdom. Anne's self-denunciation begins with her disobedience to Louis XIII and her seizure of royal power by disbanding the regency council. She admits to choosing Mazarin on the basis of love and to ousting the major figures of the <hi rend="italic">Importants -- </hi>Beaufort, Beauvais, and Vendôme. She brings Mazarin to live within the Palais-Royal and assigns guards to protect him as if she is the powerful seductress and Mazarin the sexual slave - a picture at odds with the usual descriptions of their relationship in the popular press. As the events of the summer of 1648 are related, Anne admits to imprisoning the members of Parliament and to persecuting all those unwilling to serve her and her Cardinal. At the end of the text, the author attributes the downfall of Paris and of the kingdom to her bloodthirsty rule.</p>
+            <p xml:id="fam_13033"> While it is certain that the author is intimating that Anne is primarily responsible for the policies of the regency government, this hypothesis falters occasionally throughout the text. Anne's admissions clearly suggest that it is she who holds the reigns of power and yet the author also demonstrates her dependence on Mazarin and, to a lesser degree, on Gaston of Orleans and the Prince of Condé. Anne obeys Mazarin when he demands that she receive council only from himself or his cronies; she attends mass at his request so that she appear religious; and she defers to all three men during the events of the Fronde. The conflicting images of Anne created by the author must be attributed to the fact that, rather than creating a human characterization, he is assembling in his representation of Anne a mouthpiece for his own views.</p>
+            <p xml:id="fam_13034"> As a mouthpiece, it is natural, then, that she should at times present the expected response of a tyrannical ruler (Louis XIV: 'Why did you send away Monsieur de Châteauneuf?' /Queen Anne: 'Because he angered me by saying that Parlement had the power to revoke my powers as Regent.') and in other instances play the 'straight-man' by airing the opinions of the author (Louis XIV: 'Why did some of the nobility join the Parlementary revolt?'/Queen Anne: 'Because they are good Frenchmen who do not accept bribes.'). This last response was certainly not an opinion held by Anne of Austria, who had nothing but disdain for the Parlement of Paris. Those few times when Anne is portrayed as dependent and weak, it is not clear which point the author is making: That Anne was, in reality, ruled by Mazarin (and others) or that the author blames Mazarin (and others) for a particular situation and is saying so through Anne.</p>
+            <p xml:id="fam_13035"> The most significant effect of the Regent's power is demonstrated within the form as well as the content of the pamphlet. By transcribing a supposed conversation between Anne and her son, the author wishes to demonstrate that the primary danger of the Queen Regent toward France lies in her familial relationship to the King. As his mother, she has constant access to the young ruler; she forms his opinions about current affairs and influences his choice of companions and ministers. The author underscores the poignancy of this situation through Louis' innocence of the criticisms of Anne's regency which lie embedded in his childish questions. Although slightly confused by his mother where her logic fails her, Louis naturally trusts her -- as is seen in his final decision to conform his own will to hers even if it means leaving a devastated France behind them as they move to Spain.</p>
+            <p xml:id="fam_13036"> Though Louis is represented as willing to follow Anne anywhere, mature consideration is attributed to his eight-year-old brother. At the close of the pamphlet, the author directly advises the King through the words of young Philip of Anjou, who cautions his brother against placing trust in any of the adults around them. Philip urges Louis, who as king is his 'papa' as well as his brother, to return to Paris to save it from the devastation of the Queen's wrath and to enjoy the support of the people. In order to rule well, the king and his brother must separate themselves from the Queen Regent. The irony of Louis' trust in Anne is indicated by the sarcastic repetition of the formal address 'my good mother' preceding each of the insulting questions, which suggest that the Queen Regent is anything but a righteous and caring nurturer.</p>
+            <p xml:id="fam_13037"> Having portrayed Anne as an incompetent mother to her royal sons, the author intimates that Anne's deficiencies as a ruler, so devastating to France, are also the result of her inability to serve as a 'good mother.' Salic law forbade women the French throne because of their indecent love of domination and their perpetual weakness in the face of their own desires. Women ruled in France only by virtue of their position as mother -- as regents warming the thrones for their sons. Ideally, the regent was merely a conduit for power between her husband and his heir. Were she to attempt to rule in her own right, she would be betraying her role as mother. <hi rend="italic">A Family Discussion... </hi>begins with Anne's declaration to her son that she has seized his power. The author attributes the oppression and corruption characterizing the regency government to the inevitable failure of female rulership.</p>
+            <p xml:id="fam_13038"> That Anne is entirely caught up with the satisfaction of her own desires is demonstrated first in her tendency to appoint ministers based on their willingness to appease her and second in her violent reaction against those who oppose her will. The author expressly defines Anne's pursuit of vengeance against the Parlement of Paris as a characteristic of female rulers. Instead of ruling her emotions and serving her subjects -the definition of a virtuous ruler -- Anne is dominated by her passions and neglectful of the people of France. When the Parlement, claiming to speak for the people, rebukes her, her former carelessness turns to vindictive action.</p>
+            <p xml:id="fam_13039"> The author refers to a succession of heroic kings, such as St. Louis, King David of Israel, and Henry IV, contrasting Anne's shameful leadership with their own. Rather than following the godly examples of these figures, or holding them up as models for her son, Anne associates herself with the cruelty of King Herod of Judah. Herod's murder of thousands of Jews in an effort to kill Jesus Christ is invoked as an analogy of the evil and depravity inherent in Anne's willingness to starve the French people. In <hi rend="italic">A Family Discussion. . . </hi>Anne's frequent attendance at mass and her involvement in the Catholic revival appear calculated and hypocritical. Conforming to the nature of all female rulers, she is incapable of either competently or sincerely caring for the nation and the people she leads.</p>
+            <p xml:id="fam_13040"> The composite nature of her literary characterization makes it difficult to ascertain to what degree the author wished to implicate Anne in the creation of specific grievances; but it is clear that, as a <hi rend="italic">reigning </hi>Queen Regent, she is considered capable of bringing about the ruin of France. As a failed mother she is dangerous to her sons and to the kingdom that she rules in their stead. This theme is echoed in another Mazarinade which argues that, because of Anne's disloyalty to France, she is an unnatural mother to Louis -who no longer belongs under her tutelage. Instead, the French people should serve as the parent and protector of the King.<ref target="#fam.006.in19">19</ref><note xml:id="fam.006.in19" n="19">Merrick, p. 689.</note> It is ironic that the critics of Anne of Austria would declare her, who suffered so much to preserve a strong France for Louis XIV, to be an unfit mother to her son and his people.</p>
+          </div>
+        </div>
+        <div xml:id="fam_004" type="Timeline">
+          <head> Timeline for <title>A Family Discussion</title></head>
+          <div xml:id="fam_005" type="Timeline">
+            <head>Anne of Austria  </head>
+            <list type="ordered">
+              <item><hi rend="bold">1601:</hi> September 22: Anne born to Philip III of Spain and Margaret of Austria</item>
+              <item>September 27: Louis XIII born to Henry IV and Marie de Medici</item>
+              <item><hi rend="bold">1610:</hi> May: Henry IV of France asassinated. Regency of Marie de Medici begins.</item>
+              <item><hi rend="bold">1615:</hi> November: Anne goes to France to marry Louis XIII. Elizabeth of France marries Anne's brother, Philip, heir to Spanish empire.</item>
+              <item><hi rend="bold">1625:</hi> Buckingham scandal.</item>
+              <item><hi rend="bold">1638:</hi> September 5: miracle child, Louis XIV born.</item>
+              <item><hi rend="bold">1640:</hi> September. 21: second son, Philip of Anjou born.</item>
+              <item><hi rend="bold">1642:</hi> December 4: Richelieu dies</item>
+              <item><hi rend="bold">1643:</hi> May 14: Louis XIII dies, after establishing regency council which is soon disbanded. Anne becomes regent. The war with Spain, begun under Richelieu in 1635, continues.</item>
+              <item><hi rend="bold">1648:</hi> June: <hi rend="bold">Parlementary Fronde </hi>begins with meeting of Chamber of St. Louis. August: Crown arrests Broussel and Blancmesnil; Days of the Barricades follow (26-28) September: Royals leave Paris for St. Germain. October: Anne signs Declaration of Parlement. Royals return to Paris.</item>
+              <item><hi rend="bold">1649:</hi> January 6: Royals leave Paris in the night. Royal army, under Conde surrounds city Revolt spreads to provinces.</item>
+              <item>February: Royal forces fail to take Paris, though Charenton falls to Conde. Settlement talks begin.</item>
+              <item>March 12: Treaty of Rueil.</item>
+              <item>August: Royals return to Paris.</item>
+              <item><hi rend="bold">1650:</hi> January: <hi rend="bold">Fronde des Princes</hi> continues. Conde and allies are arrested. Continued rebellions in the provinces. Princes demand Mazarin's dismissal.</item>
+              <item>January: Coalition of all rebellious factions join to oust Mazarin. February: Mazarin leaves France for Rhinehnd. Anne and Louis XIV are guarded in Paris. </item>
+              <item>September: Louis XIV attains his majority. Regency ends. Mazarin recalled by king.Conde continues rebellion, Mazarin goes into exile a second time, Conde takes Paris, establishes government which falls by autumn. October: Louis XIV enters Paris in triumph.</item>
+              <item><hi rend="bold">1653:</hi> February: Mazarin returns to France.</item>
+              <item><hi rend="bold">1654:</hi> June: coronation of Louis XIV.</item>
+              <item><hi rend="bold">1660:</hi> June: Louis XIV marries Maria Theresa of Spain. Peace established with Spain</item>
+              <item><hi rend="bold">1661:</hi> March: Mazarin dies.</item>
+              <item><hi rend="bold">1664:</hi> Anne diagnosed with cancer. </item>
+              <item><hi rend="bold">1666:</hi> January 20: Anne dies.</item>
+            </list>
+          </div>
+        </div>
+      </div>
+      <div xml:id="fam_007" type="Text">
+        <head><seg type="short-title">A FAMILY DISCUSSION</seg> between the King and the Queen Regent, his mother, concerning current affairs including advice from the Duke of Anjou to the King presented to her Majesty by a faithful Official of her Household at St. Germain-en-Laye on Ash Wednesday, 1649.</head>
+        <p xml:id="fam_13041" rend="bold">The King begins:</p>
+        <p xml:id="fam_13042">Ma bonne maman, pourquoi avez vous pris la Regence puisque mon Papa l'avoit defendu à sa mort.</p>
+        <p xml:id="fam_13043">
+          <hi rend="italic">King: My good mother, why have you taken over the Regency when my father prohibited this at the time of his death?</hi>
+        </p>
+        <p xml:id="fam_13044"/>
+        <p xml:id="fam_13045">
+          <hi rend="bold">The Queen answers:</hi>
+        </p>
+        <p xml:id="fam_13046">Mon fils, pour estre la maitresse de toute la France sous vostre authorité. </p>
+        <p xml:id="fam_13047">
+          <hi rend="italic">Queen: My son, in order to be mistress of all France, by means of your authority.</hi>
+        </p>
+        <p xml:id="fam_13048">
+Le Roi: Ma bonne maman, pourquoi ne m'avez vous pas laissé entre les mains de M. Ie duc de Beaufort, comme mon Papa l'avoit fait en mourant. </p>
+        <p xml:id="fam_13049">
+          <hi rend="italic">King: My good mother, why haven't you left me to be governed by the Duke of Beaufort, as my father decreed on his deathbed?</hi>
+        </p>
+        <p xml:id="fam_13050">
+La Reine: Mon fils, c'est que je ne l'aimois pas comme M. Ie C. Mazarin. </p>
+        <p xml:id="fam_13051">
+          <hi rend="italic">Queen: My son, because I do not love him the way I love Cardinal Mazarin.</hi>
+        </p>
+        <p xml:id="fam_13052">
+Le Roi: Ma bonne maman, pourquoi ne vous estes vous pas servie de M. I'Evesque de Beauvais.</p>
+        <p xml:id="fam_13053">
+          <hi rend="italic">King: My good mother, why didn't you make use of the Bishop of Beauvais?</hi>
+          <ref target="#fam.008.n1">1</ref>
+          <note xml:id="fam.008.n1" n="1" place="END" type="ED">Augustin de Potier, the bishop of Beauvais had been Anne's grand almoner since 1624. He was associated with the "devout" faction at court, who advocated peace between Catholic France and Catholic Spain. Beauvais deplored the policies and administrative precedents set up by Cardinal Richelieu. In 1643, as a member of the <hi rend="italic">Importants</hi> faction, he called for a return to government as it had existed before Richelieu took office and hoped to serve Anne as prime minister.</note>
+        </p>
+        <p xml:id="fam_13054">
+La Reine: Mon fils, parce qu'il est trop homme de bien, il n'auroit pas fait ce que j'avsois voulu come M. Ie C. Mazarin.</p>
+        <p xml:id="fam_13055">
+          <hi rend="italic">Queen: My son, because he is too honest; he would not have done what I wanted, like Cardinal Mazarin.</hi>
+        </p>
+        <p xml:id="fam_13056">
+Le Roi: Ma bonne maman, pourquoi avez vous chassé M. le Duc de Vendôme, &amp; fait emprisonner M. de Beaufort.</p>
+        <p xml:id="fam_13057">
+          <hi rend="italic">King: My good mother, why have you driven out the Duke of Vendôme and imprisoned the Duke of Beaufort?</hi>
+          <ref target="#fam.008.n2">2</ref>
+          <note xml:id="fam.008.n2" n="2">The power struggle between the <hi rend="italic">Importants</hi> and Mazarin climaxed with a failed attempt on Mazarin's life and the arrest of the Duke of Beaufort in Anne's own salon in the Louvre on September 2, 1643. Other members of the faction hurriedly emigrated or went into hiding on the estates of the Duke de Vendome, Beaufort's father.</note>
+        </p>
+        <p xml:id="fam_13058">
+La Reine: Mon fils, parce qu'ils sont trop gens d'honneur pour suivre les conseils de M. le C. Mazarin.</p>
+        <p xml:id="fam_13059">
+          <hi rend="italic">Queen: My son, because they are too honorable to follow the counsel of CardinalMazarin.</hi>
+        </p>
+        <p xml:id="fam_13060">
+Le Roi: Ma bonne maman, pourquoi vous servez vous plustost de M. le C. Mazarin que d'un autre?</p>
+        <p xml:id="fam_13061">
+          <hi rend="italic">King: My good mother, why do you make use of Cardinal Mazarin rather than anyone else?</hi>
+        </p>
+        <p xml:id="fam_13062">
+La Reine: Mon fils, parce que je l'aime &amp; qu'il fait tout ce que je veux. </p>
+        <p xml:id="fam_13063">
+          <hi rend="italic">Queen: My son, because I love him and he does all that I wish</hi>
+        </p>
+        <p xml:id="fam_13064">
+Le Roi: Ma bonne maman, pourquoi l'avez vous laissé loger dans mon Palais si pràs de vous.</p>
+        <p xml:id="fam_13065">
+          <hi rend="italic">King: My good mother, why have you allowed him to live in my palace so close to you?</hi>
+        </p>
+        <p xml:id="fam_13066">
+La Reine: Mon firs, pour le voir quand je veux &amp; plus commodément. </p>
+        <p xml:id="fam_13067">
+          <hi rend="italic">Queen: My son, so that I may see him whenever I wish, and more conveniently.</hi>
+          <ref target="#fam.008.n3">3</ref>
+          <note xml:id="fam.008.n3" n="3">In October of 1643, Anne moved her household from the Louvre, which was perpetually under construction, to Richelieu's Palace, re-named the Palais-Royal. Months later, Mazarin joined the royal family there. Though Anne's rooms were in the right wing of the palace and his were in the left, nearer to the king, Mazarin's addition to the household was considered scandalous.</note>
+        </p>
+        <p xml:id="fam_13068">
+Le Roi: Ma bonne maman, pourquoi lui permettez vous d'avoir des gardes qui portant des armes dans mon Palais.</p>
+        <p xml:id="fam_13069">
+          <hi rend="italic">King: My good mother, why do you allow him to have guards who bear weapons inside my palace?</hi>
+        </p>
+        <p xml:id="fam_13070">
+La Reine: Mon fils, pour la seureté de sa personne sans laquelle je ne puis vivre. </p>
+        <p xml:id="fam_13071">
+          <hi rend="italic">Queen: My son, for the security of his person, without whom I could not live.</hi>
+        </p>
+        <p xml:id="fam_13072"/>
+        <p xml:id="fam_13073">
+Le Roi: Ma bonne maman, pourquoi a t'on chassá ct fait mourir tant de Presidens &amp; de Conseillers du Parlement de Paris. </p>
+        <p xml:id="fam_13074">
+          <hi rend="italic">King: My good mother, why have you driven out and done to death so many of the Presidents and Counselors of the Parlement of Paris?</hi>
+        </p>
+        <p xml:id="fam_13075">
+La Reine: Mon fils, parce qu'ils n'ont pas voulu obeir à M. le C. Mazarin. </p>
+        <p xml:id="fam_13076">
+          <hi rend="italic">Queen: My son, because they did not want to obey Cardinal Mazarin.</hi>
+        </p>
+        <p xml:id="fam_13077">Le Roi: Ma bonne maman, pourquoi avez vous chasse M. de Châteauneuf. </p>
+        <p xml:id="fam_13078">
+          <hi rend="italic">King: My good mother, why have you driven out Monsieur de Châteauneaf?</hi>
+          <ref target="#fam.008.n4">4</ref>
+          <note xml:id="fam.008.n4" n="4">Charles de L'aube-spine, Marquis de Chateâuneuf, had been keeper of the seals under Louis XIII, but was relieved of his duties after plotting against Cardinal Richelieu Chateâuneuf's hopes for restored favor were dashed by the failure of the <hi rend="italic">Importants</hi> to control the regency in 1643. Thereafter, he worked against Anne and Mazarin's leadership. Mazarin held him, along with the Duke of Beaubort, responsible for encouraging the parlementary stand against new taxes in 1647 and eventually exiled him in September of 1648.</note>
+        </p>
+        <p xml:id="fam_13079">
+La Reine: Mon fils, parce qu'il m'a fasché &amp; M. le C. aussi, disant, que le Parlement me pouvoit oster la Regence. </p>
+        <p xml:id="fam_13080">
+          <hi rend="italic">Queen: My son, because he angered me, and Cardinal Mazarin too, by saying that the Parlement could take away my power as Regent.</hi>
+        </p>
+        <p xml:id="fam_13081">
+Le Roi: Ma bonne maman, pourquoi a t'on fait les barricades à Paris, a la sortie du Te Deum de Nostre-Dame.</p>
+        <p xml:id="fam_13082">
+          <hi rend="italic">King: My good mother, why did they erect barricades in Paris, at the exit of the Te Deum sung at Notre-Dame?</hi>
+        </p>
+        <p xml:id="fam_13083">
+La Reine: Mon fils, à cause que j'avois fait prendre M. le President du Blanc-Mesnil, M. de Brm'ont ils quittossel, Conseiller au Parlement de Paris prisonnier parce qu'ils sont gens de bien. </p>
+        <p xml:id="fam_13084">
+          <hi rend="italic">Queen: My son, because I had Monsieur le President du Blanc-Mesnil and Monsieur de Brossel, members of the Parlement of Paris, imprisoned due to the fact that they are honest men.</hi>
+        </p>
+        <p xml:id="fam_13085">
+Le Roi: Ma bonne maman, pourquoi à t'on chassé &amp; mis en prison tant de bons Predicateurs.</p>
+        <p xml:id="fam_13086">
+          <hi rend="italic">King: My good mother, why have they driven out and imprisoned so many of the good preachers?</hi>
+        </p>
+        <p xml:id="fam_13087">
+La Reine: Mon fils, parce qu'ils parloient trop franchement, &amp; ouvertement contre M. le C. Mazarin &amp; le gouvernement de la Estat. </p>
+        <p xml:id="fam_13088">
+          <hi rend="italic">Queen: My son, because they spoke too frankly and openly against Cardinal Mazarin and the government of the State.</hi>
+        </p>
+        <p xml:id="fam_13089">
+Le Roi: Ma bonne maman, pourquoi ne pouvez vous escourer ni souffrir les gens de bien aupres de vous.</p>
+        <p xml:id="fam_13090">
+          <hi rend="italic">King: My good mother, why can you neither listen to nor permit the honest people to be around you?</hi>
+        </p>
+        <p xml:id="fam_13091">
+La Reine: Mon firs, parce que M. le C. Mazarin ne veut pas que j'escoute personne quelui &amp; ceux qu'il me dit.</p>
+        <p xml:id="fam_13092">
+          <hi rend="italic">Queen: My son, because Cardinal Mazarin does not want me to listen to anyone except himself or those he has recommended.</hi>
+        </p>
+        <p xml:id="fam_13093">
+Le Roi: Ma bonne maman, pourquoi communiez vous si sousont &amp; aliez par toutes les Eglises de Paris &amp; n'aimez pas les gens de bien.</p>
+        <p xml:id="fam_13094">
+          <hi rend="italic">King: My good mother, why do you take communion so often and visit all the churches in Paris, yet fail to cherish honest people?</hi>
+        </p>
+        <p xml:id="fam_13095">
+La Reine: Mon fils, M. le C. Mazarin dit qu'il me faut faire ainsi par maxime d'Estat, afin que l'on me tienne pour devote &amp; bonne Reine. </p>
+        <p xml:id="fam_13096">
+          <hi rend="italic">Queen: My son, Cardinal Mazarin told me it was necessary to do these things as a maxim of Statecraft - in order that people will take me for a devout and good queen.</hi>
+        </p>
+        <p xml:id="fam_13097">
+Le Roi: Ma bonne maman, pourquoi souffrez vous que les femmes se mettant sur les Autels avec le Prestre qui du temps de St. Louis n'entroient pas dans le coeur, &amp; que la Chanceliere oste les commandements de Dieu des Heures. </p>
+        <p xml:id="fam_13098">
+          <hi rend="italic">King: My good mother, why do you allow women to place themselves at the altar with the Priest when in St. Louis ' day they were not allowed to enter the choir and why do you permit the Chancelloress to remove God 's commandments from the [Book of] Hours?</hi>
+          <ref target="#fam.008.n5">5</ref>
+          <note xml:id="fam.008.n5" n="5">Religious innovations involving women and mention of <hi rend="italic">la Chanceliere</hi> suggest a reference to the 'Ladies of Charity,' a community of Catholic laywomen dedicated to good works which was founded in 1633 by reformer Vincent de Paul and Louise de Marillac, a niece of former Chancellor Marillac. The criticisms raised by the author -- that women were becoming increasingly prominent in the church and that they were making innovations in worship and devotional routines -- are characteristic of those leveled at the Ladies of Charity, who endured a precarious position in Catholic society as a non-cloistered group of religious women. The author's reference to the removal of The Book of Hours may be an objection to the secular status of these women, who served God by caring for people rather than by observing the daily ritual of prayers contained in The Book of Hours.</note>
+        </p>
+        <p xml:id="fam_13099">
+La Reine: Mon fils, cela estoit bon du temps de S. Louis, mais à present tout va à la mode, les femmes sont-elles pas autant que les hommes &amp; plus voyez si je ne sai pas ce que je veux, &amp; pour les Commandements de Dieu, Madame la Chanceliere dit qu'ils sont trop vieux pour elle.</p>
+        <p xml:id="fam_130100">
+          <hi rend="italic">Queen: My son, those customs were fine in the time of St. Louis, but at present everything runs according to the latest fashion, and are not women as worthy as men? And furthermore, wait and see if I don't know what I want. As for the commandments of God, the Chancelloress says that they are too old-fashioned for her taste.</hi>
+        </p>
+        <p xml:id="fam_130101">
+Le Roi: Ma bonne maman, pourquoi puisque vous voulez passer pour une bonne reine ne me nourrissez vous pas comme la mere de S. Louis le nourissoit qui estoit Roi de France comme moi.</p>
+        <p xml:id="fam_130102">
+          <hi rend="italic">King: My good mother, since you would like to be considered a good queen, why don't you raise me as the mother of St. Louis raised him, who was a King of France like me?</hi>
+          <ref target="#fam.008.n6">6</ref>
+          <note xml:id="fam.008.n6" n="6">St. Louis of France, born in 1214, reigned from 1226-1270. His reign, which included successful military campaigns in Palestine and Egypt, administrative reform, and the construction of the Sainte-Chapelle in Paris, began with the regency of Louis' mother, Blanche of Castile,who reportedly maintained her position as counselor well into the 1240's. Louis' unification of Christendom in the face of Muslim advances into Palestine resulted in his canonization by the Catholic Church. He was later held up as the ideal of Christian kingship.</note>
+        </p>
+        <p xml:id="fam_130103">
+La Reine: Mon fils, la mere de S. Louis, estoit une femme sage &amp; vertuese qui n"avoit pas un C. pour Conseil.</p>
+        <p xml:id="fam_130104">
+          <hi rend="italic">Queen: My son, the mother of St. Louis was a wise and virtuous women who did not have a Cardinal for a counselor.</hi>
+        </p>
+        <p xml:id="fam_130105">
+Le Roi: Ma bonne maman, dites moi qui sont vos Conseillers afin que je les connoisse. </p>
+        <p xml:id="fam_130106">
+          <hi rend="italic">King: My good mother, tell me who your Cournselors are, so that I may know them.</hi>
+        </p>
+        <p xml:id="fam_130107">
+La Reine: Mon fils, c'est M. le C. Mazarin, &amp; tous ceuz qui font ce qu'il veut, comme tous les parens du feu C. de Richelieu. </p>
+        <p xml:id="fam_130108">
+          <hi rend="italic">Queen: My son, they are Cardinal Mazarin and all those do as he wishes - for example, all the relations of the late Cardinal Richelieu.  </hi>
+        </p>
+        <p xml:id="fam_130109">
+Le Roi: Ma bonne maman, dites moi qui sont les parens du feu C. de Richelieu, afin que je les connoisse aussi.</p>
+        <p xml:id="fam_130110">
+          <hi rend="italic">King: My good mother, tell me who the relations of the late Cardinal Richelieu are, so that I may know them also.</hi>
+        </p>
+        <p xml:id="fam_130111">
+La Reine: Mon fils, c'est ... &amp; autres que vous connoistrez quand vous serez en aage. </p>
+        <p xml:id="fam_130112">
+          <hi rend="italic">Queen: My son, these are the Cardinal of Lyon, the Marshall de Brezé, the Duke of Richelieu, the Marshall de la Meilleraye, the Marshall de Grandmont, the Duchess of Esguillon, and others whom you will know when you are older.</hi>
+        </p>
+        <p xml:id="fam_130113">
+Le Roi: Ma Bonne Maman, dites moi aussi qui sont les assidez de M. le C. Mazarin, que vous aimez tant.</p>
+        <p xml:id="fam_130114">
+          <hi rend="italic">King: My good mother, tell me also who are the henchmen of Cardinal Mazarin, whom you love so much?</hi>
+        </p>
+        <p xml:id="fam_130115">
+La Reine: Mon fils, ce sont ... &amp; tous les Partisans de France. </p>
+        <p xml:id="fam_130116">
+          <hi rend="italic">Queen: My son, these are the Prince of Condé, the Conte d 'Arcout, the Chancellor, the Grand Master de Guiche, the Count de Brienne, Madame de Combalet, the abbé de la Riviere, the abbé de Palleau, the abbé Mondin de Villquier, de Gerzé: the Chevalier d 'Iars, de Beringhez, the Grand Prevost, tangeé, le Tellier, Semettre Bautru, de Roquelaure, Cantarini, de Mauroy, Tubeuf, and all the tax-farmers of France.</hi>
+        </p>
+        <p xml:id="fam_130117">
+Le Roi: Ma bonne maman, dites moi toutes ceux-là sont-ils bien affectionnez à mon service.</p>
+        <p xml:id="fam_130118">
+          <hi rend="italic">King: My good mother, tell me are all of them truly devoted to my service?</hi>
+        </p>
+        <p xml:id="fam_130119">
+La Reine: Mon fils, oui, vous vous en pouvez assurer, car M. le C. Mazarin les a choisis, &amp; ce sont ceux qui les conseillent, &amp; qui ont tout le bien de la France. <hi rend="italic">Queen: My son, yes -you can relax, for Cardinal Mazarin has chosen them and they are the ones who advise him and who have all the property in France.</hi></p>
+        <p xml:id="fam_130120">
+Le Roi: Ma bonne maman, pourquoi a t'on fait tant de Comedies dans mon Palais royal a Paris avec tant de depenses.</p>
+        <p xml:id="fam_130121">
+          <hi rend="italic">King: My good mother, why do they put on so many plays in my royal palace in Paris, at such exorbitant cost?</hi>
+        </p>
+        <p xml:id="fam_130122">
+La Reine: Mon fils, ça esté M. Ie C. Mazarin, pour me contanter, &amp; pour faire voir que les Italiens sont meilleurs Comediens que le François. </p>
+        <p xml:id="fam_130123">
+          <hi rend="italic">Queen: My son, Cardinal Mazarin does that to please me and in order to show that the Italians are better actors than the French.</hi>
+          <ref target="#fam.008.n7">7</ref>
+          <note xml:id="fam.008.n7" n="7">Anne greatly enjoyed the theater and appreciated Mazarin's recruitment of Italian talent, which included Rossi's <hi rend="italic">Orpheus</hi>, the first opera brought to the French stage.</note>
+        </p>
+        <p xml:id="fam_130124">
+Le Roi: Ma bonne maman, pourquoi avez vous cassé les Capitaines des gardes de mon Corps.</p>
+        <p xml:id="fam_130125">
+          <hi rend="italic">King: My good mother, why have you dismissed the Captains of my guard troop?</hi>
+        </p>
+        <p xml:id="fam_130126">La Reine: Mon fils, parce qu'ils ont voulu chasser vos anciennes gardes, de leurs postes à la Procession, dans les Cloistres des Fueillans à Paris, en la presence de M. le C. Mazarin sans respect. </p>
+        <p xml:id="fam_130127">
+          <hi rend="italic">Queen: My son, because they wanted to drive out your former guards disrespectfully from their place in the Procession in the Cloisters of the Feuillants in Paris, while in the presence of Cardinal Mazarin.</hi>
+        </p>
+        <p xml:id="fam_130128">
+Le Roi: Ma bonne maman, pourquoi n'a t'on pas fait le procez du gouvemeur de Courtray &amp; de Landrecy, qui m'ont laissé perdre deux si bonnes places, &amp; pourquoi a t'on mis celui de Courtray pour gouverneur dans la ville d'Ipres. </p>
+        <p xml:id="fam_130129">
+          <hi rend="italic">King: My good mother, why haven't they tried the governor of Courtray and the governor of Landrecy, who lost two such excellent fortresses and why has the governor of Courtray been named to govern over the city of Ipres?</hi>
+        </p>
+        <p xml:id="fam_130130">
+La Reine: Mon fils, parce qu'ils ont obei à M. le C. Mazarin, qui fait ce qu'il lui plaist. </p>
+        <p xml:id="fam_130131">
+          <hi rend="italic">Queen: My son, because they have obeyed Cardinal Mazarin, who does whatever pleases him.</hi>
+        </p>
+        <p xml:id="fam_130132">
+Le Roi: Ma bonne maman, pourquoi a t'on tenu si long-tamps M. le Mareschal de la Mote Hodancour prisonnier é Lyon. </p>
+        <p xml:id="fam_130133">
+          <hi rend="italic">King: My good mother, why has the Marshall de la Mote Hodancour been held prisoner in Lyon for such a long time?</hi>
+        </p>
+        <p xml:id="fam_130134">
+La Reine: Mon fils, parce qu'il n'a pas voulu donner la Duché de Cardonne a M. le C. Mazarin pour Monsieur le C. Ste. Cecile Viceroy de Catalogne son frere. </p>
+        <p xml:id="fam_130135">
+          <hi rend="italic">Queen: My son, because he didn't want to give the duchy of Cardonne to Cardinal Mazarin for the Cardinal of Ste. Cecile, the Viceroy of Catalonia, his brother.</hi>
+        </p>
+        <p xml:id="fam_130136">Le Roi: Ma bonne Maman, pourquoi m'a t'on emmené de Paris comme en cachette sans battre Tambour, sans gardes, chevaux legers, ni gendarmes en pleine nuit. </p>
+        <p xml:id="fam_130137">
+          <hi rend="italic">King: My good mother, why was I brought from Paris secretly, without the drum being beaten; without guards, light calvary or soldiers; in the dead of night?</hi>
+        </p>
+        <p xml:id="fam_130138">
+Le Reine: Mon fils, pour contanter M. le C. Mazarin qui l'a voulu ainsi. </p>
+        <p xml:id="fam_130139">
+          <hi rend="italic">Queen: My son, in order to please Cardinal Mazarin who wished it thus.  </hi>
+        </p>
+        <p xml:id="fam_130140"/>
+        <p xml:id="fam_130141">Le Roi: Ma bonne maman, pourquoi est-ce que les Messieurs du Parlement de Paris, sont venus tant de fois à S. Germain en Laye. </p>
+        <p xml:id="fam_130142">
+          <hi rend="italic">King: My good mother, why did the members of the Parliament of Paris come to St.- Germain-en-Laye so many times?</hi>
+        </p>
+        <p xml:id="fam_130143">
+La Reine:Mon fils, pour y faire une Declaration, &amp; pour leur faire voir l'authorité de M. Ie C. Mazarin.</p>
+        <p xml:id="fam_130144">
+          <hi rend="italic">Queen: My son, in order to make a Declaration there, and also in order that they might witness the authority of Cardinal Mazarin.</hi>
+        </p>
+        <p xml:id="fam_130145">
+Le Roi: Ma bonne maman, pourquoi n'execute t'on pas cette Declaration, puis qu'elle a donne tant de peine à faire. </p>
+        <p xml:id="fam_130146">
+          <hi rend="italic">King: My good mother, why doesn't anyone implement the Declaration since it was created with such effort?</hi>
+        </p>
+        <p xml:id="fam_130147">
+La Reine: Mon fils, nous ne l'avons faite que pour tromper les messieurs du Parlement de Paris, &amp; pour les amuser.</p>
+        <p xml:id="fam_130148">
+          <hi rend="italic">Queen: My son, we only drew it up to deceive the members of the parlement of Paris and to delay them.</hi>
+        </p>
+        <p xml:id="fam_130149">
+Le Roi: Ma bonne maman, pourquoi m'a t'on done remené à Paris. </p>
+        <p xml:id="fam_130150">
+          <hi rend="italic">King: My good mother, why then was I brought back to Paris?</hi>
+        </p>
+        <p xml:id="fam_130151">
+La Reine: Mon fils, pour prendre mieux nostre temps afin de tromper tout le monde &amp; pour y recevoir 15 millions de livres. </p>
+        <p xml:id="fam_130152">
+          <hi rend="italic">Queen: My son, in order that we might better take our time to deceive everyone and in order to receive, in Paris, fifteen million livres.</hi>
+        </p>
+        <p xml:id="fam_130153">Le Roi: Ma bonne maman, pourquoi a t'on receu cét argent, &amp; qu'en a t'on fait, puisque ma table a manqué deux jours. </p>
+        <p xml:id="fam_130154">
+          <hi rend="italic">King: My good mother, why did you receive money and what have you done with it, for my table has gone without for two days?</hi>
+        </p>
+        <p xml:id="fam_130155">
+La Reine: Mon fils, on l'a baillé à M. de la Meilleraye, &amp; à Madame de Combalet en deposts sous pretexte de press, qu'ils vous ont fait, &amp; pour le manque de vostre table, c'est pour faire croire au peuple que c'est la faute des Messieurs du Parlement de Paris. </p>
+        <p xml:id="fam_130156">
+          <hi rend="italic">Queen: My son, I deposited it with Monsieur de la Meilleraye and Madame de Combalet, on the pretext of a loan which they made to you; and as for the shortages at your table, that helps to convince the people that the Parlement of Paris is at fault.</hi>
+        </p>
+        <p xml:id="fam_130157">
+Le Roi: Ma bonne maman, pourquoi ne fait-on point la paix. </p>
+        <p xml:id="fam_130158">
+          <hi rend="italic">King: My good mother, why don't they ever make peace?  </hi>
+        </p>
+        <p xml:id="fam_130159">
+LaReine: Mon firs, c'est que M. le C. ne le trouve pas à propos. Car il dit qu'il ne seroit plus respecté ni honore comme il est. </p>
+        <p xml:id="fam_130160">
+          <hi rend="italic">Queen: My son, this is because Cardinal Mazarin does not consider it prudent; because he thinks that he would not be respected or honored as he is now [if the war were to end].</hi>
+        </p>
+        <p xml:id="fam_130161">
+Le Roi: Ma bonne maman, pourquoi mon cousin le Duc de Longueville n'a il pas signé la paix, puisque l'on l'avoit envoyé pour cela. </p>
+        <p xml:id="fam_130162">
+          <hi rend="italic">King: My good mother, why is it that my cousin, the Duke of Longueville did not sign the peace treaty, since it was sent to him for that?</hi>
+        </p>
+        <p xml:id="fam_130163">
+La Reine: Mon fils, ç'a esté M. le C. qui l'a fait empescher par M. Servien, afin de pouvoir faire mieux nos affaires, &amp; de pouvoir marier ses niepces plus hautement. </p>
+        <p xml:id="fam_130164">
+          <hi rend="italic">Queen: My son, it was Cardinal Mazarin who hindered him, through Mr. Servien in order to further our affairs and in order to marry his nieces more advantageously.</hi>
+          <ref target="#fam.008.n8">8</ref>
+          <note xml:id="fam.008.n8" n="8">The Duke of Longueville, the brother-in-law of Condé and Conti, had been sent to Munster to negotiate an end to the war with Spain. Parlementary opinion held that his failure to do so was the result of Mazarin's scheming.</note>
+        </p>
+        <p xml:id="fam_130165">
+Le Roi: Ma bonne maman, dites moi qui est M. le C. puis qu'il fait ce qu'il lui plaist de mon Royaume.</p>
+        <p xml:id="fam_130166">
+          <hi rend="italic">King: My good mother, tell me who is this Cardinal Mazarin who does as he pleases with my kingdom?</hi>
+        </p>
+        <p xml:id="fam_130167">
+La Reine: Mon fils, c'est vostre gouverneur le premier Ministre de vostre estat, est-ce pas assez pour faire de vostre Royaume ce qu'il lui plaist. </p>
+        <p xml:id="fam_130168">
+          <hi rend="italic">Queen: My son, he is your governor, the first Minister of your State: is that not reason enough to do as he pleases with your kingdom?</hi>
+        </p>
+        <p xml:id="fam_130169">
+Le Roi: Ma bonne maman pourquoi vous fiez vous tant a lui, puis qu'il a trompé le Pape, abusé L'Empereur, &amp; trahy le Roy d'Espagne vostre frere </p>
+        <p xml:id="fam_130170">
+          <hi rend="italic">King: My good mother, why do you trust him so much, since he has deceived the Pope, abused the Emperor and betrayed the king of Spain, your brother?</hi>
+        </p>
+        <p xml:id="fam_130171">
+La Reine: Mon fils, c'est un tesmoignage de son bon espirit, mais ne vous en mettez pas en peine, car M. le Prince de Condé m'en a respondu. </p>
+        <p xml:id="fam_130172">
+          <hi rend="italic">Queen: My son, it is a testimony to his character, but don't upset yourself because the Prince de Condé has guaranteed it.</hi>
+          <ref target="#fam.008.n9">9</ref>
+          <note xml:id="fam.008.n9" n="9">This idiom refers to Condé's approval of Mazarin. Possibly, the intention of the author was to call attention to the impropriety of an alliance between any prince of the royal family and the base-born Mazarin. (That this alliance was responsible for the successful blockade of Paris was a point that would not have been lost on the contemporary audience.)</note>
+        </p>
+        <p xml:id="fam_130173">
+Le Roi: Ma bonne maman, pourquoi m'a t'on fait lever si matin pour menmener de Paris le jour des Rois.</p>
+        <p xml:id="fam_130174">
+          <hi rend="italic">King: My good mother, why did they wake me so early in the morning to take me out of Paris on Twelfth night?</hi>
+        </p>
+        <p xml:id="fam_130175">
+La Reine: Mon fils, pour surprendre tout le monde, &amp; pour affamer la ville de Paris </p>
+        <p xml:id="fam_130176">
+          <hi rend="italic">Queen: My son, in order to catch everyone unawares and to starve the city of Paris. </hi>
+        </p>
+        <p xml:id="fam_130177">
+Le Roi: Ma bonne maman, dites moi que vous a t'on fait à Paris. </p>
+        <p xml:id="fam_130178">
+          <hi rend="italic">King: My good mother, tell me what they did to offend you in Paris.</hi>
+        </p>
+        <p xml:id="fam_130179">La Reine: Mon fils, c'est que messieurs du Parlement ne veulent plus souffrir que M. le C., avec les Partisans, pille d'avantage vostre peuple. </p>
+        <p xml:id="fam_130180">
+          <hi rend="italic">Queen: My son, it is the members of Parlement who no longer wish to allow Cardinal Mazarin and the tax-farmers to pillage your people.</hi>
+        </p>
+        <p xml:id="fam_130181">
+Le Roi: Ma bonne maman, qu'est-ce que des Partisans &amp; à quoi sont ils loons. </p>
+        <p xml:id="fam_130182">
+          <hi rend="italic">King: My good mother, who are these tax-farmers and what are they good for?</hi>
+        </p>
+        <p xml:id="fam_130183">
+La Reine: Mon fils, se sont des personnes d'honneur de <hi rend="italic">[illegible] </hi>le C. Mazarin ce sert pour attirer tout le bien de la France, avec les Intendans de Justice. </p>
+        <p xml:id="fam_130184">
+          <hi rend="italic">Queen: My son, these are honorable men whom Cardinal Mazarin uses to gather up all the wealth of France - along with the Intendants of Justice.</hi>
+        </p>
+        <p xml:id="fam_130185">
+Le Roi: Ma bonne maman, à quoi sersont les Intendans de Justice dans les Provinces? </p>
+        <p xml:id="fam_130186">
+          <hi rend="italic">King: My good mother, what is the purpose of the Intendants of Justice in the Provinces?</hi>
+        </p>
+        <p xml:id="fam_130187">La Reine: Mon fils, pour sous vostre authorité &amp; le voile de Justice, firer tout l'argent de vostre Royaume.</p>
+        <p xml:id="fam_130188">
+          <hi rend="italic">Queen: My son, they are to siphon off all of the money from your kingdom, acting under your authority and that of the veil of Justice.</hi>
+        </p>
+        <p xml:id="fam_130189">
+Le Roi: Ma bonne maman, pourquoi avez vous osté M. le President de Bailleul de la charge de Sur-Intendant pour y mettre M. d'Esmery. </p>
+        <p xml:id="fam_130190">
+          <hi rend="italic">King: My good mother, why have you removed Monsieur le President de Bailleul from the post of Sur-Intendent and given it to Monsieur d 'Emery?</hi>
+          <ref target="#fam.008.n10">10</ref>
+          <note xml:id="fam.008.n10" n="10">Particelli d'Emery had been an <hi rend="italic">intendant des finances</hi> under Louis Xlll and was promoted to the office of <hi rend="italic">surintendant</hi> in 1647. Given the formidable task of raising the funds to support state and army, d'Emery used any means possible to increase taxes and cut parlementary salaries. This policy and the fact that he, himself, grew rich from taxfarming made d'Emery the target of universal hatred, second only to Mazarin. In July of 1648, in the struggle between the Crown and the Parlement of Paris, d'Emery was dismissed by the Queen Regent. He was succeeded by Marshall de La Meilleraie, the Grand Master and a military commander who was involved in the fighting of the August 'Barricade Days.'</note>
+        </p>
+        <p xml:id="fam_130191">
+La Reine: Mon fils, parce que M. le President de Bailleul est trop considerant, il falloit un homme comme M. d'emery à M. le C. Mazarin, qui n'eust ni ame, ni foi, afin de faire tout ce qu'il voudroit. </p>
+        <p xml:id="fam_130192">
+          <hi rend="italic">Queen: My son, because Monsieur le President de Bailleul is too considerable; the position needs a man like Monsieur d 'Emery, who belongs to Cardinal Mazarin: a man who has neither soul nor faith so that he may do whatever he wants.</hi>
+        </p>
+        <p xml:id="fam_130193">
+Le Roi: Ma bonne maman, pourquoi avez vous donc chassé M. d'Emery puisqu' il faisoit tout ce que M. le C. vouloit. </p>
+        <p xml:id="fam_130194">
+          <hi rend="italic">King: My good mother, why then have you driven Monsieur d 'Emery away, since he did everything that Cardinal Mazarin wanted?</hi>
+        </p>
+        <p xml:id="fam_130195">
+La Reine: Mon fils, c'est qu'il avoit assez vole &amp; m. le C. ne vouloit pas que l'on lescevst.</p>
+        <p xml:id="fam_130196">
+          <hi rend="italic">Queen: My son, because he had stolen enough and Cardinal Mazarin didn't want anyone to know about it.</hi>
+        </p>
+        <p xml:id="fam_130197">
+Le Roi: Ma bonne maman, pourquoi fait-on tant la guerre en Italie, cela est-il necessaire. </p>
+        <p xml:id="fam_130198">
+          <hi rend="italic">King: My good mother, why does France fight in Italy so much - is it necessary?</hi>
+        </p>
+        <p xml:id="fam_130199">
+La Reine: Mon fils, cela se fait par maxime d'Estat pour contanter M. Ie C. </p>
+        <p xml:id="fam_130200">
+          <hi rend="italic">Queen: My son, that is done for Reasons of Statecraft to please Cardinal Mazarin.</hi>
+        </p>
+        <p xml:id="fam_130201">
+Le Roi: Ma bonne maman, pourquoi avez vous choisi M. le Grand Maistre pour le faire Sur-Intendant, n'est il pas assez riche. </p>
+        <p xml:id="fam_130202">
+          <hi rend="italic">King: My good mother, why have you chosen Monsieur le Grand Master as the Sur-Indentant - isn't he rich enough already?</hi>
+        </p>
+        <p xml:id="fam_130203">
+La Reine: Mon fils, c'est un homme comme il nous faut, il est des parens de M. le C. de Richelieu, il ne payera personne, il est fort &amp; vaillant, voyez combien il en tua aux barricades de Paris.</p>
+        <p xml:id="fam_130204">
+          <hi rend="italic">Queen: My son, he is the man we need - he is a relation of Cardinal Richelieu; he will pay no one; he is strong and brave - look how many he killed on the barricades of Paris!</hi>
+        </p>
+        <p xml:id="fam_130205">
+Le Roi: Ma bonne maman, qu'avez vous fait de 500. millions que vous avez receus, depuis que mon Papa est mort.</p>
+        <p xml:id="fam_130206">
+          <hi rend="italic">King: My good mother, what have you done with the five hundred million livres that you received since the time of my father 's death?</hi>
+        </p>
+        <p xml:id="fam_130207">
+La Reine: Mon fils, ils ont este distribuez par l'ordre de M. le C, qui les a mis à couvert. </p>
+        <p xml:id="fam_130208">
+          <hi rend="italic">Queen: My son, they have been distributed according to the orders of Cardinal Mazarin, who has hidden them.</hi>
+        </p>
+        <p xml:id="fam_130209">
+Le Roi: Ma bonne maman, pourquoi puisque vous avez receu tant d'argent, n'a t'on pas paye les gages de mes Officiers &amp; de mes soldats depuis trois ans. </p>
+        <p xml:id="fam_130210">
+          <hi rend="italic">King: My good mother, why, since you have received so much money, have you not paid the wages of my officials and my soldiers for three years?</hi>
+        </p>
+        <p xml:id="fam_130211">
+La Reine: Mon fils, M. le Cardinal Mazarin garde tout pour nostre necessité &amp; pour marier ses niepces comme a fait M. le Cardinal de Richelieu. </p>
+        <p xml:id="fam_130212">
+          <hi rend="italic">Queen: My son, Cardinal Mazarin keeps everything for his own needs and in order to marry off his nieces, just like Cardinal Richelieu.  </hi>
+        </p>
+        <p xml:id="fam_130213">
+Le Roi: Ma bonne maman, dites moi donc de queue naissance est M. le Cardinal pour marier ses niepces à des Princes du sang de France. </p>
+        <p xml:id="fam_130214">
+          <hi rend="italic">King: My good mother, tell me, then, of what birthright is Cardinal Mazarin that he can marry his nieces into the highest rank of French nobility?</hi>
+        </p>
+        <p xml:id="fam_130215">
+La Reine: Mon fils, vous m'importunez, car je sçay bien que M. le C. est fils d'un banqueroutier de Rome a <hi rend="italic">[illegible] </hi>é laquai, postillon de Courier, grand joueur &amp; pipeur, mais tout cela n'empsche pas que je ne l'aime, &amp; qu'il ne marie ses niepces a qu'il voudra; ayant tout le bien de la France, &amp; mon amitie. </p>
+        <p xml:id="fam_130216">
+          <hi rend="italic">Queen: My son, you vex me, for I know well that Cardinal Mazarin is the son of a Roman who went bankrupt: a lackey, the coachman of a mail carrier, a great gambler and a piper, but all that will not stop me from loving him and he will marry his nieces only to whom he wishes, for he has all the wealth of France and my friendship behind him.</hi>
+          <ref target="#fam.008.n11">11</ref>
+          <note xml:id="fam.008.n11" n="11">Obscene biographies of Mazarin filled the pages of many Mazarinades. His father's low birth was a frequent target for invective.</note>
+        </p>
+        <p xml:id="fam_130217">
+Le Roi: Ma bonne maman, pourquoi n'avez vous pas voulu parler à mon Advocat, &amp; mon procureur general du Parlement de Paris quand ils sont venus ici. </p>
+        <p xml:id="fam_130218">
+          <hi rend="italic">King: My good mother, why didn't you want to talk to my chief prosecutors of the Parlement of Paris when they came here?</hi>
+          <ref target="#fam.008.n12">12</ref>
+          <note xml:id="fam.008.n12" n="12">'Here' refers to St. Germain.</note>
+        </p>
+        <p xml:id="fam_130219">
+La Reine: Mon fils, ç'a esté M. le C. &amp; M. le Prince de Condé, qui m'ont dit que puis qu'il falloit affamer la ville de Pari, il ne leur falloit pas parler. </p>
+        <p xml:id="fam_130220">
+          <hi rend="italic">Queen: My son, it was Cardinal Mazarin and the Prince of Condé who told me that since it is necessary to starve the city of Paris, we should not talk with them.</hi>
+        </p>
+        <p xml:id="fam_130221">Le Reine: Ma bonne maman, dites moi puisque vous voulez affamer ma bonne ville de Paris que deviendront tant de bons Religieux &amp; Religieuses qui ne visont que d'aumosnes, les petite enfants à la mamelle, les pauvres dans les hospitauz, &amp; par la ville, &amp; tant de gens de bien qui sont dans Paris. </p>
+        <p xml:id="fam_130222">
+          <hi rend="italic">King: My good mother, tell me, since you want to starve my good city of Paris, what will become of so many of the good monks and nuns who live only on alms, the little babies at the breast, the poor in the hospitals and about the city and so many of the respectable people who are in Paris?</hi>
+        </p>
+        <p xml:id="fam_130223">La Reine: Mon fils, ne vous en mettez pas en peine, car vous ne scavez pas oú peut aller la passion d'une femme Reine Regente quand on heurte ses volentez. </p>
+        <p xml:id="fam_130224">
+          <hi rend="italic">Queen: My son, don't distress yourself for you don't know how far the passion of a female ruler can go when someone thwarts her will.</hi>
+        </p>
+        <p xml:id="fam_130225">Le Roi: Ma bonne maman, vous ne vous souciez done guere de mon Royaume. </p>
+        <p xml:id="fam_130226">
+          <hi rend="italic">King: My good mother, then you hardly care about my kingdom.</hi>
+        </p>
+        <p xml:id="fam_130227">La Reine: Mon fils, quand vous serez en âge vous y adviserez, car pour moi je veux vivre &amp; mourir avec M. le C.</p>
+        <p xml:id="fam_130228">
+          <hi rend="italic">Queen: My son, when you are older you will see to it, for l want only to live and die with Cardinal Mazarin.</hi>
+        </p>
+        <p xml:id="fam_130229">
+Le Roi: Ma bonne maman, vous me serez passer pour un Roi Herode, faisant mourir tant d'Innocens.</p>
+        <p xml:id="fam_130230">
+          <hi rend="italic">King: My good mother, you make me look like King Herod, causing the deaths of so many innocents!</hi>
+          <ref target="#fam.008.n13">13</ref>
+          <note xml:id="fam.008.n13" n="13">Herod was the ruler of Judea, a territory in Roman Palestine, at the time of the birth of Jesus Christ. The New Testament scriptures report that, upon hearing that the true 'King of the Jews' was newly-born, Herod ordered the systematic murder of all male children under two years of age in Jerusalem. Jesus' family fled to Egypt to avoid persecution.</note>
+        </p>
+        <p xml:id="fam_130231">
+La Reine: Mon fils, ce ne sera pas vous, c'est mod, qu'à Dieu ne plaise que je voulusse faire tuer les Innocens, comme le Roi Herode: non, non, je me contanterai de les faire mourir de faim &amp; seicher, attachez aux tetons de leurs meres. </p>
+        <p xml:id="fam_130232">
+          <hi rend="italic">Queen: My son, that image will not be yours. It 's mine; God forbid that I should have the innocents killed like King Herod! No, no, I will be satisfied to make them die of hunger and thirst, still clasped to their mothers' breasts.</hi>
+        </p>
+        <p xml:id="fam_130233"/>
+        <p xml:id="fam_130234">
+Le Roi: Ma bonne maman, le Roi David remercioit Dieu, dequoi assuiettissoit son peuple sous lui, que dirai-je moi puisque vous faites mourir le mien. </p>
+        <p xml:id="fam_130235">
+          <hi rend="italic">King: My good mother, King David thanked God, for that which subjected his people to him, what will l say since you are killing mine?</hi>
+          <ref target="#fam.008.n14">14</ref>
+          <note xml:id="fam.008.n14" n="14">The Old Testament scriptures describe the career of King David, who was appointed to rule by God. He unified the scattered tribes of Israel under his dominion.</note>
+        </p>
+        <p xml:id="fam_130236">
+La Reine: Mon fils, c'est dequoi je ne me soucie pas, puis qu'il ne veut pas obeir a M. le C. Mazarin, qui en viendra pourtant bien à bout. </p>
+        <p xml:id="fam_130237">
+          <hi rend="italic">Queen: My son, I do not bother about these things, because they [the people] don't want to obey Cardinal Mazarin, who will nevertheless overcome in the end.</hi>
+        </p>
+        <p xml:id="fam_130238">Le Roi: Ma bonne mama, vous ne me parlez point de M. d'Orleans mon Oncle. </p>
+        <p xml:id="fam_130239">
+          <hi rend="italic">King: My good mother, you hardly ever speak of my uncle, the Duc of Orleans.</hi>
+        </p>
+        <p xml:id="fam_130240">La Reine: Mon fils, M. d'Orleans est à nous pour de l'argent, l 'abbé de la Riviere lui fait faire tout ce qu'il plaist à M. le C. Mazarin. </p>
+        <p xml:id="fam_130241">
+          <hi rend="italic">Queen: My son, the Duke of Orleans is with us for the money; the Abbot de la Riviere makes him do whatever pleases Cardinal Mazarin.</hi>
+        </p>
+        <p xml:id="fam_130242">Le Roi: Ma bonne maman, dites moi pourquoi M. le Prince de Conti &amp; M. le Duc de Longueville &amp; autre grands Seigneurs de mon Royaume m'ont ils quitté pour aller à Paris. </p>
+        <p xml:id="fam_130243">
+          <hi rend="italic">King: My good mother, tell me why the Prince of Conti and the Duke of Longueville and the other great lords of my kingdom have abandoned me and gone to Paris? </hi>
+        </p>
+        <p xml:id="fam_130244">
+La Reine: Mon fils, c'est qu'ils sont bons François &amp; qu'ils ne sont pas pensionaires de M. le C. Mazarin, ni alliez du. C. de Richelieu. </p>
+        <p xml:id="fam_130245">
+          <hi rend="italic">Queen: My son, this is because they are good Frenchmen and because they are not in Cardinal Mazarin 's pocket and were not in Cardinal Richelieu 's.</hi>
+        </p>
+        <p xml:id="fam_130246">
+Le Roi: Ma bonne maman, dites moi pourquoi leve t'on tant de gens de guerre à Paris, est-ce que pour mon service.</p>
+        <p xml:id="fam_130247">
+          <hi rend="italic">King: My good mother, tell me why they are levying so many soldiers- is it to serve me?</hi>
+        </p>
+        <p xml:id="fam_130248">
+La Reine: Mon fils, non, c'est pour m'empescher d'affamer Paris &amp; pour Messieurs du Parliament, que j'ai en grande aversion. </p>
+        <p xml:id="fam_130249">
+          <hi rend="italic">Queen: My son, it is to hinder the starvation of Paris and to defend the Parlement of Paris, for which I have a great dislike.</hi>
+        </p>
+        <p xml:id="fam_130250">Le Roi: Ma bonne maman, si ces messieurs du Parlement sont les plus forts, que deviendrai-je.</p>
+        <p xml:id="fam_130251">
+          <hi rend="italic">King: My good mother, if the members of Parlement are stronger than our forces, what will become of me?</hi>
+        </p>
+        <p xml:id="fam_130252">La Reine: Mon fils, c'est dequoi je ne me soucie guere, parce que M. le C. Mazarin &amp; M. le Prince de Condé m'ont promis de les perdre tous. </p>
+        <p xml:id="fam_130253">
+          <hi rend="italic">Queen: My son, I hardly ever worry about that, for Cardinal Mazarin and the Prince of Condé have promised me that Parlement will lose everything</hi>
+        </p>
+        <p xml:id="fam_130254">Le Roi: Ma bonne maman, dites moi quand ils auront tout perdu, le Parlement &amp; mes peuples, de qui serai-je Roi. </p>
+        <p xml:id="fam_130255">
+          <hi rend="italic">King: My good mother, tell me, when Parlement and my people have lost everything, of whom shall I be king?</hi>
+        </p>
+        <p xml:id="fam_130256">La Reine: Mon fils, je ne songe pas à cela, ni de qui vous serez Roi, pourveu que je sois vengee.</p>
+        <p xml:id="fam_130257">
+          <hi rend="italic">Queen: My son, I don't think of that eventuality nor of whom you will rule, provided that I have my revenge.</hi>
+        </p>
+        <p xml:id="fam_130258">Le Roi: Ma bonne maman, dites moi de qui vous voulez vous venger? qu'estce que l'on vous a fait.</p>
+        <p xml:id="fam_130259">
+          <hi rend="italic">King: My good mother, tell me against whom do you revenge yourself? What has been done to you?</hi>
+        </p>
+        <p xml:id="fam_130260">La Reine: Mon fils, je veux faire pendre les messieurs du Parlement de Paris, &amp; apres je viendrai bien à bout devos peuples &amp; des autres parlemens. </p>
+        <p xml:id="fam_130261">
+          <hi rend="italic">Queen: My son, I want to hang the members of the Parlement of Paris and then, I would like to triumph over your peoples and the other parlements </hi>
+        </p>
+        <p xml:id="fam_130262">
+Le Roi: Ma bonne maman, dites moi que vous ont fait les messieurs du Parlement. </p>
+        <p xml:id="fam_130263">
+          <hi rend="italic">King: My good mother, tell me what the members of Parliament have done to you.</hi>
+        </p>
+        <p xml:id="fam_130264">La Reine: Mon fils, ne m'importunez pas davantage, n'est-ce pas assez que je suis Reine Regente &amp; M. le C. mon conseil pour faire tout ce qu'il me plaist. </p>
+        <p xml:id="fam_130265">
+          <hi rend="italic">Queen: My son, don't vex me anymore, isn't it enough that I am Queen Regent and Cardinal Mazarin is my counselor so that I may do as I please?</hi>
+        </p>
+        <p xml:id="fam_130266">Le Roi: Ma bonne maman, le Roi Henri IIII mon aieul disoit qu'il estoit un grand Roi à cause que son peuple estoit riche &amp; moi que dirai-je puisque vous ruinez le mien. </p>
+        <p xml:id="fam_130267">
+          <hi rend="italic">King: My good mother, King Henry IV, my ancestor, said that he was a great king because his people were prosperous. What will I say since you are ruining mine? </hi>
+          <ref target="#fam.008.n15">15</ref>
+          <note xml:id="fam.008.n15" n="15">Henry IV, Louis XIV's grandfather, was celebrated for promising "a chicken in the pot of every peasant for Sunday dinner."</note>
+        </p>
+        <p xml:id="fam_130268">La Reine: Mon fils, le Roi Henri IIII estoit un homme qui n'avoit pas de savory comme mod, a qui je fads du bien.</p>
+        <p xml:id="fam_130269">
+          <hi rend="italic">Queen: My son, King Henry IV was a man who did not have a charming [counselor] like me, to whom I do good.</hi>
+        </p>
+        <p xml:id="fam_130270">Le Roi: Ma bonne maman, dites moi ce que je serai quand je n'y aura plus de Parlement, qui rendra justice.</p>
+        <p xml:id="fam_130271">
+          <hi rend="italic">King: My good mother, tell me what I will be when there is no longer a Parlement to render justice?</hi>
+        </p>
+        <p xml:id="fam_130272">La Reine: Mon fils, nous avons M. le Chancelier, qui est le chef de la Justice &amp; M. le Grand Prevost, qui seront la justice comme nous voudrons. </p>
+        <p xml:id="fam_130273">
+          <hi rend="italic">Queen: My son, we have Monsieur le Chancellor, who is the chief judiciary officer and the Grand Provost, who will render justice as we wish</hi>
+        </p>
+        <p xml:id="fam_130274">Le Roi: Ma bonne maman, je voi bien tout de bon que vous ne vous souciez guere de moi &amp; de ma couronne, chacun dit que messieurs du Parlement sont bien sages. </p>
+        <p xml:id="fam_130275">
+          <hi rend="italic">King: My good mother, I see very well that you scarcely bother about me and my crown; everyone says that the members of Parlement are very wise [to oppose you].</hi>
+        </p>
+        <p xml:id="fam_130276">La Reine: Mon fils, tout au contraire, c'est pour asseurer vostre Couronne, tout ce que je fais: car M. le C. Mazarin &amp; M. le Prince de Condé, me l'ont assuré, nous avons au Parlement des pensionaires par lesquels nous scarons tout ce qui s'y fait. </p>
+        <p xml:id="fam_130277">
+          <hi rend="italic">Queen: My son, that is not the case. In fact, I do all that I do in order to ensure the strength of your Crown, for Cardinal Mazarin and the Prince of Condé' have assured me that we have in Parlement some clients from whom we will know of all that they do there.  </hi>
+        </p>
+        <p xml:id="fam_130278">
+Le Roi: Ma bonne maman, pourquoi avez vous chanter le Te Deum à St. Germain, pour la prise de Charenton, estoit- il pas à moi. </p>
+        <p xml:id="fam_130279"/>
+        <p xml:id="fam_130280">
+          <hi rend="italic">King: My good mother why did you sing the Te Deum at St. Germain for the taking of Charenton, was it not mine [my city]? </hi>
+          <ref target="#fam.008.n16">16</ref>
+          <note xml:id="fam.008.n16" n="16">The author points out the irony of civil war, wherein a Thanksgiving mass is offered for the taking of French property.</note>
+        </p>
+        <p xml:id="fam_130281">
+La Reine: Mon fils, ç'a este M. le Prince de Condé, qui m'a dit que la prise estoit de grande importance pour affamer Paris, dont j'ai bien enuie. </p>
+        <p xml:id="fam_130282">
+          <hi rend="italic">Queen: My son, it was the Prince of Condé, who told me that the conquest was of vital importance for the starvation of Paris,which greatly bores me.</hi>
+        </p>
+        <p xml:id="fam_130283">Le Roi: Ma bonne maman, quand tout le peuple de Paris sera mort de faim, je perdrai beaucoup de millions que l'on me paye d'entrée &amp; de subside pour ce qui y entre. </p>
+        <p xml:id="fam_130284">
+          <hi rend="italic">King: My good mother, when all the people of Paris have died of hunger, I shall lose many millions of livres that they pay me in tariffs and subsidies on goods that enter the city.</hi>
+        </p>
+        <p xml:id="fam_130285"/>
+        <p xml:id="fam_130286">La Reine: Mon fils, M. le C. Mazarin a assez dequoi se faire Pape, il nous remettra dans le Royaume de Navarre, que le Pape vous a fait perdre, qui vaut mieux que Paris, &amp; nous en irons à Pampelune, le Roi d'Espagne le voudra bien. </p>
+        <p xml:id="fam_130287">
+          <hi rend="italic">Queen: My son, Cardinal Mazarin has all that he needs to make himself Pope and he will give us back the Kingdom of Navarre (which the Pope made you lose) which is worth more than Paris and we will go to Pamplona. The King of Spain would like that very much </hi>
+          <ref target="#fam.008.n17">17</ref>
+          <note xml:id="fam.008.n17" n="17">Pamplona is a city in Northern Spain which is very close to the border of the Southwestern French territory of Navarre.</note>
+        </p>
+        <p xml:id="fam_130288">Le Roi: Ma bonne maman, j'aimerois bien mieux Paris, que le Royaume de Navarre, mais M. de Beaumont mon Precepteur, dit qu'il faut que je veuille tout ce que vous voulez. </p>
+        <p xml:id="fam_130289">
+          <hi rend="italic">King: My good mother, I would very much prefer Paris to the Kingdom of Navarre but the Duke of Beaumont, my tutor, said that I must want whatever you want.</hi>
+        </p>
+        <p xml:id="fam_130290">La Reine: Mon fils, c'est bien fait, Dieu vous benira, finissons, &amp; allons au Conseil. </p>
+        <p xml:id="fam_130291">
+          <hi rend="italic">Queen: My son, that is well done, God will bless you. Let's stop and go to Council.  </hi>
+        </p>
+        <p xml:id="fam_130292"><hi rend="bold">Advis au Roi, par M. le Duc d'Anjou son frere unique.</hi><hi rend="italic">Advice to the king from the Duke of Anjou, his only brother</hi>Mon petit papa, je vous conseille de vous en retourner dans vostre lit de justice au Parlement, parce que je voi bien que tout s'en va perdu, ma bonne maman n'est pas bien conseillée, &amp; mon Oncle le Duc d'Orleans ne s'en soucie pas pourveu qu'il ait de l'argent, quand a M. le Prince de Condé, il me ressemble, il est encore bien jeune, M. le Chancelier bien interessé &amp; M. le grand Maistre bien hay, laissons m. le C. Mazarin ici, avec tous ceux de sa cabale, &amp; nous en allons à paris, je vous asseure mon petit papa, que nous serons crier par toute la France, vive le Roi, vive le Roi, vive le Roi</p>
+        <p xml:id="fam_130293">
+          <hi rend="italic">My little father, I counsel you to return to your 'lit de justice' in parliament, for I see clearly that all will be lost. My good mother is not well advised: my uncle, the Duke of Orleans doesn't bother about anything -- provided he has money; the Prince of Condé, it seems to me, is still too young; the Chancellor is too self-interested; and the Grand Master too much hated. Let us leave Cardinal Mazarin here, along with those of his faction, and go to Parts. I assure you, my little father, that they will shout, all over France, for us: Long live the King, Long live the King, Long live the King!</hi>
+        </p>
+        <p xml:id="fam_130294">
+          <hi rend="bold">FIN</hi>
+        </p>
+      </div>
+    </body>
+    <back xml:id="fam_130296">
+      <div xml:id="fam_009" type="Bibliography">
+        <head>Bibliography and Related Readings for <title>A Family Discussion</title></head>
+        <div xml:id="fam_010" type="Section">
+          <head><seg type="short-title">ANNE OF AUSTRIA</seg> / FEMALE RULERSHIP IN FRANCE  </head>
+          <bibl>
+            <author>Kleinman, Ruth</author>
+            <title>Anne of Austria. </title>
+            
+              <pubPlace>Columbus, OH</pubPlace>
+              <date>1985</date>
+            
+          </bibl>
+          <bibl>
+            <author>Rapley, Elizabeth</author>
+            <title>The Devotes: Women and the Church in Seventeenth-Century France. </title>
+            
+              <pubPlace>Montreal,</pubPlace>
+              <date>1990</date>
+            
+          </bibl>
+          <bibl><author>Davis, Natalie</author><title level="a">Women on Top</title> in <title level="m">Society and Culture in Early Modern France. </title><pubPlace>Stanford</pubPlace><date>1975</date></bibl>
+          <bibl>
+            <author>Hunt, Lynn</author>
+            <title level="a">The Many Bodies of Marie-Antoinette: Political Pornography and the Problem of the Feminine in the French Revolution</title>
+            <title level="m">Eroticism and the Body Politic. </title>
+            <editor role="editor">Lynn Hunt</editor>
+            
+              <pubPlace>Baltimore,</pubPlace>
+              <date>1991</date>
+            
+          </bibl>
+          <bibl>
+            <author>Jordan, Constance</author>
+            <title>Renaissance Feminism: Literary Texts and Political Models. </title>
+            
+              <pubPlace>Ithaca</pubPlace>
+              <date>1990</date>
+            
+          </bibl>
+          <bibl>
+            <author>Kleinman, Ruth</author>
+            <title level="a">Facing Cancer in the Seventeenth Century: The Last Illness of Anne of Austria, 1664-1666</title>
+            <title level="m">Advances in Thanatology vol. 4, no. 1</title>
+            <date>1977</date>
+            <biblScope>37-55</biblScope>
+          </bibl>
+          <note type="inline">In her work on Anne of Austria cited above, Kleinman includes many nineteenth and early twentieth century biographies of Anne in her bibliography. In her introduction she discusses their historiographical biases. Despite their limitations, these biographies would be of interest to any reader investigating an early modern female ruler's treatment at the hands of historians.</note>
+          <bibl>
+            <author>Lightman, Harriet</author>
+            <title level="a">Queens and Minor Kings in French Constitutional Law</title>
+            <title level="m">Proceedings of the Western Society for French History 9</title>
+            <date>1981</date>
+            <biblScope>26-36</biblScope>
+          </bibl>
+          <bibl>
+            <title level="a">Political Power and the Queen of France: Pierre Dupuy's Treatise on Regency Governments</title>
+            <title level="m">Canadian Journal of History 21</title>
+            <date>1986</date>
+            <biblScope>299-312</biblScope>
+          </bibl>
+          <bibl>
+            <author>Scalingi, Paula Louise</author>
+            <title level="a">The scepter or the distaff: the question about female sovereignty, 1516-1607</title>
+            <title level="m">The Historian 41</title>
+            <date>1978</date>
+          </bibl>
+          <bibl>
+            <author>Weil, Rachel</author>
+            <title level="a">The Crown Has Fallen to the Distaff Side: Gender and Politics in the Age of Catherine de Medici</title>
+            <title level="m">Critical Matrix: Princeton Working Papers in Women's Studies 1/4</title>
+            <date>1985</date>
+          </bibl>
+          <bibl>
+            <author>Wiesner, Merry</author>
+            <title>Women and Gender in Early Modern Europe. </title>
+            
+              <pubPlace>Cambridge</pubPlace>
+              <date>1993</date>
+            
+          </bibl>
+        </div>
+        <div xml:id="fam_011" type="Section">
+          <head>THE FRONDE  </head>
+          <bibl>
+            <author>Doolin, Paul Rice</author>
+            <title>The Fronde. </title>
+            
+              <pubPlace>Cambridge</pubPlace>
+              <date>1935</date>
+            
+          </bibl>
+          <bibl>
+            <author>Hanley, Sarah</author>
+            <title>The Lit de Justice of the Kings of France. </title>
+            
+              <pubPlace>Princeton</pubPlace>
+              <date>1983</date>
+            
+          </bibl>
+          <bibl>
+            <author>Knecht, Robert</author>
+            <title>The Fronde. </title>
+            
+              <pubPlace>London,</pubPlace>
+              <date>1975</date>
+            
+          </bibl>
+          <bibl>
+            <author>Moote, A. Lloyd</author>
+            <title>The Revolt of the Judges 1643-52: The Parlement of Paris and the Fronde. </title>
+            
+              <pubPlace>Princeton</pubPlace>
+              <date>1971</date>
+            
+          </bibl>
+          <bibl>
+            <author>Ranum, Orest</author>
+            <title>The Fronde: A French Revolution 1648-1652. </title>
+            
+              <pubPlace>New York</pubPlace>
+              <date>1993</date>
+            
+          </bibl>
+        </div>
+        <div xml:id="fam_012" type="Section">
+          <head><seg type="short-title">POLITICAL PROPAGANDA</seg> IN EARLY MODERN FRANCE:  </head>
+          <bibl>
+            <author>Darnton, Robert</author>
+            <title>The Forbidden Best-Sellers of Pre-Revolutionary France. </title>
+            
+              <pubPlace>New York</pubPlace>
+              <date>1995</date>
+            
+          </bibl>
+          <bibl><author>Merrick, Jeffrey</author><title level="a">The Cardinal and the Queen: Sexual and Political Disorders in the Mazarinades</title> in <title level="m">French Historical Studies vol.18, no. 3</title><date>Spring 1994</date></bibl>
+          <bibl>
+            <author>Sawyer, Jeffrey</author>
+            <title>Printed Poison: Pamphlet Propaganda. Faction Politics and the Public Sphere in Sevanteenth-Century France. </title>
+            
+              <pubPlace>Berkeley</pubPlace>
+              <date>1990</date>
+            
+          </bibl>
+          <bibl><author>Anglo, Sydney</author><title level="a">Henry III Some determinants of Vituperation</title> in <title level="m">From Valois to Bourbon: Dynasty, State, and Society in Early Modern France. </title><editor role="editor">Keith Camaon</editor><pubPlace>Exeter</pubPlace><date>1989</date></bibl>
+          <bibl>
+            <author>de Baecque, Antoine</author>
+            <title level="a">Pamphlets: Libel and Political Mythology</title>
+            <title level="m">in Revolution in Print: The Press in France, 1775-1800. </title>
+            <editor role="editor">Robert Darnton and Daniel Roche</editor>
+            
+              <pubPlace>Berkeley</pubPlace>
+              <date>1989</date>
+            
+          </bibl>
+          <bibl>
+            <author>Darnton, Robert</author>
+            <title>The Literary Underworld of the Old Regime. </title>
+            
+              <pubPlace>Cambridge</pubPlace>
+              <date>1982</date>
+            
+          </bibl>
+          <bibl>
+            <author>Merrick, Jeffrey</author>
+            <title level="a">Sexual Politics and Public Order in Late Eighteenth Century France: The Memoires secrets and Correspondance secrete</title>
+            <title level="m">Journal of the History of Sexuality 1</title>
+            <date>1990</date>
+            <biblScope>68-84</biblScope>
+          </bibl>
+          <bibl>
+            <author>Salmon, J.H.M</author>
+            <title level="a">French Satire in the Late Sixteenth Century</title>
+            <title level="m">Sixteenth-Century Journal 6</title>
+            <date>1975</date>
+            <biblScope>57-88</biblScope>
+          </bibl>
+        </div>
+      </div>
+    </back>
+  </text>
+</TEI>

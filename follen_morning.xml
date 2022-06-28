@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="follen_morning_13024">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>A Morning Walk, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Follen, Eliza Lee Cabot, 1787-1860</reg><orig>Eliza Lee Follen</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>15kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="follen_morning_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to
+the work claimed by Emory University for non-profit educational purposes, provided 
+this header is included in its entirety.  For inquiries about commercial uses, contact
+either: Women Writers Resource Project or Lewis H. Beck Center for Electronic
+collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17c6g</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Follen, Eliza Lee.  A Morning Walk.  <publisher>The Liberty Bell</publisher>.  Boston: Massachusetts.  Anti-slavery Society Fair MDCCCXLI (<date>1841</date>).  American Periodical Series 1800-1850 microfilm.  APS 1207 Liberty Bell.  Volumes 1-13 (1839-52) reel 491</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="follen_morning_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Abolition, Freedom, and Rights</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Article</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Antislavery movements--United States--History--Sources.</item>
+            <item>Women authors, American--19th Century.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1997</date><label>Staff</label><name>Scott Ellis</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck
+	    Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="follen_morning_13023">
+    <body xml:id="follen_morning_13022">
+      <div xml:id="follen_morning_001" type="Article">
+        <head>A MORNING WALK.<lb/>
+BY ELIZA LEE FOLLEN</head>
+        <p xml:id="follen_morning_1304">WE are apt to suppose that solitude is necessary for contemplation, that she cannot plume her wings except in the green shade; that the murmuring of brooks, and the melody of birds are her only proper accompaniment, or else that in the privacy of our chambers or the retirement of our studies, we must court her heavenly presence; but it is not so. The most active and unprepared scenes of life, the busy crowded street, is often the place for the deepest and the highest contemplation. There almost every variety of human life is moving before you, all its intense interests, its unbounded desires, its strong passions, all its faults and its excellencies, its glory and its meanness are pre-
+<pb xml:id="follen_morning_1303" n="102"/>
+sented to you; individuals at our bidding form themselves into classes, passing occurrences become histories, and the story of the passing moment is the true chronicle of the times. Almost every one's experience has brought him to these conclusions.</p>
+        <p xml:id="follen_morning_1306">I one day while walking in the street fell into a contemplative mood, or as some people would say into a reverie. The degradation of the extremely poor was the subject of my thoughts. They all of them, I said to myself, have souls; immortal souls, capable of and destined for an infinite happiness; their extreme poverty almost condemns them to vice and ignorance; what can they do to raise themselves, and to revive within them the consciousness of their native dignity? How can they for a moment free their spirits from the contamination around them? All their energies are employed in seeking for a bare subsistence for the body; they hardly know that they have souls. Except
+<pb xml:id="follen_morning_1305" n="103"/>
+from the greater acuteness of their sufferings, they have nothing to distinguish them from the brutes that perish. All the delights of knowledge are denied them, the world of imagination has never been revealed to them, all the beauty, all the charm of existence is unknown to them, from all intellectual pleasures they are excluded; from the light of life they are "cut off, and only cloud instead, and ever during dark surrounds them." But most of all they are deprived of the joy of doing good, the pleasures of benevolence; the poor have nothing to give.</p>
+        <p xml:id="follen_morning_1308">I had been led into this train of thought by the sight of an unusually large number of the abject poor in the streets. In our country this is a small class, but it does exist. The fine weather, for it was a mild winter day, had brought them out from their dark cellars and hiding places, partly to sun themselves after the extreme cold which had preceded, and partly to obtain some means of subsistence.
+<pb xml:id="follen_morning_1307" n="104"/></p>
+        <p xml:id="follen_morning_1309">I observed two or three miserable looking beings, shivering with cold, who had not clothes to cover them, and who looked pinched with hunger, and as if the slightest assistance would be a mercy to them. All passed them by without noticing them:, some were too busy to stop, some had no inclination to give, some thought there were charitable institutions enough, and that it was never right to give without knowing whether the object of charity was a deserving one, others thought nothing about it.</p>
+        <p xml:id="follen_morning_13011">I went on in my train of thought till I entered a retired street. Just before me there was a colored man whose dress indicated great poverty, but still it was decent, his clothes were patched though with all the colors of the rainbow, he looked weak and old and as if he had been sick. He had his saw on his shoulder, and appeared to be going home from his work. "He has a home," I said, "and a good wife--those
+<pb xml:id="follen_morning_13010" n="105"/>
+patches speak her praises; poor fellow! I suppose he has earned his dinner."</p>
+        <p xml:id="follen_morning_13013">At a little distance coming towards us I saw a colored woman, scarcely covered with her miserable ragged garments; she looked very sick, and trembled with the cold. The poor man met her first, as he was a few yards before me.  He stopped her, and I saw him take out some money and give it to her. I saw her dark face light up with gratitude and joy. I saw her make an effort to speak, but her muscles seemed rigid. I had my purse in my hand, and when I came up to them I added something to the poor man's mite, and said, as I did so, "I am glad to follow such a good example." "Oh ma'am," said the poor fellow, "we must do something for these poor creatures." He seemed to think it was only a common duty he had performed, and one so unquestioned as to deserve no praise or thanks. He walked along by my side speaking of other things, and as if
+ <pb xml:id="follen_morning_13012" n="106"/>
+he felt that our mutual interest in this poor sufferer, and our joint act of charity, had for a time levelled the distinction which society had raised betwen us. But he had given perhaps the half of his all, I an insignificant trifle from my comparative abundance; I felt depressed in comparison with him.</p>
+        <p xml:id="follen_morning_13015">This was the only alms giving I had witnessed in the course of my walk, and it was from the number of those who I thought were debarred the luxury of giving. He was not only a poor man, but he was one of the despised people of color.  My heart was cheered up at this proof I had witnessed, that they are not deprived of the pleasures of benevolence. Out of his small pittance, this poor man had been able to bestow enough to gladden the heart of one poorer than himself, the smile of gratitude and joy had come at his bidding. Let the rich man line his walls with inanimate representations of human sorrow, or of joy, of divine beauty, or of hu-
+<pb xml:id="follen_morning_13014" n="107"/>
+man excellence, this is well; but let not the poor man envy him, if he can yet, though but for a moment, light up the dead eye of sickness and sorrow for he is not destitute of the means of the highest happiness; he has still his luxuries.
+Did the rich use this divine power to the extent of their ability, did they strengthen as many feeble hands as they might, did they bind up as many broken hearts, did they light up as many sad faces, as their means enabled them to, did they surround themselves with a living throng of grateful, happy, human faces, then we might be tempted to envy them, and to complain of the unequal distribution of wealth. But we too often see the abundant stream returning back upon itself, and forming a stagnant pool around its own source, instead of flowing onward, dispensing life and beauty on its joyful way.</p>
+        <p xml:id="follen_morning_13017">I was very glad that the lesson I had received had been given me by a colored man. If they, in spite of all their wrongs, in spite of the
+<pb xml:id="follen_morning_13016" n="108"/>
+hardening influence of the contempt in which their race is held, if they still have compassion towards others, it must be a strong original principle of their nature; It strengthened my hope for the final elevation of this much injured race.</p>
+        <p xml:id="follen_morning_13018">I lately heard an anecdote of a colored woman, that pleased me much. Some may smile at the simplicity of character it displayed, but more will be touched by the childlike trust in God and gratitude for his goodness, that it evinced.</p>
+        <p xml:id="follen_morning_13020">She was a free woman; she lived in a family, to which she was very much attached, and who treated her with the greatest kindness; her life was a very happy one. It was noticed, that every day at a certain hour she left her work, and for a short time no one knew where she was gone or what she was doing. At last they watched her and discovered that at this hour she went and dressed herself in her best clothes, put on a nice clean apron, and went to a partic-
+<pb xml:id="follen_morning_13019" n="109"/>
+ular place in the garret, and there she folded her hands and made a low courtesy, and with the deepest feeling of reverence said, " I thank you, God."</p>
+        <p xml:id="follen_morning_13021">Oh that the day might be at hand when all her brothers and sisters in our country may have cause for an equal gratitude; oh that their chains might be struck off, their rights restored, their wounds healed, the hitherto untouched springs of joy opened in their hearts, and that these, our fellow beings, might for a while leave their labors, and, dressed in their holiday clothes, bow the knee before the Father of mercies, and with hearts full of devotion and joy, unite with one voice in saying, "we thank you, God."</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lkr_hannan_13019">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Hannah More's Influence</title>
+        <author>
+          <name type="person"><choice><reg>Rogers, Loula Kendall, 1838-1931</reg><orig>Mrs. Loula Kendall Rogers</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10k</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="lkr_hannan_1301">2008 Emory University. Permission is granted to
+
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>2008</date><idno type="ark">http://pid.emory.edu/ark:/25593/17d1w</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Rogers, Loula Kendall, "Hannah More's Influence" Loula
+
+	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
+
+	   Library, Emory University</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="lkr_hannan_1302">This digital text is produced from the Loula Kendall
+
+	   Rogers Papers, generously loaned to the Beck Center by    	
+
+The Manuscript, Archives, and Rare Book Library at Emory University.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="language">American</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Essay</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>More, Hannah, 1745-1833.</item>
+            <item>Women authors, American--19th Century</item>
+            <item>Women authors, American--20th Century</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2008</date><label>Woodruff Graduate Fellow</label><name>Stewart Varner</name>XML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="lkr_hannan_13018">
+    <body xml:id="lkr_hannan_13017">
+      <pb facs="lkr_hannah.001" xml:id="lkr_hannan_1303" n="6"/>
+      <div xml:id="lkr_hannan_lkr_hannah" type="article">
+        <head>HANNAH MORE'S INFLUENCE</head>
+        <byline>LOULA KENDALL ROGERS.</byline>
+        <p xml:id="lkr_hannan_1304">There are so many bright women of a more modern date than Hannah
+
+      More who have won for themselves honor and distinction in the field of
+
+      literature, some may ask why should we go so far back to look for fame
+
+      and real worth, when they may be found around us every day?  For a
+
+      reply we may only look upward at the golden sun on a beautiful morning
+
+      in summer as he arises from a bank of grey and crimson clouds
+
+      illuminating mountains, hill and valley with life and light, and
+
+      filling our souls with joy and gratitude that the long dark night has
+
+      passed away and all earth is singing a song of greeting.  In the same
+
+      manner this life-giving sunlight was welcome six thousand years ago.
+
+      The same emotions thrilled the souls of our first parents that thrill
+
+      our own at the present day.</p>
+        <p xml:id="lkr_hannan_1305">There is no more reason, then, why a beautiful thought should die, or a useful life go out of existence than that the world of nature should lose its charm for those who appreciate its glorious revelations.</p>
+        <p xml:id="lkr_hannan_1306">Often, when ransacking a library, we find some biography hitherto unnoticed save by a glance, and discover beauties in a life that inspire us with new resolutions to succeed in the race set before us.  A gifted writer says: "To the young person thirsting for learning and hungering for education, there are no books more helpful than biographies.  Time is of no account with great lives and great thoughts before us which are as fresh today as when they passed through the author's mind years ago."</p>
+        <p xml:id="lkr_hannan_1307">For this reason we have felt constrained to give a short sketch of the wonderful influence exerted in her day by Hannah More, even over royalty itself.  She was born at Hanham, a small rectory near Bristol, England, in 1745, and was the youngest of five daughters.  Like Charlotte Bronte and her two sisters, they were carefully trained and educated mostly at home , and in their turn opened a boarding school which became one of the most celebrated seminaries in the west of England.</p>
+        <p xml:id="lkr_hannan_1309">This intelligent young girl soon attracted the attention of Dr. Stonehouse, who not only encouraged her to write. but assisted her greatly in the suggestion of themes that were popular.  Her
+
+      <pb facs="lkr_hannah.002" xml:id="lkr_hannan_1308" n="[7]"/>
+
+      first publication, which appeared in 1770, was "The Search After
+
+Happiness," a pastoral drama.  This attracted the attention of Garrick, who prevailed on her to write for the stage, for which she seems to have had a <choice><sic>predeliction</sic><corr>predilection</corr></choice>.  In 1778 her tragedy of "Percy" was performed.  It was well received and established her fame as a  dramatic writer at that time, though lacking in the dash and sprightliness of the present age.</p>
+        <p xml:id="lkr_hannan_13010">In mature years it seems she experienced some compunctions of conscience for devoting so much of her valuable time on the preparation of plays merely for the amusement of the public, but loving art as she did and looking on these vivid presentations of her idealism as being really educational, she wrote sacred dramas for the seminary, which were given from time to time by her pupils and proved very successful.  Among these sacred dramas were "Beltshazzar," "Daniel," "David and Goliath" and others resembling in tone and character and in their striking Hebrew costumes the beautiful oratorios often rendered by amateurs of our own day.</p>
+        <p xml:id="lkr_hannan_13011">When we consider the depravity of the times in which Hannah More lived, the reckless disregard for religious influences by fashionable society, and the almost absolute contempt in which reverence for sacred things was held, it seems her character cannot be overestimated.  Like a brightly shining star diffusing light amid the darkness, her influence was felt everywhere, elevating all classes, from the humblest to the most exalted stations in life.  After climbing the highest pinnacle of fame woman had then reached, she resolved to consecrate her talents wholly to that God from whom she had received them.  Writing for the stage was entirely abandoned, and books and leaflets were rapidly written for the uplifting of her fellow creatures, and distributed and widely circulated, their success being unexampled.</p>
+        <p xml:id="lkr_hannan_13012">Among her friends were Sir Joshua Reynolds, Dr. Beattie, Bishop Porteus, Dr. Johnson, Lady Mary Wortley Montague, Wilberforce, Burke and other celebrated writers.  Her "Strictures on the Modern System of Female Education," in two volumes, were written in 1799 and attracted much attention, as did also "Caelibs in Search of a Wife."</p>
+        <p xml:id="lkr_hannan_13013">It is said that when the education of the Princess Charlotte became a consideration of national importance, Miss More was consulted on the subject by the queen, and that in consequence she in 1808 produced in two volumes "Hints Towards Forming the Character of a Young Princess."</p>
+        <p xml:id="lkr_hannan_13014">This work was honored with the royal approbation and all conscientious tutors of the young, if not by the fashionable world generally.  It may be that the intellectual culture, exalted taste and lofty moral character of the beautiful Princess Charlotte (who was Idolized by the English people) grew out of the noble ideas embodied in this valuable book.  I well remember in my childhood that she was held before me as an example, and how eagerly I listened as my dear mother related the history of this pious young princess, of her rare accomplishments, worthy qualities, amiable disposition, and of her sad sudden death in the bloom of life.</p>
+        <p xml:id="lkr_hannan_13015">No library is entirely complete without the works of Hannah More, and we hope the day may come when her writings, as well as those of Mrs. Hemans, Mrs. Sigourney and other gifted women, may be revived with new life.</p>
+        <p xml:id="lkr_hannan_13016">A competent judge thus speaks of this remarkable woman: "The view
+
+      of her influence upon mankind will be exceedingly imperfect unless we
+
+      take into the estimate the whole number of individuals who have
+
+      derived already and will still derive from her writings the purest
+
+      principles of philosophy and virtue.  These can never be numbered, but
+
+      they may safely be put down at millions.  Now if all these readers
+
+      gain but a single important suggestion, or are incited to practice a
+
+      single virtue or to refrain from a single vice - if but one in ten is
+
+      made wiser of better by her publications - how immeasurable is the
+
+      good effected by her talents."</p>
+      </div>
+    </body>
+  </text>
+</TEI>

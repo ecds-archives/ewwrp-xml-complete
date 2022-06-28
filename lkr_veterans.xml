@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lkr_veterans_13040">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Honoring Our Veterans</title>
+        <author>
+          <name type="person"><choice><reg>Rogers, Loula Kendall, 1838-1931</reg><orig>Mrs. Loula Kendall Rogers</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>20k</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="lkr_veterans_1301">2008 Emory University. Permission is granted to
+
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>2008</date><idno type="ark">http://pid.emory.edu/ark:/25593/17dm7</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Rogers, Loula Kendall, "Honoring Our Veterans,"
+
+	    <date>26 April 1904</date> Loula
+
+	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
+
+	   Library, Emory University</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="lkr_veterans_1302">This digital text is produced from the Loula Kendall
+
+	   Rogers Papers, generously loaned to the Beck Center by    	
+
+The Manuscript, Archives, and Rare Book Library at Emory University.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="language">American</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Essay</rs>
+        <rs type="geography">United States</rs>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>United Daughters of the Confederacy.</item>
+            <item>Women authors, American--19th Century</item>
+            <item>Women authors, American--20th Century</item>
+            <item>Confederate States of America.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2008</date><label>Woodruff Graduate Fellow</label><name>Stewart Varner</name>XML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="lkr_veterans_13039">
+    <body xml:id="lkr_veterans_13032">
+      <pb facs="lkr_veterans001" xml:id="lkr_veterans_1303" n="[1]"/>
+      <div xml:id="lkr_veterans_13031" type="essay">
+        <head>Honoring Our Veterans</head>
+        <p xml:id="lkr_veterans_1304">The women of the South in their grief and desolation after the close of the great struggle for independence longed for a time when their patriotism might find free expression, and looked earnestly forward to a future when an opportunity should present itself for immortalizing the bravery of the Confederate soldier.</p>
+        <p xml:id="lkr_veterans_1305">Bowed down beneath the yoke of oppression <add place="supralinear">during the period of reconstruction</add>,
+
+      wandering among the <add place="supralinear">smoking </add>embers of
+
+      ruined homes, bereft of property, and weeping over the resting places
+
+      of their loved ones, what could a bleeding heart look forward to?
+
+      Like a wide desert waste the prospect was<add place="supralinear"> indeed</add> a dreary one, and all they could do in their sorrow was to place the first sweet offerings of Spring upon the soldiers' grave.</p>
+        <p xml:id="lkr_veterans_1307">When the tide of prosperity once more swept over the broad spreading fields of our beautiful Southland, with it came glowing tributes in marble, as well as in song and story, to the beloved heroes who gave their lives to our country.  With united trust and hope, we have laid our plans before that Almighty Power
+
+      <pb facs="lkr_veterans002" xml:id="lkr_veterans_1306" n="2"/>
+
+      which never fails to lend a helping hand in the hour of distress.  Then the bright hued rainbow of heavenly promise encircled the despairing heart and each passing year added a golden ray to its light with a cheering whisper that the South should rise again from the ashes.</p>
+        <p xml:id="lkr_veterans_1308">The time <hi rend="underline">has</hi> come when true merit is
+
+      recognized and our dearly honored fathers and brothers shall never
+
+      more be branded in history as <hi rend="underline">rebels</hi> and <hi rend="underline">traitors</hi>.  With a love and devotion that knows
+
+      no change, the Memorial Associations and Daughters of the Confederacy
+
+      throughout the whole country have pressed forward until today there
+
+      are thousands of,<add place="supralinear"> snowy</add> monuments gleaming in the sunlight which will tell to future ages the gallant deeds of those who wore the gray, as well as those who wore the blue.</p>
+        <p xml:id="lkr_veterans_13010">This abiding interest in our cause had inspired the impoverished,
+
+      broken-spirited veterans to look upward with rejoining that the time
+
+      has come when their noble deeds were to be acknowledged and their
+
+      glory perpetuated throughout the world.  That section of America which
+
+      has brought forth a Lee, a Jefferson Davis, a Stonewall Jackson, and
+
+      Albert Sidney Johnson and our own John B. Gordon, will never be
+
+      blotted from the world.  And not only has it given these enduring
+
+      names,
+
+      <pb facs="lkr_veterans003" xml:id="lkr_veterans_1309" n="3"/>
+
+      but that of the first sweet daughter of the Confederacy our peerless Winnie Davis.</p>
+        <p xml:id="lkr_veterans_13011">Virginia has immortalized the virtues of this lovely olive branch
+
+      of peace in a most exquisite <del rend="overstrike">piece</del><add place="supralinear"> creation</add> of sculpture, but to Georgia credit
+
+      is due for that <hi rend="underline">living</hi> monument to her memory which is to scatter seed throughout all coming years.  On our own soil, and by the efforts of the Daughters of the Confederacy, is erected that fair type of colonial elegance, the Winnie Davis Memorial at Athens, for the education of the descendants of the Confederate veteran.  Even if no other work had been done the past year, this alone in all of its beauty and significance is a glory to Georgia.</p>
+        <p xml:id="lkr_veterans_13012">"Glory Stands Beside Our Grief" is the motto of the Daughters of Maryland, and they have just unveiled one of the most beautiful Confederate monuments in the South, defying the world to produce anything superior in beauty and conception, design and execution.</p>
+        <p xml:id="lkr_veterans_13013">The Pennsylvania Chapter having been denied the privilege of
+
+      erecting a monument to their soldiers in Philadelphia, "The City of <hi rend="underline">brotherly</hi> love," had a shaft reared at Hollywood, determined that their dead heroes should be honored <hi rend="underline">somewhere</hi>.</p>
+        <pb facs="lkr_veterans004" xml:id="lkr_veterans_13014" n="4"/>
+        <p xml:id="lkr_veterans_13015">Can we women ever forget?  No, as long as a Southern woman can speak, she will tell the old, old story of our loved ones on the battle field, of their chivalry, their knightly daring, and their loyalty.  Upholding the Stars and Bars in one hand, the sword in the other, they marched to the fray with a prayer on the lip, and the image of their sweetheart, mother and wife indelibly engraved on the faithful heart.</p>
+        <p xml:id="lkr_veterans_13016">The tocsin of war we hope will never more be heard in these United States, but when the truth of history is brought to light may all the world recognize the greatness of the southern soldier as it deserves.  May our glorious country, north, south, east and west become "one in thought, one in spirit, and one in all the elements that go to make a grand and glorious nation".</p>
+        <p xml:id="lkr_veterans_13017">Every year the ranks of our gallant soldiers are thinning out, but
+
+      to show our reverence for those who remain we desire to present them
+
+      with a cross of honor.  Would it were in our power to stud it with
+
+      diamonds, encircle it with purest gold and entwine the Confederate
+
+      flag about the cross, but this is only a symbol of our esteem and
+
+      appreciation, and we hope will be cherished as a souvenir of
+
+      regard.</p>
+        
+          <floatingText xml:id="lkr_veterans_13020">
+            <body xml:id="lkr_veterans_13019">
+              <div xml:id="lkr_veterans_13018" type="poem">
+                <lg type="stanza">
+                  <l>"Then wear it!  although the cause</l>
+                  <l>It represents has perished,</l>
+                  <l>Tis meet that in a cross</l>
+                  <l>Its memory should be cherished".</l>
+                </lg>
+              </div>
+            </body>
+          </floatingText>
+        
+        <pb facs="lkr_veterans005" xml:id="lkr_veterans_13021" n="5"/>
+        <p xml:id="lkr_veterans_13022">All honor then to each and every soldier who fought for their country under their flag!</p>
+      
+          <floatingText xml:id="lkr_veterans_13025">
+            <body xml:id="lkr_veterans_13024">
+              <div xml:id="lkr_veterans_13023" type="poem">
+                <lg type="couplet">
+                  <l>Ah! neath its folds brave men moved on</l>
+                  <l>Till strength, and hope and life were gone!</l>
+                </lg>
+              </div>
+            </body>
+          </floatingText>
+        
+        <p xml:id="lkr_veterans_13026">We meet then today to lay upon their resting places the first sweet offerings of spring, and like vestal virgins to kindle anew the light of patriotism and keep burning in the heart.</p>
+        <p xml:id="lkr_veterans_13027">And while we place garlands of roses over departed heroes, it is a pleasant task to honor our living soldiers with an emblem of esteem, to prove our appreciation of their faithfulness in the service of their country.  It is only a simple gift, but expresses much, a woman's remembrance of the times that tried men's souls, and of her own devotion to the brave and daring.</p>
+        
+          <floatingText xml:id="lkr_veterans_13030">
+            <body xml:id="lkr_veterans_13029">
+              <div xml:id="lkr_veterans_13028" type="poem">
+                <lg type="stanza">
+                  <l>Emblem of man's strong protection</l>
+                  <l>Woman's faith and kind affection</l>
+                  <l>Loyalty to home and section</l>
+                  <l>Duty nobly, bravely done.</l>
+                </lg>
+                <lg type="stanza">
+                  <l>Cross of Honor, proudly bear it </l>
+                  <l>Faithfully, nobly, bravely wear it</l>
+                  <l>Heart's with trusted honor spare it</l>
+                  <l>From reproach and guilty stain.</l>
+                </lg>
+              </div>
+            </body>
+          </floatingText>
+        
+      </div>
+    </body>
+    <pb facs="lkr_veterans006" xml:id="lkr_veterans_13033" n="[6]"/>
+    <back xml:id="lkr_veterans_13038">
+      <div xml:id="lkr_veterans_13037">
+        <head>Memorial Address</head>
+        <byline>by Mrs Loula Kendall Rogers</byline>
+        <dateline> April 26, 1904</dateline>
+        <p xml:id="lkr_veterans_13034">Honoring Our<lb/>
+
+      Veterans with<lb/>
+
+      the Cross of Honor</p>
+        <pb facs="lkr_veterans007" xml:id="lkr_veterans_13035" n="[7]"/>
+        <p xml:id="lkr_veterans_13036">Presenting Crosses,<lb/>
+
+      Memorial Day</p>
+      </div>
+    </back>
+  </text>
+</TEI>

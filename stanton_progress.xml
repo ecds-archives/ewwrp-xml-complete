@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stanton_progress_13020">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Progress of the American Woman, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Stanton, Elizabeth Cady, 1815-1902</reg><orig>Elizabeth Cady Stanton</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>15kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="stanton_progress_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Emory Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17f5j</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Stanton, Elizabeth Cady. Progress of the American Woman. <publisher>North American Review</publisher> 529 (December <date>1900</date>): 904-7.</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="stanton_progress_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Women's Advocacy</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Essay</rs>
+        <rs type="geography">United States</rs>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Women authors, American--20th Century.</item>
+            <item>Women's rights--United States--History--20th Century.</item>
+            <item>Women--United States--Social conditions--20th Century.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2000</date><label>Staff</label><name>Anna Engle</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="stanton_progress_13019">
+    <body xml:id="stanton_progress_13018">
+      <div xml:id="stanton_progress_001" type="Essay">
+        <head>Progress of the American Woman</head>
+        <p xml:id="stanton_progress_1303">An article, by Flora McDonald Thompson, entitled "Retrogression of the American Woman," which was published in the November number of the REVIEW, contains many startling assertions, which, if true, would be the despair of philosophers. The title itself contradicts the facts of the last half century.</p>
+        <p xml:id="stanton_progress_1304">When machinery entered the home, to relieve woman's hands of the multiplicity of her labors, a new walk in life became inevitable for her. When our grandmothers made butter and cheese, dipped candles, dried and preserved fruits and vegetables, spun yarn, knit stockings, wove the family clothing, did all the mending of garments, the laundry work, cooking, patchwork and quilting, planting and weeding of gardens, and all the house-cleaning, they were fully occupied. But when, in course of time, all this was done by machinery, their hands were empty, and they were driven outside the home for occupation. If every woman had been sure of a strong right arm on which to lean until safe "on the other side of Jordan," she might have rested, content to do nothing but bask in the smiles of her husband, and recite Mother Goose melodies to her children.</p>
+        <p xml:id="stanton_progress_1306">On that theory of woman's position, men gradually took possession of all her employments. They are now the cooks on ocean steamers, on railroads, in all hotels, in fashionable homes and places of resort; they are at the head of laundries, bakeries and mercantile establishments, where tailor-made suits and hats are manufactured for women. Thus, women have been compelled to enter the factories, trades, and professions to provide their own clothes, food and shelter; and, to prepare themselves for the emergencies of life, they have made their way into the schools and colleges, the hospitals, courts, pulpits, editorial chairs, and
+<pb xml:id="stanton_progress_1305" n="905 PROGRESS OF THE AMERICAN WOMAN"/>
+they are at work throughout the whole field of literature, art, science and government. We should hardly say that the condition of an intelligent human being was retrogressive, in teaching mathematics instead of making marmalade; in instructing others in philosophy, instead of making pumpkin pie; in studying art, instead of drying apples. When hundreds of girls are graduating from our colleges with high honors every year, when they are interested in all the reforms of their day and generation, superintending kindergarten schools, laboring to secure more merciful treatment for criminals in all our jails and prisons, better sanitary conditions for our homes, streets and public buildings, the abolition of the gallows and whipping-post, the settlement of all national disputes by arbitration instead of war, we must admit that woman's moral influence is greater than it has ever been before at any time in the course of human development. Her moral power, in working side by side with man, is greatly to the advantage of both, as the co-education of the sexes has abundantly proved. When the sexes reach a perfect equilibrium we shall have higher conditions in the state, the church, and the home.</p>
+        <p xml:id="stanton_progress_1307">Matthew Arnold says: "The first desire of every cultivated mind is to take part in the great work of government." That woman now makes this demand is a crowning evidence of her higher development. For a true civilization, the masculine and feminine elements in humanity must be in exact equilibrium, just as the centripetal and centrifugal forces are in the material world. If it were possible to suspend either of these great forces for five minutes, we should have material chaos,--just what we have in the moral world to-day, because of the undue depression of the feminine element.</p>
+        <p xml:id="stanton_progress_1308">Tennyson, with prophetic vision, forecasts the true relations between man and woman in all the walks of life. He says:</p>
+        <lg type="stanza">
+          <l n="1">"Everywhere</l>
+          <l>Two heads in council, two beside the hearth,</l>
+          <l>Two in the tangled business of the world.</l>
+          <l>Two plummets dropped for one to sound the abyss</l>
+          <l>Of science and the secrets of the mind."</l>
+        </lg>
+        <p xml:id="stanton_progress_13010">The first step to be taken in the effort to elevate home life is to make provision for the broadest possible education of woman. Mrs. Thompson attributes the increasing number of divorces to the moral degeneracy of woman; whereas it is the result of higher
+<pb xml:id="stanton_progress_1309" n="906 THE NORTH AMERICAN REVIEW"/>
+moral perceptions as to the mother's responsibilities to the race. Woman has not heard in vain the warning voice of the prophets, ringing down through the centuries: "The sins of the fathers shall be visited upon the children unto the third and fourth generations." The more woman appreciates the influences in prenatal life, her power in moulding [sic] the race, and the necessity for a pure, exalted fatherhood, the more divorces we shall have, until girls enter this relation with greater care and wisdom. When Naquet's divorce bill passed the French Chamber of Deputies, there were three thousand divorces asked for the first year, and most of the applicants were women. The majority of divorces in this country are also applied for by women. With higher intelligence woman has learned the causes that produce idiots, lunatics, criminals, degenerates of all kinds and degrees, and she is no longer a willing partner to the perpetuation of disgrace and misery.</p>
+        <p xml:id="stanton_progress_13011">The writer of the article on the "Retrogression of the American Woman" makes one very puzzling assertion, that the present superiority of the sex immortalizes woman, but demoralizes man. Does she mean that a liberal education can only be acquired at the expense of one's morals? "The American woman to-day," says the writer, "appears to be the fatal symptom of a mortally sick nation." This is a very pessimistic view to take of our Republic, with its government, religion, and social life, and its people in the full enjoyment of a degree of liberty never known in any nation before! In spite of this alleged wholesale demoralization of man, we have great statesmen, bishops, judges, philosophers, scientists, artists, authors, orators and inventors, who surprise us with new discoveries day by day, giving the mothers of the Republic abundant reason to be proud of their sons.</p>
+        <p xml:id="stanton_progress_13013">Virtue and subjection, with this writer, seem to be synonymous terms. Did our grandmother at the spinning wheel a higher position in the scale of being than Maria Mitchell, Professor of Astronomy at Vassar College? Did the farmer's wife at the washtub do a greater work for our country than the Widow Green, who invented the cotton-gin? Could Margaret Fuller, Harriet Beecher Stowe, Frances E. Willard, Mary Lyon, Clara Barton have done a better work churning butter or weeding their onion beds on their respective farms than the grand work they did in literature, education and reform? Could Fannie Kemble, Ellen Tree, Charlotte Cushman or Ellen Terry (if we may men-
+<pb xml:id="stanton_progress_13012" n="907 PROGRESS OF THE AMERICAN WOMAN"/>
+tion English as well as American women) have contributed more to the pleasure of their day and generation had they spent their lives at the spinning-wheel? No! Progress is the law, and the higher development of woman is one of the important steps that have been achieved.</p>
+        <p xml:id="stanton_progress_13014">There are great moral laws as fixed and universal as the laws of the material world, and there is a moral as well as material development going on all along the line, bringing the nations of the earth to a higher point of civilization. True, as the nations rise and fall, their great works seem scattered to the winds. For example, Greek art, it is said, has never been equalled [sic], but we would not change our ideas of human liberty, our comforts and conveniences in life, our wonderful inventions and scientific discoveries, the telegraph, telephone, our modes of travel by sea, land and in the air, the general education and demand for better conditions and higher wages by the laboring masses, the abolition of slavery, rapid improvement in woman's condition, the emancipation of large classes from the religious superstitions of the past, for all the wonderful productions of beauty at the very highest period of Greek art. In place of witchcraft, astrology and fortune-telling, we now have phrenology, astronomy and physiology; instead of famine, leprosy and plague, we owe to medical science a knowledge of sanitary laws; instead of an angry God, punishing us for our sins, we know that the evils that surround us are the result of our own ignorance of Nature's laws. He who denies that progress is the law, in both the moral and material world, must be blind to the facts of history, and to what is passing before his eyes in his own day and generation.</p>
+        <p xml:id="stanton_progress_13015">The moral status of woman depends or her personal independence and capacity for self-support. "Give a man a right over my subsistence," says Alexander Hamilton, "and he holds a power over my whole moral being."</p>
+        <p xml:id="stanton_progress_13016">De Tocqueville cannot be impressed into the service of the writer, nor fairly quoted, even inferentially, as saying that the moral status of the American woman in 1848, owing to certain causes at work, was higher than it would be in 1900. Progress is the law, and woman, the greatest factor in civilization, must lead the van. Whatever degrades man of necessity degrades woman; whatever elevates woman of necessity elevates man.</p>
+        <p xml:id="stanton_progress_13017">ELIZABETH CADY STANTON</p>
+      </div>
+    </body>
+  </text>
+</TEI>

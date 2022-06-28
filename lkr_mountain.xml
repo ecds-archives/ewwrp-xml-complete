@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lkr_mountain_1309">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>The Stone Mountain of Georgia in the Long Ago.</title>
+        <author>
+          <name type="person"><choice><reg>Rogers, Loula Kendall, 1838-1931</reg><orig>Mrs. Loula Kendall Rogers</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10k</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="lkr_mountain_1301">2008 Emory University. Permission is granted to
+
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>2008</date><idno type="ark">http://pid.emory.edu/ark:/25593/17ddd</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Rogers, Loula Kendall, "The Stone Mountain of
+
+	    Georgia in the Long Ago," 10 September, 1858. Loula
+
+	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
+
+	   Library, Emory University</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="lkr_mountain_1302">This digital text is produced from the Loula Kendall
+
+	   Rogers Papers, generously loaned to the Beck Center by    	
+
+The Manuscript, Archives, and Rare Book Library at Emory University.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="language">American</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Poetry</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Stone Mountain Memorial State Park (Ga.) History.</item>
+            <item>Women authors, American--19th Century</item>
+            <item>Women authors, American--20th Century</item>
+            <item>United States, Southern</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2008</date><label>Woodruff Graduate Fellow</label><name>Stewart Varner</name>XML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="lkr_mountain_1308">
+    <body xml:id="lkr_mountain_1307">
+      <pb facs="lkr_mountain001" xml:id="lkr_mountain_1303" n="[1]"/>
+      <div xml:id="lkr_mountain_1306" type="poem">
+        <head>
+          <add>This is the poem that was written after visiting the Mountain in 1858</add>
+          <lb/>
+          <seg type="short-title">The Stone Mountain Of Georgia in the Long Ago.</seg>
+        </head>
+        <p xml:id="lkr_mountain_1304">One of the Wonders of the World.  Not a mass of loose<lb/>
+
+      rocks, but <hi rend="underline">one</hi> mighty solid stone that lifts its regal<lb/>
+
+      crest far above all the surrounding country.</p>
+        <lg type="stanza">
+          <l>One pleasant day when Autumn's Queen</l>
+          <l>Had donned her vestal garments bright,</l>
+          <l>And Nature wore a smile serene</l>
+          <l>Of tranquil pride in her delight,</l>
+          <l>A sylvan Spirit whispered low</l>
+          <l>Of beautiful flowers and woodland dells,</l>
+          <l>Where never ceasing waters flow,</l>
+          <l>And Oreander wander from their cells.</l>
+        </lg>
+        <lg type="stanza">
+          <l>Her voice still lingered on the air</l>
+          <l>A light illumed a towering Mount,</l>
+          <l>And on we followed free from care</l>
+          <l>Till the echo led us to a fount</l>
+          <l>Of crystal water pure and clear,</l>
+          <l>Where Oak and Ash in beauty great</l>
+          <l>Near mossy rocks where every tree</l>
+          <l>Was spangled with the glittering dew.</l>
+        </lg>
+        <lg type="stanza">
+          <l>Ah, here then was the Sylvan Queen</l>
+          <l>Who called us thither!  My young heart</l>
+          <l>Thrilled Wildly o'er the inspiring scene </l>
+          <l>Thus woven round me to impart</l>
+          <pb facs="lkr_mountain002" xml:id="lkr_mountain_1305" n="2"/>
+          <l>Enchantment never dreamed before,</l>
+          <l>For high above us in the air</l>
+          <l>Through rift of chord that floated o'er</l>
+          <l>Was God's own mighty Presence there!</l>
+        </lg>
+        <lg type="stanza">
+          <l>And Oh, the grandeur of scenes below</l>
+          <l>As spreading fields and hill and vale</l>
+          <l>Grew brighter when the sunset glow</l>
+          <l>Crept o'er each mead and flowery dale!</l>
+          <l>Old Kennesaw in azure hue</l>
+          <l>Saluted Yonah from afar,</l>
+          <l>And Chattahoochee pledged anew</l>
+          <l>Allegiance to the Evening Star.</l>
+        </lg>
+        <lg type="stanza">
+          <l>O here was beauty in a dress</l>
+          <l>Of brilliancy and grandeur rare,</l>
+          <l>Which gave my soul the power to bless</l>
+          <l>The power of Him who placed it there!</l>
+          <l>And Memory saved without alloy,</l>
+          <l>Through weal or woe the future bring,</l>
+          <l>Shall still recall my girlhood joy</l>
+          <l>When first I saw this Mountain King</l>
+        </lg>
+        <byline>Loula W. Kendall</byline>
+        <dateline>Atlanta, Ga<lb/>
+
+      September 10, 1858.</dateline>
+      </div>
+    </body>
+  </text>
+</TEI>

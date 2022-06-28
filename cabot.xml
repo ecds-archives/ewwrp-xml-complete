@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cabot_13015">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Letter to a Friend, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Cabot, Susan C. (Susan Copley), 1794-1861</reg><orig>Susan C. Cabot</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="cabot_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to
+the work claimed by Emory University for non-profit educational purposes, provided 
+this header is included in its entirety.  For inquiries about commercial uses, contact
+either: Women Writers Resource Project or Lewis H. Beck Center for Electronic
+collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17b57</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Susan C. Cabot.  Letter to a Friend.  <publisher>The Liberty Bell</publisher>.  Boston: Massachusetts Anti-Slavery Fair, <date>1844</date>.  American Periodical Series 1800-1850 microfilm.  Volumes 1-13 (1839-52) reel 491.</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="cabot_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Abolition, Freedom, and Rights</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Letter</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Women authors, American--19th Century.</item>
+            <item>Women abolitionists--Massachusetts--Boston.</item>
+            <item>Slavery and the Church--United States.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1997</date><label>Staff</label><name>Scott Ellis</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck
+	    Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="cabot_13014">
+    <body xml:id="cabot_13013">
+      <div xml:id="cabot_001" type="Letter">
+        <head>LETTER TO A FRIEND.</head>
+        <p xml:id="cabot_1304">I CANNOT feel satisfied without having a few more words with you upon the subject we were discussing last evening. You said, in reply to some of the remarks I made upon the necessity of our doing all we could for the slaves, that you found so much evil around you to overcome, so much care to be bestowed upon those nearest to you, that you had no time or thought to bestow upon the slaves; and then you cited injustice and wrong-doing towards those, who, while they were not called slaves, were yet treated as badly by those who thought, because they paid money for their services, that they had a right to be as selfish and inhuman in their requirements of them as their bad pas-
+<pb xml:id="cabot_1303" n="101"/>
+sions might dictate. No one can say or feel too much for these wrongs, (done by Christians) and most heartily do I sympathise with your strong indignation upon the subject. But should this sympathy with one source of suffering shut the heart against other sources, or cancel its obligations to extend its sympathies and keep up the sacred fire which burns for oppressed humanity?</p>
+        <p xml:id="cabot_1306">How can it be that you, breathing the air of freedom; at liberty to go on your errands of mercy; to say, 'I am the free child of God, and him will I serve; there is no one to make me afraid; I have nothing to fear but my own bad passions; no chains but those I fasten upon myself; '-how is it that you can say you have not time to feel for all that suffer, but above all for those in bondage ? The heart does not ask for time to love; in its infinite capacity, it feels no limits. No-I do not think this is the difficulty; for I have known those whose daily
+<pb xml:id="cabot_1305" n="102"/>
+and hourly life seemed one act of Christian devotion to the wants and rights of those nearest, show such a sympathy and zeal for those who were far remote, that the heart seemed to return with redoubled tenderness and strength, as if it had gained new convictions and new energies in proportion to the number of human souls it had embraced.</p>
+        <p xml:id="cabot_1308">There is one lesson we all must learn, and that is, that the house that happens to be over our own heads, or the neighborhood we happen to live in, does not contain souls more precious to God than any other souls he has formed; that his eye is not dazzled by the ease and elegance which excite our self-complacency; that the humble prayer of the slave ascends as freely to him as do the petitions of those who lie upon beds of down. This, perhaps, we all acknowledge with the lips, but do we take the fact within our hearts, and do we let it remain there long enough to come out a
+<pb xml:id="cabot_1307" n="103"/>
+living reality; to become a part of our spiritual being? This, doubtless, is a hard lesson; it comes across all the prejudices and associations that have grown up with us from our earliest infancy; for we come into this world taking possession, and are received as if it was made only for ourselves; and seldom are we taught otherwise, except by the passions of those, who, having the same convictions with ourselves, dispute the right with us; so we gradually take root in this selfish soil, and look upon those who have not actually come in contact with us, but as trees walking;-and so do they remain to us till our inward eye is open, and we learn that all are equal in the sight of God, and all are recreant to his divine law, till they have thrown off the network of selfishness, and come out free beings into the upper air, where with clear vision they can look abroad and ask, 'What shall we do to entitle ourselves to the inheritance which opens itself upon our enlarged vision ?'</p>
+        <pb xml:id="cabot_1309" n="104"/>
+        <p xml:id="cabot_13010">We must not do God's work by halves. If it is right to lessen the burthen we do see, it is also right to do what we can to lessen that which we do not see. The burthen is just as heavy, and oh! how much heavier, that has no human sympathizing eye to pity it.</p>
+        <p xml:id="cabot_13012">Let me make one more remark, then I have done. Is there not great danger, that, with all our convictions and acknowledgements to the contrary, the covering that God has been pleased to put upon the negro hides from our faithless hearts the truth that he is as one of us? And does not that make us more busy in our home charities, which have but one complexion, than we otherwise should be, when called upon to help, those who are indeed distant? If our slaves had our skins, would it be so difficult to find time to think about them? I ask these questions without fear of giving offence, for I know your benevolence, how wide it is. I feel sure that if I have touched
+<pb xml:id="cabot_13011" n="105"/>
+upon a tender place, you will courageously touch it again, and ascertain whether there be any real unsoundness there; and, cost what it may, will take the necessary remedies for restoring health to the sick part. After this, I say nothing in extenuation of my frankness.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="laflesche_bright_13014">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Bright Eyes, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>La Flesche, Susette</reg><orig>Susette La Flesche (Bright Eyes)</orig></choice></name>         
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent/>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="laflesche_bright_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Emory Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17cjv</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>La Flesche, Susette (Bright Eyes). "Bright Eyes." <publisher>Council Fire</publisher> 4 (December <date>1881</date>): 187-8.</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="laflesche_bright_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Native American</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Native American</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Speech</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Women authors, American--19th Century.</item>
+            <item>Indians of North America--Government relations--19th Century--History--Sources.</item>
+            <item>Indian reservations--United States--19th Century.</item>
+            <item>Indians, Treatment of--United States--19th Century.</item>
+            <item>Native Americans.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1999</date><label>Staff</label><name>Anna Engle</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck
+	    Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="laflesche_bright_13013">
+    <body xml:id="laflesche_bright_13012">
+      <div xml:id="laflesche_bright_001" type="Speech">
+        <head>"Bright Eyes"</head>
+        <p xml:id="laflesche_bright_1303">The chairman of the Board of Indian Commissioners says: "Reservations are used for Indians very much as nurseries are used for children, as safe inclosures [sic] for the weak and defenseless." Does he call them safe inclosures [sic] because in them the Indians are powerless to help themselves when robbed? I know that hundreds of horses have been stolen from my tribe, the Omahas, and they cannot do a single thing to recover their property, punish the thieves or stop the robbery. A horse was stolen from my father last spring. He knows who stole the horse, and he knows the white man who has the horse now. He asked the agent to help him get it back. The agent was as powerless as he was, and told me that the best way to do would be for my father to steal it back. Two Crows, one of the most intelligent men I ever knew whether white or red, and who has been the lifetime friend of our family, has had stolen from him during the last three years, fourteen working horses. He said that as fast as he could collect money enough together to buy new ones to work his farm with they were stolen from him. (Why don't the Indian become civilized when he has such a safe inclosure [sic] provided for him?) I once said to him and several others when they woke up and found several of their horses gone, "Why don't you pursue them, fight them, and get your horses back? That is the way the white people do." He said: "Because we have made a treaty of peace with the United States, and if we did that they would construe it into a declaration of war, and treat us accordingly. Because they do wrong is no reason why we should." The Sioux tribe, the wildest and most war-like of the Indians, have had above a thousand horses stolen from them the past year. When they, instead of going to war, had recourse to the courts, they were refused the protection of the law. When General Crook stood by and saw the white men selling the ponies which they had stolen from the Indians he could do nothing to stop it, although he tried. As to our lives being protected, a white man can kill an Indian any time and they are powerless to redress the wrong. If they retaliate and kill a white man in revenge for the deed, the troops are sent and war made on the tribe.</p>
+        <p xml:id="laflesche_bright_1304">If the Indians refuse to obey an agent, he can, and has again and again sent an order to the department for troops to bring the rebellious men into subjection to his will. Who gave him the right to make them obey him? Did our Creator, who made us all, intend that men created in his own image should be ruled by another set of his creatures? I think not. All history shows that among the myriads of men who have lived since the creation a few, only a few, have had strength enough to withstand the temptation of abusing unlimited power when placed in their hands. As to the traders-just think of eleven hundred people being compelled by law to buy of and sell to only one man. It is a fine of a $1,000 dollars [sic] and six months' imprisonment for a white man to buy of or sell to an Indian. How can the Indian grow rich when he is compelled to sell all his wheat to a trader at forty cents a bushel, when wheat buyers outside of a reserve are willing to pay ninety cents a bushel; and the trader does not pay for our wheat or corn in money, but in calico or whatever else he had in his store. It has been asked, "Shall we amend the Constitution so as to admit them all to citizenship?" I do not think the Constitution needs any amendment, for it says: "All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and the States wherein they reside? [sic]" And section 1977 of the Revised Statutes of the United States says that "all persons within the jurisdiction of the United States shall have the same right in every State and Territory to make and enforce contracts, to sue and be parties, give evidence, and to the full and equal benefit of all laws and proceedings for the security of persons and property, as enjoyed by white citizens."</p>
+        <p xml:id="laflesche_bright_1305">The President of the Board of Indian Commissioners says: "If in the common acceptation of the term we recognize and treat them all as men, without reference to their civilization, then they will be no longer wards. If not wards, then no longer in nurseries or on reservations; and if not there, then where?" He acknowledges by this that they have not been treated as men, and desires the continuance of this policy. It is because they have not been treated as men that all these troubles have arisen. He wants them to continue in nurseries. I would like to have him ask the men of Boston if they would like to be placed in nurseries? I believe they would fight to get out of the nurseries, as the Indians have tried to do. He says again: "I see no help for the Indian as a race by decisions of courts." I know that for the first time in the history of this country justice has been accorded to an Indian, and that through what? Through a court at Omaha; and blessings on Judge Dundy's name because he dared, in defiance of a policy pursued for a hundred years, to throw over the Indian the protection of his court.</p>
+        <p xml:id="laflesche_bright_1306"/>
+        <p xml:id="laflesche_bright_1307"/>
+        <p xml:id="laflesche_bright_1309">We give above an extract from a speech made by Bright Eyes (Mrs. Tibbles) in Boston some time ago. It is strong word-painting, and is worthy of consideration by all who would understand the condition of the Indian who is struggling to be a man. We are in sympathy with all such and with the sentiments of Bright Eyes in the main, but we do not believe in abandoning the "reservation system" in all cases. Badly as it seems sometimes, it is better than turning the Indian out to battle unaided by the Government against the sharks who lay in wait for him at every turn. We have seen that plan tried, and we remember the results with shame for the white man and commiseration for the Indian. One instance will demonstrate the point we are making. In 1856 there were in the neighborhood of Yreka, Cal., two thousand Indians. The Government sought to remove them to a reservation. They claimed the right to live and to do as they pleased. They were encouraged by the citizens and miners to remain, because they were a "convenience to both." These Indians were never taken to a reservation. In
+<pb xml:id="laflesche_bright_1308" n="188"/>
+1870 twenty-two was all that survived, and these, with few exceptions, were diseased half-breeds, whose fathers denied them. Of course there are exceptional cases where Indians have taken place, among white men and become worthy citizens, but they have been exceptions to the rule. On the other hand, we believe as fast as the Indian comes up to the stature of manhood, and elects to take his chances among men, that all such should be provided with a home and recognized as citizens in common with all other men.</p>
+        <p xml:id="laflesche_bright_13010">Observation teaches that no general law can be made for the management of the Indian. Law that is desirable for the Poncas, may not be adapted to the Apaches. We see no way to establish laws for these people which are universal in operation, without doing injustice to some and being destructive to others. The proper thing to do is to clothe every Indian with citizenship as soon as he desires it, after being made to understand the responsibilities he is assuming. To abandon the reservation system means to abandon the Indian to the tender mercies of the avaricious white man. It means to say that the Government will not school him and protect him while he is being taught civilization. No; no; not yet are we ready to say to the white man, "There is your game; it is yours if you win it," for that would be the practical meaning and result.</p>
+        <p xml:id="laflesche_bright_13011">We are doing grandly at present in comparison with the past, and year by year the mind and heart of the white man is being awakened to duty toward the Indian. A few years more of steady progress and the question of the manhood of the Red man will be settled beyond dispute and then he will barter and trade, vote and pay taxes, and in every respect be "a man among men:" but let the training schools go on under the protection and support of the Government of the United States one decade and the problem will have been practically settled.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

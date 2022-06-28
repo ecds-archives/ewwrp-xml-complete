@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lkr_julia_1308">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Little Julia's Mission</title>
+        <author>
+          <name type="person"><choice><reg>Rogers, Loula Kendall, 1838-1931</reg><orig>Mrs. Loula Kendall Rogers</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10k</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="lkr_julia_1301">2008 Emory University. Permission is granted to
+
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>2008</date><idno type="ark">http://pid.emory.edu/ark:/25593/17d8v</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Rogers, Loula Kendall, "Little Julia's Mission" Loula
+
+	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
+
+	   Library, Emory University</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="lkr_julia_1302">This digital text is produced from the Loula Kendall
+
+	   Rogers Papers, generously loaned to the Beck Center by    	
+
+The Manuscript, Archives, and Rare Book Library at Emory University.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="language">American</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Poetry</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Women authors, American--19th Century</item>
+            <item>Women authors, American--20th Century</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2008</date><label>Woodruff Graduate Fellow</label><name>Stewart Varner</name>XML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="lkr_julia_1307">
+    <body xml:id="lkr_julia_1306">
+      <pb facs="lkr_julia001" xml:id="lkr_julia_1303" n="[1]"/>
+      <div xml:id="lkr_julia_1305" type="poem">
+        <head rend="bold">Little julia's Mission.</head>
+        <p xml:id="lkr_julia_1304">Affectionately inscribed to the memory of little Julia Wright,
+
+      infant daughter of my brother, Dr. T.R. Kendall, pastor of Trinity
+
+      church, Atlanta.  The little motherless darling was called by the
+
+      church "Our Baby."</p>
+        <lg type="stanza">
+          <l>She came with cold December's snow</l>
+          <l>On angle pinions shining bright,</l>
+          <l>A gleam of Heaven's morning ray</l>
+          <l rend="indent">illuminating our hearts with light.</l>
+          <l>Earth fairer, brighter, warmer grew -</l>
+          <l rend="indent">And snow white lilies reared their crest,</l>
+          <l>The robin sang a sweeter lay,</l>
+          <l rend="indent">When Baby came awhile to rest</l>
+        </lg>
+        <lg type="stanza">
+          <l>She whispered low a message sweet</l>
+          <l rend="indent">From Him who sent the gift of love,</l>
+          <l>Another precious link between</l>
+          <l rend="indent">This fleeting life and that above,</l>
+          <l>A few brief hours passed in joy -</l>
+          <l rend="indent">Then swiftly o'er the starry skies</l>
+          <l>The messenger returned , and bore</l>
+          <l rend="indent">The mother home to Paradise.</l>
+        </lg>
+        <lg type="stanza">
+          <l>Ah, sudden darkness shrouded earth</l>
+          <l rend="indent">As crushed - we passed beneath the rod,</l>
+          <l>Our bleeding hearts could only hear</l>
+          <l rend="indent">"Be still - and know that I am God."</l>
+          <l>"Thy will be done!" The answer low</l>
+          <l rend="indent">From broken-hearted mourner came.</l>
+          <l>Through chill the hearth, its sunlight fled,</l>
+          <l rend="indent">Still blessed by Thy holy name.</l>
+        </lg>
+        <lg type="stanza">
+          <l>For Thou hast left a precious charge,</l>
+          <l rend="indent">A soul immortal to our care,</l>
+          <l>A pure, sweet gem from Eden's bowers</l>
+          <l rend="indent">To tell us of the glory there.</l>
+          <l>Ah, how we loved her!  Day by day</l>
+          <l rend="indent">As some new charm shone in her eye,</l>
+          <l>We held her in a close embrace</l>
+          <l rend="indent">Ne'er dreaming that she too must die.</l>
+        </lg>
+        <lg type="stanza">
+          <l>But e'n for her a message came,</l>
+          <l rend="indent">'Twas wafted on the summer breath,</l>
+          <l>And we again with heavy heart</l>
+          <l rend="indent">A treasure give to thee, O, Death!</l>
+          <l>A few short months our baby staid -</l>
+          <l rend="indent">Just long enough to win our love,</l>
+          <l>And then her little mission done</l>
+          <l rend="indent">She sought her mother up above.</l>
+        </lg>
+        <byline> - Loula Kendall Rogers<lb/>
+
+      Gordon Institute, Barnesville, Ga.</byline>
+      </div>
+    </body>
+  </text>
+</TEI>

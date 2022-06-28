@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="blake_ruler_13017">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Who Shall Be Ruler? an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Blake, Lillie Devereux, 1833-1913</reg><orig>Lillie Devereux Blake</orig></choice></name>
+          
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="blake_ruler_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Emory Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17b0j</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Blake, Lillie Devereux. Who Shall Be Ruler? <publisher>Revolution</publisher> 7.23 (June 28, <date>1871</date>)</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="blake_ruler_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Women's Advocacy</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Essay</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Women authors, American--19th Century.</item>
+            <item>Women--Social conditions--19th Century.</item>
+            <item>Women's rights--Economic aspects.</item>
+            <item>Economics.</item>
+            <item>Marriage.</item>
+            <item>Feminism.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2000</date><label>Staff</label><name>Anna Engle</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="blake_ruler_13016">
+    <body xml:id="blake_ruler_13015">
+      <div xml:id="blake_ruler_001" type="Essay">
+        <docAuthor>Lillie Devereux Blake</docAuthor>
+        <head>Who Shall Be Ruler?</head>
+        
+        <bibl><title>Revolution</title> 7.23 (June 28, 1871).</bibl>
+        <p xml:id="blake_ruler_1303">A vast amount is said and written on the situation of the two sexes in marriage, as to whether the man should be the absolute master and the woman the obedient slave; or whether each party to the marriage contract shall be quite independent, neither giving or exacting any submission to the will of the other. One set of people, the "old fogies" and fossils of the day, will maintain that implicit and unquestioning obedience is due from the wife to the husband, while another set, including "Young America" and the iconoclasts, uphold the idea that the wife ought to be allowed to wander at her own "sweet will," unquestioned and unrestrained by her husband.</p>
+        <p xml:id="blake_ruler_1304">Now there is one consideration which underlies all idea of subservience, and which is too often overlooked in all debate upon this subject, and that is, "Who holds the purse strings?"</p>
+        <p xml:id="blake_ruler_1305">If the man has all the money in his own hands, he clearly has the right to say how that money shall be spent; if he supports the family by his earnings, it is for him to say how the family shall live. No woman can complain of being badly treated because her husband will not consent to a style of living quite beyond his means; and what is more important to each woman's self-respect, no woman can be independent when she has not the money to support her in carrying out any plans she may form, without begging it from her husband.</p>
+        <p xml:id="blake_ruler_1306">There can be no question that man's first supremacy sprung from his greater strength which made him, by mere brute force, the absolute master of the woman, and also, in primitive states of society made him the hunter and fisher who won the food of the family. His superiority, first obtained by the strong arm, has been maintained by strong will, and man has, from the earliest ages, accepted the position of workers, and as reward, demanded the position of master. </p>
+        <p xml:id="blake_ruler_1307">Nor can any amount of mere protest on the part of women change this; they must, as individuals, acquiesce in a subordinate position whenever they are wholly dependent. But in this country large numbers of women are workers, earning their own living day by day, and they enjoy, or should enjoy a corresponding independence. The day is not far distant, I trust, when all American women, gentle as well as simple, will acknowledge the dignity of work, and see that their truest road to liberty is to earn money for themselves.</p>
+        <p xml:id="blake_ruler_1308">For it is quite amusing to see how the most determined old fogies will admit at once that no very great amount of obedience is due from a wife who is supporting the whole family, to a husband who is a good for nothing idler. We all of us have had our opinions with regard to the position of the husband of a boarding-house keeper; and would probably all agree as to which was the head of the family, the tidy, alert, perhaps somewhat sharp landlady, or the shambling, ill-conditioned man, whose very existence is a sort of mystery, and who is seen furtively lurking in dark corners of back entries by boarders who come home at unusual hours. I do not think St. Paul himself would order the woman to "be in subjection unto that husband."</p>
+        <p xml:id="blake_ruler_1309">Then again, we have seen the husbands of wealthy heiresses who had sold themselves for money as much as any woman ever did. I remember well one couple. The lady, a plump, good-looking matron of fifty at the time I refer to, the gentleman some years her junior, slender, elegant, with a thin, pale face and uncertain blue eyes; it was whispered that she doled him out so much money every week-for they resided in a state where her property remained hers after marriage, and I can recall the tone of her voice as she asked him once in my accidental hearing: "Mr. Cox, what have you done with that five dollars I gave you this morning?"</p>
+        <p xml:id="blake_ruler_13010">The poor man made some meek apology, such as a frightened wife might under similar circumstances, and I recollect, child as I was, feeling a sort of amused satisfaction in the thought that here was one man who must acknowledge "woman's rights."</p>
+        <p xml:id="blake_ruler_13011">This incident recalls to my mind the story recently told me by a Southern gentleman of how a man strove, in a measure, to avoid the humiliating consequences of a wealthy marriage. A certain Mr. Leaton married a rich widow named Asken, who carried on a large business in the name of her deceased husband, and insisted, before entering wedlock with Mr. Leaton, that he should assume this name. To this he consented; but persisted always after, in calling himself as before, Leaton, though he spelt his name Asken, alleging that this was his way of pronouncing that combination of letters.</p>
+        <p xml:id="blake_ruler_13012">Whether by this singular process of ratiocination he maintained any greater independence, I am unable to state.</p>
+        <p xml:id="blake_ruler_13013">Now that the opportunities of women in education and business are constantly extending, we may hope for a corresponding increase in the ranks of women who have that self-assertion which honest money earners deserve.</p>
+        <p xml:id="blake_ruler_13014">Beyond this right of dictation in money matters, there can be no talk of master or inferior in a truly harmonious marriage. Where love is "lord of all," both husband and wife will think more of making each other happy than of who shall be ruler.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stanton_states_13030">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Are Homogenous Divorce Laws in All the States Desirable? an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Stanton, Elizabeth Cady, 1815-1902</reg><orig>Elizabeth Cady Stanton</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>15kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="stanton_states_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Emory Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17f6p</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Stanton, Elizabeth Cady. Are Homogenous Divorce Laws in All the States Desirable? <publisher>North American Review</publisher> 520 (March <date>1900</date>): 405-9.</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="stanton_states_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Women's Advocacy</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Essay</rs>
+        <rs type="geography">United States</rs>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Women authors, American--20th Century.</item>
+            <item>Women's rights--United States--History--20th Century.</item>
+            <item>Divorce--United States--20th Century.</item>
+            <item>Divorce--Law and legislation.</item>
+            <item>Marriage law.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2000</date><label>Staff</label><name>Anna Engle</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="stanton_states_13029">
+    <body xml:id="stanton_states_13028">
+      <div xml:id="stanton_states_001" type="Essay">
+        <head>Are <seg type="short-title">Homogenous Divorce Laws</seg> in All the States Desirable?</head>
+        <p xml:id="stanton_states_1303">There has been much discussion of late in regard to the necessity for an entire revision of the laws on divorce. For this purpose the State proposes a committee of learned judges, the Church another of distinguished bishops, to frame a national law which shall be endorsed by both Church and State. Though women are as deeply interested as men in this question, there is no suggestion that women shall be represented on either committee. Hence the importance of some expressions of their opinions before any changes are made. As judges and bishops are proverbially conservative, their tendency would be to make the laws in the free States more restrictive than they now are, and thus render it more difficult for wives to escape from unhappy marriages.</p>
+        <p xml:id="stanton_states_1304">The States which have liberal divorce laws are to women what Canada was to the slaves before Emancipation. The applicants for divorce are chiefly women, as Naquet's bill, which passed the Chamber of Deputies of France a few years ago, abundantly proves. In the first year there were three thousand applications, the greater number being from women.</p>
+        <p xml:id="stanton_states_1305">Unhappy husbands have many ways of mitigating their miseries which are not open to wives, who are financial dependents and burdened with children. Husbands can leave the country and invest their property in foreign lands. Laws affect only those who respect and obey them. Laws made to restrain unprincipled men fall with crushing weight on women. A young woman with property of her own can now easily free herself from an unworthy husband by spending a year in a free State, and in due time she can marry again.</p>
+        <p xml:id="stanton_states_1307">Because an inexperienced girl has made a mistake, partly, in many cases, through the bad counsel of her advisers, shall she be
+<pb xml:id="stanton_states_1306" n="406 THE NORTH AMERICAN REVIEW"/>
+denied the right to marry again? We can trace the icy fingers of the Canon law in all our most sacred relations. Through the evil influences of that law, the Church holds the key to the situation, and is determined to keep it. At the recent Triennial Episcopal Convention held in Washington, D.C., bishops, with closed doors, discussed the questions of marriage and divorce <hi rend="italic">ad libitum</hi>, a large majority of the bishops being in favor of the most restrictive canons; and, though an auxiliary convention was held at the same time, composed of 1,500 women, members of the Episcopal Church, they had no part in the discussion, covering a dozen or more canon laws.</p>
+        <p xml:id="stanton_states_1308">A recent writer on this subject says:</p>
+        <p xml:id="stanton_states_1309">"There is no doubt that the sentiment in the Episcopal Church, at least among the clergy, is strongly in favor of the Church setting its face firmly against divorce. An evidence of this is the circulation of a petition to the convention requesting that it adopt some stringent rule for this purpose, which has already received the signatures of about two thousand of the clergy. The proposition to adopt a stringent canon received the undivided support of the High Church ministers, and finds many supporters in the Low Church."</p>
+        <p xml:id="stanton_states_13010">The question of marriage and divorce, and the attitude the Church should take toward divorced persons who wish to marry again, has been up before many General Conventions. The attitude of the Episcopal Church has always been strongly against divorce, and particularly against the marriage of divorced persons. The Catholic Church takes a still narrower ground, positively declining to recognize such an institution as divorce.</p>
+        <p xml:id="stanton_states_13012">As early as the year 1009, it was enacted by the Church authorities of England that a Christian should never marry a divorced woman. Down to 1857, it was necessary that a private act of Parliament should be passed in order that a divorce could be obtained. In 1857, the State took action looking toward the granting of divorces by the courts without the interposition of Parliament, but this action has not been sanctioned by the Church of England. Hence has arisen a peculiar state of affairs in England, which has led to considerable confusion. The Church forbids the marriage of either party, except of the innocent parties in cases where the cause is adultery. But as the State permits the marriage of divorced parties, the ministers of the Church of England were put in an awkward position. As ministers of the Church, they were forbidden to marry these persons, but as the Church is allied
+<pb xml:id="stanton_states_13011" n="407 ARE DIVORCE LAWS IN ALL STATES DESIRABLE?"/>
+to the State, and to a certain extent subject to it, a number of them believed it their civil duty to perform such marriages, and they performed them in violation of the canonical law. The agitation over this question has attracted a great deal of attention during the last few years, and is looked upon as being one of the most powerful causes which may lead to the disestablishment of the Church of England.</p>
+        <p xml:id="stanton_states_13013">Marriage should be regarded as a civil contract, entirely under the jurisdiction of the State. The less latitude the Church has in our temporal affairs, the better.</p>
+        <p xml:id="stanton_states_13014">Lord Brougham says:</p>
+        <p xml:id="stanton_states_13015">"Before women can have any justice by the laws of England, there must be a total reconstruction of the whole marriage system; for any attempt to amend it would prove useless. The great charter in establishing the supremacy of law over prerogative, provided only for justice between man and man; for women nothing was left but common law, accumulations and modifications of original Gothic and Roman heathenism, which no amount of filtration through ecclesiastical courts could change into Christian laws. They are declared unworthy of a Christian people by great jurists; still, they remain unchanged."</p>
+        <p xml:id="stanton_states_13016">There is a demand just now for an amendment to the United States Constitution that shall make the laws of marriage and divorce the same in all the States of the Union. As the suggestion comes uniformly from those who consider the present divorce laws too liberal, we may infer that the proposed national law is to place the whole question on the narrowest basis, rendering null and void the laws that have been passed in a broader spirit, according to the needs and experiences of certain sections of the sovereign people. And here let us bear in mind that the widest possible law would not make divorce obligatory on any one, while a restricted law, on the contrary, would compel many, who married, perhaps, under more liberal laws, to remain in uncongenial relations.</p>
+        <p xml:id="stanton_states_13018">As we are still in the experimental stage on this question, we are not qualified to make a law that would work satisfactorily over so vast an area as our boundaries now embrace. I see no evidence in what has been published on this question, of late, by statesmen, ecclesiasts, lawyers and judges, that any of them have thought sufficiently on the subject to prepare a well-digested code, or a comprehensive amendment to the National Constitution. Some view marriage as a civil contract, though not governed by the
+<pb xml:id="stanton_states_13017" n="408 THE NORTH AMERICAN REVIEW."/>
+laws of other contracts; some view it as a religious ordinance; a sacrament; some think it a relation to be regulated by the State, others by the Church, and still others think it should be left wholly to the individual. With this divergence of opinion among our leading minds, it is quite evident that we are not prepared for a national law.</p>
+        <p xml:id="stanton_states_13019">Local self-government more readily permits of experiments on mooted questions, which are the outcome of the needs and convictions of the community. The smaller the area over which legislation extends, the more pliable are the laws. By leaving the States free to experiment in their local affairs we can judge of the working of different laws under varying circumstances, and thus learn their comparative merits. The progress education has made in America is due to the fact that we have left our system of public instruction in the hands of local authorities. How different would be the solution of the great educational question of manual labor in the schools, if the matter had to be settled at Washington!</p>
+        <p xml:id="stanton_states_13020">From these considerations, our wisest course seems to be to leave these questions wholly to the civil rather than to the canon law, to the jurisdiction of the several States rather than to the nation.</p>
+        <p xml:id="stanton_states_13021">As many of our leading ecclesiastics and statesmen are discussing this question, it is surprising that women, who are equally happy or miserable in these relations, manifest so little interest in the pending proposition, and especially as it is not to their interest to have an amendment to the national Constitution establishing a uniform law. In making any contract, the parties are supposed to have an equal knowledge of the situation, and an equal voice in the agreement. This has never been the case with the contract of marriage. Women are, and always have been, totally ignorant of the provisions of the canon and civil laws, which men have made and administered, and then, to impress woman's religious nature with the sacredness of this one-sided contract, they claim that all these heterogeneous relations called marriage are made by God, appealing to that passage of Scripture, "What God hath joined together, let no man put asunder."</p>
+        <p xml:id="stanton_states_13023">Now, let me substitute the natural laws for God. When two beings contract, the State has the right to ask the question, Are the parties of proper age, and have they sufficient judgment to make so important a contract? And the State should have the
+<pb xml:id="stanton_states_13022" n="409 ARE DIVORCE LAWS IN ALL STATES DESIRABLE?"/>
+power to dissolve the contract if any incongruities arise, or any deception has been practiced, just as it has the power to cancel the purchase of a horse, if he is found to be blind in one eye, balks when he should go, or has a beautiful false tail, skillfully adjusted, which was the chief attraction to the purchaser.</p>
+        <p xml:id="stanton_states_13024">You must remember that the reading of the marriage service does not signify that God hath joined the couple together. That is not so. Only those marriages that are harmonious, where the parties are really companions for each other, are in the highest sense made by God. But what shall we say of that large class of men and women who marry for wealth, position, mere sensual gratification, without any real attraction or religious sense of loyalty toward one another. You might as well talk of the same code of regulations for honest, law-abiding citizens, and for criminals in our State prisons, as for these two classes. The former are a law to themselves; they need no iron chains to hold them together. The other class having no respect for law whatever, will defy all constitutional provisions. The time has come when the logic of facts is more conclusive than the deductions of theology.</p>
+        <p xml:id="stanton_states_13025">It is a principle of the common law of England that marriage is a civil contract, and the same law has been acknowledged by statutes in several of our American States; and in the absence of expressed statute to the contrary, the common law of England is deemed the common law of our country.</p>
+        <p xml:id="stanton_states_13026">Questions involved in marriage and divorce should be, in the churches, matters of doctrinal teaching and discipline only; and, after having discussed for centuries the question as to what the Bible teaches concerning divorce, without arriving at any settled conclusion, they should agree somewhat among themselves before they attempt to dictate State legislation on the subject. It simplifies this question to eliminate the pretensions of the Church and the Bible as to its regulation. As the Bible sanctions divorce and polygamy, in the practice of the chosen people, and is full of contradictions, and the canon law has been pliable in the hands of ecclesiastics, enforced or set aside at the behests of kings and nobles, it would simplify the discussion to confine it wholly to the civil law, regarding divorce as a State question.</p>
+        <p xml:id="stanton_states_13027">ELIZABETH CADY STANTON.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

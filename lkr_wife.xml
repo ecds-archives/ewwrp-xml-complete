@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lkr_wife_1308">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>What I Want My Wife to Be</title>
+        <author>
+          <name type="person"><choice><reg>Rogers, Loula Kendall, 1838-1931</reg><orig>Mrs. Loula Kendall Rogers</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10k</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="lkr_wife_1301">2008 Emory University. Permission is granted to
+
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>2008</date><idno type="ark">http://pid.emory.edu/ark:/25593/17dph</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Rogers, Loula Kendall, "What I Want My Wife to Be." Loula
+
+	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
+
+	   Library, Emory University</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="lkr_wife_1302">This digital text is produced from the Loula Kendall
+
+	   Rogers Papers, generously loaned to the Beck Center by    	
+
+The Manuscript, Archives, and Rare Book Library at Emory University.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="language">American</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Poetry</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Marriage--United States--19th Century.</item>
+            <item>Marriage--United States--20th Century.</item>
+            <item>Women authors, American--19th Century</item>
+            <item>Women authors, American--20th Century</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2008</date><label>Woodruff Graduate Fellow</label><name>Stewart Varner</name>XML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="lkr_wife_1307">
+    <body xml:id="lkr_wife_1306">
+      <pb facs="lkr_wife001" xml:id="lkr_wife_1303" n="[1]"/>
+      <div xml:id="lkr_wife_1305" type="poem">
+        <head>What I want my Wife to be.</head>
+        <lg type="stanza">
+          <l>1 She must be an acrobat yet gentle as a cat</l>
+          <l>Riding, dancing, full of grace, with of course a pretty face.</l>
+        </lg>
+        <lg type="stanza">
+          <l>2 Tall and stately Full of vim</l>
+          <l>Yet with never a foolish whim.</l>
+        </lg>
+        <lg type="stanza">
+          <l>3 Just so she can make a cup of tea</l>
+          <l>And all things nice for only me.</l>
+        </lg>
+        <lg type="stanza">
+          <l>4 I do not want my wife to cook</l>
+          <l>Nor <hi rend="underline">even look into a book</hi>,</l>
+          <l>But she must work my garden well</l>
+          <l>And make a lot of things to sell!</l>
+        </lg>
+        <lg type="stanza">
+          <l>5 I need a wife to broil my steak</l>
+          <l>And have a plenty of cream and cake.</l>
+        </lg>
+        <lg type="stanza">
+          <l>6 She must know the intricate art</l>
+          <l>Of cooking well a cherry tart.</l>
+        </lg>
+        <lg type="stanza">
+          <l>7 She must be a musician and never grow weary</l>
+          <l>Of playing for me when the day is so dreary.</l>
+        </lg>
+        <lg type="stanza">
+          <l>8 I want her to paddle her own canoe</l>
+          <l>And allow me the same privilege too.</l>
+        </lg>
+        <lg type="stanza">
+          <l>9 Never to frown, never to scold,</l>
+          <l>Never to say its too hot or too cold,</l>
+          <l>But smile and smile and lively be</l>
+          <l>That's the kind of wife for me!</l>
+        </lg>
+        <lg type="stanza">
+          <l>10 I want her perfect - nothing less</l>
+          <l>Made to comfort and - to dress!</l>
+        </lg>
+        <lg type="stanza">
+          <l>11 If she wears a Merry Widow hat</l>
+          <l>And overtime her hair a rat</l>
+          <l>Should I deride and roughly chide</l>
+          <l>And threaten there to <unclear>---</unclear></l>
+          <l>Oh, no I'd kiss her cheek and sing</l>
+          <l>"They are lovely dear, the very thing"!</l>
+        </lg>
+        <pb facs="lkr_wife002" xml:id="lkr_wife_1304" n="[2]"/>
+        <lg type="stanza">
+          <l>12 My help -- must be both funny and wise</l>
+          <l>Tall and slim with sharp black eyes.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

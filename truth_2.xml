@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="truth_2_1307">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Sojourner Truth, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Anonymous</reg><orig>Anonymous</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="truth_2_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Emory Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17fb7</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Anonymous. Sojourner Truth. <publisher>Revolution</publisher> (July 20, <date>1871</date>).</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="truth_2_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Abolition, Freedom, and Rights</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Essay</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Social reformers.</item>
+            <item>Antislavery movements--United States--History--19th Century.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2000</date><label>Staff</label><name>Anna Engle</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck
+	    Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="truth_2_1306">
+    <body xml:id="truth_2_1305">
+      <div xml:id="truth_2_001" n="Sojourner Truth" type="Essay">
+        <docAuthor>Staff</docAuthor>
+        <head>Sojourner Truth</head>
+        
+        <bibl><title>Revolution</title> (July 20, 1871).</bibl>
+        <p xml:id="truth_2_1303">Anecdotes of Sojourner Truth are numerous. The following relates to her experience in the Washington street-car:</p>
+        <p xml:id="truth_2_1304">"She was an Empire State citizen and fully conscious of her rights "under de Constitution." She says: "When I went into de street to ride on de cars, de conductors would not look at me fust, an' all de drivers would turn heads anoder way: make believe dey didn't see me. But I fixed 'em." One day a car was coming along, and Sojourner felt anxious to ride. It was filled with people, and Sojourner planted herself firmly beside the track, and where the horses would be obliged to eat her up or stop. Along came the car. Sojourner gave the usual signal to stop, "but dat driver paid no 'tention to me, 'an was goin' right on when I gave such yelps! I tell yer yer oughter to hear me roar! I can yell when I try! I scared de horses and de people in de car. Dey was glad to stop, an' I hopped right in!" But the battle was only half over. Once in the car Sojourner had another foe to defeat in the conductor. But she proved equal to that emergency: "de conductor come along an' say, 'Go for'ard!' He said I must go for'ard wid de driver, but I sot down. He told me to 'git up!' I sot still. Den he told me to go for'ard ag'in or he would fro me out. Dat's jes' what I wanted him to do, 'cause yer see I felt as if I hadn't yelped quite enough. I had some more on 'em in, an' if he'd a tried it I'd raised his h'ar! I jes' told him to fro me out if he dar; dat I belonged to de Empire State, an' knew de laws. When I told him dat he went on collectin' his pennies, and carried me furder dan I wanted to go! I tell yer der's nothin' like standin' fer yer rights!"</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="child_kentucky_13018">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>How a Kentucky Girl Emancipated Her Slaves, an
+	   electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Child, Lydia Maria Francis, 1802-1880</reg><orig>Lydia Maria Child</orig></choice></name>
+     
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>15kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="child_kentucky_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Emory Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17bc2</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Child, Lydia Maria.  How a Kentucky Girl Emancipated Her Slaves. <publisher>The Independent</publisher> March 27, <date>1862</date>: 6-7.  Originally published in The New York Tribune.</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="child_kentucky_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Abolition, Freedom, and Rights</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Essay</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Browne, Martha Griffith, d. 1906.</item>
+            <item>Women abolitionists.</item>
+            <item>Slaves--Emancipation--United States--Sources.</item>
+            <item>Women authors, American--19th Century.</item>
+            <item>Race relations.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2000</date><label>Staff</label><name>Anna Engle</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck
+	    Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="child_kentucky_13017">
+    <body xml:id="child_kentucky_13016">
+      <div xml:id="child_kentucky_001" type="Essay">
+        <docAuthor>Lydia Maria Child</docAuthor>
+        <head>How a Kentucky Girl Emancipated Her Slaves</head>
+        
+        <bibl><title>The Independent</title>March 27, 1862: 6-7.  Originally published in The New York Tribune.</bibl>
+        <p xml:id="child_kentucky_1303">It is now about five years since Mattie Griffith, a noble daughter of Kentucky, left her native state because her generous young soul was filled with such deep abhorrence of slavery. She wrote a book, painful in its power, called "The Autobiography of a Female Slave;" and she herself assured me that every incident it contained had occurred within her own knowledge. She was an orphan, and all the property she had consisted in slaves; but she took the heroic resolution to emancipate them all. She was a pet in the large circle of her relatives and friends, but not one of them sympathized with her generous project. They regarded her as insane in her views on that subject. It required the strongest convictions of duty and the loftiest moral courage to pass through such a social martyrdom as she encountered. Her womanly nature quailed before it, but conscience was victorious. She felt that no position was so mean as to live on the wages of others; and, in the face of all opposition, she emancipated her slaves. When she wrote to me announcing the resolution to rely upon her own exertions hereafter, she added: "I shall work with a light heart, and, better still, I shall work with an easy conscience."</p>
+        <p xml:id="child_kentucky_1304">She left Kentucky, where her opinions concerning slavery had rendered her unpopular; but subsequently returned, on a visit, to superintend the process of emancipation. The most valuable article of her human property was an intelligent slave named Henderson. Some wealthy gentlemen tried to tempt her from her purpose by offering a very high price for this man; but she shook her head, saying, "I could not enjoy spending the money." Henderson's wife belonged to another family, and her master's will had enjoined that none of his slaves should be sold till his youngest child, then six years old, was of age. But her husband was bright and industrious, and, stimulated by the hope of buying her some day, he made the utmost of facilities for earning money which his kind mistress had tried to afford him.</p>
+        <p xml:id="child_kentucky_1305">In a letter to me, Miss Griffith described the emancipation of her slaves. It was not intended for publication, but it is well calculated to serve the cause of freedom; and as it contains no remarks that can be personally offensive to any one, I think I am not guilty of any impropriety in sending it to you without her knowledge. I therefore subjoin the following extracts:</p>
+        <p xml:id="child_kentucky_1306">"Immediately upon my arrival in Kentucky, I sent for the servants and informed them of my intention. I explained the laws as simply as I could, and told them it would be necessary to leave the state as soon as they were free. They listened with emotion, and earnestly inquired whether there was no way of evading the law, so that they could remain on their native soil, among old home influences. I warned them of the inevitable danger of staying or returning under any pretext whatsoever. When they were made to understand this, they became resigned to the hard conditions, and said, with an eloquent sigh, "All places are alike to the negro."</p>
+        <p xml:id="child_kentucky_1307">"It was delightful to watch their countenances, as they slowly received the idea of personal freedom. It seemed itself as if they underwent some heavenly transfiguration. Their faces, even their bodies, appeared to glow. 'What!' they exclaimed, 'are we going to be FREE? To belong to ourselves? Oh, it seems like a dream?' They laughed and they wept, they sang and they danced, alternately. Indeed, I almost feared Henderson was crazy, he was so bewildered with joy. It was a blissful moment for me when I placed the deeds of manumission in their hands. I never expect to experience such a thrill of happiness again. Poor creatures! They embraced my knees, they kissed my hands, they would have covered my very feet with caresses if I would have permitted it. They called me by every exalted name in the English language. But when these first ebullitions of feeling were over, they began to think more of men than of themselves. They returned with downcast looks, and said, 'But, Miss Mattie, you can't afford to do this. You will have to work. You ain't used to work and we don't want you to work. Take us back, Miss Mattie. We are all willing to keep on working for you.' Now wasn't this very touching? Poor, faithful, loving creatures! I can never be forgetful of my duty to their race. When I declined their generous offer, they urged me at least never to want for anything, but to send to them, and they would always divide their earnings with me, or give me the whole.</p>
+        <p xml:id="child_kentucky_1308">"The separation of Henderson and his wife was extremely affecting. It was to her as if the light of life had gone out; for she has little hope of obtaining her freedom, though he thinks he shall manage to buy her before long. You see <hi rend="italic">he</hi> is not such an ultra Abolitionist as to refuse to buy a slave. She is a beautiful and intelligent quadroon, with nice little hands fitted for dainty work. With all a woman's tender spirit of self-sacrifice, she rejoiced in her husband's good fortune, and tried to forget the cloud under which her own life rested. She endeavored to conceal her emotions from him, and told him she would try to bear her bereavement as well as she possibly could. I tell you, my dear friend, that few people know how to appreciate the beauty of the African character.</p>
+        <p xml:id="child_kentucky_1309">"Henderson had $500 in money, and the others had all more or less which they had laid up, beside some live stock and other articles. They wished to dispose of some of these before they left the state, so I made provision in the deeds of emancipation for their remaining until the 1st of March, when they must leave or be liable to be sold into slavery again.</p>
+        <p xml:id="child_kentucky_13010">Henderson accompanied me to Cincinnati, where he obtained a situation on a New Orleans boat. He preferred that employment, because it would give him an opportunity to see his wife occasionally, or at least to hear from her, as the boat touched at Louisville. They are most fondly attached to each other. It was amusing to see how soon he adopted free-state modes of expression. After four hours' sojourn in Ohio, he began to speak of 'colored gentlemen' and 'colored ladies.' I was glad to hear it. It argued a proper respect for his race. The others thought of getting situations in or near Cincinnati. They are all sober, industrious, economical people; so, with a little friendly advice, I left them to their own judgment in the choice of occupations. I did not wish to act as if I were their mistress after I had given them their freedom."</p>
+        <p xml:id="child_kentucky_13011">The noble young Kentuckian, who wrote the above letter, always disclaims any credit for her righteous proceedings. She says quietly, "Why do you praise me for generosity? It appears to me a very simple act of justice. What right had I to <hi rend="italic">their</hi> earnings any more than I have to <hi rend="italic">yours?</hi>" It seems very strange to her that Northern minds are generally so slow to recognize this principle. That a man should be robbed of his wages on account of a black skin, seems to her as wrong and absurd as it would be if he suffered the same injustice on account of black eyes or black hair. In common with several other emancipated slaveholders, with whom I have talked, she marvels at Northern apathy concerning an institution whose baneful effects extend to everybody and everything connected with it.</p>
+        <p xml:id="child_kentucky_13012">You will be interested to know that, notwithstanding Henderson's eager desire to purchase his wife, he repeatedly urged Miss Griffith to take the money had had laid by; and, when she refused, he begged her to accept at least half of it, saying, "I earned it when my time belonged to you, and you have given me what is worth more than money." The answer was, "No, no. I thank you, Henderson; but I have already taken your wages too long." Then he brought a young brother, who said, "Miss Mattie, let me work for you till I am of age; for surely <hi rend="italic">that</hi> is no more than right."</p>
+        <p xml:id="child_kentucky_13013">It is now four years since this emancipation took place. A few months ago, I heard that all these redeemed ones were behaving well and getting a comfortable living. Henderson has succeeded in buying his beloved wife, and both are doing well. The oldest woman, generally called "Mammy," sometimes pines for a sight of old friends and relatives in Kentucky, but even she thinks freedom is worth that painful sacrifice. In view of these facts, I would ask any candid person what reason there is to apprehend danger in emancipating the slaves. It is surely time for us to stop repeating stereotyped falsities, invented for the convenience of slaveholders.</p>
+        <p xml:id="child_kentucky_13014">It is worthy of remark that Miss Griffith's moral sense received no aid from abolitionists. She manifested sympathy with the slaves from her very childhood; and as she grew older she uttered many an earnest protest against the system. She never read an anti-slavery tract or newspaper, and never talked with an abolitionist. She wrote to me, "I was always taught to regard the abolitionists of the North as wolves in sheep's clothing; as violent, bad men, who decoyed slaves away from their homes with false promises; but since I have come to the free states, I know and honor the abolitionists." I wrote her in reply that it would be much nearer the truth to describe them as sheep in wolves' clothing.</p>
+        <p xml:id="child_kentucky_13015">When Mr. Sumner was nearly assassinated in the Senate, the news excited her greatly. She sent for the speech which caused the outrage, and she told me <hi rend="italic">that</hi> was the first anti-slavery document she ever read. The purpose which had long been latent in her mind, ripened at once. She sent for Henderson, and said, "I am going to give you your freedom." In answer to his exclamations of surprise and gratitude, she replied, "Don't thank <hi rend="italic">me</hi>, Henderson. It is Mr. Charles Sumner who sets you free."-- <hi rend="italic">Lydia Maria Child, in The Tribune</hi>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

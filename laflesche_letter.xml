@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="laflesche_letter_1309">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>An Indian Woman's Letter, an electronic edition</title>
+        <author n="La Flesche, Susette">La Flesche, Susette (Bright Eyes)</author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent/>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="laflesche_letter_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Emory Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17ck0</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>La Flesche, Susette (Bright Eyes). An Indian Woman's Letter. <publisher>Southern Workman and Hampton School Record</publisher> 8 (April <date>1879</date>): 44.</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="laflesche_letter_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Native American</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Native American</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Essay</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Women authors, American--19th Century.</item>
+            <item>Indians of North America--Religious life--19th Century.</item>
+            <item>Indians, Treatment of--United States--19th Century.</item>
+            <item>Omaha Indians.</item>
+            <item>United States--Ethnic relations--19th Century.</item>
+            <item>Race relations.</item>
+            <item>Native Americans.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1999</date><label>Staff</label><name>Anna Engle</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="laflesche_letter_1308">
+    <body xml:id="laflesche_letter_1307">
+      <div xml:id="laflesche_letter_001" type="Essay">
+        <docAuthor>La Flesche, Susette (Bright Eyes)</docAuthor>
+        <head>"An Indian Woman's Letter"</head>
+        
+        <bibl><title>Southern Workman and Hampton School</title> Record 8 (April 1879): 44.</bibl>
+        <p xml:id="laflesche_letter_1303">The following is an extract from a letter from an Indian woman, a teacher among the Omaha Indians, to some friends in Philadelphia. The original is exceedingly well done and could not easily be surpassed by an educated white woman.</p>
+        <p xml:id="laflesche_letter_1304">After an interesting account of a Christmas tree supplied by the friends to whom she was writing, she says:</p>
+        <p xml:id="laflesche_letter_1305">"Yonder is a man in a faded blanket with nothing striking about him but his tall and vigorous form. He has killed many enemies in battle. He is ever ready, at the risk of his life, to defend the weak and helpless. He never hesitates to rebuke the vices of his people even though he bring down their anger on his head; and yet underneath that stern exterior is as true and loving a heart as ever beat. When a little grandson of his died, 'he wept and would not be comforted.' I have singled him out from the rest because I know him so well, and not because he is the only one. There are others like him, more or less, and when I see them I think to myself, if they have become what they are, amid all their disadvantages, what would they not be with the religion of Christ to help them? Oh! you do not know how hard the work is out here. They have all lost confidence in your people. The good that Christ's followers can do is counteracted by the behavior of your Government toward them. They look on the white people as all alike. How can they believe in the good will and good faith among you when your Government, pretending good faith and good-will, and pretending to ratify it by solemn treaties, breaks them at pleasure, taking their lands from them and driving them hither and thither? Some of the more intelligent among them have thrown aside their own customs as foolish, but refuse to have anything to do with the white man's religion. They have said to me, 'The white men speak fair words to us, but they treat us as dogs, and we have not a spot we can call our own or where we feel safe.' Wa-ja-pa, one of my father's band, once said to a minister at my house, 'We Indians <hi rend="italic">know</hi> there is a God. We have always known it. He made us and gave us this land. We pray to Him in our hearts always, and not outwardly, as you do. We pray to Him when we lie down at night and when we rise in the morning. We pray to Him to bless us in whatever we do, whether it be in our daily rounds or when we go forth to battle. He has power to send us good or evil, and it is right, for we are His. But as for this book you talk about so much, and God's son, whom you say came into this world, we know nothing of them. Our ancestors never told us about them, and many of us do not care to have anything to do with your religion.'</p>
+        <p xml:id="laflesche_letter_1306">"I am coming more and more to the conclusion that the surest and almost the only way of reaching the parent is through the children. Almost the only comforts they have in their lives consist in their children. For them they are willing to lay aside their arms and take up the plow and mower, all unused as they are to labor. For them they are willing to pass over injuries, lest the wrath of the government be aroused and their children slain. For the sake of their children they are willing to break up their nationality, their tribal relations, and all that they hold dear, to become citizens. Said one man to me, 'I wish that I had had the advantages in my youth which you have. I could then have had a chance to become something other than I am, and could have helped my people; I am now helpless and ignorant, but I shall die content if my children after me live better than I have done."</p>
+      </div>
+    </body>
+  </text>
+</TEI>

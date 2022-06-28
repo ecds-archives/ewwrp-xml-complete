@@ -1,0 +1,3377 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="griffith_poems_130166">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Poems, By Mattie Griffith, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Browne, Martha Griffith, d. 1906</reg><orig>Mattie Griffith</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>200kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="griffith_poems_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Emory Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17c9w</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Griffith, Mattie [Martha], Poems, By Mattie Griffith. New York:
+<publisher>D. Appleton &amp; Co.</publisher>, 200 Broadway, AND 16 Little Britain, London. <date>1852</date></bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="griffith_poems_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Abolition, Freedom, and Rights</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Poetry</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Women authors, American--19th Century.</item>
+            <item>American poetry--Women authors--19th Century.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2001</date><label>Staff</label><name>Natalie Prestwich</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="griffith_poems_130165">
+    <body xml:id="griffith_poems_130164">
+      <div xml:id="griffith_poems_00" type="Book">
+        <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+        <docAuthor>Browne, Mattie Griffith</docAuthor>
+        <head><title>POEMS, BY MATTIE GRIFFITH.</title><lb/>
+Now first Collected.</head>
+        
+        <bibl>NEW YORK:  D. APPLETON &amp; COMPANY, 200 BROADWAY, AND 16 LITTLE BRITAIN, LONDON.  M.DCCC.LIII.</bibl>
+        <p xml:id="griffith_poems_1303">TO THE GREAT PEOPLE OF KENTUCKY, THIS LITTLE VOLUME IS AFFECTIONATELY INSCRIBED BY THE HUMBLEST AND MOST DEVOTED OF KENTUCKY'S DAUGHTERS.</p>
+        <p xml:id="griffith_poems_1304">THE AUTHOR.</p>
+        <p xml:id="griffith_poems_1305"><hi rend="bold">CONTENTS.</hi><lb/>
+THE DYING GIRL, . . . . . . . . . . 9<lb/>
+THE LOVERS' LAST MEETING . . . . . . . . . . 16<lb/>
+LOOK AMD LIST, LOVE, . . . . . . . . . . 25<lb/>
+THE CLOSE OF THE YEAR, . . . . . . . . . . 30<lb/>
+MOONLIGHT, . . . . . . . . . . 36<lb/>
+TO SIR EDWARD BULWER LYTTON, BART, . . . . . . . . . . 40<lb/>
+ON THE DEATH OF MISS NANNIE C*****, . . . . . . . . . . 46<lb/>
+THE HERMIT, . . . . . . . . . . 50<lb/>
+TO MY SISTER, . . . . . . . . . . 54<lb/>
+TO MISS JULIA DEAN, . . . . . . . . . . 58<lb/>
+STARLIGHT MUSINGS, . . . . . . . . . . 63<lb/>
+THE DESERTED, . . . . . . . . . . 69<lb/>
+THOU LOVEST ME NO MORE, . . . . . . . . . . 75<lb/>
+MY BIRTH-DAY, . . . . . . . . . . 80<lb/>
+THE STUDENT, . . . . . . . . . . 84<lb/>
+IN MEMORY OF MRS. ADELINE K. O'BRIEN, . . . . . . . . . . 88<lb/>
+CLOSE OF THE YEAR, . . . . . . . . . . 92<lb/>
+TO MY GEORGIE, . . . . . . . . . . 97<lb/>
+IN MEMORY OF MY FATHER, . . . . . . . . . . 101<lb/>
+THE LONE ONE AT THE OLD TRYSTING-PLACE, . . . . . . . . . . 105<lb/>
+LINES TO MISS  -------, . . . . . . . . . . 109<lb/>
+To -----------, . . . . . . . . . . 111<lb/>
+MY MOTHER, . . . . . . . . . . 116	<lb/>
+TO J. R. BARRICK, . . . . . . . . . . 120<lb/>
+THE ORPHAN, . . . . . . . . . . 123<lb/>
+IMPROMPTU, . . . . . . . . . . 126<lb/>
+LIFE, . . . . . . . . . . 130<lb/>
+THE YOUNG MOTHER, . . . . . . . . . . 135<lb/>
+TO C. W. A., OF TAYLORSVILLE, . . . . . . . . . . 138<lb/>
+TO A FRIEND, . . . . . . . . . . 141	<lb/>
+BROKEN BARBITION -- WITHERED LAUREL-WREATH AND BROKEN HEART, . . . . . . . . . . 143<lb/>
+THE ORPHAN'S DREAM OF FAME, . . . . . . . . . . 148<lb/>
+A TRIFLE TO A FRIEND, . . . . . . . . . . 153<lb/>
+THE URN OF THE HEART, . . . . . . . . . . 156<lb/>
+RECOLLECTIONS, . . . . . . . . . . 159<lb/>
+TO ---------, DURING HIS ILLNESS, . . . . . . . . . . 164</p>
+        <div xml:id="griffith_poems_01" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head>The Dying Girl.</head>
+          <lg type="stanza">
+            <l n="1">THROW open yonder window, sister dear,</l>
+            <l>For all seems gloomy and oppressive here;</l>
+            <l>I feel, alas! that I am dying now,</l>
+            <l>But the warm breeze may breathe upon my brow,</l>
+            <l>And o'er my heart a soft and holy spell,</l>
+            <l>Bidding my faint and failing spirit swell</l>
+            <l>With the dear thoughts and visions that had power</l>
+            <l>To brighten life in childhood's fairy hour.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">I go, sweet sister, to yon far blue land</l>
+            <l>Where dwell the blest, a bright, angelic band,</l>
+            <l>Where radiant spirits chant their burning lay,</l>
+            <l>Their song of immortality, and stray</l>
+            <pb xml:id="griffith_poems_1306" n="10"/>
+            <l>Beside the streams soft-gleaming 'mid the flowers</l>
+            <l>And rainbow-groves of Eden's blessed bowers,</l>
+            <l>And there I shall behold our mother's face,</l>
+            <l>And she will clasp me in her dear embrace!</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">And yet, oh yet, it grieves my heart, dear love,</l>
+            <l>To leave thee here, a young and tender dove,</l>
+            <l>Lone-wandering o'er life's waters cold and dark,</l>
+            <l>Ne'er to find rest save in God's holy ark;</l>
+            <l>But there, when Time's wild storms at last shall cease</l>
+            <l>Thy weary pinions will repose in peace,</l>
+            <l>And their bright plumage never more be cast</l>
+            <l>All torn and scattered on the bitter blast.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	 *	*	*	*	*	*</l>
+            <l>I'm musing now, my sister, on the time,</l>
+            <l>When we in our own dear, our native clime,</l>
+            <l>With our sweet mother in our childhood dwelt,</l>
+            <l>Gay as the singing birds, and never felt</l>
+            <l>The care, the grief, the agony, the strife,</l>
+            <l>That lurk like fiends along the paths of life.</l>
+            <pb xml:id="griffith_poems_1307" n="11"/>
+            <l>There round our home the rose with crimson dye</l>
+            <l>Bared its young heart of beauty to the eye,</l>
+            <l>There sprang the violets, and the lilies there,</l>
+            <l>Pale nuns of nature, bowed their heads in prayer;</l>
+            <l>The jasmine, sweetest of the race of flowers,</l>
+            <l>Breathed its full soul of fragrance in the bowers;</l>
+            <l>Above the window of our little room</l>
+            <l>The honeysuckle hung in clustering bloom,</l>
+            <l>Before our door the bright blue streamlet played,</l>
+            <l>Leaping and dimpling in the light and shade,</l>
+            <l>And the tall trees of deep and solemn green</l>
+            <l>Upon the far horizon seemed to lean</l>
+            <l>Like holy watchers of the golden sky,</l>
+            <l>The sentinels of immortality.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">And there, O sister, lay the burial ground,</l>
+            <l>A lonely spot where broke no rude, harsh sound,</l>
+            <l>And where the mournful grave-stones rose to keep</l>
+            <l>Their silent vigils o'er each place of sleep,</l>
+            <l>And where at times we wander'd with hushed breath</l>
+            <l>To view the sad memorials of death.</l>
+            <pb xml:id="griffith_poems_1308" n="12"/>
+            <l>There, sister, sleep our old ancestral line,</l>
+            <l>And I would lay this weary head of mine</l>
+            <l>Beside their forms, and I would have a rose</l>
+            <l>To shed its sweetness o'er my still repose,</l>
+            <l>A rose, dear sister, planted by thy care,</l>
+            <l>Wooing the bright young birds to linger there,</l>
+            <l>And sweetly sing my mouldering form above,</l>
+            <l>To God their little songs of joy and love.</l>
+            <l>Methinks 'twould soothe my spirit thus to lie</l>
+            <l>In that dear spot beneath our natal sky,</l>
+            <l>And hear (if spirits may) on Spring's soft eves</l>
+            <l>Our natal breezes stir the dewy leaves,</l>
+            <l>Waking the melodies that were so dear</l>
+            <l>And yet so mournful to my childhood's ear.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Oh! chide me not, sweet sister, if I weep</l>
+            <l>That these fond dreams are idle.  I must sleep</l>
+            <l>Here in this cold, strange land, far, far away</l>
+            <l>From all I knew and loved in life's young day,</l>
+            <l>Far from the ashes of the brave and fair</l>
+            <l>Who bore the name that we are proud to bear,</l>
+            <pb xml:id="griffith_poems_1309" n="13"/>
+            <l>And who have gone before me to their home</l>
+            <l>In the high halls of you star-lighted dome.</l>
+            <l>Forms all unknown will slumber near my side,</l>
+            <l>The poor remains, perchance, of wealth and pride,</l>
+            <l>And shafted monuments around will rise,</l>
+            <l>Mocking the green turf where the lone one lies.</l>
+            <l>But, sister, thou at gentle close of day,</l>
+            <l>Wilt often come upon my grave to lay</l>
+            <l>The fading flowers, sad emblems of the fate</l>
+            <l>Of the young stranger, lone and desolate.</l>
+            <l>And, sister dear, when thou shalt come to shed</l>
+            <l>Love's sacred tears above my humble bed,</l>
+            <l>I pray thee speak to me, and thou shalt hear</l>
+            <l>My voice soft-stealing on thy spirit-ear,</l>
+            <l>And thou shalt feel, as thrillingly as now,</l>
+            <l>My gentle kisses on thy sad, sweet brow.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Thus spake a young girl, pale, but beautiful</l>
+            <l>As a rapt poet's holiest dreams.  The dull</l>
+            <l>Cold film of death was soon to dim her eye,</l>
+            <l>Still bright as yon clear jewel of the sky;</l>
+            <pb xml:id="griffith_poems_13010" n="14"/>
+            <l>Bright with the visions of her vanished years,</l>
+            <l>Bright with the rainbow pictured on her tears</l>
+            <l>By love's and memory's pure and tender beams,</l>
+            <l>Soft-shining through her spirit's shadowy dreams.</l>
+            <l>Down her fair form her clustering locks hung low,</l>
+            <l>Like willow-boughs above a drift of snow;</l>
+            <l>On her pale cheek the fever-flush was bright,</l>
+            <l>Like a red flame upon a cloud of white;</l>
+            <l>Her thin, pale-hand, through which the blue veins shone,</l>
+            <l>In all their windings beautiful, was thrown</l>
+            <l>Upon the crimson drapery of her bed,</l>
+            <l>Like a frail lily among roses red.</l>
+            <l>And there she lay, and tossed in wild unrest,</l>
+            <l>And clasped her weeping sister to her breast,</l>
+            <l>And uttered broken words of prayer and love</l>
+            <l>To God upon his mercy-seat above.</l>
+            <l>At length the glories of the sunset sky</l>
+            <l>Stole through the window to her wandering eye,</l>
+            <l>And, as her gaze was fixed intensely there,</l>
+            <l>She seemed to see a spirit in the air.</l>
+            <l>Half-rising on her couch, with sudden start,</l>
+            <l>She strove to clasp the vision to her heart,</l>
+            <pb xml:id="griffith_poems_13011" n="15"/>
+            <l>And with a feeble cry of ecstasy,</l>
+            <l>"Oh! mother, stay, I come, I come to thee!</l>
+            <l>Her young soul passed, her dream of earth 'was o'er,</l>
+            <l>Her pulse was still, her heart beat nevermore.</l>
+            <lb/>
+            <l>UNIONTOWN, PA., July 11.</l>
+            <pb xml:id="griffith_poems_13012" n="16"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_02" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head>The Lovers' Last Meeting.</head>
+          <lg type="stanza">
+            <l n="1">IT was a calm, still, Sabbath eve--no breeze</l>
+            <l>Went o'er the sleeping flowers, no murmured sound,</l>
+            <l>From Nature's harp of many voices, rose</l>
+            <l>Upon the deep and strange serenity</l>
+            <l>Of the lone death of day.  The Lovers met</l>
+            <l>In the sweet silence of that holy eve,</l>
+            <l>Once more upon the old, familiar spot</l>
+            <l>Of love's dear tryst.  Dark months had passed away</l>
+            <l>Since they had gazed together on that scene</l>
+            <l>Of deepest, keenest raptures.  That young girl,</l>
+            <l>Even in her girlhood's ripening flush, seemed old,</l>
+            <l>And worn in soul.  Her pale and withering cheek</l>
+            <l>Told to the heart the tale of many a wild,</l>
+            <l>Fierce struggle of a spirit unsubdued.</l>
+            <pb xml:id="griffith_poems_13013" n="17"/>
+            <l>Her dark eyes gleamed with the intensity</l>
+            <l>Of strange, unspoken griefs, and in their calm,</l>
+            <l>Mysterious fixedness there seemed a high,</l>
+            <l>And deep, and stern resolve, as though her heart</l>
+            <l>Of iron pride might never quail beneath</l>
+            <l>Life's fiercest storms.  Yet when she turned those orbs</l>
+            <l>To his, a gentle, melancholy smile</l>
+            <l>Played round their lids, and quivering tear-drops hung,</l>
+            <l>Like the bright gems of dewy morning, o'er</l>
+            <l>Their dark and stormy depths.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	And he on whom</l>
+            <l>Her glance of love fell, piercing his deep soul,</l>
+            <l>His soul of strong and manly daring, stood</l>
+            <l>All tearfully beside her, and his arm</l>
+            <l>Around her slender form was wildly flung,</l>
+            <l>Love's living, burning cestus; and her head,</l>
+            <l>With all its clustering wealth of raven curls,</l>
+            <l>Drooped to his heaving bosom, as a dove,</l>
+            <l>Weary and broken wing'd, sinks to its own</l>
+            <l>Dear parent nest.  Her little trembling hand</l>
+            <pb xml:id="griffith_poems_13014" n="18"/>
+            <l>Was clasped within his own, her upturned eye</l>
+            <l>Met his, and drank again the heavenly bliss</l>
+            <l>Of dear and sweet reunion.  On each pale</l>
+            <l>And stricken brow the darkness of a deep</l>
+            <l>And solemn shadow rested, and each cheek</l>
+            <l>And lip seemed chilled with sorrow's withering frost.</l>
+            <l>Though summer, autumn, winter, spring had passed</l>
+            <l>Again and yet again since they had met,</l>
+            <l>They gazed into each other's hearts and read</l>
+            <l>No change in those deep founts of burning love.</l>
+            <l>There no dark raven-wing had brooded--each</l>
+            <l>Had e'er embalmed with love's pure incense-breath</l>
+            <l>The image of the other.  They had vowed</l>
+            <l>And kept their holy truth, and now their love</l>
+            <l>Was all undimed, though grief had almost crushed</l>
+            <l>The life from out their souls.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	The sweet rich glow</l>
+            <l>Of the soft twilight lent its passion-hue</l>
+            <l>Of crimson to her temples, or perchance</l>
+            <l>It may have been the deep reflection caught</l>
+            <l>From the wild burning thoughts that raged within</l>
+            <pb xml:id="griffith_poems_13015" n="19"/>
+            <l>Her shut and silent heart.  She did not look</l>
+            <l>Upon the many flowers, she did not hear</l>
+            <l>The music of the stream--the fairy tints</l>
+            <l>Of sunset, the green surging of the woods,</l>
+            <l>The mildly-wooing zephyrs, and the tones,</l>
+            <l>The thousand deep tones of the holy hour,</l>
+            <l>All were unheeded then.  Her eyes, her ears,</l>
+            <l>Her thoughts, her soul, her life, were but for him.</l>
+            <l>She leaned upon him with that touching trust</l>
+            <l>And holy confidence a saint would feel</l>
+            <l>In leaning upon heaven.  And she to him</l>
+            <l>Was all that mortal creature e'er could be</l>
+            <l>To a proud child of earth.  With lip to lip,</l>
+            <l>And heart quick-throbbing to its throbbing mate,</l>
+            <l>They stood in love's bewildering embrace,</l>
+            <l>Silently clasping in their straining arms</l>
+            <l>All that they knew of heaven on earth.  And then</l>
+            <l>They heeded not the passing of the hours,</l>
+            <l>They saw not sunset's glorious roses fade</l>
+            <l>Within the west's sky-garden, they but felt</l>
+            <l>They loved and were supremely blest.</l>
+            <pb xml:id="griffith_poems_13016" n="20"/>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	At length</l>
+            <l>The thought that they must part stole on their souls</l>
+            <l>Like the deep shadow of a thunder-cloud.</l>
+            <l>She strove to drive that fearful thought away,</l>
+            <l>But there it stood, a fiend between her soul</l>
+            <l>And her bright heaven of joy.  Beneath the weight</l>
+            <l>Of her great grief, her head sank down, as bends</l>
+            <l>The lily's pale and broken cup beneath</l>
+            <l>The torrents of the cloud.  And then with low,</l>
+            <l>Sweet tones of tenderness, though his own heart</l>
+            <l>Was bursting with its stifled rush of tears,</l>
+            <l>He soothed her fearful agony.  He spoke</l>
+            <l>Of joys and raptures past but treasured still</l>
+            <l>In memory's sacred chambers, of the hope</l>
+            <l>That even then seemed shining with a dim</l>
+            <l>And pale but beauteous gleam upon the waves</l>
+            <l>Of the far distant future.  Thus he won</l>
+            <l>Her spirit from its dark and crushing grief,</l>
+            <l>And bade her turn her thoughts from earth, and look</l>
+            <l>Above life's clouds for perfect happiness</l>
+            <l>Within the skies. He told her how they two</l>
+            <pb xml:id="griffith_poems_13017" n="21"/>
+            <l>Would wander there, twin-spirits, hand in hand,</l>
+            <l>Beside the lovely Eden streams that glass</l>
+            <l>The blessed rainbow skies, how they would cull</l>
+            <l>The sweetest blossoms glowing with the dews</l>
+            <l>Of heaven, and twine them into beauteous wreaths,</l>
+            <l>Dear love-wreaths, for each other's foreheads; how</l>
+            <l>They oft would fly upon their spirit-wings</l>
+            <l>From star to star, to read the beautiful</l>
+            <l>And blazing mysteries of the sky, and how</l>
+            <l>They would at times come down from heaven to earth</l>
+            <l>To sit beside each other on the dear</l>
+            <l>And blessed spot where then they sat, and muse</l>
+            <l>On all the raptures shared together there,</l>
+            <l>And breathe again the vows so often breathed</l>
+            <l>In life from their deep hearts of love, and make</l>
+            <l>That scene the tryst of their pure souls in heaven</l>
+            <l>As 'twas their tryst upon the earth.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	But though</l>
+            <l>By soft and low and gentle words like these,</l>
+            <pb xml:id="griffith_poems_13018" n="22"/>
+            <l>Breathed in the rich tones that first won her love,</l>
+            <l>He calmed the fiery lava-flood that raged</l>
+            <l>Within her tortured heart, he could not soothe</l>
+            <l>The agony that burned within his own.</l>
+            <l>His soul was strong and haughty.  He could bear</l>
+            <l>The cold world's bitter hate, he faltered not</l>
+            <l>At "foaming calumny," he did not heed</l>
+            <l>The piercing blasts of poverty, but when,</l>
+            <l>At that sad hour, he fixed his eyes on her,</l>
+            <l>His bright though fading flower, and thought how she</l>
+            <l>Would pine in his drear absence from her side,</l>
+            <l>And saw that her young morning-tide of life</l>
+            <l>Was ebbing fast away, Oh then his heart,</l>
+            <l>His high, proud heart, sank in his manly breast,</l>
+            <l>His haughty spirit trembled, and a strong</l>
+            <l>Convulsion shook his feathers, and the drops</l>
+            <l>Of agony welled upward from a fount</l>
+            <l>Long scaled within his bosom, and he wept</l>
+            <l>As if his heart were broken.  And <hi rend="italic">her</hi> tears</l>
+            <l>Gushed forth to blend with his, and thus they wept</l>
+            <l>Together long and wildly.</l>
+            <pb xml:id="griffith_poems_13019" n="23"/>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	On their ears</l>
+            <l>Now stole the deep tones of the vesper bell</l>
+            <l>As mournfully as if it had been tolled</l>
+            <l>For some dear friend.  It woke them from their trance</l>
+            <l>Of paralyzing grief, it pealed and rang</l>
+            <l>Far through the echoing chambers of their souls,</l>
+            <l>And told them with its mocking cadences</l>
+            <l>That 'twas the hour, the moment, they must part.</l>
+            <l>All silently, but for one death-like groan,</l>
+            <l>He strained her to his bosom, on her brow</l>
+            <l>He breathed his passion-kisses till it seemed</l>
+            <l>As if each trembling blood-drop in her frame</l>
+            <l>Rushed up to share the maddening embrace--</l>
+            <l>Then with one low, deep, passionate farewell,</l>
+            <l>That sounded as if uttered by his soul</l>
+            <l>Through still, unbreathing lips, they parted.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	She,</l>
+            <l>Pale, faint, and weak, with faltering footsteps sought</l>
+            <l>Her chamber's silent solitude, to pour</l>
+            <l>Her sad soul forth in earnest prayer to God</l>
+            <pb xml:id="griffith_poems_13020" n="24"/>
+            <l>For strength to quell the fierce, rebellions thoughts</l>
+            <l>That seemed for ever sweeping like a tide</l>
+            <l>Of burning waters o'er her heart.  <hi rend="italic">He</hi> sought</l>
+            <l>The forest's deeper silence, there to hold</l>
+            <l>Through the still night communion with his soul,</l>
+            <l>And her, and heaven; and, when the morning came,</l>
+            <l>He went with sickening heart and aching brow</l>
+            <l>Once more into the toiling world of men,</l>
+            <l>To struggle with his bitter destiny.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">'Twas their last parting--a brief year passed by,</l>
+            <l>And lo! a pitying angel came from Heaven</l>
+            <l>And joined their fates forever.  'Twas the kind</l>
+            <l>Death-angel--they are all each other's now.</l>
+            <pb xml:id="griffith_poems_13021" n="25"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_03" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head>Look and List, Love.</head>
+          <lg type="stanza">
+            <l n="1">LIST, love, oh listen as the breeze</l>
+            <l>Goes softly floating by,</l>
+            <l>And to thine ear 'twill sweetly breathe</l>
+            <l>My young heart's tenderest sigh;</l>
+            <l>And if that breeze hath passed o'er crushed</l>
+            <l>And withered flowers, 'twill tell,</l>
+            <l>In saddened cadence, of the griefs</l>
+            <l>That in my bosom dwell.</l>
+            <l>	List, love.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">List to the music of the stream,</l>
+            <l>The far-off waterfall,</l>
+            <l>And in its low tones thou wilt hear</l>
+            <l>My spirit's earnest call</l>
+            <pb xml:id="griffith_poems_13022" n="26"/>
+            <l>To thine, to meet me at the soft</l>
+            <l>And blessed twilight hour,</l>
+            <l>Where we so oft have loved to meet</l>
+            <l>In our own wildwood bower.</l>
+            <l rend="right">List, love.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Look on the glorious hues that wave</l>
+            <l>Along the sunset sky,</l>
+            <l>Like heavenly banners o'er the hosts</l>
+            <l>Of angels trooping by,</l>
+            <l>And then wilt see my spirit there</l>
+            <l>Soft beckoning unto thine,</l>
+            <l>To join me in that fairy realm,</l>
+            <l>And be for ever mine.</l>
+            <l rend="right">Look, love.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Look on the cloudless heavens that roll</l>
+            <l>So beautiful and fair,</l>
+            <l>And think of all our earnest vows</l>
+            <l>That have their record there.</l>
+            <pb xml:id="griffith_poems_13023" n="27"/>
+            <l>And see! the priest of Nature now</l>
+            <l>Seems bending from above,</l>
+            <l>With his own gentle hand to set</l>
+            <l>The signet of our love.</l>
+            <l rend="right">Look, love.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">List to the murmurs sweet and wild</l>
+            <l>That from the ocean swell,</l>
+            <l>Like the mysterious melodies</l>
+            <l>Heard in its music-shell;</l>
+            <l>And they will speak of memories</l>
+            <l>That in our bosoms sleep,</l>
+            <l>Unseen and beautiful, like pearls</l>
+            <l>Within the sea's blue deep.</l>
+            <l rend="right">List, love.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">List to the spirit-minstrelsy</l>
+            <l>That steals from you bright stars,</l>
+            <l>As in their watch of love they float</l>
+            <l>High on their golden ears;</l>
+            <pb xml:id="griffith_poems_13024" n="28"/>
+            <l>And they will tell thee that the love</l>
+            <l>To our young spirits given,</l>
+            <l>Like theirs, shines sweetly on the earth</l>
+            <l>But has its home in heaven.</l>
+            <l rend="right">List, love.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Look at our own dear hour of tryst,</l>
+            <l>Upon the passion-flower;</l>
+            <l>I culled and laid upon thy heart</l>
+            <l>In our own favorite bower;</l>
+            <l>And if thou lov'st me dearly still,</l>
+            <l>Thy gentle eye will trace</l>
+            <l>The blessed story of our loves</l>
+            <l>Upon its pale, sweet face.</l>
+            <l rend="right">Look, love.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Oh! look and listen at the calm</l>
+            <l>And holy midnight hour,</l>
+            <l>When love's deep charm o'er human souls</l>
+            <l>Hath strong and mystic power;</l>
+            <pb xml:id="griffith_poems_13025" n="29"/>
+            <l>And thou wilt see my spirit stand</l>
+            <l>Beside thee where thou art,</l>
+            <l>And hear it breathe love's burning words</l>
+            <l>Into thine ear and heart.</l>
+            <l rend="right">Look and list, love.</l>
+            <lb/>
+            <l>LOUISVILLE, KY., 1852.</l>
+            <pb xml:id="griffith_poems_13026" n="30"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_04" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head>The Close of the Year.</head>
+          <lg type="stanza">
+            <l n="1">ANOTHER and another!  'Tis the still</l>
+            <l>And solemn hour of midnight.  Not a sound</l>
+            <l>Of mortal life disturbs the awful calm</l>
+            <l>That rests upon the dim and sleeping earth.</l>
+            <l>'Twould seem as if a wizard spell were laid</l>
+            <l>Upon the winds, the woods, the waves, the streams;</l>
+            <l>For all the thousand voices that are wont,</l>
+            <l>In this deep hour of darkness and of dreams,</l>
+            <l>To weave their low, mysterious cadences</l>
+            <l>In one wild chant of spirit-melody,</l>
+            <l>Are silent now, and there is naught to tell</l>
+            <l>The ear that Nature lives.  The holy stars,</l>
+            <l>The watchers of the night, are burning faint,</l>
+            <l>Like funeral lamps; the dark cloud-shadows rest</l>
+            <pb xml:id="griffith_poems_13027" n="31"/>
+            <l>Upon the still earth like a pall; the hills</l>
+            <l>And mountains stand like mourners; the tall trees,</l>
+            <l>Leafless and solemn, bend their tops like plumes</l>
+            <l>Above the bier; and lo! a countless throng</l>
+            <l>Of wan and ghastly phantoms seem to come</l>
+            <l>From the dim realm of shadows, to convey</l>
+            <l>The Old Year to his burial.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	He is gone!</l>
+            <l>He breathed no sigh or groan in his death-hour,</l>
+            <l>But with the awful stillness of a dream,</l>
+            <l>Passed to the mystic realm where dwell the shades</l>
+            <l>Of years that passed before him.  One more wave,</l>
+            <l>Bright with our smiles and bitter with our tears,</l>
+            <l>A wave that has reflected star and cloud,</l>
+            <l>The blue sky and the tempest's wrath, is lost</l>
+            <l>In the great ocean of Eternity,</l>
+            <l>Whose dark and dread and shoreless waters hide</l>
+            <l>The wrecks of empires and the wrecks of worlds</l>
+            <l>From every eye but God's.</l>
+            <pb xml:id="griffith_poems_13028" n="32"/>
+          </lg>
+          <lg type="stanza">
+            <l n="1">  Ah! gazing back</l>
+            <l>Upon the parted year, we darkly mourn</l>
+            <l>Its rich and wasted treasures.  We recall,</l>
+            <l>With keen remorse, life's follies and its crimes,</l>
+            <l>And tears are swelling in our stricken hearts--</l>
+            <l>Vain tears, alas how vain!  And see! beside</l>
+            <l>The shadowy spectre of the silent Past,</l>
+            <l>A sad and sorrowing Angel seems to stand,</l>
+            <l>Who, in a tone as mournful as the cry</l>
+            <l>Of a lost Soul, rebukes us for our deeds</l>
+            <l>Of error, and implores us to be true</l>
+            <l>To earth and Heaven in all the coming time</l>
+            <l>That may be ours beneath the skies.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Here, here,</l>
+            <l>At one year's burial and another's birth,</l>
+            <l>Here, on this narrow isthmus in the sea,</l>
+            <l>Time's ever surging sea, oh let us pause</l>
+            <l>And deeply muse upon the two vast worlds,</l>
+            <l>Spread out on either hand before our eyes,</l>
+            <l>The Past and Future.  From this lonely height,</l>
+            <pb xml:id="griffith_poems_13029" n="33"/>
+            <l>Straining our gaze far backward o'er the plain</l>
+            <l>That we have swiftly traversed, we behold,</l>
+            <l>All thickly scattered o'er the dreary space,</l>
+            <l>Unnumbered mounds, which mark the graves of joys,</l>
+            <l>And loves, and hopes that thronged around our path,</l>
+            <l>To charm our eyes and win our happy hearts</l>
+            <l>By their sweet smiles and wild enchanting tones,</l>
+            <l>And then sank down to mingle with the dust,</l>
+            <l>Like exhalations of the morning.  We</l>
+            <l>Look earnestly upon the fairy vales,</l>
+            <l>Where, in life's spring-time hours, we lingered long</l>
+            <l>To gather garlands of sweet flowers to deck</l>
+            <l>The heart's own altars--but no flowers are there.</l>
+            <l>The Autumn winds and Winter tempests swept</l>
+            <l>Above their blooming loveliness, and they</l>
+            <l>Perished in their bright beauty, and their souls</l>
+            <l>Of perfume passed to Heaven.  With wearied eyes,</l>
+            <l>And sad and aching hearts, we turn away</l>
+            <l>From the lone desolations of the past,</l>
+            <l>To gaze upon Futurity, and there,</l>
+            <l>Through the long vista of the years, we see,</l>
+            <pb xml:id="griffith_poems_13030" n="34"/>
+            <l>With fancy's eye, rich vales, as beautiful</l>
+            <l>As those through which in childhood's hours we roved;</l>
+            <l>And there, joys, hopes, and loves, as fresh and bright</l>
+            <l>As those which sprang and perished by our side,</l>
+            <l>Seem flitting in the distance, wild and free,</l>
+            <l>And sweetly beckoning us to where they dwell,</l>
+            <l>Like a young troop of Fairies.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	A New Year,</l>
+            <l>A new, unsullied year, is ours.  Its page</l>
+            <l>Is sealed; we know not what is folded there;</l>
+            <l>We know not whether joy or agony,</l>
+            <l>We know not whether life or death, is writ</l>
+            <l>Within the fearful scroll, but 'tis enough</l>
+            <l>To know the gift is God's.  Within our breasts,</l>
+            <l>Amid love's blasted buds, joy's faded wreaths,</l>
+            <l>And hope's pale, withered garlands, one bright flower</l>
+            <l>Is still uncrushed, undimmed, the holy flower</l>
+            <l>Of Faith divine.  We feel, we know that He,</l>
+            <l>Who hath preserved us 'mid the thousand ills,</l>
+            <l>The countless dangers lurking in our paths,</l>
+            <pb xml:id="griffith_poems_13031" n="35"/>
+            <l>Still holds us in the hollow of His hand,</l>
+            <l>And bids us trust in Him.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Farewell, Old Year!</l>
+            <l>May we, when called, like thee, from earth away,</l>
+            <l>Obey, like thee, the summons, calm, serene,</l>
+            <l>Without one sigh, or groan, or wild heart-throb</l>
+            <l>To mark the moment of dissolving life.</l>
+            <l>And oh may we, within the Eden land,</l>
+            <l>Where angel wings are glancing through the air,</l>
+            <l>And seraph songs are poured from rainbow clouds,</l>
+            <l>Once more embrace the loved and lost whom thou</l>
+            <l>Hast taken from us in thy silent flight.</l>
+            <pb xml:id="griffith_poems_13032" n="36"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_05" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head>Moonlight.</head>
+          <lg type="stanza">
+            <l n="1">AS here I sit within my lonely room,</l>
+            <l>A spirit seems abroad upon the air,</l>
+            <l>That o'er me flings an influence mild and sweet,</l>
+            <l>Yet mournful and mysterious. It is soft,</l>
+            <l>And calm, and hallowed, yet so very sad,</l>
+            <l>That tears are on my eyelids.  It unlocks</l>
+            <l>Memory's pale urn, and to my soul reveals</l>
+            <l>Treasures long hidden in its depths.  It calls</l>
+            <l>Forth, from their cold and silent graves, the forms</l>
+            <l>Of dearly loved one's faded long ago.</l>
+            <l>They seem to live again; they move once more</l>
+            <l>Beside me as they moved in life; they breathe</l>
+            <l>Sweet accents in my ear; they rise from earth</l>
+            <l>On angel plumes, and gently beckon me</l>
+            <pb xml:id="griffith_poems_13033" n="37"/>
+            <l>Through the soft, silvery mists that float around,</l>
+            <l>To follow them upon their long</l>
+            <l>And shining trail of glory.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	'Tis a strange</l>
+            <l>But pure and blessed spirit, for each thought</l>
+            <l>It makes is pure and blessed.  Every dream</l>
+            <l>It brings is soft, and deep, and beautiful</l>
+            <l>As 'twere an Eden vision.  And, oh, see!</l>
+            <l>A pale, unearthly light is in the air,</l>
+            <l>Chastening the shadows that dance fitfully</l>
+            <l>Along the silent walls; and now I feel</l>
+            <l>My cheek and brow are hallowed by its pure</l>
+            <l>And radiant baptism.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Ah, it is the sweet</l>
+            <l>Soft spirit of the Moonlight.  'Tis the gleam</l>
+            <l>Of yonder "Queen of mysteries," wandering forth</l>
+            <l>Like a pale nun in heaven.  Lone-musing here</l>
+            <l>Amid the shadows of my curtained room,</l>
+            <l>I saw it not, but yet I felt its spell</l>
+            <pb xml:id="griffith_poems_13034" n="38"/>
+            <l>Steal through the air and sink into my soul,</l>
+            <l>As with an angel power.  And lo! as now</l>
+            <l>I gaze out from my window on the earth,</l>
+            <l>How softly and how beautifully beams</l>
+            <l>The moonlight over nature.  The young leaves</l>
+            <l>Turn up their edges to its silver glow,</l>
+            <l>And quiver with their rapture.  The blue isles,</l>
+            <l>The streams, the hills, the forests and the clouds</l>
+            <l>Seem things of fairy-land, for beauty floats</l>
+            <l>Like a wild dream around them.  Gentle moon!</l>
+            <l>Pale, lonely mistress of the solemn night!</l>
+            <l>The tides of my young bosom heave and swell,</l>
+            <l>Even as the tides of ocean, to thy strong</l>
+            <l>Mysterious power!  Oh! fill my breast with light</l>
+            <l>From thy high sun, and touch each shadowy thought,</l>
+            <l>Each dark and gloomy fancy of my heart,</l>
+            <l>With thy unclouded beams.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	There is a pure</l>
+            <l>Sweet moonlight of the soul, that from the sky</l>
+            <l>Shines on our earthly spirits, silvering o'er</l>
+            <pb xml:id="griffith_poems_13035" n="39"/>
+            <l>Each depth of doubt, and sin, and agony</l>
+            <l>With the celestial beauty of its beams,</l>
+            <l>And bidding every shadow melt away;</l>
+            <l>RELIGION is THAT brightener of the soul,</l>
+            <l>And life's dark waters glowing in its light,</l>
+            <l>Mirror the wondrous glories of the heavens.</l>
+            <lb/>
+            <l>LOUISVILLIE, MARCH 15.</l>
+            <pb xml:id="griffith_poems_13036" n="40"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_06" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head>To Sir Edward Bulwer Lytton, Bart.</head>
+          <lg type="stanza">
+            <l n="1">MY cousin, I have never seen thee--yet</l>
+            <l>From childhood's early years my dearest thoughts</l>
+            <l>Have been so full of thee, I almost seem</l>
+            <l>To know thee well.  From thy high soul, <hi rend="italic">my</hi> soul</l>
+            <l>Has caught its inspiration.  I have felt</l>
+            <l>My spirit rise exulting with thine own,</l>
+            <l>To share the blessed sunbeam and the breeze.</l>
+            <l>But when, in thy proud majesty of strength,</l>
+            <l>Thou hast sprung upward to the skies to ride</l>
+            <l>At will on passion's maddening storm of fire,</l>
+            <l>My young heart, faint and weak with its excess</l>
+            <l>Of voiceless adoration, has sunk down</l>
+            <pb xml:id="griffith_poems_13037" n="41"/>
+            <l>Before thee, its deep pride, its strength, its life,</l>
+            <l>All, all forgotten in its silent awe</l>
+            <l>Toward a bright being of the earth so high,</l>
+            <l>And glorious, and grand.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Oh I have thought</l>
+            <l>As o'er thy bright and burning page my heart</l>
+            <l>Wrapt in wild flame, has poured its mightiest love,</l>
+            <l>How like a demi-god thou art, thou proud</l>
+            <l>And sceptred monarch of the realm of mind!</l>
+            <l>The human soul, with all its mystic chords</l>
+            <l>Of joy and woe, and hope and holy love,</l>
+            <l>Is thine own instrument, from which thy hand</l>
+            <l>Awakens tones whose echoes will be heard</l>
+            <l>Through all the coming years, far sounding o'er</l>
+            <l>The ocean of the future ages.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Thou</l>
+            <l>Art a magician of strange power; thou canst</l>
+            <l>Draw healing sweets from poisons; thou canst make</l>
+            <l>The darkest, deadliest passions wear the hues</l>
+            <pb xml:id="griffith_poems_13038" n="42"/>
+            <l>Of beauty and religion; all things, glassed</l>
+            <l>Within thy fancy's mirror-wave, assume</l>
+            <l>The holy tints of heaven.  With wizard spell</l>
+            <l>Thou stirrest the deep fountains of my life</l>
+            <l>Until I worship thee, and feel myself</l>
+            <l>Exalted by such worship.  Thou dost stand</l>
+            <l>Upon thy own high pyramid of mind,</l>
+            <l>As on some lofty mountain-height, and wave</l>
+            <l>Thy mighty wand, and myriads of bright</l>
+            <l>And fearful shapes, all things of heaven and earth,</l>
+            <l>Come thronging on the wild, careering winds,</l>
+            <l>The vassals of thy bidding.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Cousin, I</l>
+            <l>Have deemed that, like the brave old Titan, thou</l>
+            <l>Hast stolen fire from heaven wherewith to warm</l>
+            <l>The frozen world of thought, but thou wilt not,</l>
+            <l>Like him, be destined to the chain, the rock,</l>
+            <l>And the fierce vulture at the heart, for Jove,</l>
+            <l>The Tyrant, rules no more in heaven, and God</l>
+            <l>Is justice, love, and mercy.</l>
+            <pb xml:id="griffith_poems_13039" n="43"/>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Cousin, thou</l>
+            <l>Hast said thou lovest me, and in that love</l>
+            <l>My bosom proud feels all the rapturous joy</l>
+            <l>E'er dreamed of on the earth.  We have not met,</l>
+            <l>And I could pray that we might never meet,</l>
+            <l>For stern reality hath cruel power</l>
+            <l>To cheat bright fancy of her thousand spells.</l>
+            <l>To thee I would be ever as a thing</l>
+            <l>Of youth and love, which, though from thee afar,</l>
+            <l>Is still a part of thee.  Oh let the light,</l>
+            <l>The love-light of these tearful eyes of mine,</l>
+            <l>Shine on thee in the beam of some pure star;</l>
+            <l>Let my low voice steal o'er thee in the sound</l>
+            <l>Of melancholy winds through midnight rains;</l>
+            <l>Let the soft, dewy pinions of the breeze,</l>
+            <l>As, laden with the perfume of the flowers,</l>
+            <l>It comes to fan thy forehead, bear to thee</l>
+            <l>A kiss from my young spirit; let me be</l>
+            <l>As a soft, blessed tone of melody</l>
+            <l>To stir with gentleness the passion-depths</l>
+            <l>Of thy great soul; and when on some lone eve</l>
+            <pb xml:id="griffith_poems_13040" n="44"/>
+            <l>I send, as now, my spirit to commune</l>
+            <l>With thine, oh give it one sweet, dewy flower</l>
+            <l>From out the rich rose-garden of thy soul,</l>
+            <l>One little diamond from thy priceless mine</l>
+            <l>Of bright and glorious thought, one gentle sigh</l>
+            <l>From thy deep spirit, mournful with the wild</l>
+            <l>Excess of dreaming passion far too rich</l>
+            <l>To find its proper guerdon in a cold,</l>
+            <l>Unfeeling world like this.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Oh cousin mine,</l>
+            <l>Thou art my deep idolatry.  I've dreamed</l>
+            <l>Oft of the glory of our ancient race</l>
+            <l>Which lives again in thee.  I've deemed the pride,</l>
+            <l>Which in the great Llewellyn dimly shone,</l>
+            <l>In thee all perfected.  I've sat and mused</l>
+            <l>On thee with blissful tears, until my soul</l>
+            <l>Has from thy fancy's glorious well-spring drawn</l>
+            <l>Visions of love and immortality.</l>
+            <l>In musings I have ofttimes stood with thee</l>
+            <l>In ancient Knebworth, and with thee have strayed</l>
+            <pb xml:id="griffith_poems_13041" n="45"/>
+            <l>Through its time-honored shades, while thy rich tones</l>
+            <l>Have thrilled my spirit's lyre, and wakened thoughts</l>
+            <l>To sleep no more for ever.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Cousin dear,</l>
+            <l>This humble wreath that here I send to thee</l>
+            <l>Is woven of my spirit's bleeding flowers.</l>
+            <l>Oh do not scorn the chaplet, for 'tis fresh,</l>
+            <l>And pure, and softly glowing with the heart's</l>
+            <l>First morning dews.  My cousin, fare thee well.</l>
+            <pb xml:id="griffith_poems_13042" n="46"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_07" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head>On the Death of Miss Nannie C*****.</head>
+          <lg type="stanza">
+            <l n="1">DEAR, lovely girl, my thoughts are thine in this sweet twilight hour,</l>
+            <l>The young, the bright, the beautiful, gone like a stricken flower;</l>
+            <l>A thousand holy memories are rushing o'er my heart,</l>
+            <l>And there thine image seems once more to life and love to start;</l>
+            <l>I see thy dark and clustering curls around thy gentle face,</l>
+            <l>Thy soft black eye, thy rosy lip, and all thy witching grace,</l>
+            <l>And hear the cadence of thy voice come sweetly stealing by,</l>
+            <l>Like music from some fairy fount beneath the moonlight sky.</l>
+            <pb xml:id="griffith_poems_13043" n="47"/>
+            <l>Oh couldst thou, sweet and gentle girl, on earth no longer dwell?</l>
+            <l>Had thy dear mother's love no power to hold thee with its spell?</l>
+            <l>Had thy sweet sister's pleading voice no tone to keep thee here?</l>
+            <l>Had life no charm to make thy home than paradise more dear?</l>
+            <l>Ah no, the bright, the angel band bent gently from the sky,</l>
+            <l>And wooed and won thee to their home, their own blest home on high.</l>
+            <l>And there, beneath the holy shade of myriad starry wings,</l>
+            <l>Thou wanderest 'mid the living flowers of heaven's own living springs,</l>
+            <l>To hear the lofty music tones, the hymns of rolling spheres,</l>
+            <l>Blend with thy own soul melodies through God's eternal years.</l>
+            <l>But oh! does deeper, tenderer love in those high realms have birth,</l>
+            <l>Than that which lives and throbs and weeps in human hearts on earth?</l>
+            <pb xml:id="griffith_poems_13044" n="48"/>
+            <l>The thousand blossoms that have died beneath thee Autumn blast,</l>
+            <l>Will bloom in future Springs as bright as in the Springs long past;</l>
+            <l>The rose and violet will lift their cups of white and blue,</l>
+            <l>As erst at morn and mournful eve to catch the falling dew;</l>
+            <l>The bright wing'd birds will pour their songs of love from every tree,</l>
+            <l>The bright young streams with ringing shout leap onward to the sea;</l>
+            <l>But naught of these can ever pierce the cold and silent shade,</l>
+            <l>Where, with thine arms upon thy breast, thy lovely form is laid.</l>
+            <l>Yet come to us, dear Nannie, come, in this soft, stilly hour,</l>
+            <l>And tell us of thy happy home in Heaven's immortal bower;</l>
+            <l>I know that thou art there, for all thy thoughts beneath the skies</l>
+            <l>Were beauteous as an Angel's dream asleep in Paradise.</l>
+            <l>And, oh I ask that when thy hymns of ecstasy ascend,</l>
+            <l>Thoul't breathe one deep and holy prayer for thy poor, erring friend,</l>
+            <pb xml:id="griffith_poems_13045" n="49"/>
+            <l>Who still, with weary step must tread, in loneliness and gloom,</l>
+            <l>Uncheered by flower or blessed star, her pathway to the tomb.</l>
+            <pb xml:id="griffith_poems_13046" n="50"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_08" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head>The Hermit.</head>
+          <lg type="stanza">
+            <l n="1">IT was a cold and bitter winter night.</l>
+            <l>The keen winds howled around like beasts of prey</l>
+            <l>Seeking for victims.  A white shroud of snow</l>
+            <l>Covered the desolate and lonely moor</l>
+            <l>On which a cottage stood.  A single lamp</l>
+            <l>Shone through the window, shedding faintly round</l>
+            <l>A melancholy light. Within those walls</l>
+            <l>Dwelt the lone Hermit of the moor, and now</l>
+            <l>Upon the bard and stony floor he knelt</l>
+            <l>In fervent prayer to Heaven.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Beside him lay</l>
+            <l>The rosary, the missal, and the scourge;</l>
+            <l>No fire was on his cold and cheerless hearth;</l>
+            <pb xml:id="griffith_poems_13047" n="51"/>
+            <l>The bread and water on table stood</l>
+            <l>Untasted; his thin, bloodless hands were clasped</l>
+            <l>Upon his breast; his blue, beseeching eye,</l>
+            <l>Tearless as if its orb were seared with flame,</l>
+            <l>Looked earnestly to Heaven; the corded veins,</l>
+            <l>That lay upon his brow an temples pale,</l>
+            <l>Throbbed visibly as if a living fire</l>
+            <l>Were burning in their currents; his thin lip,</l>
+            <l>Of ashen hue, was quivering; purple drops</l>
+            <l>Were on his naked shoulders, and his frame</l>
+            <l>Still writhed and trembled from the blood-stained lash</l>
+            <l>Of his fierce penance; and, as there he turned</l>
+            <l>Upward his suffering face to Heaven, his words</l>
+            <l>Of penitence and supplication seemed</l>
+            <l>To steal up from the caverns of his soul</l>
+            <l>Like moans of keenest agony.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	That night</l>
+            <l>The hermit passed in meditation, prayer,</l>
+            <l>And fierce and bitter penance for the sins</l>
+            <l>Of early youth.  But HER dear image still,</l>
+            <pb xml:id="griffith_poems_13048" n="52"/>
+            <l>The image of the sweet and gentle one</l>
+            <l>That he had loved so passionately, rose</l>
+            <l>'Mid all his maddening tortures and his prayers</l>
+            <l>Between him and his God.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	The hours wore on,</l>
+            <l>And when at length the first gray light of morn</l>
+            <l>Dawned in the orient sky, he laid his chill</l>
+            <l>And trembling form upon his couch to check</l>
+            <l>In sleep forbidden memories.  In vain!</l>
+            <l>The dear, the loved one, pale and beautiful,</l>
+            <l>Came softly stealing to his side in dreams,</l>
+            <l>And bent above him, and her sweet blue eye</l>
+            <l>Gazed mournfully in his, her tender lip</l>
+            <l>Was pressed upon his forehead, and her voice,</l>
+            <l>In tones of more than earthly melody,</l>
+            <l>Was wildly breathing in his ear again</l>
+            <l>Love's unforgotten words.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	The sun arose,</l>
+            <pb xml:id="griffith_poems_13049" n="53"/>
+            <l>And then the hermit's sleep was dreamless; bright</l>
+            <l>The beam lay on the rigid brow of death.</l>
+            <l>But on his breast, beneath the sackcloth robe,</l>
+            <l>Was found the picture of his early love</l>
+            <l>Pressed o'er his throbless heart.  They buried him</l>
+            <l>Upon that dismal moor, and when the Spring</l>
+            <l>Smiled sweetly on the earth, a stranger came,</l>
+            <l>A gentle lady, deeply bowed with grief,</l>
+            <l>And planted flowers upon his lonely grave!</l>
+            <lb/>
+            <l>LOUISVILLE, KY.</l>
+            <pb xml:id="griffith_poems_13050" n="54"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_09" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head>To My Sister.</head>
+          <lg type="stanza">
+            <l n="1">SWEET sister, thou art very beautiful,</l>
+            <l>Thy wild and dark eye-flashes, burns and glows</l>
+            <l>With glorious spirit-lustre, and a spell</l>
+            <l>Of deep and holy witchery looks out</l>
+            <l>From its clear depths in many a glance of love,</l>
+            <l>A fervid glance of love and loveliness.</l>
+            <l>Thy pale, pale cheek, o'er which the faintest blush</l>
+            <l>Of crimson fades out, like the passion-breath</l>
+            <l>Of sunset o'er a snowy cloud; thy pure</l>
+            <l>High brow, so beautiful, and eloquent,</l>
+            <l>With the proud majesty of lofty thought;</l>
+            <l>The waving wealth of midnight hair that floats</l>
+            <l>Around thy forehead, like a stormy cloud</l>
+            <l>Round a white monument; thy parting lips</l>
+            <pb xml:id="griffith_poems_13051" n="55"/>
+            <l>So red, so rich, so like the opening rose</l>
+            <l>While yet the soft and early dew-drop blends</l>
+            <l>With its wild perfume; thy bewitching smile</l>
+            <l>Of strange, bright beauty, like a glance just caught</l>
+            <l>From the closed portals of the Eden clime;</l>
+            <l>Thy form, thy seraph form, that floats and glides</l>
+            <l>Upon the earth in dreamlike loveliness,</l>
+            <l>As 'twere the very spirit of a strain</l>
+            <l>Of sweet and wild AEolian melody</l>
+            <l>Made visible to mortal eyes; thy soft</l>
+            <l>And gentle voice, that through my spirit sends</l>
+            <l>Its thrill, like low and mournful music heard</l>
+            <l>O'er the still waters of the midnight deep</l>
+            <l>All these seem stealing on my eye and ear,</l>
+            <l>And lingering with me in my lonely hours,</l>
+            <l>To fashion blessed dreams of thee and heaven</l>
+            <l>Within my glowing soul.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Thou, sister dear,</l>
+            <l>Art on the earth, not of it.  Thy pure wing</l>
+            <l>Is here chained back from thy own native heaven.</l>
+            <pb xml:id="griffith_poems_13052" n="56"/>
+            <l>Thou art a gentle angel that my God</l>
+            <l>Hath sent to soften, purify, and soothe</l>
+            <l>My soul of fierce unrest.  To me thy love</l>
+            <l>Is the bright bow that spans life's darkest storm,</l>
+            <l>An angel bending from the tempest-cloud.</l>
+            <l>We two have wept o'er our dear mother's grave,</l>
+            <l>Together we have bowed our heads and prayed</l>
+            <l>For strength from Heaven to shield us from the stern</l>
+            <l>Deep agonies of life.  Our mother sleeps</l>
+            <l>Afar, and we, the children of her love,</l>
+            <l>Are left to buffet life's dark waves alone.</l>
+            <l>No, not alone, for at the solemn hour</l>
+            <l>Of holy midnight, on the moon's pale beams</l>
+            <l>That mother seeks her loved ones on the earth,</l>
+            <l>To whisper strength and comfort to their hearts.</l>
+            <l>Oh then, sweet sister, let us gird ourselves</l>
+            <l>For life's great battle, safe beneath <hi rend="italic">her</hi> wing</l>
+            <l>From every pain and danger.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Sister mine!</l>
+            <l>I've marked with bitter, bitter agony</l>
+            <pb xml:id="griffith_poems_13053" n="57"/>
+            <l>Thy fast decline--yet ah! it cannot be</l>
+            <l>That thou wilt leave me here alone, <hi rend="italic">alone</hi>,</l>
+            <l>Upon the cold dull earth.  Alas! I fear</l>
+            <l>Our gentle mother would not come to me</l>
+            <l>If thou wert gone.  Oh leave me not--the dark</l>
+            <l>Dread thought seems writhing in my burning brain,</l>
+            <l>Like a wild scorpion in a sea of flame,</l>
+            <l>And dreams of madness curdle my heart's blood,</l>
+            <l>And wake the gloomy passions slumbering far</l>
+            <l>Beneath the bright stream of my better thoughts.</l>
+            <l>Thou wilt stay with me--yes, our mother's smile</l>
+            <l>E'en now bids me be calm, and lo! the waves</l>
+            <l>Of maddening fear are slowly ebbing back,</l>
+            <l>To Heaven's own music-tone of "Peace! be still"</l>
+            <pb xml:id="griffith_poems_13054" n="58"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_10" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head><seg type="short-title">To Miss Julia Dean</seg>,<lb/>
+ON SEEING HER AS JULIET.</head>
+          <lg type="stanza">
+            <l n="1">OH, thou art wondrous fair!  I did not dream</l>
+            <l>Thus to behold the fancy of the great,</l>
+            <l>Immortal poet's brain made palpable</l>
+            <l>To mortal vision.  Mighty Shakspeare's self,</l>
+            <l>Who from his mind of myriad glories wrought</l>
+            <l>This creature of strange beauty, and of deep</l>
+            <l>Strong love, might well be proud to see thee take</l>
+            <l>Her form, and to the bright ideal give</l>
+            <l>Life, grace, and beauty brighter than her own.</l>
+            <l>Oh who would not weep gushing tears with thee,</l>
+            <l>Thou lovely being with a heart of flame,</l>
+            <pb xml:id="griffith_poems_13055" n="59"/>
+            <l>When in the maddening burst of thy young grief,</l>
+            <l>Thy own dear Romeo from thee torn, thy arms</l>
+            <l>Are thrown out wildly in a frantic prayer</l>
+            <l>For his return!  And when upon the earth,</l>
+            <l>In passion's stormiest mood, thy form is flung</l>
+            <l>In utter, hopeless, crushing agony,</l>
+            <l>The deep and mute upheavings of thy strong</l>
+            <l>And frenzied soul wring drops of voiceless grief</l>
+            <l>From hearts unused to tears.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	The mute appeal</l>
+            <l>Of those blue orbs, the marble fixedness</l>
+            <l>Of those sweet features in the trance of grief,</l>
+            <l>When thou art left by all thy heart holds dear;</l>
+            <l>Thy face so radiant in its loveliness,</l>
+            <l>Yet shadowed by the griefs that darkly lie</l>
+            <l>Upon the broken altar of the heart;</l>
+            <l>Thy music-cadences when in the strange,</l>
+            <l>Deep poetry of passion, they are breathed</l>
+            <l>From thy young lips--all touch the soul with power</l>
+            <l>Mysterious and resistless.</l>
+            <pb xml:id="griffith_poems_13056" n="60"/>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Lady bright,</l>
+            <l>And beautiful, to thee belongs a high</l>
+            <l>And glorious mission.  The great heritage</l>
+            <l>Of genius is thine own--the boon of Heaven.</l>
+            <l>To the wild, airy things of poetry,</l>
+            <l>Its spirit-visions, its ethereal dreams,</l>
+            <l>Its mystic, fairy-like imaginings,</l>
+            <l>Thou givest beauty and vitality,</l>
+            <l>And bidd'st them move, and speak, and smile, and weep,</l>
+            <l>Like beings of our earth, and they will live</l>
+            <l>For ever in our glowing souls as thou</l>
+            <l>Dost image them.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	O lady dear, the pure</l>
+            <l>And gentle beauty of thy sweet young face</l>
+            <l>Has wakened thoughts and feelings in my soul,</l>
+            <l>That will not, cannot perish but with life.</l>
+            <l>Thy pure white brow, serene and beautiful,</l>
+            <l>And calm as infant sleep; thy floating wealth</l>
+            <l>Of fleecy, golden hair; thy liquid eyes,</l>
+            <pb xml:id="griffith_poems_13057" n="61"/>
+            <l>Through which thy thoughts glow ever, as the stars</l>
+            <l>Shine through the soft, blue glories of the sky;</l>
+            <l>The eloquent rich blood that proudly mounts</l>
+            <l>Up to thy throbbing temples, and imparts</l>
+            <l>Its tinge to "the white wonder" of thy brow;</l>
+            <l>Thy ripe red lips, where honeyed sweetness seems</l>
+            <l>To hang; the chiselled outline of thy light</l>
+            <l>And undulating form, and, most of all,</l>
+            <l>The spirit of a genius that beams out</l>
+            <l>From every lineament, like prisoned flame</l>
+            <l>Shining through some bright alabaster vase--</l>
+            <l>These, these are deeply imaged in my heart,</l>
+            <l>A picture holy, beautiful and dear,</l>
+            <l>That will not pass away with earth, but live</l>
+            <l>Immortally within my soul in heaven,</l>
+            <l>A portion of that heaven's own purity</l>
+            <l>And angel beauty.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Lovely lady, thou</l>
+            <l>Wilt leave us soon perchance for distant climes,</l>
+            <l>To wake the loud applause of stranger lips,</l>
+            <pb xml:id="griffith_poems_13058" n="62"/>
+            <l>And win a deathless garland for thy brow,</l>
+            <l>And I may see thee never more.  Oh take</l>
+            <l>With thee the blessings of a heart, that thou</l>
+            <l>Hast ofttimes thrilled to ecstasy and tears.</l>
+            <pb xml:id="griffith_poems_13059" n="63"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_11" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head>Starlight Musings.</head>
+          <lg type="stanza">
+            <l n="1">THE gentle spirit of the twilight now</l>
+            <l>Has shut his rosy wings, and I have come</l>
+            <l>Out in the sad, sweet starlight, to commune</l>
+            <l>With olden visions, soft and beautiful,</l>
+            <l>Yet fading in my soul.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Ye lovely stars!</l>
+            <l>Bright, holy watchers of the glorious sky!</l>
+            <l>Ye gave to me in eves of other years</l>
+            <l>Your gentle sympathy--Oh grant it still,</l>
+            <l>For now 'tis dearer to the orphan's heart,</l>
+            <l>Than when in childhood's happy years she gazed</l>
+            <l>Enchanted on your lovely light, and dreamed</l>
+            <l>Had she but wings, that she could rise and grasp</l>
+            <pb xml:id="griffith_poems_13060" n="64"/>
+            <l>Your shining forms and twine them round her brow,</l>
+            <l>A band of glorious jewels.  Now she comes</l>
+            <l>Wiser, but oh, less happy, bent in soul</l>
+            <l>And crushed in hope, to weep her griefs away</l>
+            <l>Beneath your pitying beams.  Her proud soul chafes</l>
+            <l>And struggles in its earthly pilgrimage;</l>
+            <l>Her weary feet and panting heart would rest</l>
+            <l>To-night, and she would muse on dear old joys</l>
+            <l>That lent their glow, their spirit-thrilling dreams,</l>
+            <l>Their wild, ideal spell of witchery,</l>
+            <l>To years that cannot come again, and scenes</l>
+            <l>She never can see more.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Nay, now her heart</l>
+            <l>Again grows young and gentle, as it thrills</l>
+            <l>Delightedly beneath your beautiful</l>
+            <l>And holy spell, as ocean thrills and heaves</l>
+            <l>To the young moon in heaven.  Again she dreams,</l>
+            <l>And years and sorrows vanish from her life,</l>
+            <l>And leave her in her pure and innocent</l>
+            <l>And joyous childhood.  Once again she treads</l>
+            <pb xml:id="griffith_poems_13061" n="65"/>
+            <l>Where roses bloom, and no dark serpent coils</l>
+            <l>Beneath their leaves; again she looks abroad</l>
+            <l>O'er nature, with a soul that leaps to blend</l>
+            <l>With every scene and sound of love; again</l>
+            <l>She hears the well-remembered tones that made</l>
+            <l>The music of her life, ere yet she knew</l>
+            <l>That Death was in the world; and oh, again</l>
+            <l>Tears, gentle tears, the chastened spirit's dew,</l>
+            <l>Are overflowing from a heart whose depths</l>
+            <l>She thought were turned to dust.  And now one star,</l>
+            <l>One soft, bright star, beams on her eye and soul,</l>
+            <l>On which she used to gaze in ecstasy</l>
+            <l>With <hi rend="italic">him</hi>, the idol of her heart, when they</l>
+            <l>Sat hand in hand on glorious eves like this,</l>
+            <l>In deep and voiceless love, their souls too full</l>
+            <l>Of wild and beautiful and burning dreams</l>
+            <l>For human utterance.  Ah, little dreamed</l>
+            <l>Their hearts, as on their favorite star they gazed,</l>
+            <l>That soon its beams would shine alone for her,</l>
+            <l>And that her eyes would strain through gushing tears</l>
+            <l>To search its glittering orb, and see if 'twere</l>
+            <l>His spirit's dwelling-place.</l>
+            <pb xml:id="griffith_poems_13062" n="66"/>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Ye glorious stars!</l>
+            <l>Ye shone like blessed spirits of the sky</l>
+            <l>On Eden's groves and fountains, ere the pall</l>
+            <l>Of sin had fallen there; ye shone upon</l>
+            <l>A dark, and wild, and shoreless world of waves,</l>
+            <l>A lone and billowy desert, when the ark</l>
+            <l>That held all mortal breath was drifting o'er</l>
+            <l>The mountain tops; ye shone on Sinai's tall</l>
+            <l>And awful summit, when a mortal man</l>
+            <l>Was talking face to face with God; ye shone</l>
+            <l>On Calvary's sacred height, while yet the blood</l>
+            <l>That flowed to wash the human race from guilt</l>
+            <l>Was red upon the tree; ye shone on all</l>
+            <l>The prophets and the patriarchs of old,</l>
+            <l>And saw their tears as forth they stole and wept</l>
+            <l>In agony beneath your silent light;</l>
+            <l>Ye shone upon the meek and reverend heads</l>
+            <l>Of those who went forth in the strength of God,</l>
+            <l>To bear His message to a fallen world,</l>
+            <l>And on the dark brows and the gleaming steel</l>
+            <l>Of the fierce hosts that spread their prophet's creed</l>
+            <pb xml:id="griffith_poems_13063" n="67"/>
+            <l>Abroad by sword and wasting flame; ye shone</l>
+            <l>On Egypt's plains ere yet the pyramids</l>
+            <l>Lifted their bald and solemn heads to heaven;</l>
+            <l>Ye shone on Tadmor, Nineveh, and Rome,</l>
+            <l>Their glories and their ruins; ye have shone</l>
+            <l>Upon the living forms and on the graves</l>
+            <l>Of the departed generations; ye</l>
+            <l>Have shone on all that's been on earth, and now</l>
+            <l>Ye shine on all that is.  Oh, in your beams</l>
+            <l>There is a world of bright and awful lore,</l>
+            <l>A deep spell woven of the centuries,</l>
+            <l>And though we scarce may read the mystic scroll,</l>
+            <l>It shines upon our spirit with a pure,</l>
+            <l>And deep, and mighty power, and charms away</l>
+            <l>Care, sin, and woe, and makes us strong to bear</l>
+            <l>The strifes of mortal being.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Beautiful</l>
+            <l>And holy stars! ye seem in Paradise;</l>
+            <l>Ay, when your beams are resting on our brows,</l>
+            <l>We feel that we are bathed in what has been</l>
+            <pb xml:id="griffith_poems_13064" n="68"/>
+            <l>A part of Heaven itself.  We know that ye</l>
+            <l>Are God's own thoughts writ by His mighty hand,</l>
+            <l>And that our winged souls, by mounting up</l>
+            <l>From earth and mingling with your flames, may catch</l>
+            <l>A portion of your living glory.  We,</l>
+            <l>Chained darkly to the dust, may never list</l>
+            <l>With mortal ear the lofty symphony</l>
+            <l>That ye are ever pealing in your swift</l>
+            <l>And radiant sweep through the eternal space;</l>
+            <l>Yet, with our listening spirits we can hear</l>
+            <l>Its echoes sounding nightly o'er the earth,</l>
+            <l>The solemn music of eternity.</l>
+            <pb xml:id="griffith_poems_13065" n="69"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_12" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head>The Deserted.</head>
+          <lg type="stanza">
+            <l n="1">WHY didst thou leave me thus?  Had memory</l>
+            <l>No chain to bind thee to me, lone and wrecked</l>
+            <l>In spirit as I am?  Was there no spell</l>
+            <l>Of power in my deep, yearning love to stir</l>
+            <l>The sleeping fountain of thy soul, and keep</l>
+            <l>My image trembling there?  Is there no charm</l>
+            <l>In strong and high devotion such as mine,</l>
+            <l>To win thee to my side once more?  Must I</l>
+            <l>Be cast for ever off for brighter forms</l>
+            <l>And gayer smiles?  Alas!  I love thee still.</l>
+            <l>Love will not, cannot perish in my heart--</l>
+            <l>'Twill linger there for ever.  Even now</l>
+            <l>In our own dear, sweet sunset time, the hour</l>
+            <l>Of passion's unforgotten tryst, I hush</l>
+            <pb xml:id="griffith_poems_13066" n="70"/>
+            <l>The raging tumult of my soul, and still</l>
+            <l>The fierce strife in my lonely breast where pride</l>
+            <l>Is fiercely struggling for control.  Each hue</l>
+            <l>Of purple, gold and crimson that flits o'er</l>
+            <l>The western sky, recalls some by-gone joy,</l>
+            <l>That we have shared together, and my soul</l>
+            <l>Is love's and memory's.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	As here I sit</l>
+            <l>In loneliness, the thought comes o'er my heart,</l>
+            <l>How side by side in moonlight eves, while soft</l>
+            <l>The rose-winged hours were flitting by, we stood</l>
+            <l>Beside that clear and gently-murmuring fount</l>
+            <l>O'erhung with wild and blooming vines, and felt</l>
+            <l>The spirit of a holy love bedew</l>
+            <l>Our hearts' own budding blossoms.  There I drank</l>
+            <l>The wild, o'ermastering tide of eloquence</l>
+            <l>That flowed from thy o'erwrought and burning soul.</l>
+            <l>There thou didst twine a wreath of sweetest flowers</l>
+            <l>To shine amid my dark brown locks, and now</l>
+            <l>Beside me lies a bud, the little bud</l>
+            <pb xml:id="griffith_poems_13067" n="71"/>
+            <l>Thou gav'st me in the glad, bright Summer-time,</l>
+            <l>Telling me 'twas the emblem of a hope</l>
+            <l>That soon would burst to glorious life within</l>
+            <l>Our spirits' garden.  The poor fragile bud</l>
+            <l>Is now all pale and withered, and the hope</l>
+            <l>Is faded in my lonely breast, and cast</l>
+            <l>For ever forth from thine.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	They tell me, too,</l>
+            <l>My brow and cheek are very pale--Alas!</l>
+            <l>There is no more a spirit-fire within</l>
+            <l>To light it with the olden glow.  Life's dreams</l>
+            <l>And visions all have died within my soul,</l>
+            <l>And I am sad, and lone, and desolate;</l>
+            <l>And yet at times, when I behold thee near,</l>
+            <l>A something like the dear old feeling stirs</l>
+            <l>Within my breast, and wakens from the tomb</l>
+            <l>Of withered memories one pale, pale rose,</l>
+            <l>To bloom a moment there, and cast around</l>
+            <l>Its sweet and gentle fragrance, but anon</l>
+            <l>It vanishes away, as if it were</l>
+            <pb xml:id="griffith_poems_13068" n="72"/>
+            <l>A mockery, the spectre of a flower.</l>
+            <l>I quell my struggling sighs, and wear a smile;</l>
+            <l>But ah! that smile, more eloquent than sighs,</l>
+            <l>Tells of a broken heart.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	'Tis said that thou</l>
+            <l>Dost ever shine the gayest 'mid the gay,</l>
+            <l>That loudest rings thy laugh in festive halls,</l>
+            <l>That in the dance, with lips all wreathed in smiles,</l>
+            <l>Thou whisperest love's delicious flatteries;</l>
+            <l>And if my name is spoken, a light sneer</l>
+            <l>Is all thy comment.  Yet, proud man, I know</l>
+            <l>Beneath thy hollow mask of recklessness,</l>
+            <l>Thy conscious heart still beats as true to me</l>
+            <l>As in the happy eves long past.  Ah! once,</l>
+            <l>In night's still hour, when I went forth to weep</l>
+            <l>Beneath our favorite tree, whose giant arms</l>
+            <l>Seemed stretched out to protect the lonely girl,</l>
+            <l>I marked a figure stealing thence away,</l>
+            <l>And my poor heart beat quick; for oh! I saw,</l>
+            <l>Despite the closely muffled cloak, 'twas thou.</l>
+            <pb xml:id="griffith_poems_13069" n="73"/>
+            <l>Then, then I knew that thou in secrecy</l>
+            <l>Hadst sought that spot, like me, to muse and weep</l>
+            <l>O'er blighted memories.  Thou art, like me,</l>
+            <l>In heart a mourner.  In thy solitude,</l>
+            <l>When mortal eyes behold thee not, wild sighs</l>
+            <l>Convulse thy bosom, and thy hot tears fall</l>
+            <l>Like burning rain.  Oh! 'twas thy hand that dealt</l>
+            <l>The blow to both our hearts.  I well could bear</l>
+            <l>My own fierce sufferings, but thus to feel</l>
+            <l>That thou, in all thy manhood's glorious strength,</l>
+            <l>Dost bear a deep and voiceless agony,</l>
+            <l>Lies on my spirit with the dull, cold weight</l>
+            <l>Of death.  I see thee in my tortured dreams,</l>
+            <l>And ever with a smile upon thy lip,</l>
+            <l>But a keen arrow quivering deep within</l>
+            <l>Thy throbbing, bleeding heart.  Go, thou may'st wed</l>
+            <l>Another; but beside the altar dark</l>
+            <l>My mournful form will stand, and when thou seest</l>
+            <l>The wreath of orange blossoms on <hi rend="italic">her</hi> brow,</l>
+            <l>Oh! it will seem a fiery scorpion coiled</l>
+            <l>Wildly around thine own.</l>
+            <pb xml:id="griffith_poems_13070" n="74"/>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	I'm dying now;</l>
+            <l>Life's sands are falling fast, the silver cord</l>
+            <l>Is loosed and broken, and the golden bowl</l>
+            <l>Is shattered at the fount.  My sun has set,</l>
+            <l>And dismal clouds hang o'er me; but afar</l>
+            <l>I see the glorious realm of Paradise,</l>
+            <l>And by its cooling fountains, and beneath</l>
+            <l>Its holy shades of palm, my soul will wash</l>
+            <l>Away its earthly stains, and learn to dream</l>
+            <l>Of heavenly joys.  Farewell! despite thy cold</l>
+            <l>Desertion, I will leave my angel home,</l>
+            <l>Each gentle eve, at our own hour of tryst,</l>
+            <l>To hold my vigils o'er thy pilgrimage,</l>
+            <l>And with my spirit-pinion I will fan</l>
+            <l>Thy aching brow, and by a holy spell,</l>
+            <l>That I may learn in Heaven, will charm away</l>
+            <l>All evil thoughts and passions from thy breast,</l>
+            <l>And calm the raging tumult of thy soul.</l>
+            <pb xml:id="griffith_poems_13071" n="75"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_13" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head>Thou Lovest Me No More.</head>
+          <lg type="stanza">
+            <l n="1">THOU lovest me no more.  It needs not words</l>
+            <l>To tell me thou art altered now.  Alas!</l>
+            <l>I mark it well in thy cold, studied tone.</l>
+            <l>Oh would affection seek its warmth to hide</l>
+            <l>In tones whose chilling, freezing cadences</l>
+            <l>Fall on the soul like Alpine drops?  'Tis true</l>
+            <l>Thou still dost say that I am dear; thy lip</l>
+            <l>Still murmurs all love's <hi rend="italic">practised</hi> flatteries,</l>
+            <l>But thy stern glance of cold and withering pride</l>
+            <l>Turns all the hollow mockeries of thy words</l>
+            <l>To bitter, bitter ashes on my heart.</l>
+            <l>I utter no reproaches.  Slowly now</l>
+            <l>And silently and mournfully I ope</l>
+            <l>My spirit's rosy-gate, and drive from thence</l>
+            <pb xml:id="griffith_poems_13072" n="76"/>
+            <l>Each dear and starwinged hope that I have loved</l>
+            <l>Through long, long years to cherish.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Never more,--</l>
+            <l>Oh never more, thou false one, may I bear</l>
+            <l>In vernal bower or in the gilded hall,</l>
+            <l>A free, and light, and happy heart. Yet I</l>
+            <l>Shall mingle still amid the wild and gay,</l>
+            <l>My laugh will echo loudest in the din</l>
+            <l>Of mirth and joyousness, and none may know</l>
+            <l>The soul's deep bitterness, the quivering hopes</l>
+            <l>Crushed on the spirit's hearth.  My smiles will be</l>
+            <l>As bright as they have been, and none may see,</l>
+            <l>That, cold and vacant like the moon's pale beams</l>
+            <l>Upon a ruined temple, they but light</l>
+            <l>The gloom and shadow that keep watch below.</l>
+            <l>Mine still will be the gay and merry jest,</l>
+            <l>The keen reply, the free and buoyant tread,</l>
+            <l>And none may ever rend the veil, and see</l>
+            <l>What darkly lies beneath.</l>
+            <pb xml:id="griffith_poems_13073" n="77"/>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	But think thou not,</l>
+            <l>Proud and perfidious one, my strong, stern pride</l>
+            <l>Shall fail me in my solitude.  Ah no,</l>
+            <l>The unrelenting tear may never break</l>
+            <l>Forth from its deep and hidden front.  The spell</l>
+            <l>Of passion still is on me, but disdain</l>
+            <l>Heeds not the murmuring tone of love's wild chant,</l>
+            <l>That rises like the low voice of the wind</l>
+            <l>Wandering at midnight o'er the mouldering chords</l>
+            <l>Of a neglected harp.  For ever crushed</l>
+            <l>And broken be the rosy memories</l>
+            <l>That in their fairy beauty floated erst</l>
+            <l>Through my love-lighted soul.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Thy ring is cold,</l>
+            <l>It seems to bind my finger with a spell</l>
+            <l>Of ice, for its bright circle is not now</l>
+            <l>The emblem of unending truth and trust.</l>
+            <l>I'm gazing on thy picture, but I see</l>
+            <l>No smile of sweet endearment on these lips,</l>
+            <l>No high devotion on this pale, stern brow,</l>
+            <pb xml:id="griffith_poems_13074" n="78"/>
+            <l>No gleam of love-light beaming in these eyes</l>
+            <l>Of midnight fire--nay even <hi rend="italic">here</hi> is change.</l>
+            <l>I send thee back thy vain and worthless gifts--</l>
+            <l>Ah, proud one, would that I could give thee back</l>
+            <l>Thy bosom's truth.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	I said I would not weep</l>
+            <l>Again, but drops of mingled tears and blood</l>
+            <l>From the recesses of a breaking heart</l>
+            <l>Are gushing, and the shower has brought relief;</l>
+            <l>For oh! I feel that now the awful gloom</l>
+            <l>Which filled my bosom with its cloudy weight,</l>
+            <l>Is broken and dispersed.  Within its deep</l>
+            <l>Dark mists the genius of the tempest stood</l>
+            <l>Like a dread night-mare of the soul, and held</l>
+            <l>My spirit's elements in thrall, but now</l>
+            <l>The loosened zephyrs wander as they list,</l>
+            <l>The deep, strong spell that bound them is dissolved,</l>
+            <l>And lo! the twilight soft comes stealing on</l>
+            <l>With its one star, the star of memory,</l>
+            <l>Pale, pale, but very beautiful.</l>
+            <pb xml:id="griffith_poems_13075" n="79"/>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	I count</l>
+            <l>The drops that, one by one, fall on my heart,</l>
+            <l>Turning its woman's softness into stone;</l>
+            <l>Yet, to that heart, all worn and changed, thou still</l>
+            <l>Art dear, and ever wilt be dear. Some thoughts</l>
+            <l>Of thee, though all my future years will be</l>
+            <l>Like by-gone music lingering in my soul,</l>
+            <l>A sweet bird-carol heard in childhood's years,</l>
+            <l>Or like the lone funereal lamp that burns</l>
+            <l>Within the dark and solitary depths</l>
+            <l>Of Eastern tombs, forever shining on</l>
+            <l>Where all around is death and dull decay.</l>
+            <pb xml:id="griffith_poems_13076" n="80"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_14" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head>My Birth-Day.</head>
+          <lg type="stanza">
+            <l n="1">STRANGE feelings wildly throng around my heart</l>
+            <l>On this my natal day.  They seem to come</l>
+            <l>Like mournful spirits from the distant past,</l>
+            <l>And from the dim, sad future.  Down, far down</l>
+            <l>Into my soul I gaze, and memory,</l>
+            <l>The wizard, that bears sway in that lone realm,</l>
+            <l>Calls perished joys and hopes from out their graves,</l>
+            <l>And bids them glow, and live, and breathe, and I</l>
+            <l>Seem once again a happy child amid</l>
+            <l>The scenes of other days, with long-lost friends</l>
+            <l>Clasping my hand, or sitting at my side,</l>
+            <l>And murmuring in my ear their gentle tones</l>
+            <l>Of melody and love.</l>
+            <pb xml:id="griffith_poems_13077" n="81"/>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	My natal day!</l>
+            <l>In other, happier years, I used to hail</l>
+            <l>Its advent with a thrill of joy and pride,</l>
+            <l>For then I deemed it but an added link</l>
+            <l>To a young life that would for ever wear</l>
+            <l>The lovely rose-tints of the morning heavens</l>
+            <l>That hung serene and beautiful above,</l>
+            <l>Unbroken by a storm-cloud; but to-day</l>
+            <l>A sigh, a tear, is in my soul to think</l>
+            <l>Wave after wave of my existence thus</l>
+            <l>Breaks on the shore of old Eternity,</l>
+            <l>And sinks to silence and to nothingness.</l>
+            <l>Here in my spirit's awful solitude</l>
+            <l>I muse upon the thousand hopes that rushed</l>
+            <l>Impatient to life's banquet, and expired</l>
+            <l>In tasting of the poison-cup they thought</l>
+            <l>A boon the gods might crave.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	My birth-day! Years</l>
+            <l>Have flown and left me a lone mourner.  One</l>
+            <l>By one I've seen the deeply, dearly loved,</l>
+            <pb xml:id="griffith_poems_13078" n="82"/>
+            <l>The friends and guardians of my childhood, fade</l>
+            <l>And wither like the leaves when Autumn sets</l>
+            <l>His many-tinted signet on the woods.</l>
+            <l>Yet I, whose life in this drear month began,</l>
+            <l>Still linger darkly, sadly here to weep</l>
+            <l>For vanished stars and lovely blighted flowers</l>
+            <l>That shed upon my life, in brighter years,</l>
+            <l>Their lustre and their perfume.  But with hopes</l>
+            <l>All crushed, and eyes bathed in the heart's best dew,</l>
+            <l>I lift my gaze above the earth, and read</l>
+            <l>Upon the far sky's blue and starry scroll,</l>
+            <l>A beautiful and holy promise.  God</l>
+            <l>Watches and shields the lonely orphan here;</l>
+            <l>Ay, He who kindly tempers the cold wind</l>
+            <l>To the shorn lamb, will temper life's fierce storms</l>
+            <l>To her who calls upon His sacred name</l>
+            <l>In deep and fervent prayer.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	My natal day!</l>
+            <l>'Tis slowly melting in the twilight now,</l>
+            <l>And soon its tints along the western sky</l>
+            <pb xml:id="griffith_poems_13079" n="83"/>
+            <l>That seem a rose-wreath on the brow of death,</l>
+            <l>Will pass away.  My natal day, farewell!</l>
+            <l>Oh may'st thou, if thy light shall ever come</l>
+            <l>To me again on earth, behold the hopes,</l>
+            <l>That droop and fold within my lonely soul</l>
+            <l>Their broken pinions now, soar proudly up,</l>
+            <l>And revel, 'mid the glories of the sky.</l>
+            <lb/>
+            <l>LOUISVILLE KY.</l>
+            <pb xml:id="griffith_poems_13080" n="84"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_15" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head>The Student.</head>
+          <lg type="stanza">
+            <l n="1">ALONE he sat.  His broad and lofty brow</l>
+            <l>Was bent upon his thin, pale hand; his locks</l>
+            <l>Of jet hung o'er it with a darkened shade;</l>
+            <l>His black and glistening eye gleamed with some deep</l>
+            <l>And sad and earnest thought; his cheek was white--</l>
+            <l>White as the Parian stone; his quivering lip</l>
+            <l>Was blanched to Death's own hue; and the blue veins</l>
+            <l>That branched along his temples seemed to throb</l>
+            <l>With the strong spirit's fever.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	All alone,</l>
+            <l>In the dim twilight's calm and solemn hour,</l>
+            <l>He sat and mused upon his far-off home,</l>
+            <l>His happy childhood's faded years, and all</l>
+            <l>The beauty and the glory that had passed</l>
+            <pb xml:id="griffith_poems_13081" n="85"/>
+            <l>With them for evermore.  He sadly thought</l>
+            <l>Of his sweet sister, with her golden hair</l>
+            <l>Streaming and waving on the morning wind--</l>
+            <l>His bold young brother sporting at his side,</l>
+            <l>With a free shout, as joyous as the sound</l>
+            <l>Of bright, glad waters, leaping to the sheen</l>
+            <l>Of early Spring--his mother's gentle kiss,</l>
+            <l>Her sad, sweet smile, her holy words of love--</l>
+            <l>His gray-haired father's fervent blessing, breathed</l>
+            <l>With quivering lip, at the last parting hour,</l>
+            <l>When his own tears fell like the Summer rain--</l>
+            <l>And <hi rend="italic">her</hi>, the dearer still, whose soft, blue eye,</l>
+            <l>Through dark and gloomy years, had been to him</l>
+            <l>The day-star of his being.  Ay, he thought</l>
+            <l>Of these, all sleeping in the church-yard now,</l>
+            <l>And 'mid his mournful musings he forgot</l>
+            <l>The world, his many triumphs, and his wild</l>
+            <l>And maddening love of fame, that in the dim</l>
+            <l>And distant future might make melody,</l>
+            <l>Dear melody for his now lonely ear;</l>
+            <l>And then he bowed his strong and lofty heart,</l>
+            <pb xml:id="griffith_poems_13082" n="86"/>
+            <l>And, 'mid his sad and holy memories, wept</l>
+            <l>His stern, dark pride away.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	From his deep trance--</l>
+            <l>His long, deep trance of memory, love and grief--</l>
+            <l>He started up, and clenching his pale hands</l>
+            <l>In strong resolve, he raised his eyes to Heaven,</l>
+            <l>And moved his thin and bloodless lips, and vowed</l>
+            <l>To win a name a nation should adore--</l>
+            <l>To write it on the broad and glorious scroll</l>
+            <l>Of living greatness.  Then, as o'er his heart</l>
+            <l>The vision stole with bright and burning power,</l>
+            <l>That would not be controlled, he smiled, and quelled</l>
+            <l>The rushing tide of passion's flood, and pressed</l>
+            <l>The one bright picture to his breast--the dear,</l>
+            <l>Prized picture of his future glory.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	High</l>
+            <l>Among the foremost of his country's sons</l>
+            <l>That student stands.  The wild and stormy souls</l>
+            <l>Of multitudes bow to his master-will,</l>
+            <pb xml:id="griffith_poems_13083" n="87"/>
+            <l>Even as the sheaves the dreaming patriarch saw</l>
+            <l>Bow to the master sheaf.  Each lightning flash</l>
+            <l>Of his sublime and glorious intellect</l>
+            <l>Is followed by the long, loud thunder-peal</l>
+            <l>Of popular acclaim.  Lone and bereft</l>
+            <l>In heart, he sways a mighty people's hearts,</l>
+            <l>And moves majestic in his pride of place,</l>
+            <l>Lord of the realm's applause.  Ah, little know</l>
+            <l>The idolizing world the bitter throes</l>
+            <l>That rend his soul, the weary woe he bears</l>
+            <l>Without a word or sign.  His power and fame</l>
+            <l>Are all they know or seek to know.  No eye</l>
+            <l>Save God's may see him in his solitude,</l>
+            <l>When, 'mid the holy stillness of the night,</l>
+            <l>He turns from all life's glittering pomp away,</l>
+            <l>And weeps and sobs, ay, like a very child.</l>
+            <pb xml:id="griffith_poems_13084" n="88"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_16" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head><seg type="short-title">In Memory of Mrs. Adeline K. O'Brien</seg>,<lb/>
+ON VISTING HER HOUSE AFTER HER DEATH.</head>
+          <lg type="stanza">
+            <l n="1">SHE is not here!  Alas, she is not here!</l>
+            <l>Yet all still breathes and speaks of her.  Her sweet</l>
+            <l>And living presence is in every thing.</l>
+            <l>The very breeze, deep-laden with the soft,</l>
+            <l>Rich perfume of her own, her much-loved flowers,</l>
+            <l>Seems murmuring with a sigh her cherished name.</l>
+            <l>Through the lone chambers of her darkened home</l>
+            <l>I wander oft, and pine to greet once more</l>
+            <l>Her beauteous form now mingling with the dust.</l>
+            <l>The shadow of deep gloom hath settled round</l>
+            <l>The holy hearth where joy was wont to ring.</l>
+            <l>The lovely Spring-time is again on earth,</l>
+            <pb xml:id="griffith_poems_13085" n="89"/>
+            <l>Kissing the thousand wild-flowers into bloom</l>
+            <l>And fairy life; upon the rosy gale</l>
+            <l>The wild-bird's song is floating; a bright robe</l>
+            <l>Is o'er the wooded hills; and from the soft,</l>
+            <l>Gree bosom of the earth, the young buds burst,</l>
+            <l>As springs the soul immortal from the tomb</l>
+            <l>Of darkness and of shadow; but the flowers</l>
+            <l>Look sad, a hue of sorrow seems to dim</l>
+            <l>Their beauty's glow, as if they missed her sweet</l>
+            <l>And gentle ministry, and wept bright tears</l>
+            <l>Of dew for their dear sister-spirit dead;</l>
+            <l>The wild-bird's music seems a wail of grief</l>
+            <l>Breathed for the loved and lost; the blessed beam</l>
+            <l>Has lost its smile, as if it sought in vain</l>
+            <l>For her fair angel-brow, on which to shed</l>
+            <l>Its answering lustre.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	All is lone and drear--</l>
+            <l>I gaze upon her partner's grief-bow'd form,</l>
+            <l>And mark the deepened silver of his locks,</l>
+            <l>And my heart checks its selfish sighs.  Her child,</l>
+            <pb xml:id="griffith_poems_13086" n="90"/>
+            <l>Her cherub-child, is sporting in the bloom</l>
+            <l>Of infancy, but yet her very mirth</l>
+            <l>Seems strangely sad, as if her spirit felt</l>
+            <l>That Death's stern hand had crushed her parent stem,</l>
+            <l>And thrown her as a loosened bud to float</l>
+            <l>Upon the dark and stormy waves of time,</l>
+            <l>A thing of lone and blighted life.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Dear friend,</l>
+            <l>Friend of my childhood's bright and happy years,</l>
+            <l>Where dwells thy spirit now?  I feel its power</l>
+            <l>In this calm twilight air; I catch thy tone</l>
+            <l>In the sweet cadence of this evening gale;</l>
+            <l>I see the holy beauty of thy face</l>
+            <l>In the strange beauty of yon sunset cloud;</l>
+            <l>I feel thy breath upon my cheek, as though</l>
+            <l>Thy spirit in its angel-mission o'er</l>
+            <l>The darkened earth, stooped from its glorious flight</l>
+            <l>To whisper hope and comfort to my bruised</l>
+            <l>And broken spirit.  Can it be?  Ah yes,</l>
+            <l>O'er this lone spot thy bright and guardian wings</l>
+            <pb xml:id="griffith_poems_13087" n="91"/>
+            <l>Are hovering, and at night thy angel-arms</l>
+            <l>Enfold again the loved of earth, and guard</l>
+            <l>From coming ills the children of thy heart.</l>
+            <l>It must be so, for oh, I know that this</l>
+            <l>Blest presence is thine own.  Thy spirit glides</l>
+            <l>Around me at the morning, noon, and eve,</l>
+            <l>And at the solemn midnight, and I thank</l>
+            <l>Thy God and mine, that I am not alone.</l>
+            <lb/>
+            <l>BEDFORD, APRIL 12th, 1851.</l>
+            <pb xml:id="griffith_poems_13088" n="92"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_17" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head>Close of the Year.</head>
+          <lg type="stanza">
+            <l n="1">AN hour ago the music at the wood,</l>
+            <l>And the low chant of waves came o'er the glade,</l>
+            <l>But now no murmur breaks the solitude,</l>
+            <l>And a stern weight on Nature's pulse seems laid.</l>
+            <l>Yon moon has seen the death of countless years</l>
+            <l>From her blue air-halls in the midnight sky,</l>
+            <l>And lo! her dim sad eye looks down through tears</l>
+            <l>Upon the earth to see another die.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Silent and beautiful, she sits alone,</l>
+            <l>The princess of the sky, and in her pale</l>
+            <l>Sweet light a spell of mournful love seems thrown</l>
+            <l>Upon the plain, the forest, and the vale:</l>
+            <pb xml:id="griffith_poems_13089" n="93"/>
+            <l>It is the old year's death-hour, but no sob</l>
+            <l>Comes on the night-air from his dying breast;</l>
+            <l>Serene, and calm, and still, without one throb</l>
+            <l>Of agony he passes to his rest.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Yet tears are in our hearts and in our eyes,</l>
+            <l>Mid the strange stillness of this solemn night,</l>
+            <l>While here we sit and muse upon the ties</l>
+            <l>The dying year has severed in his flight;</l>
+            <l>Ay, as his last breath on the air is flung,</l>
+            <l>Our hearts are heavy and our eyes are dim</l>
+            <l>With thinking of the woes that with him sprung</l>
+            <l>To life--alas; they cannot die with him.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Like the cold shadow of a demon's plume,</l>
+            <l>A chilling darkness that will not depart</l>
+            <l>Lies on our thoughts, and casts its sullen gloom</l>
+            <l>Around the dearest idols of the heart;</l>
+            <l>We learn in youth the stern and bitter lore</l>
+            <l>That comes of ruined hopes and darkened dreams,</l>
+            <pb xml:id="griffith_poems_13090" n="94"/>
+            <l>And Nature has no magic to restore</l>
+            <l>The glory of the spirit's shadowed gleams.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Scattered and broken on life's desert wide,</l>
+            <l>The soul's best gems, its brightest treasures shine,</l>
+            <l>And memories of joy, and love, and pride</l>
+            <l>Lie dim upon the bosom's shattered shrine:</l>
+            <l>We gaze into the future, but a shade</l>
+            <l>Is on its visions, they are not so blest</l>
+            <l>And beautiful as those the year has laid</l>
+            <l>Within the heart's deep sepulchre to rest.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">The music of our being's rushing stream</l>
+            <l>Is growing sad and sadder day by day,</l>
+            <l>And life is but a troubled fever-dream</l>
+            <l>That soon must vanish from our souls away;</l>
+            <l>But when this wild and tearful dream is past,</l>
+            <l>The mounting spirits of the pure will rove</l>
+            <l>Above the cloud, the whirlwind, and the blast,</l>
+            <l>In the bright Eden of immortal love.</l>
+            <pb xml:id="griffith_poems_13091" n="95"/>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Farewell, old year! while sorrow dims our eyes,</l>
+            <l>We bless thee for the lessons thou hast given;</l>
+            <l>Though thou hast filled earth's atmosphere with sighs,</l>
+            <l>We trust that thou hast brought us nearer heaven:</l>
+            <l>Some stars that gleam along thy shadowy track</l>
+            <l>Will shine upon our hearts with holy power,</l>
+            <l>And oft our pilgrim-spirits will come back</l>
+            <l>To muse and weep o'er this thy dying hour.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Old Year, farewell, the myriad flowers that thou</l>
+            <l>Hast blighted, will again in beauty bloom,</l>
+            <l>And breathing millions thou hast caused to bow</l>
+            <l>In death, will rise in triumph from the tomb.</l>
+            <l>Not thus, old year, with thee.  Thy life, now fled,</l>
+            <l>No power of God or Nature will restore;</l>
+            <l>The graves of years may not give up their dead,</l>
+            <l>And thou wilt live, oh never, nevermore.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Farewell, for ever fare thee well, old year!</l>
+            <l>The gentle angel, missioned at thy birth</l>
+            <pb xml:id="griffith_poems_13092" n="96"/>
+            <l>To keep life's records through thy sojourn here,</l>
+            <l>Has poised his shining wing and left the earth;</l>
+            <l>Oh, may the words of love and mercy fall,</l>
+            <l>Heaven's own blest music, on each erring soul,</l>
+            <l>When, on His burning throne, the Judge of all</l>
+            <l>Shall to our eyes unfold the awful scroll!</l>
+            <pb xml:id="griffith_poems_13093" n="97"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_18" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head>To My Georgie.</head>
+          <lg type="stanza">
+            <l n="1">MY cousin, I am gazing on thee now,</l>
+            <l>And well I mark, with soul of joy and pride,</l>
+            <l>The changing beauty of thy glorious face.</l>
+            <l>With rapture swelling in my heart of love</l>
+            <l>I gaze upon thy young and joyous cheek,</l>
+            <l>Where roses pure reveal their richest dyes,</l>
+            <l>And shed their sweetest perfume--thy soft eye,</l>
+            <l>Thy soft, meek eye of mild and tender blue,</l>
+            <l>Trembling beneath its dark and fringy lash,</l>
+            <l>And glowing with the spirit-dreams that seem</l>
+            <l>Reflected from its calm, mysterious depths,</l>
+            <l>Like gems from ocean-caves--thy lofty brow</l>
+            <l>O'er which the blue veins stray like tranquil streams,</l>
+            <l>Along a lovely plain--thy temples pale,</l>
+            <pb xml:id="griffith_poems_13094" n="98"/>
+            <l>Where thy brown wealth of waving tresses floats</l>
+            <l>In beautiful luxuriance--thy lips</l>
+            <l>Of richest coral, where a thousand smiles</l>
+            <l>Appear and flee in frolic chase, like birds</l>
+            <l>Around a sleeping lake at morning-tide--</l>
+            <l>I gaze on these, sweet cousin, and in all</l>
+            <l>I see a spirit of deep purity;</l>
+            <l>A living, breathing, glowing soul of deep</l>
+            <l>And holy purity, from which dark Vice</l>
+            <l>And Sin would cower and fly, rebuked and quelled</l>
+            <l>As by Religion's power.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	My cousin dear,</l>
+            <l>Thou art a very dream of loveliness,</l>
+            <l>And beauty is thy purity.  Thou art</l>
+            <l>A creature whose high soul is troubled not</l>
+            <l>With the temptations of a world of sin.</l>
+            <l>Thy gentle spirit here hath kept undimmed</l>
+            <l>The angel-charm on which our God in heaven</l>
+            <l>Set His own signet of unchanging truth.</l>
+            <l>I love thee, and I reverence thy high</l>
+            <pb xml:id="griffith_poems_13095" n="99"/>
+            <l>And holy strength of purpose.  Gentleness,</l>
+            <l>And loftiness, and virtue are in all</l>
+            <l>Thy feelings, and they stamp thy mortal life</l>
+            <l>With an immortal beauty.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Cousin dear,</l>
+            <l>As here I fix my tearful eyes on thee,</l>
+            <l>And hear thy tones of pure and gentle love,</l>
+            <l>My spirit seems to see an angel's form,</l>
+            <l>And hear the cadence of an angel's voice.</l>
+            <l>Thou art young, pure, and sweet--life beckons thee</l>
+            <l>To a bright destiny.  Thy loving friends</l>
+            <l>Are ever, ever round thee, making earth</l>
+            <l>All that thy true and gentle heart could crave</l>
+            <l>In its wild fairy visions.  There are those</l>
+            <l>For ever round thy glowing path, who fling</l>
+            <l>A brightness on thy being, and to whom</l>
+            <l>Thy own sweet life is as the radiant beam</l>
+            <l>And the refreshing dew-drop to the parched</l>
+            <l>And desert earth.  Ay, thou art blest with all</l>
+            <l>That makes life beautiful, with not one cloud</l>
+            <pb xml:id="griffith_poems_13096" n="100"/>
+            <l>To dim thy heaven.  Thus may it ever be,</l>
+            <l>Dear friend, with thee.  May no dark sorrows e'er</l>
+            <l>Come o'er thy tranquil life, like those that frown</l>
+            <l>So dark o'er my sad fate.  Oh I would pray</l>
+            <l>The Power who sends to me a night of grief</l>
+            <l>And storm of bitter tears, to give to thee</l>
+            <l>The bright sky where no thunder-cloud e'er breaks</l>
+            <l>The holy blue; to give thee a bright path,</l>
+            <l>Where no foul serpents coil to blight and mar</l>
+            <l>The angels' shining footsteps, and no thorns</l>
+            <l>Mingle with love's pure garlands.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Cousin sweet,</l>
+            <l>May peace, and joy, and hope be thine on earth;</l>
+            <l>May these e'er be thy blessed ministers,</l>
+            <l>Thy guardian-spirits here, and may they crown</l>
+            <l>Thy beaming brow in God's own Paradise,</l>
+            <l>With their bright wreath of immortality.</l>
+            <lb/>
+            <l>OHIO RIVER, JUNE 23.</l>
+            <pb xml:id="griffith_poems_13097" n="101"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_19" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head>In Memory of my Father.</head>
+          <lg type="stanza">
+            <l n="1">DEAR father mine, thy grave is far away--</l>
+            <l>Soft, sunny skies, bend warm and lovingly</l>
+            <l>Above thy dreamless slumber, and the waves</l>
+            <l>Of a far southern stream sweep by, and bear</l>
+            <l>In their low tones a message and a sigh</l>
+            <l>From thy unhappy child.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	My father dear,</l>
+            <l>These eyes have never gazed upon thy grave,</l>
+            <l>These hands have never taught the sweet Spring-rose</l>
+            <l>To bloom on that neglected spot; but ah,</l>
+            <l>Within my soul there is a holy flower,</l>
+            <l>A flower perennial, watered with my tears,</l>
+            <l>And kissed to bloom by the sweet beam of love--</l>
+            <pb xml:id="griffith_poems_13098" n="102"/>
+            <l>Father, that flower is memory of thee.</l>
+            <l>Years, weary, anxious years have passed o'er earth,</l>
+            <l>And shadowed in their course young, loving hearts,</l>
+            <l>Since that bright morning when we saw thee go</l>
+            <l>Forth in the beauty of thy glorious prime,</l>
+            <l>Bearing to thy far southern home a fair</l>
+            <l>And gentle bride.  Oh, father, thou didst kiss</l>
+            <l>Thy little prattler with a beaming smile,</l>
+            <l>And give her to thy mother's holy care;</l>
+            <l>But even then I heard a faint, low sigh,</l>
+            <l>Which sadly fell upon my ear and heart,</l>
+            <l>The omen of a coming agony.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	They tell me that a fair, young stranger girl,</l>
+            <l>Who knew thee not, has placed a sweet wildrose</l>
+            <l>To shed its gentle fragrance o'er thy dust.</l>
+            <l>Her pitying heart was deeply touched to look</l>
+            <l>On thy neglected sleep, and, with the pure</l>
+            <l>Sweet instinct of a daughter, she placed flowers</l>
+            <l>Upon thy lonely grave.  My deep heart breathes</l>
+            <l>A blessing upon hers.  Oh may no griefs</l>
+            <pb xml:id="griffith_poems_13099" n="103"/>
+            <l>E'er fall upon her life like those which rest</l>
+            <l>So dark on mine.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Oh father, my poor heart</l>
+            <l>Is lone and sad to-night.  In agony</l>
+            <l>'Tis calling to thee in thy distant grave.</l>
+            <l>I am an orphan lone, and, when my brow</l>
+            <l>Is fevered and my heart oppressed, I fain</l>
+            <l>Would fly to thee; I would pour out my grief</l>
+            <l>Beside thy mouldering ashes; I would weep</l>
+            <l>Beside the cold grave-stone, and on the ear</l>
+            <l>Of Death would breathe a stricken daughter's woe.</l>
+            <l>My spirit calls to thine--oh come to me</l>
+            <l>In this lone hour, and let me know once more</l>
+            <l>A father's holy love.  Ah, now a strange</l>
+            <l>Mysterious thrill comes o'er my soul; I feel</l>
+            <l>A spirit's presence--father, is it thine!</l>
+            <l>Yes, it is thine, I see thee, and through all</l>
+            <l>The trembling fibres of my frame I feel</l>
+            <l>That hallowed kiss.  Stay, blessed father, stay,</l>
+            <l>And leave me never more alone on this</l>
+            <pb xml:id="griffith_poems_130100" n="104"/>
+            <l>Cold desert of the earth.  If thou must go,</l>
+            <l>Dear father, fold thy angel-wings around</l>
+            <l>Thy child, and bear her to thy far blue home,</l>
+            <l>To rest for ever with our God and thee.</l>
+            <lb/>
+            <l>BEDFORD, KY.</l>
+            <pb xml:id="griffith_poems_130101" n="105"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_20" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head>The Lone One at the Old Trysting-Place.</head>
+          <lg type="stanza">
+            <l n="1">IT is the twilight hour, and o'er the earth</l>
+            <l>The softening spells of evening shadows steal.</l>
+            <l>All here is stillness now, and I have come</l>
+            <l>To look once more upon this spot, and hold</l>
+            <l>Communion with the unforgotten past.</l>
+            <l>My heart, all sad and lonely, here would breathe</l>
+            <l>The silent music that clings round its chords.</l>
+            <l>The perfume from the incense-breathing meads</l>
+            <l>Steals o'er my spirit, like the fragrance caught</l>
+            <l>From many a broken, pale, and withered flower</l>
+            <l>Of faded memory.  The evening star</l>
+            <l>Still shines above as bright as when it beamed,</l>
+            <l>In eve's long past, a watchfire in the heavens,</l>
+            <l>To guide <hi rend="italic">his</hi> steps to me</l>
+            <pb xml:id="griffith_poems_130102" n="106"/>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Ah, here where once</l>
+            <l>My young heart know life's deepest blessings, I</l>
+            <l>Would weep away that heart's remaining youth.</l>
+            <l>Here where 'twas soft and gentle, it should now</l>
+            <l>Learn to be strong.  Years, with their joys and griefs,</l>
+            <l>Have passed away and left this sacred spot</l>
+            <l>Unchanged.  The little rustic seat where we</l>
+            <l>Erst whiled away the dear and blissful hours</l>
+            <l>With love's low-murmured melodies, is still</l>
+            <l>As memory oft has pictured it.  Again</l>
+            <l>My heart forgets its shadows and its gloom,</l>
+            <l>The tones of love thrill through its depths, and on</l>
+            <l>The breeze the cadence of his words is borne;</l>
+            <l>Again my hand within his own is pressed,</l>
+            <l>To his my eyes are turned and drink again</l>
+            <l>The bliss of that dear smile.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Within my soul</l>
+            <l>So dark and drear, a light is breaking now,</l>
+            <l>'Tis memory's holy star-gleam, 'tis a light</l>
+            <l>From out the happy past.  Deep in my heart</l>
+            <pb xml:id="griffith_poems_130103" n="107"/>
+            <l>There blooms a single flower, a lonely flower</l>
+            <l>Or faded recollection, the "last rose"</l>
+            <l>Of joy's departed Summer, a sweet bloom</l>
+            <l>Whose sad pale beauty lingers mournfully</l>
+            <l>Upon life's darkened waste--it is the bloom</l>
+            <l>Of dear remembered love, and now my heart,</l>
+            <l>My weary heart, finds rapture in this spot</l>
+            <l>Of holy tryst.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	But, lo! the roseate tints</l>
+            <l>Have slowly faded from the Western sky,</l>
+            <l>The mystic lamps of Heaven shine far above,</l>
+            <l>And the pale moonbeams slumber with a wan</l>
+            <l>Mysterious light upon this blessed scene.</l>
+            <l>The falling dews are heavy on my hair,</l>
+            <l>Whilst tears, delicious tears, are welling up</l>
+            <l>From my heart's shadowed fount.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	I am alone</l>
+            <l>With God and with His holy messengers</l>
+            <l>That guard this sacred place.  A soft low prayer</l>
+            <l>Is gently stirring all my heart's young leaves,</l>
+            <pb xml:id="griffith_poems_130104" n="108"/>
+            <l>And breathing from my lips.  Oh I would ask</l>
+            <l>For <hi rend="italic">him</hi> a charmed existence.  I would ask</l>
+            <l>That on <hi rend="italic">my</hi> life the shadows lengthening</l>
+            <l>In their decline might rest, so <hi rend="italic">he</hi> be spared</l>
+            <l>A single sorrow.  Let, the blessed beam</l>
+            <l>Shine on him, and the shadow hang o'er me.</l>
+            <l>My life within the "vale of shadows" e'er</l>
+            <l>Must lie, but oh may his be on the bright,</l>
+            <l>Sun-lighted mount, and from my lowly home,</l>
+            <l>With outstretched arms and yearning heart, I'll lift</l>
+            <l>My soul to pierce the cloud-gloom, and to gaze</l>
+            <l>With love and tears on him.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Sweet spot, farewell!</l>
+            <l>Take these, my breaking heart's wild, burning tears</l>
+            <l>As its deep blessing.  Take my stifled sobs</l>
+            <l>As tokens of my parting agony.</l>
+            <l>The holy light of love that ever burns</l>
+            <l>Within my soul of memory's sacred shrine,</l>
+            <l>Has gathered brightness and intensity</l>
+            <l>From this lone eve's communion.  Dearest spot,</l>
+            <l>Farewell! farewell!  I may not see thee more.</l>
+            <pb xml:id="griffith_poems_130105" n="109"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_21" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head><seg type="short-title">Lines to Miss -------</seg><lb/>
+ON HER MARRIAGE.</head>
+          <lg type="stanza">
+            <l n="1">FAIR lady, new and holy ties are thine,</l>
+            <l>The dearest ties e'er twined by earth or heaven,</l>
+            <l>And oh may every blessing on thee shine,</l>
+            <l>That to a mortal spirit can be given.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Thou art, indeed, most beautiful and fair,</l>
+            <l>No shadow rests upon thy queenly brow,</l>
+            <l>And I will pray that never grief or care,</l>
+            <l>May dim the life, so pure and happy now.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Thou goest from thy dear old parent home,</l>
+            <l>The home of peace, of happiness and love,</l>
+            <l>Yet still 'twill be, where'er thy feet may roam,</l>
+            <l>An ark of refuge for the wandering dove.</l>
+            <pb xml:id="griffith_poems_130106" n="110"/>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Within another's heart thy heart of pride,</l>
+            <l>Its sweetest bliss, its dearest life has found,</l>
+            <l>And may thy deep devotion, gentle bride,</l>
+            <l>Forever be with richest garlands crowned.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">My spirit fain would weave a mystic spell,</l>
+            <l>To bless thy lofty Spirit, it would pray,</l>
+            <l>That all the richest joys, that ever fell,</l>
+            <l>From heaven to earth, may fall around thy way.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">'Twould pray that if the storm thy skies shall shroud,</l>
+            <l>And the dear light of sun and stars depart,</l>
+            <l>The holy beams that glow beyond the cloud,</l>
+            <l>May shine serenely on thy mounting heart.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Thy face hath wakened in my heart a high</l>
+            <l>Bright dream of beauty to my spirit dear,</l>
+            <l>And oh! may I behold thee in the sky,</l>
+            <l>As beautiful as I behold thee here.</l>
+            <lb/>
+            <l>KENTUCKY, DEC. 3d.</l>
+            <pb xml:id="griffith_poems_130107" n="111"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_22" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head>To ---------------.</head>
+          <lg type="stanza">
+            <l n="1">I DO not love thee, yet why does thy calm</l>
+            <l>Sweet smile forever haunt my dreams, and why</l>
+            <l>Do thy dark eyes beam gloriously on mine</l>
+            <l>Like bright stars from the midnight heaven of sleep?</l>
+            <l>No tone of sweetest music ever falls</l>
+            <l>Upon my ear at gentle eve but breathes</l>
+            <l>The music of thy voice; no silver wave</l>
+            <l>E'er murmurs at my feet but seems to glass</l>
+            <l>Thy face and form; no lovely blossom springs</l>
+            <l>Beside my lonely pathway but exhales</l>
+            <l>The perfume of thy breath.</l>
+            <pb xml:id="griffith_poems_130108" n="112"/>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	When thou art near,</l>
+            <l>My thrilling spirit seems a universe</l>
+            <l>Of happiness and beauty.  Blessed dreams</l>
+            <l>Of airy loveliness float through my soul;</l>
+            <l>A chastened splendor rests upon my life,</l>
+            <l>As a soft pillar of the moonlight rests</l>
+            <l>Upon the deep; and a soft glory comes</l>
+            <l>From thy sweet presence o'er my heart, to charm</l>
+            <l>My senses into worship.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	On thy brow</l>
+            <l>I read the might of lofty intellect,</l>
+            <l>And I have listened with a panting heart</l>
+            <l>To thy high words of music and of pride,</l>
+            <l>And bowed my soul in homage to thy power,</l>
+            <l>Thou glorious son of genius. Every star</l>
+            <l>That trembles in the blue empyrean, seems</l>
+            <l>A torch to light thy spirit's sweeping track</l>
+            <l>Through Heaven's serene abyss; and holy night</l>
+            <l>Seems but a stole of solemn hue thrown round</l>
+            <l>The radiance of thy soul.</l>
+            <pb xml:id="griffith_poems_130109" n="113"/>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Thou art afar,</l>
+            <l>I know not where, but still the arches lone</l>
+            <l>Of Memory's sacred temple are illumed</l>
+            <l>By the pure, blessed brilliancy they caught</l>
+            <l>From thy dear presence, and they echo yet</l>
+            <l>Thy voice's spirit-music, till the air</l>
+            <l>Grows tremulous with joy.  The wanderers o'er</l>
+            <l>The bright realms of the rosy Hesperus,</l>
+            <l>Ne'er revelled in an atmosphere of bliss</l>
+            <l>Like that which thrills around me with the spell</l>
+            <l>Of thy remembered cadences.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	And yet</l>
+            <l>I love thee not.  I only ask to look</l>
+            <l>With thee upon the heavens that roll serene</l>
+            <l>And beautiful above; to sit and gaze</l>
+            <l>On the same stars thou gazest on, and send</l>
+            <l>My soul to thine when slumber's midnight dews</l>
+            <l>Have fallen on thy blue-veined lids, and hushed</l>
+            <l>Thy heart to rest.  Oh I would love to flit,</l>
+            <l>The spirit of the zephyr, through thy dreams,</l>
+            <pb xml:id="griffith_poems_130110" n="114"/>
+            <l>Waking to beauty and to melody</l>
+            <l>Thy fancy's wild and leaping waves; to glide,</l>
+            <l>A star-beam, through thy softly-shadowed soul,</l>
+            <l>Flinging a glory o'er thy sleeping world;</l>
+            <l>To murmur like a voice from out the air</l>
+            <l>Within thy dreaming ear, and blend my thoughts</l>
+            <l>With thy own thoughts of flame.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Then thou wouldst feel</l>
+            <l>My kisses on thy lip, and my young heart</l>
+            <l>Pressed to thy throbbing bosom as I watched</l>
+            <l>O'er thy unguarded hours, but yet no spell,</l>
+            <l>Flung on thy sweetly-troubled sleep, should haunt</l>
+            <l>Thy waking life with its remembered charm.</l>
+            <l>Ha! what wild power is this that fills my soul,</l>
+            <l>Holding thought, feeling, ay, my very life,</l>
+            <l>In its resistless thrall?  'Tis strangely sweet,</l>
+            <l>Yet there is madness in its influence,</l>
+            <l>And with a trembling soul and frame I bow</l>
+            <l>To its mysterious mastery.  Oh, unchain</l>
+            <l>Thy victim, strong, and beauteous spirit, take</l>
+            <pb xml:id="griffith_poems_130111" n="115"/>
+            <l>Thy magic fetter from my soul; unbind</l>
+            <l>My wing and leave me free, as I have been,</l>
+            <l>To wander with the birds, the waves, the winds,</l>
+            <l>The clouds, the stars, where'er I list, o'er earth</l>
+            <l>And through the blue and boundless cope of Heaven.</l>
+            <lb/>
+            <l>LOUISVILLE, KY., JANUARY 6, 1852.</l>
+            <pb xml:id="griffith_poems_130112" n="116"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_23" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head>My Mother.</head>
+          <lg type="stanza">
+            <l n="1">MY dear, lost mother, it is midnight now,</l>
+            <l>The sky is dark and starless, and the earth</l>
+            <l>Seems bound as with a spell of silence.  All</l>
+            <l>Around is still and pulseless as the heart</l>
+            <l>Whence life has fled for ever.  At this hour,</l>
+            <l>When in my listenings I can hear no sound,</l>
+            <l>Save the low earnest voice of my own soul</l>
+            <l>Calling in grief to Heaven, I would invoke</l>
+            <l>Thy spirit from its blessed home, to hold</l>
+            <l>Communion with thy child.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	My thought retains</l>
+            <l>No vestige, mother, of thy form or face--</l>
+            <pb xml:id="griffith_poems_130113" n="117"/>
+            <l>Death took thee from me long ere memory</l>
+            <l>Could paint the image of thy loveliness</l>
+            <l>Upon my infant soul.  Yet many friends</l>
+            <l>Have told me thou wast beautiful beyond</l>
+            <l>The poet's twilight imaging.  They say</l>
+            <l>That thy fair, blue-veined forehead nestled 'mid</l>
+            <l>The dark brown clusters of thy tresses, like</l>
+            <l>The spirit of sweet purity among</l>
+            <l>The clouds of earthly gloom; that thy black eye,</l>
+            <l>Calm, proud, and beautiful, beamed with the pure</l>
+            <l>High visions of thy soul, as midnight waves</l>
+            <l>Gleam with the flashing star-beams; that thy cheek,</l>
+            <l>For ever living with the blended hues</l>
+            <l>Of rose and lily, seemed to glow with more</l>
+            <l>Than earthly beauty; and that thy red lips</l>
+            <l>Took added witcheries from the beaming smiles,</l>
+            <l>And from the tones of gentle melody</l>
+            <l>That ever hung around them.  Ay, I've heard</l>
+            <l>Full oft of thy entrancing charms, and mused</l>
+            <l>In silence on them till my soul has sketched</l>
+            <l>A picture of surpassing loveliness,</l>
+            <l>And fondly named it thee; and oh I feel</l>
+            <l>I could for ever kneel and worship it</l>
+            <pb xml:id="griffith_poems_130114" n="118"/>
+            <l>In wild excess of love.  I do not know</l>
+            <l>That e'er I heard thy voice, yet in my brain</l>
+            <l>There is a soft mysterious melody</l>
+            <l>Far sweeter than the sweetest sound of earth;</l>
+            <l>And I have dreamed it is thy gentle tone</l>
+            <l>Breathed in mine ear in early infancy</l>
+            <l>And lingering faintly still.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	My mother dear,</l>
+            <l>When the high mandate came that bade thee take</l>
+            <l>Farewell of this dark earth, and seek thy home</l>
+            <l>Of immortality beyond the stars,</l>
+            <l>Oh did no feeling of regret arise</l>
+            <l>Within thy pure and parting soul?  Hadst thou</l>
+            <l>No torturing fears, sweet mother, for thy child</l>
+            <l>Whom thou wast leaving in her helpless years</l>
+            <l>Amid a world of sin?  Hadst thou no dread</l>
+            <l>Lest her young feet should wander from the paths</l>
+            <l>Of truth, when she should hear no voice of thine</l>
+            <l>To warn her of her perils?  Mother, now</l>
+            <l>That child is weary of life's pilgrimage,</l>
+            <l>Her spirit is oppressed on this dark shore</l>
+            <pb xml:id="griffith_poems_130115" n="119"/>
+            <l>Of time; the burden of existence falls</l>
+            <l>Upon a heart too weak and faint to bear</l>
+            <l>Its cares and agonies; and oh, she longs</l>
+            <l>To come to thee, and weep away her griefs</l>
+            <l>Upon thy sainted bosom.  Be the first,</l>
+            <l>Oh mother, be the first to catch the sound</l>
+            <l>Of her young footsteps through the shadowy vale</l>
+            <l>Of death, and clasp her in thy blessed arms</l>
+            <l>In thy own Eden.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Mother; from thy home</l>
+            <l>Above, look down in pity on thy child,</l>
+            <l>Thy lonely orphan wanderer.  Shelter her</l>
+            <l>With thy angelic wing in her sad stay</l>
+            <l>Upon the earth; breathe strength from thy high soul</l>
+            <l>Into her soul; oh speak to her in dreams,</l>
+            <l>When sleep has rent her earthly fetters; tell</l>
+            <l>Her spirit of the bright, the better land;</l>
+            <l>And keep her heart in all its wanderings pure</l>
+            <l>From the dark stains of this mortality.</l>
+            <lb/>
+            <l>LOUISVILLE, OCT. 25.</l>
+            <pb xml:id="griffith_poems_130116" n="120"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_24" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head>To J. R. Barrick.</head>
+          <lg type="stanza">
+            <l n="1">OH poet, to my lone and swelling heart</l>
+            <l>How gently comes the message sent by thine;</l>
+            <l>It speaks to me of all I know thou art,</l>
+            <l>For thy high soul glows in each burning line.</l>
+            <l>I ne'er have met thee on the earth, but thou</l>
+            <l>Hast wakened visions that will long remain,</l>
+            <l>Shedding their holy brightness on my brow,</l>
+            <l>And haunting with their glory heart and brain.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Yes, poet, to my soul, as to thine own,</l>
+            <l>The world is bright, and if dark grief awhile</l>
+            <l>Clouds the high visions of my spirit lone,</l>
+            <l>I find no gloom in Nature's blessed smile.</l>
+            <pb xml:id="griffith_poems_130117" n="121"/>
+            <l>The flowers still blow as in my childhood's years,</l>
+            <l>The sunset hangs as lovely, on the sky,</l>
+            <l>And the dear moon wakes still the happy tears</l>
+            <l>Her pale face wakened in the years gone by.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">And earth is brighter still, that souls like thine</l>
+            <l>Are sent by Heaven beneath the skies to give</l>
+            <l>To cold realities a tinge divine,</l>
+            <l>And make it a sweet luxury to live.</l>
+            <l>Such spirits lend a deep ideal glow</l>
+            <l>To wave, to wildwood, rainbow, star and flower,</l>
+            <l>Charming from human life the shades of woe</l>
+            <l>By the strong spell of their mysterious power.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">And thou hast stolen even from this dull,</l>
+            <l>Cold heart of mine, one-half its weight of pain,</l>
+            <l>And made existence almost beautiful</l>
+            <l>By the strange magic of thy heavenly strain.</l>
+            <l>Lured by thy tones, my weeping spirit turns</l>
+            <l>From all earth's cares, its bitterness and strife,</l>
+            <l>And, leaning on, thy noble spirit, learns</l>
+            <l>To taste the glorious ecstasies of life.</l>
+            <pb xml:id="griffith_poems_130118" n="122"/>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Oh, earth to thee must be a Paradise,</l>
+            <l>Where birds are singing ever o'er thy head,</l>
+            <l>Where silver fountains picture golden skies,</l>
+            <l>And loveliest flowers spring up beneath thy tread.</l>
+            <l>And there blest spirits, beautiful and bright,</l>
+            <l>High angel-natures, love with thee to roam</l>
+            <l>At morn, at eve, and in the silent night,</l>
+            <l>And talk with thee of thy immortal home.</l>
+            <pb xml:id="griffith_poems_130119" n="123"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_25" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head>The Orphan.</head>
+          <lg type="stanza">
+            <l n="1">OH, wearily, most wearily through life,</l>
+            <l>The orphan girl in bitter grief must go,</l>
+            <l>Uncheered amid the dark and fearful strife</l>
+            <l>A cold world wages with the child of woe;</l>
+            <l>No parent's voice to soothe with sweet control</l>
+            <l>The burning tear-drops bursting from her soul.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">She's desolate on earth, and she must bear</l>
+            <l>The conflict of mortality alone;</l>
+            <l>Nor in her keenest anguish must she dare</l>
+            <l>To heave a sigh, or breathe one sorrowing moan;</l>
+            <l>For men may mock the sighs and groans that start</l>
+            <l>From the recesses of a breaking heart!</l>
+            <pb xml:id="griffith_poems_130120" n="124"/>
+          </lg>
+          <lg type="stanza">
+            <l n="1">And when disease steals fiercely through her frame,</l>
+            <l>And she is lying helpless, pale, and weak--</l>
+            <l>When fever's wild and desolating flame</l>
+            <l>Is burning on her brow and wasted cheek,</l>
+            <l>None come to stand beside her couch and lave</l>
+            <l>Her lip and forehead with the cooling wave.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Yet, oh, there's One to whom she still may turn,</l>
+            <l>One who hath power to soothe, to heal, to bless--</l>
+            <l>The great All-Merciful, who will not spurn</l>
+            <l>The weeping orphan in her wretchedness;</l>
+            <l>Yes, she may lift her earnest prayers on high</l>
+            <l>To Him who listens to the raven's cry.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">He hears her pleading tones of agony--</l>
+            <l>He sees the tears her lifted eyes that fill,</l>
+            <l>And the deep wounds that bled upon the tree</l>
+            <l>Are for the lovely orphan bleeding still!</l>
+            <l>He will be with her in her sore distress,</l>
+            <l>A friend--a father to the fatherless.</l>
+            <pb xml:id="griffith_poems_130121" n="125"/>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Then lift thy head, poor orphan, in thy grief,</l>
+            <l>Turn from the world, and fix thy thoughts above--</l>
+            <l>Thou hast a Father who can give relief,</l>
+            <l>And love thee with a deep, immortal love!</l>
+            <l>He will uphold thee on life's stormy sea,</l>
+            <l>And make thee blessed in eternity.</l>
+            <pb xml:id="griffith_poems_130122" n="126"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_26" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head><seg type="short-title">Impromptu.</seg><lb/>
+ON RECEIVING A MAGNOLIA FLOWER FROM THE BEAUTIFUL SALLIE W.</head>
+          <lg type="stanza">
+            <l n="1">I LOVE to look on thee, oh glorious flower,</l>
+            <l>The brightest nursling of the beam and shower;</l>
+            <l>The soft, rich perfumes round thy fairy heart</l>
+            <l>To soul and sense an ecstasy impart;</l>
+            <l>And thy young leaves of snowy whiteness gleam</l>
+            <l>With the strange beauty of a wild sweet dream.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">There is a magic in thy leaves, bright flower,</l>
+            <l>That thrills me with its deep and mystic power,</l>
+            <pb xml:id="griffith_poems_130123" n="127"/>
+            <l>And o'er the calm thoughts slumbering in my soul,</l>
+            <l>Steals with a soft and beautiful control,</l>
+            <l>The glowing visions of my life to bless</l>
+            <l>With a deep spell of joy and loveliness.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Oh bright magnolia, thou hast ever stood</l>
+            <l>The queen of all the floral sisterhood,</l>
+            <l>And she, thy giver, in her pride of place,</l>
+            <l>Is crowned the queen of beauty, love, and grace;</l>
+            <l>Ay, what thou art within the garden-bowers</l>
+            <l>Is she, thy giver, among human flowers.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Yet she is far more beautiful than thou,</l>
+            <l>Thy leaves are not so white as her white brow;</l>
+            <l>'Twere vain within thy perfumed depths to seek</l>
+            <l>Such tints as live upon her heavenly cheek;</l>
+            <l>And the dear witcheries of her blue eye glow</l>
+            <l>More lovely than thy cup of spotless snow.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">In thy sweet incense-breath, there is no spell</l>
+            <l>Like those that round her presence ever dwell;</l>
+            <pb xml:id="griffith_poems_130124" n="128"/>
+            <l>Thy gentle beauty is a thing to keep</l>
+            <l>For ever in the spirit pure and deep;</l>
+            <l>But she is God's own loveliest blossom, given</l>
+            <l>To tell us of the garden-bowers of Heaven.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Oh, thou and she were both sent here to bless</l>
+            <l>The earth with beauty, light, and loveliness;</l>
+            <l>And it was well thy petals should expand,</l>
+            <l>Beneath the influence of her fostering hand,</l>
+            <l>For now thy leaves dear thoughts of her awake,</l>
+            <l>And thou art lovelier for her lovely sake.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">I look on thee, and blessed thoughts of her</l>
+            <l>Within the depths of my sad spirit stir;</l>
+            <l>I've gazed on her as now I gaze on thee,</l>
+            <l>Till my full soul gushed o'er with ecstasy,</l>
+            <l>And her wild beauty has become a part</l>
+            <l>For ever of my burning brain and heart.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Ah, dearest blossom, as with sorrowing eye</l>
+            <l>I watch thee fade, and feel thou soon must die,</l>
+            <pb xml:id="griffith_poems_130125" n="129"/>
+            <l>I weep for thee, but still 'tis joy to know</l>
+            <l>That her pure soul will keep its heavenly glow,</l>
+            <l>Passing at length to yon blue sky afar,</l>
+            <l>The brightest flower, changed to the brightest star.</l>
+            <pb xml:id="griffith_poems_130126" n="130"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_27" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head>Life.</head>
+          <lg type="stanza">
+            <l n="1">"OH,1ife, is very, very beautiful</l>
+            <l>To my young heart.  No clouds are on its sky,</l>
+            <l>Save those the rainbow crowns; no waters sweep</l>
+            <l>Beneath, save those that give the sky's soft blue</l>
+            <l>Back from their tranquil bosoms; and no winds</l>
+            <l>Fly o'er the fresh green earth, save those that come</l>
+            <l>To bear sweet incense on their dewy wings,</l>
+            <l>To fan my glowing temples, and to lift</l>
+            <l>The light curl from my cheek.  The many stars</l>
+            <l>Shine like rich blessings on me; countless flowers,</l>
+            <l>With all their soft blue eyes, look love to mine;</l>
+            <l>And myriad red and golden fruits hang low,</l>
+            <l>And seem to woo my hand to pluck them.  Life</l>
+            <l>To me is all my heart has ever dreamed</l>
+            <pb xml:id="griffith_poems_130127" n="131"/>
+            <l>Of Eden land; it is a blooming bower,</l>
+            <l>And I its merriest, happiest singing-bird.</l>
+            <l>They tell us of a brighter, better clime,</l>
+            <l>Beyond the star-lit azure, but I fain</l>
+            <l>Would live for ever on this earth."</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Thus sang</l>
+            <l>At morn a wild and joyous-hearted girl,</l>
+            <l>Upon a flowery lea.  Her loosened hat</l>
+            <l>Was swinging on her shoulders; her white hand</l>
+            <l>Strayed 'mid the sunny ringlets of her hair;</l>
+            <l>Her blue eyes glistened with her happy dreams;</l>
+            <l>And sweet smiles played, like honey bees, around</l>
+            <l>Her parted cherry lips.  Young roses lay</l>
+            <l>Upon her budding bosom; and glad thoughts</l>
+            <l>Were springing in her heart-sweet spirit-flowers,</l>
+            <l>More fresh, more bright, more beautiful, that those</l>
+            <l>That bloomed upon her breast.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Old Time moved on,</l>
+            <l>Smiling upon the gay and lovely girl,</l>
+            <pb xml:id="griffith_poems_130128" n="132"/>
+            <l>And bearing for her, on his gentle plumes,</l>
+            <l>All she could ask or crave.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	A few brief years,</l>
+            <l>And Time's sweet smile was changed to frowns.  He crushed</l>
+            <l>The dewy roses on that young girl's breast,</l>
+            <l>And in her heart.  The waving of his wing</l>
+            <l>Waked a chill blast, from which she shrank away,</l>
+            <l>Looking in vain for refuge.  One by one,</l>
+            <l>The friends and guardians of her earlier years</l>
+            <l>Fell at her side; and one by one their graves</l>
+            <l>Were watered with her bitter tears.  She felt</l>
+            <l>That she was all alone, a wanderer</l>
+            <l>Upon the desert of the world.  Her voice,</l>
+            <l>So often answered in her happier hours</l>
+            <l>By tones of love and friendship, now came back,</l>
+            <l>But with a wailing echo to her sad</l>
+            <l>And straining ear.  All bowed in soul, she pined</l>
+            <l>In deep and utter solitude.  Her hair,</l>
+            <l>That erst had wantoned on each passing gale</l>
+            <l>So bright and free, was plainly gathered o'er</l>
+            <pb xml:id="griffith_poems_130129" n="133"/>
+            <l>Her pale and stricken brow.  Her eye, that once</l>
+            <l>Had danced so wildly to the melody</l>
+            <l>Of her own soul's sweet fancies, looked through tears.</l>
+            <l>Yet sparkled with the strange mysterious light</l>
+            <l>That tells of coming death.  A deep-drawn sigh,</l>
+            <l>More dismal than the sobbing of the wind</l>
+            <l>Through the lone ruins of an ancient tomb,</l>
+            <l>Told that her heart was broken.  And as there</l>
+            <l>She bowed her forehead low upon her hand,</l>
+            <l>Her anguish thus found utterance.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	"What is life?</l>
+            <l>Oh, what is life?  A sigh, a tear, a frown,</l>
+            <l>A shadow and a mockery!  The light clouds,</l>
+            <l>That moved so sweetly o'er my morning sky,</l>
+            <l>Have darkened to a tempest; the bright waves</l>
+            <l>That caught the morning and the evening beam,</l>
+            <l>Wear midnight's sable hue, and break and roar</l>
+            <l>In yeasty wrath around me; and the winds</l>
+            <l>That used to linger on my floating curls,</l>
+            <l>And with their dew-lips kiss my rosy cheeks,</l>
+            <pb xml:id="griffith_poems_130130" n="134"/>
+            <l>Have turned to winter blasts, and fiercely sweep</l>
+            <l>Cold, cold and bitter o'er me.  Not a flower</l>
+            <l>Blooms in my cheerless pathway; not a bird</l>
+            <l>Sings in my lonely ear; not one dear voice</l>
+            <l>Calls to me in my grief; and not one star</l>
+            <l>Shines on this wide and awful waste.  My life</l>
+            <l>Is very, very desolate.  O God!</l>
+            <l>Thou stay and helper of the weary heart!</l>
+            <l>To Thee I kneel in agony, and pray</l>
+            <l>That Thou wilt take me from this dreary world</l>
+            <l>To rest for ever in Thy smile of love."</l>
+            <pb xml:id="griffith_poems_130131" n="135"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_28" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head><seg type="short-title">The Young Mother.</seg><lb/>
+AFFECTIONATELY INSCRIBED TO MRS. L. A. W., OF LITTLE ROCK.</head>
+          <lg type="stanza">
+            <l n="1">OH how serenely soft that pale high brow,</l>
+            <l>O'er which her clustering tresses stray, her eye,</l>
+            <l>Dissolving in its sweet blue tenderness,</l>
+            <l>As from its depths a mother's holy love</l>
+            <l>Is gleaming like the light of heaven, her lips</l>
+            <l>Just parted as the low and earnest prayer</l>
+            <l>Of angel purity dies soft away</l>
+            <l>In wild, sweet music.  O'er her infant now</l>
+            <l>In slumber "lightly bound," her gentle form</l>
+            <l>Is bending low, while blessed, heaven-born hopes</l>
+            <l>Are beaming forth from her unshadowed heart,</l>
+            <pb xml:id="griffith_poems_130132" n="136"/>
+            <l>And lighting up her pale and placid face</l>
+            <l>As beautifully as the sunlight glows</l>
+            <l>And trembles through a holy crystal fane.</l>
+            <l>Close to her breast, her gently throbbing breast,</l>
+            <l>Her young babe nestles as a thought of love</l>
+            <l>Clings to the human soul.  One little hand</l>
+            <l>Is pressed in hers, and now a soft sweet smile</l>
+            <l>Is stealing o'er its lovely cherub-face.</l>
+            <l>Gently she whispers to it of its dear</l>
+            <l>And absent father, and the tear-drop bright</l>
+            <l>Is quivering on her eyelid like the dew</l>
+            <l>On the blue violet's petal.  And when soft</l>
+            <l>Sweet slumber folds its calm, mysterious wing</l>
+            <l>Upon her cherub's little breast, its quick</l>
+            <l>Low breathings fall upon her listening ear</l>
+            <l>Like notes of heaven.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Young mother, 'tis thy first</l>
+            <l>Bright joy, thy first deep care--oh may it prove</l>
+            <l>Thy latest blessing.  Since we parted last</l>
+            <l>Full many changes have passed o'er our lives,</l>
+            <pb xml:id="griffith_poems_130133" n="137"/>
+            <l>New ties around thy pure and noble heart</l>
+            <l>Are twining, and they give to thy young life</l>
+            <l>A bright wild charm.  Thus may it ever be</l>
+            <l>To thee--may all the bright and glittering links,</l>
+            <l>Which hold thee here a happy prisoner</l>
+            <l>On Time's dark shore, still form a blessed chain</l>
+            <l>To bind thy spirit also to the loved</l>
+            <l>Within the angel world.  Ah, I can look</l>
+            <l>With tearful joy upon thy added ties</l>
+            <l>To life, and feel within my heart my own</l>
+            <l>Are lessening fast.  Oh may thy bud of love</l>
+            <l>Expand, and prove thy deep heart's sweetest flower,</l>
+            <l>And may ye both, in God's own Paradise,</l>
+            <l>Be glorious blossoms on His Tree of Life.</l>
+            <lb/>
+            <l>LOUISVILLE, JUNE 2d.</l>
+            <pb xml:id="griffith_poems_130134" n="138"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_29" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head>To C. W. A., of Taylorsville.</head>
+          <lg type="stanza">
+            <l n="1">OH minstrel of the magic lyre, thy soul</l>
+            <l>Is full of fancies high and beautiful.</l>
+            <l>I ne'er have seen thee, yet thy gentle thoughts</l>
+            <l>And fairy dreams have wakened in my heart,</l>
+            <l>A feeling so delicious, so divine,</l>
+            <l>So soft, so dreamy, earnest and intense,</l>
+            <l>That I have called it love.  Oh yes, 'tis love,</l>
+            <l>High spirit-love, my young soul feels for thine</l>
+            <l>A sweet emotion, fluttering in my breast,</l>
+            <l>With not one tinge of earth upon its pure</l>
+            <l>And bright ethereal plumage.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Minstrel, oft,</l>
+            <l>Full oft, at twilight's calm and holy time,</l>
+            <l>I've mused upon thy wild enchanting lays</l>
+            <pb xml:id="griffith_poems_130135" n="139"/>
+            <l>Till I have blent a haunting thought of thee</l>
+            <l>With the deep spirit of that sacred hour.</l>
+            <l>And, in thy lofty inspiration, thou</l>
+            <l>So oft hast pictured visions that have lived,</l>
+            <l>And breathed, and glowed, and brightened in my heart,</l>
+            <l>That I have named thee, in excess of love,</l>
+            <l>My spirit's own interpreter.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Inspired</l>
+            <l>And gifted poet, thou hast said the griefs</l>
+            <l>That shade my young and lonely life, should wake</l>
+            <l>A sympathy within thy noble heart.</l>
+            <l>Oh for that sympathy!  My spirit yearns</l>
+            <l>To see and bless thee for thy kindly words.</l>
+            <l>Warmly and fondly do I welcome thee,</l>
+            <l>My soul's true friend.  Ah, yes, we will be friends;</l>
+            <l>Though we may never meet, the sunset blush,</l>
+            <l>The lovely vesper star, the sweet pale moon,</l>
+            <l>The flowers, the waves, the zephyr, and the dew,</l>
+            <l>And all the thousand thrilling harmonies</l>
+            <l>Of Nature's holy lyre, shall link our souls</l>
+            <pb xml:id="griffith_poems_130136" n="140"/>
+            <l>In sweet companionship.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	It matters not</l>
+            <l>That we have never met, and may not meet</l>
+            <l>In all our wanderings here, for I shall know</l>
+            <l>And love thee, in the bright, the better world.</l>
+            <l>Ay, I shall know thee, for my musing soul,</l>
+            <l>Sleeping and waking, oft has pictured thee</l>
+            <l>On fancy's glowing canvas, and I feel</l>
+            <l>That truth is in the picture.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">When my soul</l>
+            <l>Is revelling in joys and ecstasies,</l>
+            <l>I'll send it laden with soft, rosy dreams,</l>
+            <l>To hold sweet intercourse with thee; and when</l>
+            <l>My thoughts and visions are of heaven, thy name</l>
+            <l>Shall oft be spoken in my earnest prayers.</l>
+            <pb xml:id="griffith_poems_130137" n="141"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_30" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head>To a friend.</head>
+          <lg type="stanza">
+            <l n="1">OH thou hast called me thy own sister dear,</l>
+            <l>And my wild heart, o'erfilled with burning love,</l>
+            <l>Hath sprung, as springs the lark at early morn;</l>
+            <l>To greet the golden beam of day's proud star;</l>
+            <l>Or, as the pale and fainting floweret turns</l>
+            <l>Its wilted leaves to the refreshing dew.</l>
+            <l>Dost ask to read this, wayward heart of mine,</l>
+            <l>To scan its agonies, its wild, deep griefs?</l>
+            <l>Would'st thou not turn away from me, when o'er</l>
+            <l>That volume dark thine eye should roam?  Oh, say,</l>
+            <l>Could'st love me still, friend of my darkened years?</l>
+            <l>Life's weary sands are failing fast.  When thou</l>
+            <l>Lookest upon this still and haughty face,</l>
+            <l>Dost thou e'er dream that passion's maddening tide</l>
+            <pb xml:id="griffith_poems_130138" n="142"/>
+            <l>All wildly rolls below?  Ah, dost thou dream</l>
+            <l>That smiles, which flit like golden shadows o'er</l>
+            <l>My careless brow, have lost the power to soothe</l>
+            <l>The wild and dark unrest of mind and heart?</l>
+            <l>That like a fiendish power, ambition works</l>
+            <l>Within my brain, and fiercely riots on</l>
+            <l>My warm and bounding soul?  Each energy</l>
+            <l>Of my strong nature, now is bent to gain</l>
+            <l>Fame's lofty summit, and I may not stop</l>
+            <l>Life's flowers to gather.  Better then that thou</l>
+            <l>Should'st leave me now, and see me nevermore.</l>
+            <l>Ne'er may we hope, within this world of woe,</l>
+            <l>The separate currents of our lives to blend;</l>
+            <l>Yet we have met and loved, and ere we part,</l>
+            <l>I fain would lay my band upon thy brow,</l>
+            <l>And bless thee purely, deeply, fervently,</l>
+            <l>And ask thee, in the pure depths of thy soul,</l>
+            <l>One flower to keep for ever 'mid life's stern</l>
+            <l>And rushing conflict--the deep, earnest love</l>
+            <l>Of her whom thou hast called thy sister dear.</l>
+            <lb/>
+            <l>LOUISVILLE, KY.</l>
+            <pb xml:id="griffith_poems_130139" n="143"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_31" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head><seg type="short-title">Broken Barbiton-Withered Laurel-Wreath</seg> and Broken Heart.<lb/>
+A SCENE FROM BULWER'S ZANONI.</head>
+          <lg type="stanza">
+            <l n="1">IT was the close of day upon the shores</l>
+            <l>Of beauteous Naples.  The low murmuring waves</l>
+            <l>That rose and fell upon the "Siren's sea,"</l>
+            <l>Gleamed like pale rubies in the sunset glow;</l>
+            <l>The dim isles, veiled in mists of silver, rose</l>
+            <l>Far through the dim and shadowy atmosphere;</l>
+            <l>The pale, sweet stars shone calm and beautiful</l>
+            <l>In the blue diadem of night, and shapes</l>
+            <l>Of loveliness and beauty seemed to steal</l>
+            <l>Forth from the soft and deepening shades, as Love,</l>
+            <pb xml:id="griffith_poems_130140" n="144"/>
+            <l>And star-eyed Hope, and pensive Memory</l>
+            <l>Steal from the twilight of the heart.  Afar,</l>
+            <l>Like a huge column moving in the heavens,</l>
+            <l>Soared the gray smoke of old Vesuvius,</l>
+            <l>From its broad base of lurid flame; the shaft</l>
+            <l>Of Maro's tomb above the beetling cliff</l>
+            <l>Was drawn against the deep blue sky, and soft</l>
+            <l>The scattered gardens of the Caprea shone,</l>
+            <l>Like "wrecks of Paradise."  No human voice</l>
+            <l>Broke the deep spell of silence and repose,</l>
+            <l>That rested like a calm, mysterious dream</l>
+            <l>Upon the landscape, yet the air still seemed</l>
+            <l>All musical, and strangely eloquent</l>
+            <l>With the hushed cadences and passion-sighs</l>
+            <l>Of deep and burning love.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Ah! 'mid this scene</l>
+            <l>Of loveliness and deep serenity,</l>
+            <l>The traces of despair, and woe, and death</l>
+            <l>Were darkly visible.  The twilight's last</l>
+            <l>Sweet, rosy smile of gentleness and love</l>
+            <pb xml:id="griffith_poems_130141" n="145"/>
+            <l>Stole softly, calmly, beautifully through</l>
+            <l>The parted vines that bloomed and clustered o'er</l>
+            <l>The window of an humble cottage home,</l>
+            <l>And fell upon the white brow of the dead,</l>
+            <l>As human love falls vainly on the heart</l>
+            <l>Of cold despair.  Alone the minstrel slept</l>
+            <l>In his unbreathing rest.  Upon the floor,</l>
+            <l>Beside him, lay the cherished laurel-wreath.</l>
+            <l>His only wealth, the guerdon of his toils,</l>
+            <l>The one dear boon for which, through weary years</l>
+            <l>Of bitter sorrows, he had patiently</l>
+            <l>Struggled and suffered, pouring forth his wild,</l>
+            <l>Deep soul of music, while keen agony</l>
+            <l>Was tearing his great heart.  There, there it lay</l>
+            <l>All pale and withering, like the throbless brow</l>
+            <l>Whence it had fallen.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	There, beside him too,</l>
+            <l>Broken and silent lay his barbiton,</l>
+            <l>His own familiar, in whose spirit tones</l>
+            <l>His spirit e'er had found in joy and grief</l>
+            <pb xml:id="griffith_poems_130142" n="146"/>
+            <l>A faithful echo.  It had been his friend,</l>
+            <l>True and unfailing, 'mid the darkened wrecks</l>
+            <l>Of human friendships.  It had been his love,</l>
+            <l>His child, his life, and his religion.  He</l>
+            <l>Had talked to it at twilight's wizard hour,</l>
+            <l>The hour that now closed over it and him,</l>
+            <l>And it had answered him in tones of more</l>
+            <l>Than earthly sympathy.  And he had won,</l>
+            <l>With its dear aid, the wreath so fondly deemed</l>
+            <l>The emblem of fame's immortality.</l>
+            <l>But now the dust was on its loosened chords,</l>
+            <l>That, like his own dark tresses, swept the floor,</l>
+            <l>To sound no more, save when perchance the wind,</l>
+            <l>Straying at nightfall through that ruined cot,</l>
+            <l>Should gently stir them with its breath of sighs;</l>
+            <l>To one low wail, one melancholy moan,</l>
+            <l>For him who so had loved them.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	'Twas a scene</l>
+            <l>To move the heart to tears.  The world around,</l>
+            <l>The air, the earth, the sky, the ocean, seemed</l>
+            <pb xml:id="griffith_poems_130143" n="147"/>
+            <l>Flooded with beauty; every isle that gleamed</l>
+            <l>In the deep sea, and every sweet star isle</l>
+            <l>That glittered in the blue sky, seemed a bright</l>
+            <l>Calypso of the heart, yet in that lone</l>
+            <l>And silent cottage home, the minstrel pale--</l>
+            <l>The wreath that he had purchased with the cries,</l>
+            <l>The wild shrieks of his spirit--and the lyre,</l>
+            <l>The sole companion of his life of toil</l>
+            <l>His heart's dear idol--mouldered side by side,</l>
+            <l>Unheeded by the careless race of men.</l>
+            <lb/>
+            <l>LOUISVILLE, FEBRUARY, 1852.</l>
+            <pb xml:id="griffith_poems_130144" n="148"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_32" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head>The Orphan's Dream of fame.</head>
+          <lg type="stanza">
+            <l n="1">I LEARNED within myself to live.  I saw,</l>
+            <l>E'en in my childhood, that the heart's bright buds</l>
+            <l>Withered and faded at the touch.  I turned</l>
+            <l>From all life's empty, heartless mockeries,</l>
+            <l>And wept my griefs away on Nature's breast.</l>
+            <l>To me was given the deep and earnest love</l>
+            <l>Of holy solitude.  I strayed alone</l>
+            <l>By rock and stream, and through the forest depths,</l>
+            <l>And found a sweet and dear companionship</l>
+            <l>In every sight and sound that greeted me</l>
+            <l>In all my wayward wanderings.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	I learned</l>
+            <l>Glad music from the lark's free, gushing song,</l>
+            <pb xml:id="griffith_poems_130145" n="149"/>
+            <l>And my heart's sad and mournful minstrelsy</l>
+            <l>Found sweet interpretation in the low</l>
+            <l>And gentle wailings of the stricken dove.</l>
+            <l>My spirit rocked upon the swinging tops</l>
+            <l>Of the tall oaks; it danced upon the waves</l>
+            <l>That leaped in light and music or in wrath</l>
+            <l>Upon the shore; it rode upon the winds,</l>
+            <l>Soft whispering to the softly whispering leaves,</l>
+            <l>Or pealing like some deep-toned instrument</l>
+            <l>Through the green banners of the wood; it sailed</l>
+            <l>Upon the clouds that floated beautiful</l>
+            <l>Or dark with tempest; and it wandered oft</l>
+            <l>Above, to hold its joyous revelry</l>
+            <l>With all the thousand spirit-shapes that bathed</l>
+            <l>Their purple plumage in the rosy waves</l>
+            <l>Flooding the sunset.  My dear mother's smile,</l>
+            <l>Caught by the stars from Eden, sweetly shone</l>
+            <l>In their pure light on my uplifted eyes,</l>
+            <l>And her soft words of cheer came to my soul</l>
+            <l>On every gale of morn, and noon, and eve,</l>
+            <l>And holy midnight.  I was happy then,</l>
+            <pb xml:id="griffith_poems_130146" n="150"/>
+            <l>Ay, happy, my lost mother was in heaven,</l>
+            <l>But Nature was my mother on the earth,</l>
+            <l>And both seemed e'er to love me well.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	At length</l>
+            <l>There came a change.  The maddening dream of fame,</l>
+            <l>The wish to shine among earth's proudest, took</l>
+            <l>Possession of my soul.  No more I loved</l>
+            <l>The voice of birds, the shouting of the stream,</l>
+            <l>And the green surging of the woods.  I bowed</l>
+            <l>In seeming admiration of the throng,</l>
+            <l>And felt my cheek burn and my pulses leap</l>
+            <l>To the vile breath of those I could but hate</l>
+            <l>Within my secret soul.  The sneering thought</l>
+            <l>That started fiercely upward from my heart,</l>
+            <l>Brightened to smiles upon my lips; my brain</l>
+            <l>Grew dizzy, and the tear was in my eye,</l>
+            <l>If with rude hand my spirit's chords were jarred</l>
+            <l>By those I longed to spurn beneath my feet.</l>
+            <l>I wildly struggled for the world's applause,</l>
+            <l>But trembled at the faintest word of blame.</l>
+            <pb xml:id="griffith_poems_130147" n="151"/>
+            <l>As 'twere the voice of destiny.  I won</l>
+            <l>The laurel crown, and with exulting heart</l>
+            <l>I felt its thrilling pressure on my brow:</l>
+            <l>But ah! a breath of poison from the crowd</l>
+            <l>Passed o'er its blooming leaves, and nought remained</l>
+            <l>But dust upon my temples.  A bright name</l>
+            <l>Was my soul's idol, but a feeble blow</l>
+            <l>From hands unworthy, shattered and cast down</l>
+            <l>That wildly worshipped idol from its shrine,</l>
+            <l>For ever and for ever.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Now, alas!</l>
+            <l>Joy, love, hope, pride, ambition, all are dead</l>
+            <l>Within my breast.  I smile in bitterness,</l>
+            <l>To think with what a madness of the soul</l>
+            <l>I sought a worthless bauble.  Like a gleam</l>
+            <l>Of moonlight from the mountain, or the flash</l>
+            <l>Of an expiring meteor from the deep,</l>
+            <l>Or the red glow of sunset from the west,</l>
+            <l><hi rend="italic">That dream of fame</hi> has vanished from my life,</l>
+            <l>And now I feel no pang of vain regret</l>
+            <l>That it has perished thus.</l>
+            <pb xml:id="griffith_poems_130148" n="152"/>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	But I look back</l>
+            <l>With tears and sighs on the departed years,</l>
+            <l>When breeze and billow chanted to my soul</l>
+            <l>Their morning hymn and evening psalm; when soft</l>
+            <l>And beautiful night's silver crescent shone</l>
+            <l>Upon my spirit, and when all the stars</l>
+            <l>Were to my eyes God's living poetry,</l>
+            <l>Traced by His hand upon the sky's blue scroll.</l>
+            <l>Ah!  I am twice an orphan, for, alas!</l>
+            <l>My mother Nature now is dead to me.</l>
+            <lb/>
+            <l>LOUISVILLE, 1852.</l>
+            <pb xml:id="griffith_poems_130149" n="153"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_33" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head><seg type="short-title">A Trifle to a friend</seg>,<lb/>
+ON THE EVE OF HIS DEPARTURE FOR EUROPE.</head>
+          <lg type="stanza">
+            <l n="1">THOU'LT leave us! O'er the wild waves of the deep,</l>
+            <l>Where winds in fierce unrest for ever sweep,</l>
+            <l>In dim, and dark, and distant lands to roam,</l>
+            <l>A weary wanderer from thy Western home.</l>
+            <l>Friend of my father, my full heart is stirred,</l>
+            <l>And, ere thou go, 'twould breathe a parting word,</l>
+            <l>And bid thee linger not on those far shores</l>
+            <l>From those who love thee in their hearts' deep cores.</l>
+            <l>I've loved--I love thee, and in earnest prayer</l>
+            <l>To Heaven, I ask, that, when oppressed with care,</l>
+            <pb xml:id="griffith_poems_130150" n="154"/>
+            <l>Where Albion's gleaming cliffs are floating high,</l>
+            <l>Like snowy clouds against her pale blue sky,</l>
+            <l>Thou there may'st find a gentle friend, like me,</l>
+            <l>To love, to tend, to guard and cherish thee;</l>
+            <l>Soft, tender, true, affectionate, and kind,</l>
+            <l>As the pure thoughts of thy own heart and mind.</l>
+            <l>Thou goest forth with golden hopes, that gleam</l>
+            <l>Like flashing sunshine on the morning stream--</l>
+            <l>May those bright hopes ne'er melt away in tears,</l>
+            <l>But glow and brighten through the coming years.</l>
+            <l>Whether thou ling'rest where Italian skies</l>
+            <l>Shine ever with their glorious Eden-dyes,</l>
+            <l>Where the deep soul of love all wildly gleams</l>
+            <l>In the mild lustre of the moon's sweet beams,</l>
+            <l>And where bright lakes in their untroubled rest,</l>
+            <l>Smile like young dimples upon Nature's breast;</l>
+            <l>Or where the mountains of old Switzerland</l>
+            <l>Tower with their glaciers, stern, and wild, and grand;</l>
+            <l>Or 'mid sweet Erin's emerald vales and bowers,</l>
+            <l>Or in gay France to "chase the glowing hours"</l>
+            <l>With merry jest, and laugh, and song, and dance,</l>
+            <l>Forgetful of dark time and dreary chance;</l>
+            <pb xml:id="griffith_poems_130151" n="155"/>
+            <l>I pray thee, 'mid thy wanderings, still to keep</l>
+            <l>Within thy memory beautiful and deep,</l>
+            <l>A gentle thought of me, a holy spell</l>
+            <l>In thy true soul--God bless thee, and farewell.</l>
+            <pb xml:id="griffith_poems_130152" n="156"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_34" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head>The Urn of the Heart.</head>
+          <lg type="stanza">
+            <l n="1">DEEP in my breast there is a sacred urn</l>
+            <l>I ever guard with holiest care, and keep</l>
+            <l>From the cold world's intrusion.  It is filled</l>
+            <l>With dear and lovely treasures, that I prize</l>
+            <l>Above the gems that sparkle in the vales</l>
+            <l>Of Orient climes, or glitter in the crowns</l>
+            <l>Of sceptred kings.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	The priceless wealth of life</l>
+            <l>Within that urn is gathered.  All the bright</l>
+            <l>And lovely jewels that the years have dropped</l>
+            <l>Around me from their pinions, in their swift</l>
+            <l>And noiseless flight to old Eternity,</l>
+            <l>Are treasured there.  A thousand buds and flowers,</l>
+            <pb xml:id="griffith_poems_130153" n="157"/>
+            <l>That the cool dews of life's young morning bathed,</l>
+            <l>That its soft gales fanned with their gentle wings,</l>
+            <l>And that its genial sunbeams warmed to life,</l>
+            <l>And fairy beauty 'mid the melodies</l>
+            <l>Of founts and singing birds, lie hoarded there,</l>
+            <l>Dead, dead, for ever dead! but, oh, as bright</l>
+            <l>And beautiful to me, as when they beamed</l>
+            <l>With Nature's radiant jewelry of dew.</l>
+            <l>And they have more than mortal sweetness now,</l>
+            <l>For the dear breath of loved ones, loved and lost,</l>
+            <l>Is mingling with their holy perfume.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">A very miser, day and night I hide</l>
+            <l>The hoarded riches of my dear heart-urn.</l>
+            <l>Oft at the midnight's calm and silent hour,</l>
+            <l>When not a tone of living nature seems</l>
+            <l>To rise from all the lone and sleeping earth,</l>
+            <l>I lift the lid softly and noiselessly,</l>
+            <l>Lest some dark, wandering spirit of the air</l>
+            <l>Perchance should catch with his quick ear the sound,</l>
+            <pb xml:id="griffith_poems_130154" n="158"/>
+            <l>And steal my treasures.  With a glistening eye</l>
+            <l>And leaping pulse, I tell them o'er and o'er,</l>
+            <l>Musing on each, and hallow it with smiles,</l>
+            <l>And tears, and sighs, and fervent blessings.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Then</l>
+            <l>With soul as proud as if yon broad blue sky,</l>
+            <l>With all its bright and burning stars were mine,</l>
+            <l>But with a saddened heart, I close the lid,</l>
+            <l>And once again return to busy life,</l>
+            <l>To play my part amid its mockeries.</l>
+            <pb xml:id="griffith_poems_130155" n="159"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_35" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head>Recollections.</head>
+          <lg type="stanza">
+            <l n="1">THE twilight now is blushing o'er the earth--</l>
+            <l>The west is glowing like a garden, rich</l>
+            <l>With Summer's many-tinted blooms; the flowers</l>
+            <l>Of earth hold up their fairy cups to catch</l>
+            <l>The softly falling dew-drops; the bright stars</l>
+            <l>Are set like glorious diamonds on the dark</l>
+            <l>Blue drapery or the halls of heaven; the pale</l>
+            <l>Sweet moon, like some young angel of the air,</l>
+            <l>Floats from the east upon her silver wing;</l>
+            <l>Eve's golden clouds hang low--and thin, white mists</l>
+            <l>Rise silently and beautifully up</l>
+            <l>Through the calm atmosphere serenity</l>
+            <l>And loveliness and beauty are abroad</l>
+            <l>O'er the whole world of nature</l>
+            <pb xml:id="griffith_poems_130156" n="160"/>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	At this hour,</l>
+            <l>When all the dark, wild passions of the breast</l>
+            <l>Are hushed and quelled by Nature's spell of power,</l>
+            <l>When every wayward feeling is rebuked</l>
+            <l>And chastened by the blended influence</l>
+            <l>Of earth and heaven, I've stolen forth alone</l>
+            <l>Beneath the blue and glorious sky, to hold</l>
+            <l>Communion with the golden hours now gone</l>
+            <l>Into the past eternity.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	My heart</l>
+            <l>Is very soft to-night, and joys long past</l>
+            <l>Shine through the silver mists of memory,</l>
+            <l>Like sweet stars of the soul.  My brow is flushed,</l>
+            <l>My bosom throbs, and blessed tears well up</l>
+            <l>From my heart's unsealed fountain, as I see</l>
+            <l>Through the pale shadows of the years, the home</l>
+            <l>Where first I felt the sweet, bewildering bliss</l>
+            <l>Of now existence.  Softly, through the deep</l>
+            <l>Green foliage of the grove, the beautiful</l>
+            <l>White cottage peeps with its thick-blooming vines,</l>
+            <pb xml:id="griffith_poems_130157" n="161"/>
+            <l>And in the distance the still church-yard, where</l>
+            <l>Repose the cold, unthrobbing hearts of those</l>
+            <l>I loved in childhood, lifts its marble shafts</l>
+            <l>Beneath the drooping willows.  I behold</l>
+            <l>The shaded paths where my young footsteps strayed</l>
+            <l>To gather wild flowers at the morning tide,</l>
+            <l>And for a few brief moments once again</l>
+            <l>I seem to wander through the dear old wood.</l>
+            <l>The birds sing round me, the dark forest pines,</l>
+            <l>Stirred by the breeze, make music like the low</l>
+            <l>Faint murmurs of the sea, my playmates shout</l>
+            <l>Beside me, and my mother's music call</l>
+            <l>Of gentle love is in my ear.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Oh, there,</l>
+            <l>In that sweet home, I cherished fairy dreams</l>
+            <l>Of happiness, and all my being wore</l>
+            <l>A glow of deep, ideal loveliness.</l>
+            <l>My vanished childhood rises to my view</l>
+            <l>In pale and melancholy beauty.  Life</l>
+            <l>Since then hath been but desolate.  Alas!</l>
+            <pb xml:id="griffith_poems_130158" n="162"/>
+            <l>What heart-chords have been broken, what bright dreams</l>
+            <l>Been shadowed by the hue of grief.  No more</l>
+            <l>The Egeria of my spirit-worship haunts</l>
+            <l>The grove and wood.  No charm can woo her back,</l>
+            <l>She will not hear my call, she answers not</l>
+            <l>The witching spell of fancy.  It is not</l>
+            <l>That nature has grown old.  Her skies are still</l>
+            <l> As blue, her trees as green, her dews as soft,</l>
+            <l>Her flowers as sweet, her clouds as beautiful,</l>
+            <l>Her birds, her waves, her minds as musical</l>
+            <l>As when I was a child--Alas! the change</l>
+            <l>Is in my heart.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Oh, blessed memories</l>
+            <l>Of home! ye are the worshipped household gods</l>
+            <l>Upon my spirit's altar.  Vanished years!</l>
+            <l>Ye are the dew-drops that my spirit's flowers</l>
+            <l>Enfold within their petals.  Years have passed</l>
+            <l>Since that all-mournful day, when, with a sad</l>
+            <l>And breaking heart, and streaming eyes, I left</l>
+            <l>The scenes of childhood, and went forth to find</l>
+            <pb xml:id="griffith_poems_130159" n="163"/>
+            <l>A home amid the stranger crowds, where I</l>
+            <l>Have learned to wear the mask that others wear,</l>
+            <l>To smile while agony is in my soul.</l>
+            <l>Yet at an hour like this, when Nature glows</l>
+            <l>With deepest loveliness,  when earth and heaven</l>
+            <l>Unite to woo my heart from its retreat</l>
+            <l>Of gloom and sorrow, I can wander back</l>
+            <l>To quench my faint and sinking spirit's thirst</l>
+            <l>At young life's gushing fountains, and forget</l>
+            <l>That I am not once more a happy child.</l>
+            <pb xml:id="griffith_poems_130160" n="164"/>
+          </lg>
+        </div>
+        <div xml:id="griffith_poems_36" type="Poem">
+          <docAuthor>Griffith, Mattie [Martha]</docAuthor>
+          <docAuthor>Browne, Mattie Griffith</docAuthor>
+          <head>To ------, during his Illness.</head>
+          <lg type="stanza">
+            <l n="1"> THOU wilt not leave me, Love, to pine alone</l>
+            <l>Upon the dreary desert of the world.</l>
+            <l>Thou wilt not, must not, nay, thou canst not die,</l>
+            <l>And leave me here, a lonely, withering flower,</l>
+            <l>Torn from its parent stem and torn from thee,</l>
+            <l>Its dear flower-mate, and thrown upon the cold</l>
+            <l>Unsympathizing earth to sigh away</l>
+            <l>Its breath upon the gales of autumn.  Thou</l>
+            <l>Must never leave me, dearest, for with thee</l>
+            <l>My spirit's life would perish.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	I have marked</l>
+            <l>Thy pale cheek growing paler; I have watched</l>
+            <l>The bright, unearthly glitter of thine eye,</l>
+            <pb xml:id="griffith_poems_130161" n="165"/>
+            <l>And seen the crimson spot upon thy brow,</l>
+            <l>The omens of the grave.  Thy pallid lip</l>
+            <l>Trembles as with a keen, unspoken pain,</l>
+            <l>And there are times when o'er thy sunken face</l>
+            <l>Deep, mournful shadows, and bright spirit-gleams,</l>
+            <l>Follow each other, telling that thy thoughts</l>
+            <l>Are of the tomb and heaven.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Thy hand is cold,</l>
+            <l>And damp and deathlike when 'tis pressed in mine,</l>
+            <l>And though few years have yet been thine on earth,</l>
+            <l>Bright silver threads, like waning spectres, gleam</l>
+            <l>Amid the raven curls that float around</l>
+            <l>Thy temples pale.  Thy voice hath fainter grown,</l>
+            <l>And though its melody is sweeter now</l>
+            <l>Than even when, in thy young years of health</l>
+            <l>And manly strength, thy first dear words of love</l>
+            <l>Were breathed into my ear, its sweetness seems</l>
+            <l>Caught from the spirit-world.  Ay, its low tones</l>
+            <l>Soften and melt, each day, as if they were</l>
+            <l>Attuning, even now, their cadences</l>
+            <pb xml:id="griffith_poems_130162" n="166"/>
+            <l>To join the angel harmonies that float</l>
+            <l>Upon the air of Eden.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Yet, oh stay!</l>
+            <l>The earth is beautiful to thee; and while</l>
+            <l>Thou lingerest here, thy presence makes it bright</l>
+            <l>And beautiful to me.  Stay! stay! oh stay!</l>
+            <l>And do not leave my life a cheerless night,</l>
+            <l>Without one gleaming star upon the cold</l>
+            <l>Blue desert of its sky.  My heart has flung</l>
+            <l>The whole wealth of its hoarded love on thee;</l>
+            <l>Fame's choicest garland blooms upon thy brow,</l>
+            <l>Won proudly by thy glorious genius; thine</l>
+            <l>Is the loud worship of the shouting throng;</l>
+            <l>Fortune has poured her treasures at thy feet,</l>
+            <l>And many friends, who love thee earnestly,</l>
+            <l>Are watching with alternate hope and fear</l>
+            <l>From day to day the changes of thy face,</l>
+            <l>Betokening life or death.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">	Then live, oh live</l>
+            <l>For me, for friends, for glory, for mankind!</l>
+            <pb xml:id="griffith_poems_130163" n="167"/>
+            <l>Thy strength of soul has made thee conqueror</l>
+            <l>In every mortal strife.  Oh struggle now</l>
+            <l>With the last enemy!  Ah, well I know</l>
+            <l>That thou, whose tones were never breathed in vain,</l>
+            <l>Canst, by their deep, enchanting music, win</l>
+            <l>'I'he angel health back to thy life once more.</l>
+            <lb/>
+            <l>LOUISVILLE, 1852.</l>
+            <lb/>
+            <lb/>
+            <l>THE END.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lkr_southland_1307">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>The Spirit of the Southland</title>
+        <author>
+          <name type="person"><choice><reg>Rogers, Loula Kendall, 1838-1931</reg><orig>Mrs. Loula Kendall Rogers</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10k</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="lkr_southland_1301">2008 Emory University. Permission is granted to
+
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>2008</date><idno type="ark">http://pid.emory.edu/ark:/25593/17dgp</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Rogers, Loula Kendall, "The Spirit of the
+
+	    Southland," <date>17 February 1927</date>. Loula
+
+	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
+
+	   Library, Emory University</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="lkr_southland_1302">This digital text is produced from the Loula Kendall
+
+	   Rogers Papers, generously loaned to the Beck Center by    	
+
+The Manuscript, Archives, and Rare Book Library at Emory University.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="language">American</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Poetry</rs>
+        <rs type="geography">United States</rs>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>United Daughters of the Confederacy.</item>
+            <item>Women authors, American--19th Century</item>
+            <item>Women authors, American--20th Century</item>
+            <item>United States, Southern</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2008</date><label>Woodruff Graduate Fellow</label><name>Stewart Varner</name>XML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="lkr_southland_1306">
+    <body xml:id="lkr_southland_1305">
+      <pb facs="lkr_southland001" xml:id="lkr_southland_1303" n="[1]"/>
+      <div xml:id="lkr_southland_1304" type="poem">
+        <dateline>BARNESVILLE NEWS-GAZETTE, THURSDAY, FEBRUARY 17, 1927.</dateline>
+        <head>
+          <seg type="short-title">THE SPIRIT OF THE SOUTHLAND</seg>
+          <lb/>
+        </head>
+        <head type="sub">Unveils a Picture Of Morn and Night,<lb/>
+
+      Yet sweeps the lingering mists away!</head>
+        <byline>By Mrs. Loula Kendall Rogers, Poet Laureate,<lb/>
+
+      Georgia Division U.D.C.</byline>
+        <dateline>Read during the 32nd Convention of Daughters of the Confed-<lb/>
+
+      eracy at Statesboro, Georgia, On <date when="1926-10-27">
+
+         October 27th, 1926</date>.</dateline>
+        <lg type="stanza">
+          <l>'Tis Morn, radiant Morn!  Upon each hill</l>
+          <l>There gleams a tint of gold, and in the vale afar</l>
+          <l>Is heard the merry call of one who keeps</l>
+          <l>Each wandering lamb from straying o'er the bar.</l>
+          <l>The ploughman sings a cheer to new born day</l>
+          <l>And maids light-hearted roam o'er snowy field</l>
+          <l>Or who at eve should bring the finest yield?</l>
+        </lg>
+        <lg type="stanza">
+          <l>Peace, lovely Peace, rests upon the Plantation Home!</l>
+          <l>From teeming orchard to the garden gate,</l>
+          <l>The sun-lit heights of Georgia's old red hills</l>
+          <l>Bespeak the calm that dwells upon each State.</l>
+          <l>King Cotton proudly smiles upon his royal seat,</l>
+          <l>As autumn fruits their countless joys displayed;</l>
+          <l>And golden grain breathes life and health complete,</l>
+          <l>For Heaven's touch on every scene is laid!</l>
+        </lg>
+        <lg type="stanza">
+          <l>The Light of Holy Love beams o'er the peaceful hearth, for</l>
+          <l><hi rend="underline">There was no Bandit then</hi>!  No evil soul to roam,</l>
+          <l>The Master, Mistress, and loved old Mammy knelt,</l>
+          <l>To thank the Heavenly Father for their blessed Christian Home,</l>
+          <l>Our own dear land!  Our hallowed Southern Home!</l>
+          <l>Was there ever on Earth a land surpassing thee?</l>
+          <l>Where friends dependant (not slaves) who with their <sic>lates</sic> breath</l>
+          <l>Despite all war, could true and faithful be?</l>
+        </lg>
+        <lg type="stanza">
+          <l>And was there ever a Christmas Time so glad?</l>
+          <l>With Banjo, Violin, Dance and Joy that filled </l>
+          <l>The heart with happiness pure and unrestrained </l>
+          <l>In knowing those whose wealth they help to build?</l>
+          <l>But list!  Far down yon vale the thundering guns of war</l>
+          <l>Break up the placid flow of Atlantic wave,</l>
+          <l>And wildly rush o'er loving peaceful homes</l>
+          <l>TO cast their blooming roses in the grave! </l>
+        </lg>
+        <lg type="stanza">
+          <l>'Tis Night!  Cheerless Night!  No star illumes the way.</l>
+          <l>Our statesmen wise <hi rend="underline">on terms of peace </hi>were sent</l>
+          <l><hi rend="underline">But not received</hi>.  Far different views prevailed -</l>
+          <l>
+            <hi rend="underline">Against all Sovereign Rights coercion was intent!</hi>
+          </l>
+          <l>Then the Spirit of 1776 reawakened o'er the hills</l>
+          <l>And steel alike met steel with American valor anew,</l>
+          <l>Till "The Stars and Bars" at Manassas brought forth a hopeful light,</l>
+          <l>And proved to all, the bravery of King's Mountain still is
+
+	true!</l>
+        </lg>
+        <lg type="stanza">
+          <l>Through strife was long avoided, yet our homes in ashes laid</l>
+          <l>Brought in the mystic ruins words emblazed upon the air</l>
+          <l>Soul cheering to the spirit with a light that cannot fade,</l>
+          <l>This slogan of the Daughters - Live, Love, Think, Pray, Dare!</l>
+          <l>The Holy Spirit guided, and compensation came</l>
+          <l>When Davis, Lee, and Stonewall add Righteousness to Fame,</l>
+          <l>And with Heaven's light inspired still onward marched the Gray</l>
+          <l>Though their number lessened daily mid the war clouds on the way.</l>
+        </lg>
+        <lg type="stanza">
+          <l>'Twas the <hi rend="underline">Faith of our Fathers</hi>, which gave <hi rend="underline">courage to the true,</hi></l>
+          <l>And it led by Holy Spirit all of our Southern Soldiers through</l>
+          <l>Not a hero of the Southland under General Lee's command</l>
+          <l>Would rob one of their property, or flash the fire brand!</l>
+          <l>Then Hail, all Hail, with loving cheer, the memory tonight</l>
+          <l>Of all who served their country in Justice and in Right,</l>
+          <l>And may Daughters of Confederacy the gates of love unbar</l>
+          <l>And lead the Blue and Gray as friends to Heaven's Crowning Star!</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

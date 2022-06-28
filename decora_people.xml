@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="decora_people_13010">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>My People, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Henook-Makhewe-Kelenaka</reg><orig>Angel De Cora</orig></choice></name>
+          
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent/>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="decora_people_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Emory Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17bkw</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>De Cora, Angel. My People. <publisher>Southern Workman and Hampton School Record</publisher> 26 (June <date>1897</date>): 115-6.</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="decora_people_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Native American</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Native American</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Essay</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Winnebago Indians--Alcohol use.</item>
+            <item>Regression (Civilization)--Indians.</item>
+            <item>Women authors, American--19th Century.</item>
+            <item>Native Americans.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1999</date><label>Staff</label><name>Anna Engle</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck
+	    Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="decora_people_1309">
+    <body xml:id="decora_people_1308">
+      <div xml:id="decora_people_001" type="Essay">
+        <docAuthor>De Cora, Angel</docAuthor>
+        <head>"My People"</head>
+        
+        <bibl><title>Southern Workman and Hampton School Record</title> 26 (June 1897): 115-6.</bibl>
+        <p xml:id="decora_people_1303">A great many have heard of Winnebago Indians, but very few have taken the trouble to study the character of the tribe. Many have passed through the reservation and their remarks are anything but flattering. The Winnebagoes were moved to their present home in the northeastern part of Nebraska in 1863 during the Sioux trouble. Since then very little has been done towards the civilization of the tribe,--that is, civilization in its truest meaning. Most of the Indians are farmers and live in frame houses. They use the English language to quite an extent, but their morals are bad. They have adopted all the vices of their white neighbors and these, added to their own, give the tribe a name not altogether enviable.</p>
+        <p xml:id="decora_people_1304">The sacredness of home life is but little appreciated now, although in the past it was one of their virtues. The old people tell of the strict ways in which they were brought up, and speak sorrowfully of the present. I do not think that the influence of the old people is so bad as some people say it is. The morality of the place is determined by the young people. They have thrown off all that reverence for age that used to be so noticeable a feature. They want to live in the "white man's way" as they call it; and are willing to give the last penny they have in order to have a carriage, and other luxuries that do not help them very much. As a rule they are careful about their personal appearance, but here and there may be a family which does not take very much interest in anything beside the food it eats. I have said that most of them live in frame houses, but not more than two families in the whole community know how to beautify their homes and make them attractive. They may keep their homes perfectly clean, but they do not know anything of the use of flowers about the house and yard. As to the food and the cooking of it, the rapid decrease of the population tells that story better than I can. Surely a field matron is much needed.</p>
+        <p xml:id="decora_people_1305">The rough class of white people around the Indians do a great deal of harm to to [sic] the Indians by selling liquor to them. It is true that the law forbids the selling of whiskey to Indians, but they avoid it by a system of what is called the "underground saloons." A few years ago a half-breed was found keeping one of these saloons; the law laid a slight punishment upon him, but it is doubtful whether it stopped him. One day a white man, while driving past some Indians, got one of his horses in the mire. Naturally they helped him out of his trouble. He expressed his gratitude by smuggling whiskey from the nearest town to these thirsty souls.</p>
+        <p xml:id="decora_people_1306">There is an old religious dance called the "Medicine Dance," which in its day was really pure and helpful, but is now only an excuse for all sorts of most degrading amusements. This dance always comes off on Sundays, and men and women who take part in it usually manage to drink a great deal. Perhaps some people might feel shocked at the thought of women drinking with men, but, since the old days of the subjugation of woman have passed away, she is on an equality with the man, and sometimes she carries herself even lower than a man would. Such women cannot be expected to be very good mothers and there are enough sad examples to show what this kind of motherhood is doing for the present generation. The girls are given away in marriage when they are scarcely in their teens, and those who have minds of their own generally follow the example of their parents by running off with some ruffian. The same parents encourage their children to drink, for to them it stands for manliness. At no time does a woman feel her importance more than when she is supporting her staggering, bleared-eyed heir away from the crowd at some feast or dance. It is one of the most pitiful things to hear parents tell of making their little children drunk, but that is not uncommon among my people. Of course with such, marriage can be but loosely held, and although they are often married by proper form, they leave each other as soon as they are tired of living together. Is it then any wonder that girls who have been to school, after going back home, "go back to the blanket?" While I do not try to justify them, I can but feel that they are not so much to blame as those who have better surroundings and better developed consciences. This is the sort of life that is waiting for us Winnebagoes, and whether we want to or not, it is our duty to do what we can for our people.</p>
+        <lg type="stanza">
+          <l n="1">"Shall we whose souls are lighted</l>
+          <l>With wisdom from on high,</l>
+          <l>Shall we, to men benighted</l>
+          <l>The lamp of life deny?"</l>
+        </lg>
+        <p xml:id="decora_people_1307">Let us, who are members of this unfortunate tribe, strive to prepare ourselves to elevate our people into a higher civilization. The responsibility is ours.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

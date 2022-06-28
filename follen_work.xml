@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="follen_work_13022">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Women's Work, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Follen, Eliza Lee Cabot, 1787-1860</reg><orig>Eliza Lee Follen</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>15kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="follen_work_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to
+the work claimed by Emory University for non-profit educational purposes, provided 
+this header is included in its entirety.  For inquiries about commercial uses, contact
+either: Women Writers Resource Project or Lewis H. Beck Center for Electronic
+collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17c7m</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Follen, Eliza Lee.  Women's Work.  <publisher>The Liberty Bell</publisher>.  Boston: Massachusetts Anti-Slavery Fair, <date>1842</date>.  American Periodical Series 1800-1850 microfilm.  APS 1207.  Liberty Bell.  Volumes 1-13 (1839-52) reel 491.</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="follen_work_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Women's Advocacy</rs>
+        <rs type="collection">Abolition, Freedom, and Rights</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Essay</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Antislavery movements--United States--History--Sources.</item>
+            <item>Women authors, American--19th Century.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1997</date><label>Staff</label><name>Scott Ellis</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck
+	    Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="follen_work_13021">
+    <body xml:id="follen_work_13020">
+      <div xml:id="follen_work_001" type="Essay">
+        <head>WOMEN'S WORK.
+<lb/>
+BY ELIZA LEE FOLLEN.</head>
+        <p xml:id="follen_work_1304">WHAT have women to do with the abolition of Slavery? what can they do? What is the use of women's meddling with it? Let them mind their own affairs, they only make men angry, they do no good. Let women work in their own sphere, &amp;c. &amp;c. Every one knows, as soon as these questions are asked, the whole catechism to which they belong, and the whole list of stereotyped answers, which the sticklers for the prerogative of men are ready to give. Much has been said on both sides of this question, and perhaps argument has done all that it can do for the right, as well as for the wrong side of it. To those who are willing to reason, it has been proved, that men and women have
+<pb xml:id="follen_work_1303" n="7"/>
+equal duties upon all moral questions, and that these duties, on both sides, are limited only by their powers.</p>
+        <p xml:id="follen_work_1305">With regard to the abolition of slavery, however, I would ask if there is not a greater claim, a higher call upon women for exertion, than even upon men?</p>
+        <p xml:id="follen_work_1306">Is it not natural and right that women-should feel most for the sufferings and degradation of their own sex? And are not women the greatest sufferers from slavery?</p>
+        <p xml:id="follen_work_1308">The physical strength of a man, even when he is a slave, inspires a degree of fear and respect, even from his master, which is some little protection--not so with the poor woman.  Weak and trembling, she stands before her tyrant, utterly defenceless, entirely subjected to his power, crushed soul and body, the willing or the unwilling victim of his brutal will. Doubtless the men in slavery suffer much, but what pure mind would not prefer the hard work, the
+<pb xml:id="follen_work_1307" n="8"/>
+cruel lashes, all that a man can endure, to the hideous catalogue of miseries, to which the female slaves are often doomed?  At times it seems to me as if the condition of the men was freedom and joy, compared to that of the poor, wretched, helpless women. The moral corruption, which grows out of this degradation of women, spreads far and wide, and all around breathe a tainted atmosphere; and the pale, sensitive, fine lady of the South, knows this too well.</p>
+        <p xml:id="follen_work_1309">And cannot women do something for their suffering sisters? Yes; they can send in their names by thousands and hundreds of thousands, to those places where men meet to make good laws and unmake bad ones, in humble petition for mercy and justice. Every woman's name counts one; let it go to add to the weight and eloquence of the general prayer for the liberation of women from the vilest bondage.</p>
+        <p xml:id="follen_work_13011">When such petitions were sent in to the En-
+<pb xml:id="follen_work_13010" n="9"/>
+glish parliament, there was no one to utter the vulgar things which American <hi rend="italic">gentlemen</hi> have said upon this subject, but on the contrary, they said--"Here are the names of our mothers, our sisters, our wives--now we must yield."</p>
+        <p xml:id="follen_work_13012">Women have a right to be heard, for they are all sufferers. Let no woman set herself apart, and say she has nothing to do with the corruption of woman at the South; it is not so. She has much to do with it: directly or indirectly, it touches her; and if not, are they not Christians? and will they not one day be called upon to say what they have done for the least of these, the brethren of the Saviour of men? What will they answer at that day?</p>
+        <p xml:id="follen_work_13013">It is hardly extravagant to say, that the women of the free states could abolish slavery in this country merely by using their right of petition.</p>
+        <p xml:id="follen_work_13016">Let no one say that women are incapable of judging of this question because they are not
+<pb xml:id="follen_work_13014" n="10"/>
+politicians. They are on this very account more able to judge of it, for they regard it only in its true light, as a question of right or wrong. Being neither money-makers nor law-makers, they are more likely to look at it with the clear eye of justice, truth, and purity. Yes; woman's faith, and woman's courage, and woman's love might break the fetters of the slave. Every woman can deserve the blessed words of Jesus--"She hath done what she could," she can ever stand ready to enter her solemn, her fearless protest against sin, and she can learn to understand, and feel, and reason, for human rights. Is there any one who is honestly convinced she can do no good to the slaves by any positive act--I would say to her, "You can remember them, you can pray for them. If you are a happy mother, when your children are gathered around you in the security of love and freedom, then you can think of the mother of slaves, who never sees her children all together without 
+<pb xml:id="follen_work_13015" n="11"/>
+fearing that it may be the last time, who sees ever the vultures hovering over her dear little ones. If you are a happy wife, enter, if you can, into the feelings of her who hears the sound of the voice of the auctioneer over her or her husband's head, and knows that they are to part, you can try to feel the sword of separation that enters their hearts when their master receives the price of innocent blood, and she and he are left desolate.</p>
+        <p xml:id="follen_work_13018">If you say--"Why should I make myself so unhappy for nothing? I cannot relieve these sufferers,"--I answer, Suppose you were a prisoner for life, and never looked for the light of hope to enter your dungeon, would it not be some comfort to you to know that there was even one human heart that pitied you, that longed to release you, that the invisible but all embracing arms of a heavenly compassion were around you and would, if it could, comfort and sustain you in your loneliness and sorrow, and 
+<pb xml:id="follen_work_13017" n="12"/>
+that while your withered heart had almost lost its faith in God, and could not even pray, that this heart often turned from its own full cup of joy, to think of you and pray the God of mercy for your deliverance? Oh yes; there would be a divine blessing to you in the knowledge of this pitying love hovering over you--and we know not the mysterious efficacy of such prayers, of such holy desires.</p>
+        <p xml:id="follen_work_13019">The abolition of slavery is indeed women's work. As imitators of him who came to seek and to save that which was lost, we are called to it. Let neither fathers, nor brothers, nor husbands, nor false or weak friends keep us back from it. Let us imitate those holy women, who heeded not the angry multitude, nor their infuriated cries of "crucify him, crucify him," but fearlessly followed him, who was to suffer an ignominious death, to his cross, despising the shame, knowing that though hated and reviled of men, he was the Son of God.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

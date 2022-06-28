@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anderson_nowita_13018">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title><seg type="short-title">Nowita, the Sweet Singer.</seg> A Romantic Tradition of
+	   Spavinaw, Indian Territory, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Anderson, Mabel Washbourne</reg><orig>Mabel Washbourne Anderson</orig></choice></name>
+          
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>25kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="anderson_nowita_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Emory Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/179n2</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Anderson, Mabel Washbourne. Nowita, the Sweet Singer. A Romantic Tradition of Spavinaw, Indian Territory. <publisher>Sturm's Statehood Magazine</publisher> 1 (Jan. <date>1906</date>): 86-9. Previously published in Indian Chieftain Aug. 23, 1900 and in Twin Territories 5 (Jan. 1903): 1-2.</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="anderson_nowita_1302">This text is produced in conjunction with the 
+Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Native American</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Native American</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Article</rs>
+        <rs type="geography">United States</rs>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>American literature--20th Century--Fiction.</item>
+            <item>Women authors, American--20th Century.</item>
+            <item>Cherokee Indians.</item>
+            <item>Interracial dating.</item>
+            <item>Native Americans.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1999</date><label>Staff</label><name>Anna Engle</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck
+	   Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="anderson_nowita_13017">
+    <body xml:id="anderson_nowita_13016">
+      <div xml:id="anderson_nowita_001" type="Text">
+        <docAuthor>Anderson, Mabel Washbourne</docAuthor>
+        <head><seg type="short-title">Nowita, the Sweet Singer.</seg> A Romantic Tradition of Spavinaw, Indian Territory.</head>
+        
+        <bibl><title>Sturm's Statehood Magazine</title>1 (Jan. 1906): 86-9.</bibl>
+        <p xml:id="anderson_nowita_1303">Spavinaw is the most beautiful stream in the Cherokee Nation. Nourished by the sparkling waters of the many springs in that locality, it winds like a shining thread of crystal through the narrow valleys between the hills which bear its name; curving its way by circuitous route, as if reluctant to leave its native hills, the murmur of whose pines chant a tuneful accompaniment to the music of its waters.</p>
+        <p xml:id="anderson_nowita_1304">Nestled among the hills and within these valleys are the homes of many of the fullblood Cherokees, who seek the seclusion and the quiet of the forests in preference to the open prairies, dotted with farms and towns and traversed by railroads. These little Indian cabins are scarcely less difficult to locate than are the haunts of the deer. Secluded in the summer by the luxuriant foliage of the forest trees, the unfamiliar traveler might well imagine, by the whispering of the pines, that "this is the forest primeval."</p>
+        <p xml:id="anderson_nowita_1305">In one of the most picturesque spots of this section of the country stands a lonely Indian cabin which possesses more than ordinary interest to the stranger, for all the world loves a romance, as well as a lover. Tall pines and moss-grown rocks shelter the building from the gaze of the intruder. Fate seems to have chosen this site as a fit setting for the gem of romance that has made this cabin an object of interest and curiosity. It was once the home of a young Indian girl, the heroine of a romance that had its origin in the National High Schools of the Cherokee Nation, which are located at Tahlequah, the national capital. 'Tis the pathetic story of Nowita, a sweet singing Cherokee maiden, a pupil in the Female Seminary, and a young professor from the East, who taught in the Cherokee Male Seminary.</p>
+        <p xml:id="anderson_nowita_1306">The Male and Female Seminaries were originally situated three miles from the town of Tahlequah, and separated from each other by the same distance of lonely prairie-lonely in the winter when the unbroken landscape lay bleak and colorless, but beautiful in the summer, when you might gaze as far as eye could reach over the green billows of waving grass, brightened with the variegated hues of many wild flowers, away in the distance to the purple line of the Boston and Ozark mountains.</p>
+        <p xml:id="anderson_nowita_1307">It was an old custom, years ago, at the Female Seminary, to give a reception to the teachers and pupils of the Male Seminary, once every quarter, and every year, on the seventh day of May, the anniversary of the founding of the two schools, was celebrated by a picnic upon the beautiful banks of the winding Illinois, three miles away. Thus it came about that Nowita, the sweet singer, sang ballads in her own native tongue to the "pale face stranger" on "reception days," and on May-day picnics they wandered side by side down the lovely stream, allured from the society of the others by the music of its waters, gathering the spring violets as they went, which they afterward made into a wreath for Nowita's dark braids, all unconsciously weaving a bleeding heart among the purple blossoms, for the little Indian maid had learned the language of love more rapidly than she had acquired English, though unusually bright and advanced for her age and environments, her broken sentences and quaint expressions amused and charmed her admirer as much as the musical cadences of her voice.</p>
+        <p xml:id="anderson_nowita_1309">So time went by and the young man realized that he welcomed with an indefinite eagerness every opportunity that threw him in the society of the young
+<pb xml:id="anderson_nowita_1308" n="87 NOWITA, THE SWEET SINGER"/>
+Indian girl, and noted, too, that her dark eyes, usually so serene and melancholy, shone with a happy lustre in his presence, and he found a vague and pathetic pleasure in the thought that the school days were almost over, and that their final parting was near.</p>
+        <p xml:id="anderson_nowita_13010">But Fate, that with cruel and relentless hand had brought together these two young people so dissimilar by environments and nationality, decreed that one of them at least, should fulfill the destiny allotted to her. So, when the summer vacation came, and Nowita returned to the primitive home of her parents among the hills, contrary to the advice of his friend and the accusing memory of a pair of blue eyes among the green mountains of New Hampshire, the young professor joined a camping party for a fortnight's recreation on the banks of the Spavinaw, ostensibly to gather "Indian lore and legends." It is needless to say that he soon sought and found the home of Nowita, the object of his thoughts.</p>
+        <p xml:id="anderson_nowita_13011">The old story begun at the school was renewed and continued among more romantic surroundings, and with fewer instructions, save for the grave rebuke and distrust written upon the austere faces of the girl's parents and acquaintances which found no expression in words, for whatever may be said of the refining influence of civilization upon the Indian, the dignity and native pride of a fullblood Cherokee are condeded by all who are at all familiar with their character. Cruel and revengeful they may be, when under oppression, and perhaps treacherous, but course or vulgar, never. This Indian romance of local celebrity is given below in parodical form:</p>
+        <lg type="stanza">
+          <l n="1">Should you ask me whence this story,</l>
+          <l>Whence this romance and tradition</l>
+          <l>Of the sad-eyed Indian maiden,.</l>
+          <l>Of Nowita, the sweet singer,</l>
+          <l>I should answer, I should tell you</l>
+          <l>Of a pale and handsome stranger</l>
+          <l>Teaching at an Indian college</l>
+          <l>In the village of Tahlequah</l>
+          <l>At the time that you shall hear of;</l>
+          <l>I should speak up, I should tell you:</l>
+          <l>How this fair and fickle stranger</l>
+          <l>Trifled with this child of nature,</l>
+          <l>Singing with her gay and thoughtless,</l>
+          <l>Every moment when together,</l>
+          <l>Never weary grew the maiden,</l>
+          <l>Singing with the handsome stranger.</l>
+          <l>And their voices sweetly blending,</l>
+          <l>Could be heard throughout the building,</l>
+          <l>Singing old love songs together,</l>
+          <l>Ballads old and ever lovely,</l>
+          <l>He pronouncing words in English,</l>
+          <l>She expressing them in Indian;</l>
+          <l>And he praised her voice and beauty,</l>
+          <l>Whispering, words which mean to flatter,</l>
+          <l>And Nowita, sweet and child-like,</l>
+          <l>Listened to his honeyed speeches</l>
+          <l>Knew no word which meant deceiving,</l>
+          <l>And her heart to love unlettered</l>
+          <l>Filled with new and dreamy music,</l>
+          <l>And she called him Ska-kle-los-ky--</l>
+          <l>Ska-kle-los-ky, the sweet speaker.</l>
+        </lg>
+        <lg type="stanza">
+          <l>Listening in the halls below them</l>
+          <l>Stood the friend of Ska-kle-los-ky,</l>
+          <l>With a cynic's face, he listened</l>
+          <l>To their voices softly singing,</l>
+          <l>Threw his shadow dark and chilling,</l>
+          <l>Like an evil spirit near them,</l>
+          <l>As a thorn upon a rose stem,</l>
+          <l>So his presence stung the maiden,</l>
+          <l>For she felt his disapproval</l>
+          <l>Of the friendship they were forming,</l>
+          <l>And she called him Oo-naw-whee-hee--</l>
+          <l>Oo-naw-whee-hee, cold and cruel.</l>
+          <l>When the sultry days of summer</l>
+          <l>Came with all their brilliant splendor,</l>
+          <l>And upon the green prairie</l>
+          <l>Danced the vexing "Lazy Lawrence;" [sic]</l>
+          <l>When her school mates all departed</l>
+          <l>To their homes and to their parents,</l>
+          <l>None were half so heavy-hearted</l>
+          <l>As this gentle Indian maiden,</l>
+          <l>As Nowita, the sweet singer;</l>
+          <l>All the wild birds of the forest,</l>
+          <l>All the singing brooks and rivers,</l>
+          <l>All the breath of bursting blossoms</l>
+          <l>From the sweet wild honey suckle<ref target="#anderson_nowita.002.ma6">6</ref><note xml:id="anderson_nowita.002.ma6" n="6">"Wild Honeysuckle," a lovely species of the honeysuckle found in the Cherokee's Nation only among the rocks of Spavinaw.</note></l>
+          <l>And the calling of the pine trees</l>
+          <l>From her home among the mountains,</l>
+          <l>Failed to interest their comrade</l>
+          <l>Or her homeward steps to hasten.</l>
+          <l>Sad at heart, this forest maiden</l>
+        </lg>
+        <p xml:id="anderson_nowita_13013">
+          <pb xml:id="anderson_nowita_13012" n="88 NOWITA, THE SWEET SINGER"/>
+        </p>
+        <lg type="stanza">
+          <l>Left the village of Tahlequah,</l>
+          <l>Went back to her home and people,</l>
+          <l>To her home among the pine trees.</l>
+          <l>And she fancied she was dreaming,</l>
+          <l>Dreaming of the vanished hours,</l>
+          <l>When, one evening in the twilight</l>
+          <l>Came her pale and handsome hero;</l>
+          <l>" 'Tis his spirit that appeareth,</l>
+          <l>"And my love is dead," she murmured.</l>
+        </lg>
+        <lg type="stanza">
+          <l>Then he told her all the story,</l>
+          <l>How his friend and other comrades</l>
+          <l>Had encamped within the valley</l>
+          <l>Seeking rest and recreation,</l>
+          <l>How with eagerness he joined them</l>
+          <l>That again he might be near her,</l>
+          <l>Saying, "Won't you give me welcome</l>
+          <l>To the shelter of your pine trees?</l>
+          <l>I have come to know your people,</l>
+          <l>Learn your language, customs, habits,</l>
+          <l>Learn your legends and traditions;</l>
+          <l>Will you be my skillful teacher?</l>
+          <l>I will help you with your English,</l>
+          <l>With your books of prose and verses,</l>
+          <l>And we'll while away the hours</l>
+          <l>Helping, teaching one another."</l>
+          <l>And he quickly read his answer</l>
+          <l>In the lovelight on her features.</l>
+          <l>He abandoned all the future</l>
+          <l>To the pleasures of the present.</l>
+          <l>Thus, the days they spent together,</l>
+          <l>Like the ancient days of Eden,</l>
+          <l>Passed in guileless, blissful pleasure</l>
+          <l>With no shadow to disturb them,</l>
+          <l>Save the stolid disapproval</l>
+          <l>Of her own suspicious people,</l>
+          <l>For her parents and grandparents</l>
+          <l>Looked with stern disapprobation,</l>
+          <l>Looked with distrust at the stranger--</l>
+          <l>With a jealous eye they watched them.</l>
+          <l>Then she told him all their story.</l>
+          <l>Why against the "pale-faced nation"</l>
+          <l>All this prejudice had arisen.</l>
+          <l>Of their former home in Georgia,</l>
+          <l>On the banks of the Osternarly;</l>
+          <l>Further westward they'd been driven</l>
+          <l>Like the hunted deer and bison,</l>
+          <l>And their home was now uncertain--</l>
+          <l>Soon it would be taken from them.</l>
+        </lg>
+        <lg type="stanza">
+          <l>She must pour him con-noh-ha-neh.<ref target="#anderson_nowita.002.ma1">1</ref><note xml:id="anderson_nowita.002.ma1" n="1">"Connoh-ha-neh," the national drink of the Cherokees, made from the pounded grits of the new Indian corn. An old adage says, Drink Connoh-ha-neh with a Cherokee, and you will ever be among them.</note></l>
+          <l>She must make him sweet con-nutch-chee, <ref target="#anderson_nowita.002.ma2">2</ref><note xml:id="anderson_nowita.002.ma2" n="2">"Con-nutch-chee," a Cherokee dish prepared from the beaten meat of the hickory nut, including both the kernel and the shell.</note></l>
+          <l>He must smoke the pipe ta-lo-neh;<ref target="#anderson_nowita.002.ma3">3</ref><note xml:id="anderson_nowita.002.ma3" n="3">"Ta-lo-neh," a mixture of tobacco and dried leaves of the red sumach. Another old adage, current among the Cherokees says, Smoke Ta-lo-neh from the same pipe with a Cherokee and you will be friends forever.</note></l>
+          <l>And a magic chain of wampum<ref target="#anderson_nowita.002.ma4">4</ref><note xml:id="anderson_nowita.002.ma4" n="4">"Wampum Beads," beads made by the Cherokees many years ago from the bones of the squirrel and colored different shades. They were supposed to possess the magic power of preserving the wearer from the evil one and of keeping him in health.</note></l>
+          <l>From her ancient beads she gave him;</l>
+          <l>He must dive with Ooch-a-latah<ref target="#anderson_nowita.002.ma5">5</ref><note xml:id="anderson_nowita.002.ma5" n="5">"Ooch-a-la-tah," the last full blood Chief of the Cherokee Nation.</note></l>
+          <l>He must friendly be among them,</l>
+          <l>So they might begin to trust him,</l>
+          <l>And her people be his people.</l>
+          <l>So she made him buckskin slippers--</l>
+          <l>"Moccasins all brightly beaded,"</l>
+          <l>And a hunting shirt of homespun<ref target="#anderson_nowita.002.ma8">8</ref><note xml:id="anderson_nowita.002.ma8" n="8">"Hunting Shirt," an ornamemtal article of apparel used in olden times by the Cherokees, which took the place of a coat. Now in disuse.</note></l>
+          <l>From her mother's loom she made him;</l>
+          <l>"Taught him to flint and feather arrows"</l>
+          <l>"How to shoot them when completed."</l>
+        </lg>
+        <lg type="stanza">
+          <l>Down the river in the moonlight</l>
+          <l>In her own canoe they glided,</l>
+          <l>While she sang him songs so dreamy</l>
+          <l>That the great rocks caught the echo</l>
+          <l>And in phonographic measure</l>
+          <l>Still repeats them to the forest.</l>
+          <l>Thus the days of summer glided</l>
+          <l>Onward toward the coming autumn,</l>
+          <l>And the day of his departing</l>
+          <l>Dawned with its foreboding shadows.</l>
+        </lg>
+        <lg type="stanza">
+          <l>But he vowed unto his sweetheart::[sic]</l>
+          <l>"I'll be true to thee, my song-bird,</l>
+          <l>Never love another maiden,</l>
+          <l>Never sing with any other,</l>
+          <l>Soon will come the happy springtime</l>
+          <l>When I will return to wed thee,</l>
+          <l>And we'll live and sing together,</l>
+          <l>And will nevermore be parted."</l>
+          <l>So with many vows he left her,</l>
+          <l>Standing lonely in the twilight</l>
+          <l>"Looking back as he departed"--</l>
+          <l>With her solemn faith unshaken.</l>
+          <l>Each day waited fond Nowita;</l>
+          <l>Happy was the little singer,</l>
+          <l>Looking forward to the springtime.</l>
+          <l>Thus the long and weary winter</l>
+          <l>Passed away with leaden footsteps,</l>
+          <l>And again the hills and valleys</l>
+          <l>Wakened from their chilly slumbers,</l>
+          <l>And the laughter of the waters</l>
+          <l>Called to her with happy voices:</l>
+          <l>And she answered with her singing</l>
+          <l>Till the song birds in the forest</l>
+          <l>Caught and mocked the happy echo.</l>
+          <l>But the voice she loved and longed for,</l>
+          <l>And the step for which she listened,</l>
+          <l>And the man for whom she waited,</l>
+          <l>Never would come again to greet her.</l>
+        </lg>
+        <p xml:id="anderson_nowita_13015">
+          <pb xml:id="anderson_nowita_13014" n="89 NOWITA, THE SWEET SINGER"/>
+        </p>
+        <lg type="stanza">
+          <l>And the maiden, sadly singing</l>
+          <l>In the starlight in the morning,</l>
+          <l>Seemed to draw him near in spirit</l>
+          <l>From his distant home and people.</l>
+        </lg>
+        <lg type="stanza">
+          <l>But the grand dame of the maiden</l>
+          <l>Looked with sorrow on her grandchild,</l>
+          <l>Looked with sadness at her fading</l>
+          <l>Looked with anguish at her pining.</l>
+          <l>She who had been so light-hearted</l>
+          <l>Till she met the pale-face stranger,</l>
+          <l>Till she met the handsome Yankee--</l>
+          <l>Till she met with "Ska-kle-los-ky."</l>
+          <l>"My dear daughter," said the grand dame,</l>
+          <l>"Choose a young man of your tribe</l>
+          <l>Do not waste your youth in pining,</l>
+          <l>Wait not for the fickle stranger,</l>
+          <l>Weep not for your fair-faced lover--</l>
+          <l>Awful queer folks are the white folks."</l>
+        </lg>
+        <lg type="stanza">
+          <l>Many springs and many winters</l>
+          <l>Passed away in swift rotation</l>
+          <l>And the gentle Indian maiden</l>
+          <l>Grew into a sad-faced woman.</l>
+          <l>No more twilight found her singing,</l>
+          <l>Silent was her voice forever."</l>
+        </lg>
+        <lg type="stanza">
+          <l>Said the men among her people,</l>
+          <l>"Let him come once more among us</l>
+          <l>To deceive us with his friendship;</l>
+          <l>When he comes again he'll tarry,</l>
+          <l>Tarry in these hills forever.(</l>
+        </lg>
+        <lg type="stanza">
+          <l>All the powers of the magician,</l>
+          <l>All the pleading of her people,</l>
+          <l>Failed to change the silent singer,</l>
+          <l>Or arouse her admiration,</l>
+          <l>For the tall and handsome suitors--</l>
+          <l>Chiefs from far and distant nations--</l>
+          <l>Who had learned her hapless story</l>
+          <l>And had traveled far to woo her,</l>
+          <l>But she heeded not nor heard them,</l>
+          <l>For her thoughts were with the stranger,</l>
+          <l>And the echo of his whispers</l>
+          <l>Silenced all the other voices.</l>
+        </lg>
+        <lg type="stanza">
+          <l>Thus in melancholy sadness,</l>
+          <l>With her mind to mem'ry wedded,</l>
+          <l>And in patient resignation,</l>
+          <l>So her days alike were numbered;</l>
+          <l>Till she passed away in silence</l>
+          <l>To the land of the hereafter.</l>
+        </lg>
+        <lg type="stanza">
+          <l>Still her sad, unhappy story</l>
+          <l>Is repeated to the traveler,</l>
+          <l>And her home among the mountains</l>
+          <l>To this day is sought by strangers.</l>
+          <l>If you go alone at twilight</l>
+          <l>To the caves beside the river<ref target="#anderson_nowita.002.ma7">7</ref><note xml:id="anderson_nowita.002.ma7" n="7">A cave on the shores of Spavinaw, where a low sound as of singing may be heard, borne on the waters of the interior of the cave, called by the natives De-cu-na-gus-ky-skilly, or, Singing Spirit.</note></l>
+          <l>Where the lovers in the evening</l>
+          <l>Rowed together in the gloaming,</l>
+          <l>You may hear the repetition</l>
+          <l>Of the songs as they were uttered</l>
+          <l>By this charming Indian maiden,</l>
+          <l>By Nowita, the sweet singer.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

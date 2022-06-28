@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="utf-8"?>
+<
+<TEI.2 id="evelyn_130114">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><seg type="short-title">Mundus Muliebris</seg>: Or, The Ladies Dressing-Room Unlock'd, and her Toilette
+Spread, an electronic edition</title>
+        <author>
+          <name reg="Evelyn, Mary, 1665-1685" type="person">Mary Evelyn</name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center </name>
+        </respStmt>
+      </titleStmt>
+      <extent>40kb</extent>
+      <publicationStmt>
+        <publisher>Lewis H. Beck Center</publisher>
+        <pubPlace>Emory University</pubPlace>
+        <address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address>
+        <availability>
+          <p id="evelyn_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to
+the work claimed by Emory University for non-profit educational purposes, provided 
+this header is included in its entirety.  For inquiries about commercial uses, contact
+either: Women Writers Resource Project or Lewis H. Beck Center for Electronic
+collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability>
+        <date>1996</date>
+      <idno type="ark">http://pid.emory.edu/ark:/25593/17bzd</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl> Evelyn, Mary "Mundus Muliebris: Or, The Ladies
+	   Dressing-Room Unlock'd, and her Toilette Spread." London:
+	   <publisher>Printed for Joseph Wild</publisher> at the
+	   Elephant at Charing-Cross, <date>1700</date>. 23 pages. EEB 184:7 and 1652:3</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p id="evelyn_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <rs type="collection">Early Modern through the 18th Century</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Poetry</rs>
+        <rs type="geography">Great Britain</rs>
+        <date>1600-1699</date>
+      </creation>
+      <textClass>
+        <keywords scheme="lcsh">
+          <list>
+            <item>Women authors, English--17th Century.</item>
+            <item>Pride and vanity--Women--Humor.</item>
+            <item>Fashion--17th Century--Humor.</item>
+            <item>Manners and customs--History--17th Century--Humor.</item>
+            <item>Beauty, personal--Humor.</item>
+            <item>Cosmetics.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date>1997</date>
+        <respStmt>
+          <name>Scott Ellis</name>
+          <resp>Staff</resp>
+        </respStmt>
+        <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
+      </change>
+      <change>
+        <date>2006</date>
+        <respStmt>
+          <name>Alden Mahler</name>
+          <resp>Staff</resp>
+        </respStmt>
+        <item>TEI header elements changed to conform to new Beck Center standards.</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text id="evelyn_130113">
+    <body id="evelyn_130112">
+      <div id="evelyn_001" type="Poem">
+        <head><seg type="short-title">THE<lb/>
+LADIES<lb/>
+DRESSING-ROOM<lb/>
+UNLOCK'D</seg>,<lb/>
+And Her TOILETTE Spread,<lb/>
+TOGETHER,<lb/>
+With a Fop-Dictionary, and a Rare and<lb/>
+Incomparable Receipt to make Pig,<lb/>
+or Puppidog-Water for the Face.--</head>
+        <epigraph>
+          <p id="evelyn_1303">Tanquam fama discrimen agatur,<lb/>
+Aut Anima: Tanta est quarendi cura decoris.<lb/>
+Juvenal. Sat. 6.</p>
+        </epigraph>
+        <p id="evelyn_1304">Such care for a becoming Dress they take,<lb/>
+Asif their Life and Honour were at Stake.</p>
+        <p id="evelyn_1305">London:<lb/>
+Printed for Joseph Wild, at the Elephant at Charingcross, 1700.</p>
+        <p id="evelyn_1306">Where Gentlemen and Ladies may pick Novels at 6 s. per Doz.<lb/>
+And be furnish'd with most Sorts of Plays.</p>
+        <div id="evelyn_002" type="Preface">
+          <head>Preface</head>
+          <p id="evelyn_1307">This Paper was not to come abroad without a Preface, as well as Comment,
+for Instruction of our young master, who newly launch'd from the University
+(where he has lost a year or two) is not yet Travell'd, or if happily he
+has made le petit Tour (with the formal thing his Governour *whom the
+French call Maitre des ours, a Bearward.) having never yet Read Tully's
+Offices through, since he came from School, sets up for a Beau, and
+Equipp'd for the Town at his Return, comes to seek Adventures in an Ocean
+full of Rocks, and Shelves, and wants a Skilful Pilot to Steer him, as much
+as any Vessel that goes to the Indies; and oftentimes returns home Leaky,
+and as poorly Freighted, as those who have been near Shipwrack'd or lost
+their Voyage.</p>
+          <p id="evelyn_1309">It is for direction of such as are setting out towards this Great and
+Famous Emporium (whether the design be for Miss or Marriage) what Cargo he
+must provide; not as Merchants do for America, Glass-Beads,and Baubles, in
+exchange for Gold and pearl; but Gold and Pearl, and all that's precious,
+for that which is of less value than Knives and Childrens Rattles.   <pb id="evelyn_1308"/></p>
+          <p id="evelyn_13010">You see, Squires, what you are to prepare for as Adventurers, or by way of
+Barter, if you think to Traffick here, and to carry the Fair One,
+especially if she be at her own disposal (or being come some considerable
+time out of the Country) has been initiated into the Conversation of the
+Town: The Refined Lady expects her Servants and humble Admirers should
+Court her in the Forms and Decencies of making Love in Fashion: In order to
+this, you must often treat her at the Play, the Park, and the Musick;
+present her at the Raffle, follow her to Tunbridge at the season of
+drinking Waters, though you have no need of them your self: You must
+improve all occasions of celebrating her Shape, and how well the Mode
+becomes her, though it be never so Fantastical and Ridiculous; that she
+Sings like an Angel, Dances like a goddess; and that you are Charm'd with
+her Wit and Beauty: Above all, you must be sure to find some Fault or
+Imperfection in all other Ladies of the Town, and to laugh at the Fopps
+like your self: With this, a little Practice will qualifie you for the
+Conversation and Mystery of the Ruelle; and if the whole Morning be spent
+between the Glass and the Comb, that your Perruque fit well, and
+Cravat-Strings be adjusted as things of importance; with these and the like
+accomplishment you'll emerge a consummate Beau, Anglice, a Co- But the
+Dancing-Master will still be necessary to preserve your good Meen, and fit
+you for the Winter-Ball.</p>
+          <p id="evelyn_13012">Thus you see, young Sparks, how the Stile and Method of Wooing is quite
+changed, as well as the Language, since the days of our Fore-Fathers (of
+unhappy Memory <pb id="evelyn_13011"/>
+Memory, simple and plain, Men as they were who Courted and chose their
+Wives for their Modesty, Frugality, keeping at Home, Good-Houswifery, and
+other Oeconomical Virutes then in Reputation: and when the young damsels
+were taught all these in the Country, and their Parents Houses, the Portion
+they brought was more in Virtue than Money, and she was a richer Match than
+one who could have brought a Million, and nothing else to commend her. The
+Presents which were made when all was concluded, were a Ring, a Necklace of
+Pearl, and perhaps another fair jewel, the Bona Parphernalia of her prudent
+Mother, whose Nuptial Kirtle, Gown and Petticoat lasted as many
+Anniversaries as the happy Couple liv'd together, and were at last
+bequeathed with a Purse of old Gold, Rose-Nobles, Spur Royals, and
+Spankers, as an House-Loom to her Grand-Daughter.</p>
+          <p id="evelyn_13014">They had Cupboards of Ancient, useful Plate, whole Chests of Damask for the
+Table, and store of fine Holland Sheets (white as the driven Snow) and
+fragrant of Rose and Lavender for the Bed; and the sturdy Oaken Bedstead,
+and Furniture of the House, lasted a whole Century; the Shovel-Board, and
+other long Tables both in Hall and Parlour were as fixed as the Freehold;
+nothing was moveable save Joynt-Stools, Black Jacks, Silver Tankards, and
+Bowls: And though many things fell out between the Cup and the Lip, when
+Nappy Ale, March Beer, Metheglin, Malmesey, and Old Sherry got the
+Ascendant amongst the Blew-Coats, and Badges, they sung Old Symon, and
+Chevi Chase, and danc'd brave Arthur, and were albe to draw a Bow that made
+the proud Monsieur tremble <pb id="evelyn_13013"/>
+at the Whizze of the Grey-Goose-Feather: 'Twas then Ancient Hospitality was
+kept up in Town and Country, by Tenants were enabled to pay their Landlords
+at punctual days: the Poor were relieved bountifully, and Charity was as
+warm as the Kitchin, where the Fire was perpetual.</p>
+          <p id="evelyn_13015">In those happy days, Sure-Foot, the Grave and Steady Mare, carried the Good
+Knight and his Courteous Lady behind him to Church, and to visit the
+Neighborhood, without so many Hell-Carts, Ratling Coaches, and a crue of
+Damme Lacqueys, which a Grave Livery Servant or two supply'd, who rid
+before and made way for is Worship.</p>
+          <p id="evelyn_13017">Things of use were Natural, Plain, and Wholesome, nothing was
+superfluous, nothing necessary wanting: and Men of Estate studied the
+Publick Good and gave Example of true Piety, Loyalty, Justice, Sobriety,
+Charity, and the good-Neighborhood compos'd most differences: Perjury,
+Suborning Witnesses, Alimony, Avowed Adulteries, and Misses (publickly
+own'd) avere Prodigies in those days, and Laws were Reason, not Craft, when
+Mens Titles were secure, and they served their Generation with Honour; left
+their Patrimonial Estates improv'd to an Hopeful Heir, who passing from the
+Free School to the Colledge, and thence to the Inns of Court, acquainting
+himself with a competent Tincture of the Laws of his Country, followed the
+Example of his worthy Ancestors; and if he Travell'd abroad, it was not to
+count Steeples, and bring some Feather and Ribbon, and the Sins of other
+Nations; but to gain such Experience as rendered him useful to his Prince
+and Country upon occasion, and confirm'd him in the love of both of 'em
+above any other.<pb id="evelyn_13016"/></p>
+          <p id="evelyn_13019">The Virgins and Young Ladies of that Golden Age, Quaesierunt lanam &amp; linum
+(Prov. 31.13.19.); put their hands to the Spindle, nor disdain'd they the
+Needle; were obsequious, and helpful to their Parents; instructed in the
+Managery of the Family, and gave Presages of making excellent Wives; nor
+then did they Read so many Romances, see so many Plays, and smutty Farces;
+set up for Visits, and have their days of Audience, and Idle pass time.
+Honest Gleek, Ruff and Honours, diverted the Ladies at Chrismas, and they
+knew not so much as the Names of Ombre, Comet, and Basset. Their
+Retirements were Devout and Religious Books, and their Recreations in the
+Distillatory, the knowledge of Plants and their Virtues, for the comfort of
+their poor Neighbours, and use of the Family, which wholsome plain Dyet,
+and Kitching Physick preserved in perfect Health: in those days, the
+Scurvy, Spleen, &amp;c. were scarce heard of, till Foreign Drinks and Mixtures
+were wantonly introduc'd. Nor were the young Gentlewomen so universally
+afflicted with Hysterical Fits; nor, though extreamly modest, at all
+Melancholy, or less Gay, and in good Humour; they could touch the Lute, and
+Virginal, sing like to the Damask Rose- and their Breath was as sweet as
+their Voices: They danc'd the Canarys' Spanish Pavan, and Selengers Round
+upon Sippets, with as much Grace and Loveliness, as any Monsieur, or
+Italian of them all, can Teach with his Fop-call, and Apish Postures.
+To shew you the, how the World is alter'd among us, since Foreign Manners,
+the Luxury (more than Asiatick, which was the final Ruine of the Greatest,
+Wisest, and most Noblest Monarchy upon Earth) has universally obtain'd
+among us, corrupting ancient simplicity; and in what <pb id="evelyn_13018"/>
+extravagant form the young Gallant we describ'd, is to Court the Sex, and
+make his Addresses, (whether his Expedition be for Marriage or Mistress) it
+has been thought good by some Charitable hands, that have contributed to
+his Catalogue, to present him with an Enumeration of particulars, and
+Computation of the Charges of the Adventurer, as follows.</p>
+        </div>
+        <div id="evelyn_003" type="Part">
+          <head><seg type="short-title">THE LADIES DRESSING-ROOM UNLOCK'D</seg>, And Her TOILETTE Spread, TOGETHER, With a Fop-Dictionary, and a Rare and Incomparable Receipt to make Pig, or Puppidog-Water for the Face.</head>
+          <p id="evelyn_13020">(1)</p>
+          <p id="evelyn_13021">A<lb/>
+VOYAGE to MARRYLAND;<lb/>
+OR, THE<lb/>
+LADIES DRESSING-ROOM.<lb/></p>
+          <p id="evelyn_13022">Negotii sibi volet qui vim parare,<lb/>
+Navim, &amp; Mulierem, haec duo comparato.<lb/>
+Nam nullae magis Res duae plus Negotii<lb/>
+Habent, forte si occeperis exornare.<lb/>
+Neque unquam satis hae duae Res ornantur,<lb/>
+Neque eis ulla orandi satis satietas est.<lb/>
+Plaut. Poenelus. Act. I. Scen. 2.</p>
+          <p id="evelyn_13023">Whoever has a mind to abundance of Trouble,<lb/>
+Let him furnish himself with a Ship and a<lb/>
+Woman,<lb/>
+For no two things will find you more Employment,<lb/>
+If once you begin to Rig them out with all their<lb/>
+Streamers.<lb/></p>
+          <p id="evelyn_13024">B</p>
+          <pb id="evelyn_13025" n="2"/>
+          <p id="evelyn_13026">Nor are they ever suffiently adorned,<lb/>
+Or satisfy'd, that you have done enough to set them forth.<lb/></p>
+          <lg type="stanza">
+            <l>He that will needs to Marry-Land</l>
+            <l>Adventure, first must understand</l>
+            <l>For's Bark, what Tackle to prepare,</l>
+            <l>'Gainst Wind and Weather, wear and tare:</l>
+            <l>Of Point d'Espagne, a Rich Cornet,</l>
+            <l>Two Night-Rails, and a Scarf beset</l>
+            <l>With a great Lace, a Colleret.</l>
+            <l>One black Gown of Rich Silk, which odd is</l>
+            <l>Without one Colour'd, Embroider'd Bodice:</l>
+            <l>Four Petticoats for Page to hold up,</l>
+            <l>Four short ones nearer to the Crup:</l>
+            <l>Three Manteaus, nor can Madam less</l>
+            <l>Provision have for due undress;</l>
+            <l>Nor demy Sultane, Spagnolet,</l>
+            <l>Nor Fringe to sweep the Mall forget,</l>
+            <l>Of under Bodice three neat pair</l>
+            <l>Embroider'd, and of Shoos as fair:</l>
+            <l>Short under Petticoats pure fine,</l>
+            <l>Some of Japan stuff, some of Chine,</l>
+            <pb id="evelyn_13027" n="3"/>
+            <l>With Knee-high Galoon bottomed,</l>
+            <l>Another quilted White and Red;</l>
+            <l>With a broad Flanders Lace below:</l>
+            <l>Four pair of Bas de foy shot through</l>
+            <l>With Silver, Diamond Buckles too,</l>
+            <l>For Garters, and as Rich for Shoo.</l>
+            <l>Twice twelve day Smocks of Holland fine,</l>
+            <l>With Cambric Sleeves, rich Point to joyn,</l>
+            <l> (For she despises Colbertine.)</l>
+            <l>Twelve more for night, all Flanders lac'd,</l>
+            <l>Or else she'll think her self disgrac'd:</l>
+            <l>The same her Night-Gown must adorn,</l>
+            <l>With two Point Wastcoats for the Morn:</l>
+            <l>Of Pocket Mouchoirs Nose to drain,</l>
+            <l>A dozen lac'd, a dozen plain:</l>
+            <l>Three Night-Gowns of rich Indian stuff,</l>
+            <l>Four Cushion Cloths are scarce enough,</l>
+            <l>Of Point, and Flanders, not forget</l>
+            <l>Slippers embroidered on Velvet:</l>
+            <l>A Manteau Girdle, Ruby Buckle,</l>
+            <l>And Brillant Diamond Rings for Knuckle:</l>
+            <l>Fans painted, and perfumed three;</l>
+            <l>Three Muffs of Sable, Ermine, Grey;</l>
+            <l>Nor reckon it among the Baubles,</l>
+            <l>A Palatine also of Sables.</l>
+            <l>B2</l>
+            <pb id="evelyn_13028" n="4"/>
+            <l>A Saphire Bodkin for the Hair,</l>
+            <l>Or sparkling Facet Diamond there:</l>
+            <l>Then Turquois, Ruby, Emrauld Rings</l>
+            <l>For Fingers, and such petty things;</l>
+            <l>As Diamond Pendants for the ears,</l>
+            <l>Must needs be had, or two Pearl Pears,</l>
+            <l>Pearl Neck-lace, large and Oriental,</l>
+            <l>And Diamond, and of Amber pale;</l>
+            <l>For Oranges bears every Bush,</l>
+            <l>Nor values she cheap things a rush.</l>
+            <l>Then Bracelets for her Wrists bespeak,</l>
+            <l> (Unless her Heart-stings you will break)</l>
+            <l>With Diamond Croche for Breast and Bum,</l>
+            <l>Till to hang more on there's no room.</l>
+            <l>Besides these Jewels you must get</l>
+            <l>Cuff Buckles, and an handsom Set</l>
+            <l>Of Tags for Palatine, a curious Hasp</l>
+            <l>The Manteau 'bout her Neck to clasp</l>
+            <l>Nor may she want a Ruby Locket,</l>
+            <l>Nor the fine sweet quilted Pocket;</l>
+            <l>To play at Ombre or Basset,</l>
+            <l>She a rich Pulvil Purse must get,</l>
+            <l>With Guineas fill'd, on Cards to lay,</l>
+            <l>With which she fancies most to play:</l>
+            <pb id="evelyn_13029" n="5"/>
+            <l>Nor is she troubled at ill fortune,</l>
+            <l>For should the bank be so importune,</l>
+            <l>To rob her of her glittering Store,</l>
+            <l>The amorous Fop will furnish more.</l>
+            <l>Pensive and mute, behind her shoulder</l>
+            <l>He stands, till by her loss grown bolder,</l>
+            <l>Into her lap Rouleau conveys,</l>
+            <l>The softest thing a Lover Says:</l>
+            <l>She grasps it in her greedy hands,</l>
+            <l>Then best his Passion understands;</l>
+            <l>When tedious languishing has fail'd,</l>
+            <l>Rouleau has constantly prevail'd.</l>
+            <l>But too go on where we left off,</l>
+            <l>Though you may think what's said enough;</l>
+            <l>This is not half that does belong</l>
+            <l>To the fanstastick Female Throng:</l>
+            <l>In Pin-up Ruffles now she flaunts,</l>
+            <l>About her Sleeves are Echelles,</l>
+            <l>Gloves trimm'd, and lac'd as fine as Nells.</l>
+            <l>Twelve dozen: Martial, whole, and half,</l>
+            <l>Of Jonquil, Tuberose, (don't laught)</l>
+            <l>Frangipan, Orange, Violet,</l>
+            <l>Narcissus, Jassemin, Ambrett:</l>
+            <pb id="evelyn_13030" n="6"/>
+            <l>And some of Chicken skin for night,</l>
+            <l>To keep her Hands, plump, soft, and white,</l>
+            <l>Mouches for pushes, to be sure,</l>
+            <l>From Paris the tre-fine procure,</l>
+            <l>And Spanish Paper, Lip, and Cheek,</l>
+            <l>With Spittle sweetly to belick:</l>
+            <l>Nor therefore spare in the next place,</l>
+            <l>The Pocket Sprunking Looking-Glass;</l>
+            <l>Calembuc Combs in Pulvil Cafe,</l>
+            <l>To set, and trim the Hair and Face:</l>
+            <l>And that the Cheeks may both agree,</l>
+            <l>Plumpers to fill the Cavity.</l>
+            <l>The Settee, Cupee, place aright,</l>
+            <l>Relange, Fontange, Favorite;</l>
+            <l>Monte la haut, and Palisade,</l>
+            <l>Sorti, Flandan, (great helps to Trade)</l>
+            <l>Burgoine, Jardine, Cornett,</l>
+            <l>Frilal next upper Pinner set,</l>
+            <l>Round which it does our Ladies please</l>
+            <l>To spread the Hood call'd Rayonnes:</l>
+            <l>Behind the Noddle every Baggage</l>
+            <l>Wears bundle Choux in English, Cabbage:</l>
+            <l>Nor Cruches she, nor Confidents,</l>
+            <l>Nor Passagers, nor Bergers wants,</l>
+            <pb id="evelyn_13031" n="7"/>
+            <l>And when this Grace Nature denies,</l>
+            <l>An Artificial Tour supplies;</l>
+            <l>All which with Meurtriers unite,</l>
+            <l>And Creve-Coeurs silly Fops to smite,</l>
+            <l>Or take in Toil at Park or Play,</l>
+            <l>Nor Holy Church is safe, they say,</l>
+            <l>Where decent Veil was wont to hide,</l>
+            <l>The Modest Sex Religions Pride</l>
+            <l>Lest these yet prove too great a Load</l>
+            <l>'Tis all compris'd in the Commode;</l>
+            <l>Pins tipt with Diamond Point, and head,</l>
+            <l>By which the Curls are fastened,</l>
+            <l>In radiant Firmament set out,</l>
+            <l>And over all the Hood sur-tout:</l>
+            <l>Thus Face that E'rst near head was plac'd</l>
+            <l>Imagine now about the Wast,</l>
+            <l>For Tour on Tour, and Tire on Tire,</l>
+            <l>Like Steeple Boy, or Grantham Spire,</l>
+            <l>Or Septizonium once at Rome;</l>
+            <l> (But does not half so well become</l>
+            <l>Fair Ladies Head) you here behold</l>
+            <l>Beauty by Tyrant Mode controll'd</l>
+            <l>The graceful Oval, and the Round,</l>
+            <l>This Horse Tire does quite confound;</l>
+            <pb id="evelyn_13032" n="8"/>
+            <l>And Ears like Satyr, Large and Raw,</l>
+            <l>And bony Face, and hollow Jaw;</l>
+            <l>This monstrous Dress does now reveal</l>
+            <l>Which well plac'd Curls did once conceal.</l>
+            <l>Besides all these, 'tis always meant</l>
+            <l>You furnish her Appartiment,</l>
+            <l>With Moreclack Tapestry, Damask Bed,</l>
+            <l>Or Velvet richly embroidered:</l>
+            <l>Branches, Brasfero, Cassolets,</l>
+            <l>A Cofre-fort, and Cabinets,</l>
+            <l>Vasas of Silver, Porcelan, store</l>
+            <l>To set, and range about the Floor:</l>
+            <l>The Chimney Furniture of Plate,</l>
+            <l> (For Iron's now quite out of date:)</l>
+            <l>Tea-Table, Skreens, Trunks, and Stand,</l>
+            <l>Large Looking-Glass richly Japan'd,</l>
+            <l>And hanging Shelf, to which belongs</l>
+            <l>Romances, Plays, and Amorous Songs;</l>
+            <l>Repeating Clocks, the hour to show</l>
+            <l>When to the Play 'tis time to go,</l>
+            <l>In Pompous Coach, or else Sedan'd</l>
+            <l>With Equipage along the Strand,</l>
+            <l>And with her new Beau Fopling mann'd:</l>
+            <pb id="evelyn_13033" n="9"/>
+            <l>A new Scene to us next presents,</l>
+            <l>The Dressing-Room, and Implements,</l>
+            <l>Of Toilet Plate Gilt, and Emboss'd,</l>
+            <l>And several other things of Cost:</l>
+            <l>The Table Miroir, one Glue Pot,</l>
+            <l>One for Pomatum, and what not?</l>
+            <l>Of Washes, Unguents, and Cosmeticks,</l>
+            <l>A pair of Silver Candlesticks;</l>
+            <l>Snuffers, and Snuff-dish, Boxes more,</l>
+            <l>For Powders, Patches, Waters store,</l>
+            <l>In silver Flasks or Bottles, Cups</l>
+            <l>Cover'd, or open to wash Chaps;</l>
+            <l>Nor may Hungarian Queen's be wanting,</l>
+            <l>Nor store of Spirits against fainting:</l>
+            <l>Of other waters rich, and sweet,</l>
+            <l>To sprinkle Handkerchief is meet;</l>
+            <l>D'Ange, Orange, Mill-Fleur, Myrtle,</l>
+            <l>Whole Quarts the Chamber to bespertle:</l>
+            <l>Of Essence rare, &amp; le meillure</l>
+            <l>From Rome, from Florence, Montpellier,</l>
+            <l>In Filgran Casset to repel,</l>
+            <l>When Scent of Gousset does rebel,</l>
+            <l>Though powder'd Allom be as good,</l>
+            <l>Well strew'd on, and well understood;</l>
+            <l>C</l>
+            <pb id="evelyn_13034" n="10"/>
+            <l>For Vapours that offend the Lass,</l>
+            <l>Of Sal Armoniack a Glass:</l>
+            <l>Nor Brush for Gown, no Oval Salver,</l>
+            <l>Nor Pincushion, nor Box of Silver,</l>
+            <l>Baskets of Fil'gran, long and round,</l>
+            <l>Or if Japonian to be found,</l>
+            <l>And the whole Town so many yield,</l>
+            <l>Calembuc Combs by dozens fill'd</l>
+            <l>You must present, and a world more,</l>
+            <l>She's a poor Miss can count her store.</l>
+            <l>The Working Apron too from France,</l>
+            <l>With all its trim Apurtenance;</l>
+            <l>Loo Masks, and whole, as wind does blow,</l>
+            <l>And miss abroad's dispos'd to go:</l>
+            <l>Hoods by whole dozens, White and Black,</l>
+            <l>And store of Coiffs she must not lack,</l>
+            <l>Nor Velvet Scarfs about her Back,</l>
+            <l>To keep her warm; all these at least</l>
+            <l>In amber'd Skins, or quilted Chest</l>
+            <l>Richly perfum'd, she Lays, and rare</l>
+            <l>Powders for Garments, some for Hair</l>
+            <l>Of Cyprus and of Corduba,</l>
+            <l>And the Rich Polvil of Goa,</l>
+            <pb id="evelyn_13035" n="11"/>
+            <l>Nor here omit the Bob of Gold</l>
+            <l>Which a Pomander Ball does hold,</l>
+            <l>This to her side she does attach</l>
+            <l>With Gold Crochet, or French Pennache,</l>
+            <l>More useful far than Feruda,</l>
+            <l>For any saucy Coxcombs Jaw:</l>
+            <l>A graceful Swing to this belongs,</l>
+            <l>Which he returns in Cringe, and Songs,</l>
+            <l>And languishing to kiss the hand,</l>
+            <l>That can Prefumed blows command.</l>
+            <l>All these, and more in order set,</l>
+            <l>A large rich Cloth of Gold Toilet</l>
+            <l>Does cover, and to put up Rags,</l>
+            <l>Two high Embroider'd Sweet Bags,</l>
+            <l>Or a large Perfum'd Spanish Skin,</l>
+            <l>To wrap up all these Trinkets in.</l>
+            <l>But I had almost quite forgot,</l>
+            <l>A Tea and Chocolate Pot,</l>
+            <l>With Molionet, and Caudle Cup,</l>
+            <l>Restoring Breakfast to sup up:</l>
+            <l>Porcelan Saucers, Spoons of Gold,</l>
+            <l>Dishes that refin'd Sugars hold;</l>
+            <l>Pastillios de Bocca we</l>
+            <l>In Box of beaten Gold do see,</l>
+            <l>C2</l>
+            <pb id="evelyn_13036" n="12"/>
+            <l>Inchas'd with Diamonds, and Tweeze</l>
+            <l>As Rich and Costly as all these,</l>
+            <l>To which a bunch of Onyxes,</l>
+            <l>And many a Golden Seal there dangles,</l>
+            <l>Mysterious Cyphers, and new fangles:</l>
+            <l>Gold is her Toothpick, Gold her Watch is,</l>
+            <l>And Gold is every thing she touches:</l>
+            <l>But tir'd with numbers I give o're,</l>
+            <l>Arithmetick can add no more,</l>
+            <l>Thus Rigg'd the Vessel, and Equipp'd,</l>
+            <l>She is for all adventures Shipp'd,</l>
+            <l>And Portion e're the year goes round,</l>
+            <l>Does with her Vanity confound.</l>
+            <pb id="evelyn_13037" n="15"/>
+          </lg>
+        </div>
+        <div id="evelyn_004" type="Part">
+          <head><seg type="short-title">THE<lb/>
+FOP-DICTIONARY.</seg><lb/>
+OR,<lb/>
+An Alphabetical Catalogue of<lb/>
+the hard and foreign Names,<lb/>
+and Terms of the Art COS-<lb/>
+METICK, &amp;c. together with<lb/>
+their Interpretations, for In-<lb/>
+struction of the Unlearned.<lb/></head>
+          <p id="evelyn_13038">Attache.<lb/>
+Any thing which fastens to another, &amp;c.<lb/>
+Bas de soye shot through. <lb/>
+Silk Stokings with Gold, or Silver thread wove into the Clock.</p>
+          <p id="evelyn_13039">Berger. <lb/>
+A plain small Lock (a la Shepherdesse) turn'd up with a Puff.</p>
+          <pb id="evelyn_13040" n="16"/>
+          <p id="evelyn_13041">Burgoigne.<lb/>
+The first part of the Dress for the Head next the Hair.
+</p>
+          <p id="evelyn_13042">Branches. <lb/>
+Hanging Candlesticks, like those used in Churches.
+</p>
+          <p id="evelyn_13043">Brasiere. <lb/>
+A large Vessel, or moving-Hearth of Silver for Coals, transportable into
+any Room, much used in Spain.
+</p>
+          <p id="evelyn_13044">Calumbuc.<lb/>
+A certain precious Wood, of an agreeable Scent, brought from the Indies.
+</p>
+          <p id="evelyn_13045">Campaine.<lb/>
+A kind of narrow picked Lace.
+</p>
+          <p id="evelyn_13046">Casset. <lb/>
+A Dressing box.
+</p>
+          <p id="evelyn_13047">Cassolet. <lb/>
+Perfuming Pot or Censer.
+</p>
+          <p id="evelyn_13048">Choux. <lb/>
+The great round Boss or Bundle, resembling Cabbage, from whence the French
+give it that name.
+</p>
+          <p id="evelyn_13049">Cofre-fort. <lb/>
+A strong Box of some precious or hard wood, &amp;c. bound with gilded Ribs.
+</p>
+          <p id="evelyn_13050">Colbertine. <lb/>
+A Lace resembling Net-work of the Fabrick of Monsieur Colbert,
+Superintendent of the French Kings Manufactures.
+</p>
+          <p id="evelyn_13051">Collaret. <lb/>
+A sort of Gorget.
+</p>
+          <p id="evelyn_13052">Commode. <lb/>
+A Frame of Wire, cover'd with Silk, on which the (17) whole Head Attire is
+adjusted at once upon a Bust, or property of Wood carved to the Breasts,
+like that which Perruque-Makers set upon their Stalls.
+</p>
+          <p id="evelyn_13053">Confidants. <lb/>
+Smaller Curles near the Ears.
+</p>
+          <p id="evelyn_13054">Coruet. <lb/>
+The upper Pinner, dangling about the Cheeks, like Hounds Ears.
+</p>
+          <p id="evelyn_13055">Cosmeticks. <lb/>
+Here used for any Effeminate Ornament, also artificial Complections and
+Perfumes.
+</p>
+          <p id="evelyn_13056">Creve-coeur. <lb/>
+Heart-breakers, the two small curl'd Locks at the nape of the Neck.
+</p>
+          <p id="evelyn_13057">Crochet. <lb/>
+The Hook to which are chain'd the Ladies Watch, Seals, and other Intaglias,
+&amp;c.
+</p>
+          <p id="evelyn_13058">Cruches. <lb/>
+Certain smaller Curles, placed on the Forehead.
+</p>
+          <p id="evelyn_13059">Cuppee. <lb/>
+A kind of Pinner.
+</p>
+          <p id="evelyn_13060">Exbelles. <lb/>
+A Pectoral, or Stomacher lac'd with Ribbon, like the rounds of a Ladder.
+</p>
+          <p id="evelyn_13061">Engageants. <lb/>
+Deep double ruffles, hanging down to the Wrists.
+</p>
+          <p id="evelyn_13062">Favorites. <lb/>
+Locks dangling on the Temples.
+</p>
+          <p id="evelyn_13063">Ferula. <lb/>
+And Instrument of Wood us'd for Correction of lighter (18) faults, more
+sensibly known to School-Boys than to Ladies.
+</p>
+          <p id="evelyn_13064">Fil-grain'd. <lb/>
+Dressing-Boxes, Baskets, or whatever else is made of Silver Wire-work.
+</p>
+          <p id="evelyn_13065">Flandan. <lb/>
+A kind of Pinner joyning with the Bonnet.
+</p>
+          <p id="evelyn_13066">Firmament. <lb/>
+Diamond, or other precious Stones heading the Pins which they stick in the
+Tour, and Hair, like Stars.
+</p>
+          <p id="evelyn_13067">Freland. <lb/>
+Bonnet and Pinner together.
+</p>
+          <p id="evelyn_13068">Font-Ange. <lb/>
+The Top-Knot, so call'd from Mademoiselle de Fontange, one of the French
+King's Mistresses, who first wore it.
+</p>
+          <p id="evelyn_13069">Gris. <lb/>
+The Grey Furr of Squirrels bellies.
+</p>
+          <p id="evelyn_13070">Japonian. <lb/>
+Any thing Varnish'd with Laccar, or China Polishing, or that is odd or
+fantastical.
+</p>
+          <p id="evelyn_13071">Jardinee. <lb/>
+That single Pinner next the Bourgogne.
+</p>
+          <p id="evelyn_13072">Loo Mask. <lb/>
+An half Mask.
+</p>
+          <p id="evelyn_13073">Martial. <lb/>
+The Name of a famous French Perfumer, emulateing the Frangipani of Rome.
+</p>
+          <p id="evelyn_13074">Miroir. <lb/>
+In general, any Looking-Glass; but here for the (19) the Table, Toilet, or
+Pocket Sprunking-Glass.
+</p>
+          <p id="evelyn_13075">Molionet. <lb/>
+The Instrument us'd to mingle Chocolate with the Water.
+</p>
+          <p id="evelyn_13076">Monte la haut. <lb/>
+Certain degrees of Wire to raise the Dress.
+</p>
+          <p id="evelyn_13077">Mouchoir. <lb/>
+It were Rude, Vulgar, and Uncourtly, to call it Handkerchief.
+</p>
+          <p id="evelyn_13078">Mouches. <lb/>
+Flies, or, Black Patches, by the Vulgar.
+</p>
+          <p id="evelyn_13079">Meurtrieres. <lb/>
+Murderers; a certain Knot in the Hair, which ties and unites the Curls.
+</p>
+          <p id="evelyn_13080">Palatine. <lb/>
+Formerly call'd Sables, or Tippet, because made of the Tails of that
+Animal.
+</p>
+          <p id="evelyn_13081">Palisade. <lb/>
+A Wire sustaining the Hair next to the Dutchess, or first Knot.
+</p>
+          <p id="evelyn_13082">Passagere. <lb/>
+A Curl'd Lock next the Temples.
+</p>
+          <p id="evelyn_13083">Pastillo di Bocca. <lb/>
+Perfum'd Lozenges to improve the Breath.
+</p>
+          <p id="evelyn_13084">Pennache. <lb/>
+Any Bunch or Tassel fo small Ribbon.
+</p>
+          <p id="evelyn_13085">Plumpers. <lb/>
+Certain very thin, round, and light Balls, to plump out, and fill up the
+Cavities of the Cheeks, much us'd by old Court-Countiese.
+</p>
+          <p id="evelyn_13087">D2<pb id="evelyn_13086" n="20"/></p>
+          <p id="evelyn_13088">Polvil. <lb/>
+The Portugal term for the most exquisite Powders and Perfumes.
+</p>
+          <p id="evelyn_13089">Raggs. <lb/>
+A Compendious Name generally us'd for all sorts of Point, Lace, &amp;c. whence
+the Women who bring them to Ladies Chambers are call'd Ragg-Women; but
+whilst in their Shops, Exchange-Women.
+</p>
+          <p id="evelyn_13090">Rare, le meilleures. <lb/>
+Best, and most Excellent; but in Language de beau, rare &amp; le meilleure,
+happily rhyming with Montpellier.
+</p>
+          <p id="evelyn_13091">Rayonne. <lb/>
+Upper Hood, pinn'd in Circle, like the Sun-Beams.
+</p>
+          <p id="evelyn_13092">Rouleau. <lb/>
+Is Forty Nine Guineas, made up in a Paper Roll, which Monsieur F- Sir J-
+and Father B- lend to losing Gamesters, that are good Men and have Fifty in
+Return.
+</p>
+          <p id="evelyn_13093">Ruffles. <lb/>
+By our Four-fathers call'd Cuffs,
+</p>
+          <p id="evelyn_13094">Settee. <lb/>
+The double Pinner.
+</p>
+          <p id="evelyn_13095">Sorti. <lb/>
+A little Knot of small Ribbon, peeping out between the Pinner and Bonnet.
+</p>
+          <p id="evelyn_13096">Septizonium. <lb/>
+A very high Tower in Rome, built by the Emperour Severus, of Seven Ranks of
+Pillars, set one upon the other, and diminishing to the Top, (21) like the
+Ladies new Dress for their Heads, which was the mode among the Roman Dames,
+and is exactly describ'd by Juvenal in his 6th Satyr.</p>
+          <p id="evelyn_13097">Tot premit ordinibus, tot adhuc Compagibus altum Aedificat caput;
+Anromachen a fronte videbis Post minor est-</p>
+          <lg type="stanza">
+            <l>Such Rows of Curles press'd on each other lye,</l>
+            <l>She builds her head so many Stories high,</l>
+            <l>That look on her before, and you would swear</l>
+            <l>Hector's tall Wife Andromache she were,</l>
+            <l>Behind a Pigmy-</l>
+          </lg>
+          <p id="evelyn_13098">Spanish Paper. <lb/>
+A beautiful red Colour, which the Ladies, &amp;c. in Spain paint their Faces
+withal.
+</p>
+          <p id="evelyn_13099">Spagnolet. <lb/>
+A kind of narrow-sleev'd Gown, a la Spagnole.
+</p>
+          <p id="evelyn_130100">Sprunking. <lb/>
+A Dutch term for Pruning, Tiffing, Trimming, and setting out, by the Glass
+or Pocket Miroir.
+</p>
+          <p id="evelyn_130101">Sultane. <lb/>
+A Gown trimm'd with Buttons and Loops.
+</p>
+          <p id="evelyn_130102">Surtout. <lb/>
+A Night-Hood covering the entire Dress.
+</p>
+          <p id="evelyn_130103">Toilet. <lb/>
+Corruptly call'd the Twilight, but originally signifying a little Cloth.
+</p>
+          <p id="evelyn_130105">Tour. <lb/>
+And artificial Dress of Hair on the Forehead, &amp;c.
+<pb id="evelyn_130104" n="22"/></p>
+          <p id="evelyn_130106">Tre fine. <lb/>
+Langage de Beau. Extreamly fine, and delicate, cum multis aliis.
+</p>
+          <p id="evelyn_130107">For besides these, there are a world more, as Assasin, or Venez a moy, A
+certain Breast-Knot, as much as to say, Come to me, Sir, &amp;c.
+Dutchesses. A Knot next the Hair, immediately above the Tour, &amp;c. with
+innumerable others now obsolete, and for the present out of use; but we
+confine our selves to those in Vogue.</p>
+          <p id="evelyn_130108">To conclude, Those who have the curiosity, by comparing these Terms with
+the Ancients, thereby to inform themselves, how this Elegant Science is
+improv'd, especially since we have submitted to, and still continue under
+the Empire of the French, (for want of some Royal or Illustrious Ladies
+Invention and Courage, to give the Law of the Mode to her own Country, and
+to vindicate it from Foreign Tyranny) may for Divine History consult Isaiah
+3d. ch. ver. 16, &amp;c. and for Prophane, read Plautus his Poenulus, Act. I.
+Scen. 2. and his Auluaria, Act. 3. Scen. 5.
+</p>
+          <p id="evelyn_130109">To Make Pig, or Puppidog, Water for the Face.
+</p>
+          <p id="evelyn_130110">Take a Fat Pig, or a Fat Puppidog, of nine days old, and kill it, order it
+as to Roast, save the Blood, and fling away nothing but the Guts; then (23)
+take the Blood, and Pig, or the Puppidog, and break the Legs and Head, with
+all the Liver and the rest of the Inwards, of either of them, put all into
+the Still if it will hold it, to that, take two Quarts of old Canary, a
+pound of unwash'd Butter not salted; a Quart of Snails-Shells, and also two
+Lemmons, only the outside pared away; Still all these together in a Rose
+Water Still, either at once or twice; Let it drop slowly into a
+Glass-Bottle, in which let there be a lump of Loaf Sugar, and a little
+Leaf-Gold.
+</p>
+          <p id="evelyn_130111">FINIS</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI.2>

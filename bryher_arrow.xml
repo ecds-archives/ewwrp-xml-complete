@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bryher_develop_130703">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Arrow Music by Bryher, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Bryher, Annie Winifred Ellerman</reg><orig>W. Bryher</orig></choice></name>
+          
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>35kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="bryher_arrow_1301">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to
+the work claimed by Emory University for non-profit educational purposes, provided 
+this header is included in its entirety.  For inquiries about commercial uses, contact
+either: Women Writers Resource Project or Lewis H. Beck Center for Electronic
+collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17b1p</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Bryher, W. [Annie Winifred Ellerman]. Arrow Music. London: <publisher>J. &amp; E. Bumpus</publisher>, <date>1922</date>.</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="bryher_arrow_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Poetry</rs>
+        <rs type="geography">Great Britain</rs>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>English poetry--Women authors--20th Century.</item>
+            <item>Lesbians' writings--Poetry.</item>
+            <item>Greece--Poetry.</item>
+            <item>Rome--Poetry.</item>
+            <item>Mythology, Classical--Poetry.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1999</date><label>Staff</label><name>Jennifer Poulos Nesbitt</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="bryher_arrow_1306">
+    <body xml:id="bryher_arrow_1305">
+      <div xml:id="bryher_arrow_001" type="Book">
+        <head> Arrow Music  BY [Bryher].</head>
+        <p xml:id="bryher_arrow_1303">Acknowledgement is due to the editors of <title>Poetry</title> (Chicago) in whose periodical certain of these poems have appeared.</p>
+        <p xml:id="bryher_arrow_1304"><hi rend="bold">CONTENTS.</hi><lb/>
+ARROW MUSIC . . . . . 5<lb/>
+A CARTHAGINlAN IN ROME . . . . . 6<lb/>
+PENTHESILEIA . . . . . 7<lb/>
+THE POOL . . . . . 8<lb/>
+LOVE SONGS OF THE STONE AGE . . . . . 9-11<lb/>
+FROM HELIX . . . . . 11<lb/>
+IN EXILE . . . . . 12<lb/>
+AMAZON . . . . . 12<lb/>
+APPLE SONG . . . . . 13<lb/>
+SONG . . . . . 14<lb/>
+IN SYRIA . . . . . 14<lb/>
+BLUE SLEEP . . . . . 15<lb/>
+EOS . . . . . 16 <lb/>
+WILD ROSE . . . . . 17<lb/>
+HORSES OF TROS . . . . . 18<lb/>
+MYISKOS . . . . . 19-20</p>
+        <div xml:id="bryher_arrow_002" type="Poem">
+          <head>ARROW-MUSIC.</head>
+          <lg type="stanza">
+            <l n="1">An old Egyptian said:</l>
+            <l>"it is a dream which leads them,</l>
+            <l>on toward Babylon, out toward the sea."</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">A dream--</l>
+            <l>scorched on the wastes for a dream,</l>
+            <l>scorched till the skin cracked under the helmet-rim,</l>
+            <l>till we printed a way with bones</l>
+            <l>for the swordsmen who followed us . . . .</l>
+            <l>we died; but not for a dream. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">We marched east</l>
+            <l>from the wolf-fight at midnight, </l>
+            <l>from Thracian snow, from bent roofs, </l>
+            <l>from pulse, from winter beans. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Alexander said: </l>
+            <l>"I will fill your shields with jasper, </l>
+            <l>your helmets with roses; </l>
+            <l>I will give you Persia for a sword-belt;</l>
+            <l>slake your thirst with girls, </l>
+            <l>(frail wind-violets</l>
+            <l>that freeze the sleet to colour,</l>
+            <l>heavy camelias</l>
+            <l>whiter than your dream of water;)</l>
+            <l>I will show you marvels over the edge of the desert, </l>
+            <l>agate deer, the mirage of a city,</l>
+            <l>an elephant with emerald eyes. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Some of us had Troy in our veins; </l>
+            <l>after eight hundred years</l>
+            <l>an earlier, lovelier city</l>
+            <l>(burnt ashes, arrow-music,)</l>
+            <l>drew us back to the plains. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">South with Hanno,</l>
+            <l>east with Alexander--</l>
+            <l>it is better to die beneath a Persian rose-bush</l>
+            <l>than to smell dung and cabbages for forty years. </l>
+          </lg>
+        </div>
+        <div xml:id="bryher_arrow_003" type="Poem">
+          <head>A CARTHAGINIAN IN ROME.</head>
+          <lg type="stanza">
+            <l n="1">We come to forget. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">In the swirl of the sand . . . in the roar of your voices . . . in the wolf-snarls. . . clang of the gates, there is a dream more potent than dream, there is power, the chance of death. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Whether with sword or with rose-leaf, the lives you will not live come forward--we, of the perished cities come before you, drunken with your voices, with wolf-snarls, with clang of the gates.<lb/>
+We, the doomed to death, salute you." In the sand, in the roses, we come to forget. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">It is too much pain to press Myrica or Ion to our breasts . . . life is too sharp a pain . . . better to stand in the torch light and sing to you, dance for you, fight for you, easier . . . sweeter . . .<lb/>
+We come to forget</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">The glare of the burnt wood shrivels our wreaths; your voices are tanged with onions and cheap wine. But our bodies--are they not worth a city? Was Troy wonderful as a naked warrior; was Carthage lovely as a flute-playing girl? </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Who should understand? Neither the wolves nor the faces. Neither the girls with veils across their eyes nor the white youths that draw songs from flute or bronze.  Not ours the god on the heights, not ours, patience or fortitude. We have the power and the weakness. . . pain and then happiness. . . ``We, the doomed to death, salute you". . . for this moment we endured. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">We shall hear the sea as we drop to the white sand . . . we shall smell the fields as the rose-leaves fall over us . . . your voice thunder our death . . . we shall forget you tried to break us . . . forget pain . . . forget love . . . in the shock, in the roar of sleep. </l>
+          </lg>
+        </div>
+        <div xml:id="bryher_arrow_004" type="Poem">
+          <head>PENTHESILEIA.</head>
+          <lg type="stanza">
+            <l n="1">A chilles wept, they said,</l>
+            <l> to see you dead.</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">For there was fire of poppies in your eyes, </l>
+            <l>and all your armour-hidden flesh</l>
+            <l>was smooth as the white skies. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Men might have set</l>
+            <l>their soft dis-honouriag lips </l>
+            <l>where belt and belt-clasp met; </l>
+            <l>hands might have trapped and dragged </l>
+            <l>a captive to the ships. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">But he, they told, </l>
+            <l>drove through the tunic fold </l>
+            <l>and wept--but gave you honour </l>
+            <l>giving death. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Life should be free-</l>
+            <l>for this you left, (to fight in Phrgyia) </l>
+            <l>the squirrels and the hounds </l>
+            <l>and the dark, desolate eagles </l>
+            <l>and the sea. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">A thrust, </l>
+            <l>and the grey dust-</l>
+            <l>But Achilles </l>
+            <l>remembering how he slept alone at Skyros, </l>
+            <l>wept for the first time </l>
+            <l>his too swift hands. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">He left his spear, they said, </l>
+            <l>where you lay dead, </l>
+            <l>with golden poppies bound about your head. </l>
+          </lg>
+        </div>
+        <div xml:id="bryher_arrow_005" type="Poem">
+          <head>THE POOL. </head>
+          <lg type="stanza">
+            <l n="1">
+              <hi rend="italic">You mirage a dead world</hi>
+            </l>
+            <l>
+              <hi rend="italic">in the white pool. </hi>
+            </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">White rush and silver rush at twitterlight </l>
+            <l>meet and desire as the shy boy </l>
+            <l>lifts from his lover. </l>
+            <l>White rush and silver rush at twitterlight </l>
+            <l>touch in the wind and sleep. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Duck-green and willow-silver. . . </l>
+            <l>has no wing touched your cheek? </l>
+            <l>Is there no bird </l>
+            <l>to weave a nest between your sullen limbs </l>
+            <l>and hatch a songster, </l>
+            <l> (amber with lizard eyes) </l>
+            <l>to chirp above your phrases: `` Love, love, love . . . "</l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Your world dies from the surface of the pool. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Why are your hands not on the willow leaves </l>
+            <l>to feel the sharpness and the thin, soft flower? </l>
+            <l>To feel . . . </l>
+            <l>Love wrinkle at the touch like a soft bird ? </l>
+          </lg>
+        </div>
+        <div xml:id="bryher_arrow_006" type="Poem">
+          <head>LOVE SONGS 0F THE STONE AGE. </head>
+          <lg n="1" type="section">
+            <head>I.</head>
+            <lg type="stanza">
+              <l n="1">I saw you, </l>
+              <l>looking for arrow reed; </l>
+              <l>I smelt you </l>
+              <l>in the marsh by the hyacinths; </l>
+              <l>I caught you where the colts nibble wind-flowers, </l>
+              <l>I sprang at you </l>
+              <l>by the lake. </l>
+            </lg>
+            <lg type="stanza">
+              <l n="1">You are slighter than arrow reed, </l>
+              <l>whiter than hyacinths; </l>
+              <l>is it crab-apple blossom I kiss </l>
+              <l>or your face ? </l>
+            </lg>
+            <lg type="stanza">
+              <l n="1">Ah - ha - ha- ha . . . </l>
+              <l>gulls answer your cry; </l>
+              <l>berry and beak, </l>
+              <l>wing-toss, wrist-circle meet. </l>
+              <l>I will smash you down with my force </l>
+              <l>on the frozen grass; </l>
+              <l>break your wild beauty </l>
+              <l>your ankles, your throat, </l>
+              <l>clasp you, mate you, master you, </l>
+              <l>till we sleep. </l>
+            </lg>
+          </lg>
+          <lg n="2" type="section">
+            <head>II.</head>
+            <lg type="stanza">
+              <l n="1">It is I who lift you,</l>
+              <l>I!</l>
+              <l>Not stone nor spear but my strength, </l>
+              <l>the full power of all my Aprils in the snow,</l>
+              <l>the Junes in the clover fields;</l>
+              <l>all my hunts and my shouts, </l>
+              <l>the wrestle with boys in the sleet, </l>
+              <l>now I know why I faced bears and broke branches </l>
+              <l>at nut-harvest, </l>
+              <l>that I might be strong to break you, beautiful, </l>
+              <l>that I might be strong to lift you, kiss you, </l>
+              <l>as the earth, the sea, is strong </l>
+              <l>to bear violets and the rain. </l>
+            </lg>
+            <lg type="stanza">
+              <l n="1">My clumsy kisses . . . </l>
+              <l>ignorant hands. </l>
+            </lg>
+          </lg>
+          <lg n="3" type="section">
+            <head>III.</head>
+            <lg type="stanza">
+              <l n="1">I were no hunter </l>
+              <l>to love you and leave you </l>
+              <l>unmated. </l>
+              <l>the blue mountain lilies, </l>
+              <l>the clouded blue bilberries </l>
+              <l>have a look of your eyes; </l>
+              <l>the gulls at the lake side </l>
+              <l>have caught your own gesture </l>
+              <l>as you chase the young colts </l>
+              <l>to the edge of the pines. </l>
+            </lg>
+            <lg type="stanza">
+              <l n="1">I am no hunter </l>
+              <l>to love you and leave you. </l>
+              <l>Bind moss round your feet, </l>
+              <l>cover your body, </l>
+              <l>lest I smell you and seize you, </l>
+              <l>and band you with lilies, </l>
+              <l>that the tribe and the forest </l>
+              <l>know you are mine. </l>
+            </lg>
+          </lg>
+          <lg n="1" type="section">
+            <head>IV.</head>
+            <lg type="stanza">
+              <l n="1">Come!</l>
+              <l>I will fry for you </l>
+              <l>bear bones, marrow bones; </l>
+              <l>I will shake down rain for you </l>
+              <l>of cloudberries and corn; </l>
+              <l>find you cones of honey wax, </l>
+              <l>fill you a basket </l>
+              <l>of eggs the shape of rosebuds </l>
+              <l>tumbled on the lawn. </l>
+            </lg>
+            <lg type="stanza">
+              <l n="1">Come!</l>
+              <l>I will string for you, </l>
+              <l>white shells and mulberries, </l>
+              <l>and bring you yellow pansies </l>
+              <l>streaked with the black dawn. </l>
+            </lg>
+          </lg>
+        </div>
+        <div xml:id="bryher_arrow_007" type="Poem">
+          <head>FR0M HELIX. </head>
+          <lg type="stanza">
+            <l n="1">Athene has wreathed violets for your head. </l>
+            <l>The owl-white leaves, stricken with fire, break from your hair, </l>
+            <l>and brush my eyes. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">I touch your shoulders with my lips. </l>
+            <l>They are cold as Athene's arms under her mail. </l>
+            <l>But your soft breasts are </l>
+            <l>the roses Aphrodite loosens from her heart. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Your eyes are words. </l>
+            <l>I look into your eyes and write these songs. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">" What is Kyanean?" I have asked. </l>
+            <l>It is the lashes of your closed eyes. </l>
+          </lg>
+        </div>
+        <div xml:id="bryher_arrow_008" type="Poem">
+          <head>IN EXILE. </head>
+          <lg type="stanza">
+            <l n="1">Is it love that drifts your head toward your white, cool shoulder, heat-smitten rose too tense for the white throat? Is it love that paints the eyelid ledge with iris; the weariness of days I dare not know you suffered? Is it love that hurts or thought? </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Has sleep conquered love ? Have you spent your love on the white cytisus ridges, the Nereid-blue water, the wing-dip of the hills? </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Are my own limbs but a sheath for your intensity, my love. </l>
+          </lg>
+        </div>
+        <div xml:id="bryher_arrow_009" type="Poem">
+          <head>AMAZON. </head>
+          <lg type="stanza">
+            <l n="1">The closed bud of dawn opens on your face. </l>
+            <l>The thong of my javelin </l>
+            <l>is not as supple as your arm. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">You have torn your limbs </l>
+            <l>with spines of gorse-flower, bramble and cytisus. </l>
+            <l>I remember </l>
+            <l>wind, April, the black rain. </l>
+          </lg>
+        </div>
+        <div xml:id="bryher_arrow_010" type="Poem">
+          <head>APPLE SONG. </head>
+          <lg type="stanza">
+            <l n="1">Hands, you are apple-flowers </l>
+            <l>blown with the wind </l>
+            <l>(that smoothes the riper apples) over me, </l>
+            <l>over the mesh </l>
+            <l>where brown limbs notch I</l>
+            <l>nto the white of flesh. </l>
+            <l>Are you an apple-bud </l>
+            <l>from which desire bursts </l>
+            <l>with the wind, afresh? </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Your throat tastes sweeter </l>
+            <l>than the yellow fruit </l>
+            <l>parched by the sun-on-rain. </l>
+            <l>Sweet your lips </l>
+            <l>red apple-flower hearts, </l>
+            <l>and the harsh quivering of your limbs </l>
+            <l>when Love, </l>
+            <l>darkens his lids and yours,</l>
+            <l>is harsh as wind </l>
+            <l>scattering frosted apples up the lane. </l>
+          </lg>
+        </div>
+        <div xml:id="bryher_arrow_011" type="Poem">
+          <head>SONG. </head>
+          <lg type="stanza">
+            <l n="1">The golds of the narcissus </l>
+            <l>and the red , </l>
+            <l>bronze your white flesh; your eyes,</l>
+            <l>savage and tender, </l>
+            <l>are the woods, a wind </l>
+            <l>scatters afresh with wind-flowor and with iris; </l>
+            <l>but if I bring the basket of my arms</l>
+            <l>to gather you,</l>
+            <l>you turn your head</l>
+            <l>and give yourself to sleep.</l>
+          </lg>
+        </div>
+        <div xml:id="bryher_arrow_012" type="Poem">
+          <head>IN SYRIA</head>
+          <lg type="stanza">
+            <l n="1">Girls, not a spear, once held my tent, </l>
+            <l>Circassian arm and Thracian wrist </l>
+            <l>moulded a shield of cream and bronze. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">A queen was glad because I praised </l>
+            <l>her carven, turquoise eyes and kissed </l>
+            <l>her navel, (white, smooth poppy-leaf.) </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Her unforced lip, narcissus-red, </l>
+            <l>flowered into kisses, as night went. </l>
+            <l>Corinthian dancers held the thongs </l>
+            <l>of strained roof-linen, overhead. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Now with no sword at my command, </l>
+            <l>I perish in a bitter land. </l>
+          </lg>
+        </div>
+        <div xml:id="bryher_arrow_013" type="Poem">
+          <head>BLUE SLEEP.</head>
+          <lg type="stanza">
+            <l n="1">Aphrodite!</l>
+            <l>Aphrodite of the blue sleep, the bird-black sea, </l>
+            <l>I thank you that at last my body is at peace. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">I toss these flowers from the flowers, your feet, </l>
+            <l>From the pear buds of your ankles, </l>
+            <l>The white hyacinths of your limbs. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">The love-hour is ended. </l>
+            <l>Swallow-wings, dreams of a spiked iris, </l>
+            <l>Gipsy your eyes. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">The hollows under your knees are sweet with love. </l>
+            <l>Your knees are quince blossoms, bent back by the rain. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Blue of your eyes,</l>
+            <l>Blue of the Greek seas that has no name, </l>
+            <l>Am I lifted </l>
+            <l>To the porch of Aphrodite on your wings ? </l>
+          </lg>
+        </div>
+        <div xml:id="bryher_arrow_014" type="Poem">
+          <head>EOS.</head>
+          <lg type="stanza">
+            <l n="1">Your face is the flush of Eos: </l>
+            <l>You are dawn. </l>
+            <l>Your face is Greece. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Under your lifted arm </l>
+            <l>There is lavender to kiss; </l>
+            <l>Sea-lavender, spiced with salt. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Before the fierce cyclamen wine has burnt my lips, </l>
+            <l>I kiss your limbs, wild followers of Artemis. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Your eyes break sleep!</l>
+            <l>I touch the pansy set below your heart; </l>
+            <l>Each kiss a star </l>
+            <l>That fades upon your body, which is dawn. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">April scent of your throat, </l>
+            <l>O spiced flowers of your shoulders, </l>
+            <l>Will you shrink from the lion, my heart? </l>
+          </lg>
+        </div>
+        <div xml:id="bryher_arrow_015" type="Poem">
+          <head>WILD ROSE. </head>
+          <lg type="stanza">
+            <l n="1">O wild rose, bend above my face!</l>
+            <l>There is no world-</l>
+            <l>Only the beat of your throat against my eyes. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">White moss is harsh </l>
+            <l>Against these soft white petals of your feet. </l>
+            <l>It is hard to dream you have followed the wild goats </l>
+            <l>Aslant the perilous hills. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">I have only the fire of my heart to offer you, </l>
+            <l>O peach-red lily of my love! </l>
+          </lg>
+        </div>
+        <div xml:id="bryher_arrow_016" type="Poem">
+          <head>HORSES OF TROS. </head>
+          <lg type="stanza">
+            <l n="1">If I forge horses, </l>
+            <l>black hooves, bronze coursers, </l>
+            <l>the wind-wilt forward of a mane </l>
+            <l>on a white torse; </l>
+            <l>if I forge horses </l>
+            <l>as beautiful as lightning, </l>
+            <l>will you send your eagle, Zeus, </l>
+            <l>to help me from the earth? </l>
+            <l>will you set me with Eros, </l>
+            <l>to play forever and forever </l>
+            <l>with cowslip balls and stars </l>
+            <l>on the turf of the sky ? </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">My heart is blind with lightning, </l>
+            <l>my heart is blind with crocuses, </l>
+            <l>with a young fawn that leapt </l>
+            <l>from moss to crocus leaf, </l>
+            <l>blind, blind with beauty. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">It is the visible world that has shattered me, </l>
+            <l>it is the cry of the crane that has broken me,</l>
+            <l>Zeus, Zeus with your lightning, </l>
+            <l>grant me freedom from earth. </l>
+          </lg>
+        </div>
+        <div xml:id="bryher_arrow_017" type="Poem">
+          <head>MYISKOS.</head>
+          <lg type="stanza">
+            <l n="1">Let them keep who they will, Myiskos, </l>
+            <l>out of Tyre; </l>
+            <l>the white Lesbian boy </l>
+            <l>with his arched and polished lyre; </l>
+            <l>the girl with quince-buds </l>
+            <l>thrust to match her breasts, </l>
+            <l>where the revellers, </l>
+            <l>split the silk, laughing, </l>
+            <l>kissed (as dawn the quince) </l>
+            <l>her smiling navel, under the rent vests. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">For you, </l>
+            <l>with audacious eyes, </l>
+            <l>sea-grey, sea-wild, </l>
+            <l>you are more than girl or youth. </l>
+            <l>There is passion </l>
+            <l>back of the dung-jests of your lips; </l>
+            <l>you are more beautiful </l>
+            <l>than white Phoenicean ships; </l>
+            <l>coarse and delightful </l>
+            <l>as the bean-blossom </l>
+            <l>brushed by disdainful lips. </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">
+              <hi rend="italic">(I see the bay</hi>
+            </l>
+            <l>
+              <hi rend="italic">where pearl and grey and dove</hi>
+            </l>
+            <l>
+              <hi rend="italic">blow to a wave together</hi>
+            </l>
+            <l>
+              <hi rend="italic">round your head;</hi>
+            </l>
+            <l>
+              <hi rend="italic">you play with Love,</hi>
+            </l>
+            <l>
+              <hi rend="italic">Hylas and Ganymede,</hi>
+            </l>
+            <l>
+              <hi rend="italic">diving for pearls and kisses,</hi>
+            </l>
+            <l>
+              <hi rend="italic">all your curls,</hi>
+            </l>
+            <l>
+              <hi rend="italic">whorled shell-wise and burnt red. </hi>
+            </l>
+            <l>
+              <hi rend="italic">as honey-suckle seed.)</hi>
+            </l>
+          </lg>
+          <lg type="stanza">
+            <l n="1">Let them keep who they. will, Myiskos,</l>
+            <l>names, flowers, forms; </l>
+            <l>limbs wrought of the white orchis,</l>
+            <l>lips of beautiful dawn, </l>
+            <l>and the butter-tinted rose </l>
+            <l>on its mottled thorn; </l>
+            <l>all the island songs </l>
+            <l>let them count over and reap, </l>
+            <l>only your name, Myiskos, they must leave </l>
+            <l>for me to keep. </l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

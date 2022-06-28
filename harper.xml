@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="harper_1307">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Our Greatest Want, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Harper, Frances Ellen Watkins, 1825-1911</reg><orig>Frances Ellen Watkins Harper</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name/>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>15kb</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
+University</pubPlace><address>
+          <addrLine>Atlanta,
+Georgia</addrLine>
+        </address><availability>
+          <p xml:id="harper_1301">1996 Emory
+University. Permission is granted to download, transmit, or otherwise
+reproduce, distribute or display the contributions to the work claimed
+by Emory University for non-profit educational purposes, provided
+this header is included in its entirety.  For inquiries about
+commercial uses, contact either: Women Writers Resource Project or
+Lewis H. Beck Center for Electronic collections and services, Emory
+University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date><idno type="ark">http://pid.emory.edu/ark:/25593/17cd9</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Our Greatest Want <date>[18--?]</date><title>The Anglo-African Magazine.  Vol. 1, No. 5.</title></bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="harper_1302">This text is produced in conjunction with the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Abolition, Freedom, and Rights</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">African American</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Essay</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Women authors--Black.</item>
+            <item>Spirituality and social renewal.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1997</date><label>Staff</label><name>Natalie Prestwich</name>SGML tags inserted in compliance with TEI guidelines using
+TEILITE</change><change><date>2006</date><label>Staff</label><name>Alden Mahler</name>TEI header elements changed to conform to new Beck
+	    Center standards.</change></revisionDesc></teiHeader>
+  <text xml:id="harper_1306">
+    <body xml:id="harper_1305">
+      <div xml:id="harper_001" type="Essay">
+        <head>Our Greatest Want. </head>
+        <p xml:id="harper_1303">Leading ideas impress themselves upon communities and countries.  A
+thought is evolved and thrown out among the masses, they receive it
+and it becomes inter-woven with their mental and moral life--if the
+thought be good the receivers are benefited, and helped onward to the
+truer life; if it is not, the reception of the idea is a detriment.  A
+few earnest thinkers, and workers in-fuse into the mind of Great
+Britain, a sentiment of human brotherhood.  The hue and cry of
+opposition is raised against it.  Avarice and cupidity oppose it, but
+the great heart of the people throbs for it.  A healthy public opinion
+dashes and surges against the British throne, the idea gains ground
+and progresses till hundreds of thousands of men, women and children
+arise, redeemed from bondage, and freed from chains, and the nation
+gains moral power by the act.  Visions of dominion, proud dreams of
+conquest fill the soul of Napoleon Bonaparte, and he infuses them into
+the mind of France, and the peace of Europe is invaded.  His
+bloodstained armies dazzled and misled, follow him through carnage and
+blood, to shake earth's proudest kingdoms to their base, and the march
+of a true progression is stayed by a river of blood.  In America,
+where public opinion exerts such a sway, a leading is success. The
+politician who chooses for his candidate not the best man but the most
+available one.--The money getter, who virtually says let me make
+money, though I coin it from blood and extract it from tears-- The
+minister, who stoops from his high position to the slave power, and in
+a word all who barter principle for expediency, the true and right for
+the available and convenient, are worshipers at the shrine of success.
+And we, or at least some of us, upon whose faculties the rust of
+centuries has lain, are beginning to awake and worship at the same
+altar, and bow to the idols.  The idea if I understand it aright, that
+is interweaving itself with our thoughts, is that the greatest need of
+our people at present is money, and that as money is a symbol of
+power, the possession of it will gain for us the rights which power
+and prejudice now deny us.--And it may be true that the richer we are
+the nearer we are to social and political equality; but somehow, (and
+I may not fully comprehend the idea,) it does not seem to me that
+money, as little as we possess of it, is our greatest want.  Neither
+do I think that the possession of intelligence and talent is our
+greatest want.  If I under-stand our greatest wants aright they strike
+deeper than any want that gold or know-ledge can supply.  We want more
+soul, a higher cultivation of all our spiritual faculties.  We need
+more unselfishness, earnestness and integrity.  Our greatest need is
+not gold or silver, talent or genius, but true men and true women.  We
+have millions of our race in the prison house of slavery, but have we
+yet a single Moses in freedom.  And if we had who among us would be
+led by him?</p>
+        <p xml:id="harper_1304">I like the character of Moses.  He is the first disunionist we read
+of in the Jewish Scriptures.  The magnificence of Pharaoh's throne
+loomed up before his vision, its oriental splendors glittered before
+his eyes; but he turned from them all and chose rather to suffer with
+the enslaved, than rejoice with the free.  He would have no union with
+the slave power of Egypt.  When we have a race of men whom this blood
+stained government can-not tempt or flatter, who would sternly refuse
+every office in the nation's gift, from a president down to a
+tide-waiter, until she shook her hands from complicity in the guilt of
+cradle plundering and man stealing, then for us the foundations of an
+historic character will have been laid.  We need men and women whose
+hearts are the homes of a high and lofty enthusiasm, and a noble
+devotion to the cause of emancipation, who are ready and willing to
+lay time, talent and money on the altar of universal freedom.  We have
+money among us, but how much of it is spent to bring deliverance to
+our captive brethren?  Are our wealthiest men the most liberal
+sustainers of the Anti-slavery enterprise?  Or does the bare fact of
+their having money, really help mould public opinion and reverse its
+sentiments?  We need what money cannot buy and what affluence is too
+beggarly to purchase.  Earnest, self sacrificing souls that will stamp
+themselves not only on the present but the future.  Let us not then
+defer all our noble opportunities till we get rich.  And here I am,
+not aiming to enlist a fanatical crusade against the desire for
+riches, but I do protest against chaining down the soul, with its
+Heaven endowed faculties and God given attributes to the one idea of
+get-ting money as stepping into power or even gaining our rights in
+common with others.  The respect that is only bought by gold is not
+worth much.  It is no honor to shake hands politically with men who
+whip women and steal babies.  If this government has no call for our
+services, no aim for your children, we have the greater need of them
+to build up a true manhood and womanhood for ourselves.  The important
+lesson we should learn and be able to teach, is how to make every
+gift, whether gold or talent, fortune or genius, subserve the cause of
+crushed humanity and carry out the greatest idea of the present age,
+the glorious idea of human brotherhood.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

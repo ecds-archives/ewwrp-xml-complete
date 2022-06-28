@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lkr_battles_1307">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>The Battles of Georgia</title>
+        <author>
+          <name type="person"><choice><reg>Rogers, Loula Kendall, 1838-1931</reg><orig>Mrs. Loula Kendall Rogers</orig></choice></name>
+          
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10k</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="lkr_battles_1301">2008 Emory University. Permission is granted to
+
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>2008</date><idno type="ark">http://pid.emory.edu/ark:/25593/17cst</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Rogers, Loula Kendall, "The Battles of Georgia," <date>1923</date>. Loula
+
+	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
+
+	   Library, Emory University</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="lkr_battles_1302">This digital text is produced from the Loula Kendall
+
+	   Rogers Papers, generously loaned to the Beck Center by    	
+
+The Manuscript, Archives, and Rare Book Library at Emory University.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="language">American</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Poetry</rs>
+        <rs type="geography">United States</rs>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Confederate States of America.</item>
+            <item>Civil War, U.S., 1861-1865--Poetry</item>
+            <item>Women authors, American--19th Century</item>
+            <item>Women authors, American--20th Century</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2008</date><label>Woodruff Graduate Fellow</label><name>Stewart Varner</name>XML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="lkr_battles_1306">
+    <body xml:id="lkr_battles_1305">
+      <pb facs="lkr_battles001" xml:id="lkr_battles_1303" n="191"/>
+      <div xml:id="lkr_battles_1304" type="poem">
+        <head rend="center">
+          <hi rend="italic">THE BATTLES OF GEORGIA.</hi>
+        </head>
+        <byline>BY MRS. LOULA KENDALL ROGERS, POET LAUREATE GEOGIA<lb/>
+
+      DIVISION, U.D.C.</byline>
+        <lg type="stanza">
+          <l>Dark night had cast her somber veil</l>
+          <l>Adown the battle plain,</l>
+          <l>And here and there the moonlight fell</l>
+          <l>Upon the gallant slain.</l>
+          <l>O, Chickamauga! "Stream of Death!"</l>
+          <l>Seest thou the watcher there</l>
+          <l>Who comes with soft and gentle tread</l>
+          <l>To seek her boy so fair?</l>
+          <l>She finds the trail his young feet trod</l>
+          <l>'Mid hillock and dell,</l>
+          <l>Where grew sweet flowers brought for her</l>
+          <l>'Ere clouds of war befell.</l>
+          <l>And there beneath the towering oak</l>
+          <l>Her precious darling Lay,</l>
+          <l>The dreams of life all wrecked and dead -</l>
+          <l>Where fell her boy in gray!</l>
+        </lg>
+        <lg type="stanza">
+          <l>The sun in golden splendor rose </l>
+          <l>On Allatoona's height,</l>
+          <l>And Autumn's regent poured her wealth</l>
+          <l>Enshrined in radiant light.</l>
+          <l>When - but list! the bugle far away,</l>
+          <l>The cannon's thunder roar,</l>
+          <l>Announce the carnage-blighted homes</l>
+          <l>In darkness evermore!</l>
+        </lg>
+        <lg type="stanza">
+          <l>On Kenesaw's immortal crest</l>
+          <l>The flames rose high and higher</l>
+          <l>Till Marietta seemed herself </l>
+          <l>A Kremlin pile on fire.</l>
+          <l>There kingly Bishop - General Polk,</l>
+          <l>With grand heroic love,</l>
+          <l>Exchanged the soldier's earthly crown</l>
+          <l>For a crown of stars above!</l>
+        </lg>
+        <lg type="stanza">
+          <l>Brave Johnston held the assailant back,</l>
+          <l>And hope once more came nigher,</l>
+          <l>When lo! a message quickly sped -</l>
+          <l>"Atlanta is on fire!"</l>
+          <l>O, can it be? Can human foe</l>
+          <l>Be so devoid of soul?</l>
+          <l>Could Sherman scorn a mother's plea</l>
+          <l>Intent to reach his goal?</l>
+        </lg>
+        <lg type="stanza">
+          <l>His guns we heard on Upson Hills,</l>
+          <l>Full sixty miles away,</l>
+          <l>"O, God,!" I cried, "avert the storm</l>
+          <l>And spare our boys in gray."</l>
+          <l>Still nearer-nearer comes the roar</l>
+          <l>Toward Ocmulgee's tide,</l>
+          <l>And Macon, queen of lovely homes,</l>
+          <l>The vandal hosts defied.</l>
+        </lg>
+        <lg type="stanza">
+          <l>Old Wesleyan like Gibraltar stood,</l>
+          <l>And ruffians would not dare </l>
+          <l>To desecrate its classic halls,</l>
+          <l>So blest each day with prayer.</l>
+          <l>Her graduates in every State</l>
+          <l>Irradiate with Light</l>
+          <l>And spread abroad the word of God</l>
+          <l>For Justice, Truth, and Right.</l>
+        </lg>
+        <lg type="stanza">
+          <l>At length Columbus was besieged,</l>
+          <l>Her flower-gemmed courts destroyed,</l>
+          <l>Her factories burned, and orphans left</l>
+          <l>Where thousands were employed.</l>
+          <l>'Twas there that Mary Williams planned </l>
+          <l>Beside her Husband's grave,</l>
+          <l>To scatter roses every spring</l>
+          <l>Near Chattahoochee's wave.</l>
+        </lg>
+        <lg type="stanza">
+          <l>The work then spread all o'er the South</l>
+          <l>Memorial Day we keep,</l>
+          <l>And every spot is honored where</l>
+          <l>Confederate soldiers sleep.</l>
+          <l>Then hail, all hail, to the woman true</l>
+          <l>United in this way,</l>
+          <l>They've pledged to meet and work and pray,</l>
+          <l>In memory of the gray!</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

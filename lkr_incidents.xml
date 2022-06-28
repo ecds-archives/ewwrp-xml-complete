@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lkr_incidents_13067">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Incidents of the War Between The States</title>
+        <author>
+          <name type="person"><choice><reg>Rogers, Loula Kendall, 1838-1931</reg><orig>Mrs. Loula Kendall Rogers</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>30k</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="lkr_incidents_1301">2008 Emory University. Permission is granted to
+
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>2008</date><idno type="ark">http://pid.emory.edu/ark:/25593/17d5f</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Rogers, Loula Kendall, "Incidents of the War Between
+
+	    The States," <date>1912</date> Loula
+
+	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
+
+	   Library, Emory University</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="lkr_incidents_1302">This digital text is produced from the Loula Kendall
+
+	   Rogers Papers, generously loaned to the Beck Center by    	
+
+The Manuscript, Archives, and Rare Book Library at Emory University.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="language">American</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Memoir</rs>
+        <rs type="geography">United States</rs>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Civil War, U.S., 1861-1865</item>
+            <item>Women authors, American--19th Century</item>
+            <item>Women authors, American--20th Century</item>
+            <item>Slavery--United States.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2008</date><label>Woodruff Graduate Fellow</label><name>Stewart Varner</name>XML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="lkr_incidents_13066">
+    <body xml:id="lkr_incidents_13065">
+      <pb facs="lkr_incidents001" xml:id="lkr_incidents_1303" n="[1]"/>
+      <div xml:id="lkr_incidents_13064" type="memoir">
+        <head><hi rend="underline">INCIDENTS OF THE WAR BETWEEN THE STATES</hi>.</head>
+        <p xml:id="lkr_incidents_1304">Scarcely had the noble women throughout the United States succeeded
+
+      in the purchase of Mount Vernon as the property of the American nation, when the sacred soil of Virginia, the native state of General Washington, was polluted by the tread of a vandal horde whose object at Harpers' Ferry was to incite insurrection and incendiarism among our servants.  We were never allowed to speak of them as <hi rend="underline">slaves</hi>, but as "house servants" and "field hands", and my father never failed to dismiss an overseer who was unkind to them.  Owning over a hundred, he not only furnished their homes, their clothing, but medical attention in sickness and all of the medicines they needed, as he was a successful physician of fifty years practice.  Happiness and peace reigned over their homes, which were in evidence by their "never a care" expression and their devotion to the whole family.</p>
+        <p xml:id="lkr_incidents_1306">I had been appointed by Miss Eve of Augusta and the State Regent of
+
+      the Mount Vernon Association as a lady manager of my country, and felt
+
+      no little pride in the thought of what a young girl would do toward
+
+      preserving the beautiful home of Washington as a precious heirloom of
+
+      our very own, never to be desecrated for other purposes but to be kept
+
+      sacred to the memory of the "Father of our Country".  No
+
+      section, east, north or west contributed more than the southern
+
+      states, and as he was a truehearted son of the south, we still value
+
+      above gold our interest in his lovely home, and its twin sister
+
+      Arlington, so dear to us as the sacred wedding
+
+      <pb facs="lkr_incidents002" xml:id="lkr_incidents_1305" n="2"/>
+
+      gift of his famous kinsman, Robert E. Lee.</p>
+        <p xml:id="lkr_incidents_1307">This worthy task accomplished, there was a rumbling sound of
+
+      dissension upon the hills of the far away north where there
+
+      should have been peace and brotherly love.  Emissaries were sent
+
+      to incite the servants against their masters.  Strange stories
+
+      were whispered in their ears and promises if they should rise in
+
+      arms, the homes of the southern people should be divided among
+
+      them with the addition of "<hi rend="underline">forty </hi> <hi rend="underline">acres </hi> <hi rend="underline">and </hi> <hi rend="underline">a </hi> <hi rend="underline">mule</hi>".  A great rough negro woman on an adjoining plantation selected our beautiful home as hers!</p>
+        <p xml:id="lkr_incidents_1308">The candidates for the presidential election were divided
+
+      into three parties.  Those two noble scions of a noble race -
+
+      John C. Breckenridge and Senator Joseph Lane, Oregon's first
+
+      Governor, called "The Marion of the Mexican War" were on the
+
+      democratic ticket, John C. Bell and Edward Everett on the
+
+      American Party or "Know Nothing" ticket, while Abraham Lincoln
+
+      and Hannibal Hamlin were representatives of a party that in
+
+      common parlance was known as the "Black Republican" division.
+
+      This Republican ticket had the majority of the Electoral
+
+      College, though the popular majority was nearly a <hi rend="underline">million against it</hi>.  Only sixteen of the thirty-three states voted for it, and not one of these was south of the Ohio river.</p>
+        <p xml:id="lkr_incidents_1309">The northern Democrats had nominated Stephen Douglas and Johnson.  How much bloodshed might have been spared if they had centered on Breckenridge and Lane!</p>
+        <p xml:id="lkr_incidents_13011">When the startling news spread over our peaceful southland
+
+      that Lincoln was elected President, we knew at once that trouble
+
+      was ahead.  The ablest men <sic>at </sic>the south were opposed to war, and 
+
+      <pb facs="lkr_incidents003" xml:id="lkr_incidents_13010" n="3"/>
+
+      three times sent commissioners to arrange honorable terms for their country without bloodshed, but after all peaceful terms failed, the whole solid south arose, and stood like the grand old Grecian heroes for home and their native land.</p>
+        <p xml:id="lkr_incidents_13012">What could the feebler vessel do but buckle on the armor of
+
+their brothers and sweethearts and bid them with God's blessings go
+
+forth in defense of their loved ones?  We felt that a righteous power would protest us, and being solicitous to impress on the young the importance of serving God in the hour of need, my sister and I at once organized a Sabbath school at our country church, Rocky Mount, Miss Brook a Virginia authoress, who was associated with the Evangelical Knowledge Society of New York, was helpful enough to send us a dozen Bibles, three dozen testaments, and one hundred miscellaneous story books to become a blessing to the neighborhood.  How much we appreciated this equipment, little knowing that during the terrible ravages of war, they would all be destroyed by General Wilson's raid through this section!  In addition to this church work, I called in about twenty to thirty of the colored children every Sabbath morning, and taught them the beautiful story of the Cross, and the first principles of religion, the Ten Commandments, the Golden Rule, and their duty to be true to God and their own benefactors, who had lifted them from savagery to a land of Christianity, for the Northern Abolitionists did not realize this.  They imagined, as did Whittier, the poet, that the South was "<choice><sic>aland</sic><corr>a land</corr></choice> of the scorpion and the lash", and that all who owned servants were cruel and inhuman.</p>
+        <p xml:id="lkr_incidents_13014">In the meantime military companies were being equipped in
+
+      every city as <hi rend="underline">state rights were ignored</hi> by the new government,
+
+      <pb facs="lkr_incidents004" xml:id="lkr_incidents_13013" n="4"/>
+
+      and Lincoln had publicly made use of the expression "Put the foot down firmly and teach them submission".  Would the proud spirit of our Revolutionary ancestors kneel and submit to coercion?</p>
+        <p xml:id="lkr_incidents_13015">With that same spirit of patriotism over uppermost in my soul I presented a beautiful banner to the Upson Guards of Thomaston, and bade them never to allow it to trail in the dust or to be used as a symbol of tyranny and oppression.  How beautiful was its signification and its purity then as its stars and stripes shone in the light of hope and love!</p>
+        <p xml:id="lkr_incidents_13016">Perhaps this was the last United States flag presented at the South before Secession, as we knew not then that it would assume toward us the spirit of oppression and coercion as was so vividly manifested in reconstruction days.</p>
+        <p xml:id="lkr_incidents_13017">After a few weeks Fort Sumter was besieged, and we knew that in reality the war had begun.  On the 4th of February 1861 the Confederate Congress assembled at Montgomery, Alabama, and was presided over by Gen. Howell Cobb.  The Constitution of the Confederacy, similar in some respects to the Declaration of Independence, was drawn up, and Colonel Jefferson Davis, the hero of Buena Vista, Secretary of War in President Pierce's administration, and afterwards Senator from Mississippi, was nominated president of the Southern Confederacy.   Many designs of flags were sent in as models for the new nation.  Among them, the most beautiful was chosen, one that emanated from the patriotism of Colonel Orren Smith of North Carolina, known as the Stars and Bars.  The three bars were emblems of the Trinity, the white for Love and a Stainless character, while the blue was for the great Heaven spangled with stars to watch over us, and the red for the vesper light that should never die out.</p>
+        <pb facs="lkr_incidents005" xml:id="lkr_incidents_13018" n="5"/>
+        <p xml:id="lkr_incidents_13019">Col. P.W. Alexander, one of the signers of Secession, was
+
+      present at this first Conference, and as soon as the flag was
+
+      chosen, drew the design at the head of a letter and sent it to
+
+      me, knowing my interest in everything that concerned the welfare
+
+      of our beloved Southland.  In his description he dwelt
+
+      particularly on the stars being placed in a circle instead of
+
+      broadcast as in the United States flag.  I made one the very
+
+      hour it was received, so I had the honor of making the <hi rend="underline">first Confederate flag ever made in Georgia</hi>.</p>
+        <p xml:id="lkr_incidents_13020">Our first company, the Upson Guards, was ordered into service the seventh of May 1861, and several young ladies accompanied their brothers and lovers to Macon where they saw the whole of the Fifth Georgia Regiment on dress parade, our first little Georgia flag had been presented to one of the handsomest, noblest, bravest officers of that Regiment, and waved over his tent at Pensacola, Cumberland Gap, the battles of Kentucky and Corinth, and as he afterwards became my husband, the honored relics of many memories came back to me.</p>
+        <p xml:id="lkr_incidents_13021">It was a strange coincidence that I wrote a song for the Fifth Georgia while they were in Macon, and it was sung as they were on their way to Pensacola to join General Bragg.  Fifty years afterward, the great Reunion assembled in Macon the seventh of May 1912, and there I met some of the same company who remembered the song composed for them on that very day of the month, (and the encampment was on the same spot as that of May 7th 1862).</p>
+        <p xml:id="lkr_incidents_13023">Very soon the services of the women was needed t the work for the hospitals.  Mrs. Isaac Winship of Atlanta was the first
+
+      <pb facs="lkr_incidents006" xml:id="lkr_incidents_13022" n="6"/>
+
+      President of the Hospital Association.  Her daughter was one of my Wesleyan College roommates, and during my visits to her we assisted in arranging supplies for the wounded and sick soldiers.  On the 4th of July she gave them a beautiful dinner at one of the hospitals, over which she presided, and appointed our young ladies Relief Corps to wait on them.  Their encampment was near her beautiful home on the hill, and we visited them to see if there was anything to do for their comfort.  Governor "Joe Browns Boys" of the North Georgia mountains asked us to cover canteens for them, which occupation we enjoyed, and in winter we knit "Arabs" to protect the head, and long wool comforts for the throat besides fatigue jackets, tobacco pouches, and everything that thought could suggest for their comfort and pleasure.  From that time until the war ended out busy hands were never idle.  Carpets and piano covers were cut up as we had already given up blankets to our brothers, and boxes of eatables were sent when an opportunity was found.  My mother sent General William B. Bate of Tennessee a handsome gray suit of Upson jeans, and a frosted cake for Christmas, as one of my brothers was in his division.  After the war was over, there were so many "bushwackers" among the mountains, he could not return to Gallatin and spent some time with us, and with friends in Culloden, only six miles from us.</p>
+        <p xml:id="lkr_incidents_13025">One of our favorite plans for raising money for hospitals was having entertainments and concerts in Thomaston and Culloden, with all the glitter of oriental scenes which our ingenuity managed to arrange without any extra expense.  At other times when collecting supplies for hospitals we were driven around in light carriages from house to house with a list of all that was needed.  There was an old
+
+      <pb facs="lkr_incidents007" xml:id="lkr_incidents_13024" n="7"/>
+
+      lady, Mrs.  Goodwin, who lived in a log house, from whom we expected
+
+      nothing, but wishing to give all an opportunity of helping our wounded
+
+      soldiers, we informed her of our errand, and her answer proved "the
+
+      ring of the right metal" even among the poorest people of the South.
+
+      "Why Girls" she exclaimed, "I would give up the last thing I have on
+
+      earth for some poor mother's boy!"  So she bade us at once to put down
+
+      her name for a feather bed and pillows, sheets and a coverlet she had
+
+      woven herself, two bushels of dried fruit, sage, pepper, bandages and
+
+      bottles of blackberry wine.  After supplying several hospitals,
+
+      Mr. Charles E. Lambdin of the Holloway Grays, wrote me to get up
+
+      supplies for Bean's Station, which I did at once relieving the
+
+      sufferings of many from my own neighborhood.  His letter is before me,
+
+      and it is not with a spirit of egotism that I copy an extract, but
+
+      because I taught at Gordon Institute with him many years afterward and
+
+      still prize his good opinion above rubies.  This letter was dated
+
+      Sept. 11th 1862, and shows that there was much suffering among our
+
+      poor boys no history has ever recorded.</p>
+       
+          <floatingText xml:id="lkr_incidents_13032">
+            <body xml:id="lkr_incidents_13031">
+              <div xml:id="lkr_incidents_13030" type="letter">
+                <p xml:id="lkr_incidents_13026">I write in behalf of the sick and wounded soldiers
+
+	      who are confined in the hospital at this place.  I know
+
+	      that you have done much, and have caused others to do
+
+	      more than they would have accomplished had you not led
+
+	      them in the good cause, and because you have done so
+
+	      much is why we call upon you again, not that we wish to
+
+	      tax you in preference to others, but because your
+
+	      influence for good is so great, that we wish it exerted
+
+	      in our behalf.  There are at this place over <hi rend="underline">six hundred</hi> men who are suffering as no one knows but he who has been sick away from home among strangers, and those strangers rude and hardened soldiers.</p>
+                <pb facs="lkr_incidents008" xml:id="lkr_incidents_13027" n="8"/>
+                <p xml:id="lkr_incidents_13028">I know that you pity them, that you weep over their misfortunes, so I shall draw no picture of men nearly worn to the bone by the hard and unsuitable couches, with no pillow to rest their aching heads.  All this, alas! is too familiar.</p>
+                <p xml:id="lkr_incidents_13029">Can you not in your vicinity, and that of Culloden near you, get up a box of hospital stores?  Bed clothing and wearing apparel are greatly needed here as there have been no donations to this hospital.  I am sure you can bestow your bounty upon none more needy, and rest assured you will have the blessing of many a poor soldier, an approving conscience, and the grateful thanks of</p>
+                <closer><name>Charles E. Lambdin,</name><lb/>
+
+	      Holloway Grays,<lb/>
+
+	      Bean Station, Tenn.
+
+	      </closer>
+              </div>
+            </body>
+          </floatingText>
+        
+        <p xml:id="lkr_incidents_13034">No one could be indifferent to such an appeal as this, so we
+
+      very soon sent a large old-fashioned wagon full of supplies to
+
+      The Rock, our nearest railroad station, and other sections of
+
+      the country as well as the goodspeople of Culloden did the same.
+
+      In April 1862 there originated in Georgia (where so many
+
+      patriotic deeds had a beginning) what was called "the Ladies
+
+      Gunboat Association".  Immediately after hearing of this, I
+
+      collected a nice little sum to which was added $350 subscribed
+
+      by the Holloway Grays of Upson county, through the brave and
+
+      generous Captain A.J. White, who always assisted in all
+
+      patriotic movements.  A fine little iron clad boat was fitted
+
+      out and there never was a vessel before that was <hi rend="underline">christened</hi> by <hi rend="underline">woman's
+
+      tears</hi> and earnest prayers for her country.  How many fond hopes sailed over the seas under the beautiful Stars and Bars!  But as soon as they heard that Sherman had invaded Savannah, rather than allow it to fall into his hands, they placed a torch upon its helm
+
+      <pb facs="lkr_incidents009" xml:id="lkr_incidents_13033" n="9"/>
+
+      and bade it farewell forever, as the crimson flames arose in glowing incense to the skies, to shine in the light of a merciful God evermore. </p>
+        <p xml:id="lkr_incidents_13035">In the meantime, the Confederate Cabinet had moved to Richmond, but during the summer of 1863, I visited with a party of friends the Capital at Montgomery, and stood on the spot where the President of the Confederacy had made his inaugural address.  From there we went to Selma on the gallant steamer "Coquette" to see the manufactory of guns and cannon shells of all sizes, which was a novel sight, and saddening to think our southland had come to this!  We would have extended our trip to Mobile, but heard there that Vicksburg was besieged, and this caused us to hurry homeward.</p>
+        <p xml:id="lkr_incidents_13036">The next winter during the bombardment of Savannah, several friends from that city sought refuge in our home and were made welcome for several months.  Even in our carriage drives over the country we took our crochet and knitting along to have needful things ready for our soldiers.</p>
+        <p xml:id="lkr_incidents_13037">At length the fearful days of horror came, of which we had spoken but never really believed would come to us.</p>
+        <p xml:id="lkr_incidents_13039">We had just returned from our plantation in Wilcox county on the Ocmulgee, that we might spend the summer at my beautiful childhood's home, sweet "Bellwood" which stood on the crest of one of the grand old hills of Upson county, Georgia.  It was the 18th of April 1865.  A rumor came that the Federal army was in Columbus and was marching on toward Macon via Thomaston and Culloden.  Our family silver and jewels were, as we thought, in a safe place, horses and mules were sent to a remote part of the woodland, bacon, jars of lard, and sacks of coffee were buried away from prying eyes.  The
+
+      <pb facs="lkr_incidents010" xml:id="lkr_incidents_13038" n="10"/>
+
+      white wings of Hope were folded about our hearts and bade us cast out all fears.  Surely there were some kind hearted men in that vast army to whom we might appeal for protection.  There were only three ladies in our home all alone, my dear old Grandmother, Mrs. Winifred Lane Rogers, my mother, Mrs. Louisa H Kendall and myself.</p>
+        <p xml:id="lkr_incidents_13040">In a few <choice><sic>monutes</sic><corr>minutes</corr></choice> fires were seen in every direction from the second story windows.  Beyond Thomaston, Rogers Factory, owned by Dr. Curran Rogers, my father-in-law, a large four-story building and many cottages were in flames.  Nearer and nearer columns of thick black smoke were seen, and these showed that the Waynonanville mills, owned by Swift and Perry of New York, were also under relentless torch.</p>
+        <p xml:id="lkr_incidents_13041"><sic>The</sic> a troop of little darkies with eyes like the full moon came rushing in with the cry "The Yankees are comin!"  Very soon about fifty on horses surrounded our home, great, rough, savage looking men ransacked bureau drawers, tore down lace curtains, cut the locks out of trunks, searched closets, found some of the table silver and long treasured jewels, finally leaving every room in wild disorder.</p>
+        <p xml:id="lkr_incidents_13042">As soon as the first troop left, another came in, and this kind of treatment lasted three days.  About one hundred bales of ginned cotton, and twenty five bales of lint cotton were destroyed. My mother, with the assistance of the servants who nobly stood by us, had water poured on some of the bales and had then rolled down to the horse lot in a stream of water.</p>
+        <p xml:id="lkr_incidents_13043">A handsome revolving pin, the last gift of my father (containing his picture), a beautiful cameo set presented on my graduation day, and other articles too numerous to mention were taken from us.</p>
+        <pb facs="lkr_incidents011" xml:id="lkr_incidents_13044" n="11"/>
+        <p xml:id="lkr_incidents_13045">One of the soldiers, pointing a loaded pistol in my face, asked where our silver was hidden.  I replied if he should stand there and ask until "doom's day" he would never find out from me!  He then asked if I had any brothers, and where were they?  To which I answered, one had fallen in defense of his country at the battle of Franklin, one at Petersburg, two were officers still fighting in the Confederate Army, and if I had a hundred they would all be there!  This seemed to silence him, for with a compliment my bravery (which was more of "righteous indignation" than bravery) he lowered his pistol.</p>
+        <p xml:id="lkr_incidents_13046">When a troop was overhauling our trunks and pocketing all they wanted I inquired if they were brought up in a christian community?  One replied in the affirmative, but he had never heard of the 8th Commandment, and when I repeated it he looked ashamed, and replied, "well boys, let's go"!</p>
+        <p xml:id="lkr_incidents_13047">That night at eleven o'clock we heard a knock at the front
+
+      door, my mother was so alarmed she did not think it safe for me
+
+      to return downstairs, but with a little colored maid, I ventured
+
+      to the port of entry and asked who was there?  "Only a soldier,
+
+      madam, hungry and tired, in search of something to eat".  Asking
+
+      if he would give his word of honor that he would behave himself
+
+      aright I would do what the Scripture teaches "if thine enemy is
+
+      hungered, feed him".  so I opened the door and gave him what we
+
+      had left from the rude pilferers of the day, and that was the
+
+      only <hi rend="underline">gentleman in manner</hi> who entered our home, as he politely thanked me, and said he would report the others if he knew what company they belonged to."</p>
+        <p xml:id="lkr_incidents_13049">At length, the next morning, 19th of April 1865, we 
+
+      <pb facs="lkr_incidents012" xml:id="lkr_incidents_13048" n="12"/>
+
+      were horrified on seeing they had found the horses and mules!  Having been married only a few months, there were two splendid bays and a fine Victoria among my most valuable gifts.  What were my feelings then on seeing two uncouth, rough looking men mounted on these beautiful horses that were associated with the happiest hours of my life?  Hitherto, I had been too indignant to weep, but how could I stand this?  Tears began to flow, not silently, but I actually wept allowed, and begged these hard-hearted ruffians to "spare these two horses and they might take all the rest". "No, ma'am we want them ourselves".  so out of the gate they passed, the fleet footed graceful friends, who had brought amid the clouds of war so much brightness and joy, but never to cheer out desolate home again!.</p>
+        <p xml:id="lkr_incidents_13050">One morning while standing in our garden at Bellwood I heard distinctly the cannonading in Atlanta, sixty miles away!  The engagement at Columbus and on the same day the fight at West Point, Georgia, were the last battles of the war this side of the Mississippi.</p>
+        <p xml:id="lkr_incidents_13051">I well remember how our hearts sunk with grief and bitter
+
+      disappointment when we heard that our grand old chieftain Gen. Lee was
+
+      overwhelmed and had to give up the struggle for independence.  It was
+
+      a sad ending to us then but had it not been for those four years of
+
+      shadow and hardship we should never had associated with our glorious
+
+      history the un<add place="supralinear">d</add>ying name of Stonewall Jackson, and the illustrious hero of Buena Vista, our long suffering christian martyr, Jefferson Davis.</p>
+        <p xml:id="lkr_incidents_13053">It was a pathetic sight indeed to see the noblest young men of our Southland in the dingy battle stained gray returning
+
+      <pb facs="lkr_incidents013" xml:id="lkr_incidents_13052" n="13"/>
+
+      heartsick and sore to lands in ruin spread.  On plantations there was comparative affluence one day and the next poverty, destruction and nothing left - horses all gone, no way to make our crops, all was desolation and ruin.</p>
+        <p xml:id="lkr_incidents_13054">About two weeks after the armistice a small party of Confederate soldiers accompanying a traveling ambulance, in which sat an elderly gentleman and lady, passed the gate of our plantation in Wilcox county, which was known on the map at that time as the McDuffee place.</p>
+        <p xml:id="lkr_incidents_13055">Thinking they were only some of the boys in gray returning to their homes in Irwin county no special attention was given to their movements.  But the next day the same calvary returned.  Hearing loud shouts and insolent jeers at the gate my mother-in-law inquired the cause of the alarm, and found that our beloved President Jefferson Davis and his wife were captured and were in the ambulance at the gate.</p>
+        <p xml:id="lkr_incidents_13056">She immediately sent out fresh water and intended having dinner
+
+      prepared for them but the guard of federal soldiers would not permit
+
+      her to do so, and passesd on with insulting taunts.  Every time they
+
+      met a man, woman or child on the rout to Hawkinsville they cried with
+
+      a fearful oaths: "We have caught old Jeff!  We are going to hang the
+
+      'ol reb' sky high!"  Being heavily handcuffed and suffering from one of his usual attacks of neuralgia this noble captive was lying down in the ambulance with his faithful wife at his side ministering to his sufferings.</p>
+        <p xml:id="lkr_incidents_13058">They had crossed Poor Robins' ferry a few miles below our saw mill on the Ocmulgee and was captured in Irwin county about 
+
+      <pb facs="lkr_incidents014" xml:id="lkr_incidents_13057" n="14"/>
+
+      fifteen miles beyond where they had camped for the night on his way to Florida.  The cruel treatment and merciful indignities heaped upon this innocent Christian in his helpless condition have cast an indelible stain.  Yet, alas, there was Judas who betrayed the blessed Son of God and was in waiting for him that traitor who never having been lifted out of sin himself despised all pure things and holy.</p>
+        <p xml:id="lkr_incidents_13059">This vicious character informed the Federal soldiers that Mr. Davis with his family and a guard of confederate soldiers had crossed the river that day.  which welcome news started them in hot pursuit.  But "What will profit a man if he gain the whole world and lose his own soul?"  In a few weeks this wicked man was called to the final judgment bar of God, to give not only an account of the vile misdeeds of a life time but for acting the part of Iscariot in accepting a bribe for the betrayal of a <sic>pur</sic> good man, whose only fault was his patriotism.  Retribution follows the wicked as true as night follows the day.</p>
+        <p xml:id="lkr_incidents_13060">These incidents are only as one among many in Sherman's march through Georgia and Wilson's Destructive Raid, which left a land spread with ruin, weeping and starvation.  And yet we lived through it all.</p>
+        <p xml:id="lkr_incidents_13061">How could it be expected that the Federal prisoners at Andersonville should be bountifully fed on dainties?</p>
+        <p xml:id="lkr_incidents_13063">God has been more merciful than those who wronged us, and
+
+      with the golden horn of plenty once again showering its gifts
+
+      upon our lovely Southland, let our hearts be filled with peace,
+
+      gratitude, forgiveness, and love, winning the admiration and
+
+      respect of our former enemies by the <hi rend="underline">Golden
+
+      </hi> <hi rend="underline">Rule</hi>, treating them with the 
+
+      <pb facs="lkr_incidents015" xml:id="lkr_incidents_13062" n="15"/>
+
+      Christian courtesy and kind consideration which they should have shown toward us in our view of State Sovereignty and the right to stand above oppression and tyranny in any shape and form.</p>
+        <lb/>
+        <closer><signed><name>Mrs. Loula Kendall Rogers</name></signed><lb/>
+
+      A Heroine of Upson County
+
+      <dateline>The Colonnades<lb/>
+
+      Tennille, Georgia<lb/>
+
+      July 1912</dateline></closer>
+      </div>
+    </body>
+  </text>
+</TEI>

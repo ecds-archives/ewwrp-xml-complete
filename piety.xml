@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="piety_13035">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Female Piety and Virtue, an electronic edition</title>
+        <author>
+          <name type="person"><choice><reg>Anonymous</reg><orig>Anonymous</orig></choice></name>
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by Gitanjali Shahani</resp>
+          <name>The Lewis H. Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent/>
+      <publicationStmt><publisher>The Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="piety_1301">2005 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the contributions to
+the work claimed by Emory University for non-profit educational purposes, provided 
+this header is included in its entirety.  For inquiries about commercial uses, contact
+either: Women Writers Resource Project or Lewis H. Beck Center for Electronic
+collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>2006</date><idno type="ark">http://pid.emory.edu/ark:/25593/17dwb</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Anonymous. <title>Female Piety and Virtue, A Poem.</title>Printed for J. ROBERTS in <hi rend="italic">Warwick-Lane</hi>,
+   J. BILLINGSLEY under the <hi rend="italic">Piazzas</hi> of the <hi rend="italic">Royal-Excahnage</hi> in
+   Cornhill, A. DODD at the Peacock without Temple Bar, J. STAG in
+  <hi rend="italic">Westminster-Hall</hi>, and H. WHITRIDGE in <hi rend="italic">Serle-Street</hi> near
+   <hi rend="italic">Lincoln's-Inn Back-Gate</hi>, MDCCXXV.[ESTC date 1724]</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="piety_1302">This text is produced in conjunction with the 
+Women Writers Resource Project at Emory University.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early Modern through the 18th Century</rs>
+        <rs type="language">English</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Poetry</rs>
+        <rs type="geography">Great Britain</rs>
+        <date>1700-1799</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Women--Conduct of life--Early works to 1800.</item>
+            <item>Poems--England--18th century.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2006</date><label>Staff</label><name xml:id="gs">Gitanjali Shahani</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="piety_13034">
+    <body xml:id="piety_13033">
+      <div xml:id="piety_001" type="Poem">
+        <pb xml:id="piety_1303" n="[3]"/>
+        <head>Female Piety, &amp;c.</head>
+        <lg type="stanza">
+          <l>VIRTUE or piety is all a cheat,</l>
+          <l>In womankind nothing but rank deceit;</l>
+          <l>A bait pretence, or necessary tool,</l>
+          <l>To gull the fond and unexperienc'd fool;</l>
+          <l>Like patch, or paint, 'tis artfully design'd</l>
+          <l>To hide, or cover the defective mind;</l>
+          <l>
+            <seg type="catch">As</seg>
+          </l>
+          <pb xml:id="piety_1304" n="4"/>
+          <l>As bragadoceos seldom dare to fight,</l>
+          <l>As fops are never perfectly polite;</l>
+          <l>So they, who virtue and religion boast,</l>
+          <l>Are consequently those that need them most.</l>
+        </lg>
+        <lg type="couplet">
+          <l rend="indent">&gt;But lo! some fop for their defence prepares</l>
+          <l>And thus his fond impertinence declares:</l>
+        </lg>
+        <lg type="stanza">
+          <l rend="indent">'Hold, Sir! 'tis most ungen'rous thus to vex,</l>
+          <l>'With foul aspersions, the defenceless sex;</l>
+          <l>'Be not on helpless innocence severe;</l>
+          <l>'Let what you say sufficiently appear,</l>
+          <l>'And make your railing by your reason clear.<choice><corr>'</corr><sic/></choice></l>
+          <l>
+            <seg type="catch">'What</seg>
+          </l>
+          <pb xml:id="piety_1305" n="5"/>
+          <l>'What you require, sufficiently I'll do,</l>
+          <l>'Sweet Sir! by reason, by example too;</l>
+          <l>'To shew I follow justice more than spite,</l>
+          <l>'I will not wrong them, but I'll do them right,</l>
+          <l>'And set their actions in a proper light.<choice><corr>'</corr><sic/></choice></l>
+        </lg>
+        <lg type="stanza">
+          <l rend="indent"><hi rend="italic">Jezabel</hi>, <hi rend="italic">Messalina</hi>, hundreds more,</l>
+          <l>Each well recorded, barefac'd, brazen whore</l>
+          <l>I'll rudely pass and gently turn to those</l>
+          <l>Who wou'd more gravely on the world impose;</l>
+          <l>To those, whom virtue or religious pride</l>
+          <l>Cov'ring, wou'd hypocritically hide;</l>
+          <l>Unconscionable jades! who lov'd the game;</l>
+          <l>And wou'd have all the joy--without the blame.</l>
+        </lg>
+        <l>
+          <seg type="catch">I'll</seg>
+        </l>
+        <pb xml:id="piety_1306" n="6"/>
+        <lg type="stanza">
+          <l rend="indent">I'll slightly pass th' <unclear reason="blurred text"><hi rend="italic">Ephesian</hi></unclear> matron too,</l>
+          <l>Who chose (what any woman else wou'd do)</l>
+          <l>A lusty living lover to prefer</l>
+          <l>Before a husband in his sepulcher:</l>
+          <l>Beside, for charity she took him in,</l>
+          <l>And charity was never thought a sin;</l>
+          <l>It was a very cold and stormy night,</l>
+          <l>The lady was in a prodigious fright,</l>
+          <l>Yet only yielded to a man of might;</l>
+          <l>Who many bloody battles had endur'd,</l>
+          <l>And was, perhaps, to victory Inur'd,</l>
+          <l>What wonder then, the helpless Dame was won!</l>
+          <l>Enfeebled by the penance she had done!</l>
+        </lg>
+        <lg type="stanza">
+          <l rend="indent">Such things, I say, I'll pass regardless by,</l>
+          <l>As trifles, matters of mere raillery;</l>
+          <l>
+            <seg type="catch">But</seg>
+          </l>
+          <pb xml:id="piety_1307" n="7"/>
+          <l>But mention those of whom kind rumour tells</l>
+          <l>Far better things, and calls such miracles!</l>
+          <l>To whom some others fitly I'll subjoin,</l>
+          <l>That in full lustre their renown may shine.</l>
+        </lg>
+        <lg type="stanza">
+          <l rend="indent">The world (that from appearances still draws</l>
+          <l>Conclusions; nor considers well the cause)</l>
+          <l>The puny violated <hi rend="italic">Roman</hi> dame</l>
+          <l>Has rashly crown'd with everlasting fame,</l>
+          <l>Because she was so desperately nice:</l>
+          <l>Sure her complexion was as cold as ice,</l>
+          <l>Or <hi rend="italic">Tarquin</hi> was as ugly as a bear,</l>
+          <l>And not so fit to tempt her as to snare;</l>
+          <l>0r else he took her in a moody vein</l>
+          <l>When spleen her heart and vapours seiz'd her brain;</l>
+          <l>
+            <seg type="catch">And</seg>
+          </l>
+          <pb xml:id="piety_1308" n="8"/>
+          <l>And then the lady (past redemption ill)</l>
+          <l>Her precious blood might meer madness spill</l>
+          <l>Because the filthy ruffian cross'd her will.</l>
+          <l>(For willfulness sincerely they adore,</l>
+          <l>Not all their valu'd charms they rev'rence more <gap extent="one character" reason="illegible" resp="#gs"/>)</l>
+        </lg>
+        <lg type="stanza">
+          <l rend="indent">But had she in a proper humour been,</l>
+          <l>Easy and free, and on a merry pin;</l>
+          <l>Had her plump veins been fill'd with vigorous fire,</l>
+          <l>And the gallant well answer'd her desire;</l>
+          <l>Had she (the deed committed) still been sure</l>
+          <l>Her reputation wou'd no blot endure;</l>
+          <l>
+            <seg type="catch">The</seg>
+          </l>
+          <pb xml:id="piety_1309" n="9"/>
+          <l>The resolute, the celebrated bride</l>
+          <l>Had kill'd herself------before she had deny'd!</l>
+        </lg>
+        <lg type="stanza">
+          <l>But, some admiring fops, with hands and eyes</l>
+          <l>Uplifted; raise <hi rend="italic">Susanna</hi> to the skies!</l>
+          <l>Because she bravely stood, nor basely fell</l>
+          <l>By------ two old fumblers whom they hate as hell;</l>
+          <l>But had these been two young robust'ous men,</l>
+          <l>Oh! rare <hi rend="italic">Susanna!</hi> where hadst thou, been then?</l>
+        </lg>
+        <lg type="stanza">
+          <l rend="indent">And yet the lady, might have been afraid</l>
+          <l>Their indiscretion, had her fame betray'd:</l>
+          <l>(For youngsters, as 'tis known, in such a case,</l>
+          <l>Have too much vanity, too little grace)</l>
+          <l>
+            <seg type="catch">She</seg>
+          </l>
+          <pb xml:id="piety_13010" n="10"/>
+          <l>She might have thought the place to publick eyes</l>
+          <l>Too much expos'd, and fear'd more lurking spies <unclear reason="blurred text" resp="#gs">:</unclear></l>
+          <l>But had all things united well t'assure</l>
+          <l>Such sparks were secret, and the place--secure;</l>
+          <l>To have withdrawn, and made a cold excuse,</l>
+          <l>That then alone cou'd have been thought abuse:</l>
+        </lg>
+        <lg type="stanza">
+          <l rend="indent">Thus, in despight of what the weak believe,</l>
+          <l>(Whom still appearance and pretence deceive)</l>
+          <l>As in a faithful mirrour may be seen,</l>
+          <l>What the most famous were, or would have been.</l>
+        </lg>
+        <ab type="catch">Then</ab>
+        <pb xml:id="piety_13011" n="11"/>
+        <lg type="couplet">
+          <l rend="indent">Then let us leave what ancient records tell,</l>
+          <l>Remarking what in later times befel.</l>
+        </lg>
+        <lg type="stanza">
+          <l rend="indent">Ev'n I, my self, have known a gentle dame </l>
+          <l>(Of piety, and of unblemish'd fame)</l>
+          <l>An honourable captain's gracious wife,</l>
+          <l>(And whom she lov'd as dearly as her life,)</l>
+          <l>Yet, him cou'd conscientiously abuse,</l>
+          <l>Altho'without a visable excuse!</l>
+          <l>For he with whom she did it (pass'd his prime)</l>
+          <l>Was then declining in the race of time;</l>
+          <l>Hunch-back'd, he was, bleer-ey'd, of tawny skin;</l>
+          <l>Like a bent bow appear'd in his nose, and chin;</l>
+          <l>His person yet less odious than his mind,</l>
+          <l>The <unclear reason="blurred characters">scorn</unclear> jayls, and refuse of mankind!</l>
+          <l>But 'twas his perfect want of merit mov'd</l>
+          <l>Her heart, and that by sympathy she lov'd;</l>
+          <l>
+            <seg type="catch">Of</seg>
+          </l>
+          <pb xml:id="piety_13012" n="12"/>
+          <l>Of all the various creatures upon earth,</l>
+          <l>They most abhor-----a man of real, worth!</l>
+        </lg>
+        <lg type="stanza">
+          <l rend="indent">I know another, (affable and free,</l>
+          <l>And vers'd in argument and repartee),</l>
+          <l>Who, having first}, by dint of reason found</l>
+          <l>Connubial blessings propagation crown'd;</l>
+          <l>Did, in her lord's lamented absence, yield</l>
+          <l>To try what virtues gentle <hi rend="italic">Bath</hi> reveal'd</l>
+          <l>(<hi rend="italic">Bath,</hi> that with fertile qualities does flow,</l>
+          <l>As many ladies by experience know)</l>
+          <l>Thus, while her husband coasted wealthy <hi rend="italic">Spain,</hi></l>
+          <l>Or cruising, search'd the rough, <hi rend="italic">Atlantic</hi> main,</l>
+          <l>While he, thro' danger, fame and riches sought,</l>
+          <l>E'er to his home his purchases he brought;</l>
+          <l>
+            <seg type="catch">The</seg>
+          </l>
+          <pb xml:id="piety_13013" n="13"/>
+          <l>The pious lady had the prudent care,</l>
+          <l>Not to be unprovided-----of an heir!</l>
+        </lg>
+        <lg type="stanza">
+          <l rend="indent">Two virgins once I knew, with beauty bless'd,</l>
+          <l>(In grace and, virtue, far above, the rest)</l>
+          <l>Who, as they once their pious progress made;</l>
+          <l>Came, where by chance a <hi rend="italic">Rochester</hi> was lay'd;</l>
+          <l>They sternly vow'd the profligating book</l>
+          <l>Which from the board, with seeming rage they took)</l>
+          <l>That very instant shou'd receive its doom,</l>
+          <l>In fire, in fire, as it deserv'd, consume!</l>
+          <l>But in its stead, the silly juggling dames</l>
+          <l>A common-prayer book hurl'd into the flames,</l>
+          <l>And this (more priz'd) did carefully conceal,</l>
+          <l>So much their l------y did surpass their zeal!</l>
+          <l>
+            <seg type="catch">Some</seg>
+          </l>
+          <pb xml:id="piety_13014" n="14"/>
+          <l>Some curious maids have found the gentle way</l>
+          <l>To sooth their fancies with delicious play,</l>
+          <l>And thus the raging, appetite allay;</l>
+          <l>Each singly practices a double part,</l>
+          <l>And nature's want supply's with libr'al art:</l>
+          <l>'Tis th' early fruit of luscious boarding schools,</l>
+          <l>And much more gather'd than instructive rules!</l>
+        </lg>
+        <lg type="stanza">
+          <l rend="indent">Ye parents! whose more happy children still</l>
+          <l>Are undefil'd pray, pray, with ardent will,</l>
+          <l>To keep them safe from this contagious ill:</l>
+          <l>Not youths with wit, with beauty and estate,</l>
+          <l>(Over the fell so prevalantly great!)</l>
+          <l>
+            <seg type="catch">Tempt</seg>
+          </l>
+          <pb xml:id="piety_13015" n="15"/>
+          <l>Tempt female frailty with successful ease,</l>
+          <l>Like the pernicious fellowship of these!</l>
+          <l>I knew a beauteous and blooming maid,</l>
+          <l>So much improv'd in this diverting trade,</l>
+          <l>That, had she known man's longitude, as well</l>
+          <l>As she each latitude cou'd tell;</l>
+          <l>None cou'd, to copulate the sexes, be</l>
+          <l>Distinguishably qualify'd as she.</l>
+        </lg>
+        <lg type="stanza">
+          <l rend="indent">Now let us cast a view cross the main,</l>
+          <l>Where ladies errant rove, for----love----or gain;</l>
+          <l>Observe their actions there, nor think it strange,</l>
+          <l>That there, alike untam'd desires shou'd range:</l>
+          <l>Not clime nor distance inclination change!</l>
+        </lg>
+        <ab type="catch">A la</ab>
+        <pb xml:id="piety_13016" n="16"/>
+        <lg type="stanza">
+          <l rend="indent">A lady fair, to wealthy <hi rend="italic">India's</hi> shore,</l>
+          <l>Her self and reputation carry'd o'er</l>
+          <l>Unsoil'd, was proof to all that man cou'd do;</l>
+          <l>Defy'd the captain, and his boist'rous crew:</l>
+          <l>This valiant dame, engag'd in solemn vows,</l>
+          <l>Became a splendid merchant's virtuous spouse;</l>
+          <l>Her purpose thus obtain'd, the subtle bride</l>
+          <l>Cast her affected modesty aside,</l>
+          <l>And chang'd her carriage, like the wind or tide!</l>
+          <l>Resolv'd (of a commodity possess'd)</l>
+          <l>To traffick there, as freely as the best;</l>
+          <l>As they sought riches! she pursu'd delight;</l>
+          <l>And came not thither to resign her right;</l>
+          <l>
+            <seg type="catch">Thus,</seg>
+          </l>
+          <pb xml:id="piety_13017" n="17"/>
+          <l>Thus boldly dealt with country and with town,</l>
+          <l>Op'ning her warehouse; yellow, black and brown,</l>
+          <l>Goods of all colour, sort, and size went down:</l>
+          <l>Her husband (finding nothing wou'd reclaim)</l>
+          <l>In her own way indulg'd the liqu'rish dame;</l>
+          <l>Yielded to her exorbitance of will,</l>
+          <l>And vow'd to give her, if he cou'd, her fill;</l>
+          <l>To this intent, he brought full twenty blacks,</l>
+          <l>(Furnish'd with brawny limbs, and vig'rous backs)</l>
+          <l>And firmly she withstood their brisk attacks;</l>
+          <l>Nineteen encounter'd, and maintain'd, the field,</l>
+          <l>And did but barely to the twenti'th yield.</l>
+        </lg>
+        <ab type="catch">Oh!</ab>
+        <pb xml:id="piety_13018" n="18"/>
+        <lg type="stanza">
+          <l rend="indent">Oh! rampant, and triumphant <hi rend="italic">British</hi> dame!</l>
+          <l>How vast, as far extended, is thy fame!</l>
+          <l>Confess'd by all, on <hi rend="italic">Cormandellda's</hi> shore,</l>
+          <l>The freest trader! and substantial'st w----re!</l>
+          <l>He who wou'd know what women truly are,</l>
+          <l>Must read them backward, like a witch's prayer;</l>
+          <l>They're found the very opposite extream</l>
+          <l>Of what they pass for, and wou'd fainly seem:</l>
+          <l>Here nature jugg'ling, shows her slight of hand,</l>
+          <l>Which, who admires, must little understand</l>
+          <l>This makes them fond of fools; and loath at heart</l>
+          <l>All men of wit, of learning, and desert;</l>
+          <l>Like batts and owls, they chuse the gloom of night,</l>
+          <l>And ----fly, with unexpressible affright,</l>
+          <l>From reason's clear, and well discov'ring light.</l>
+        </lg>
+        <ab type="catch">Now</ab>
+        <pb xml:id="piety_13019" n="19"/>
+        <lg type="stanza">
+          <l rend="indent">Now let us take a short and general view</l>
+          <l>Of what they in religious matters do,</l>
+          <l>When free from private aim, and publick fear,</l>
+          <l>Unvail'd and undisguis'd their practices appear.</l>
+        </lg>
+        <lg type="stanza">
+          <l rend="indent">But first into their close apartments steal,</l>
+          <l>And there some secret mysteries reveal:</l>
+          <l>Upon the furnish'd Toilet cast an eye,</l>
+          <l>Where all in quaint promiscuous manner lye</l>
+          <l>Paint, patches, and romance----and book of prayer,</l>
+          <l>That they may seem alike precise and fair,</l>
+          <l>And both devotion, and diversion share:</l>
+          <l>Whenever they awake from dreaming o'er</l>
+          <l>The light occurrences that pass'd before,</l>
+          <l>
+            <seg type="catch">If</seg>
+          </l>
+          <pb xml:id="piety_13020" n="20"/>
+          <l>If the preceeding night, they've lost at play,</l>
+          <l>Or have been baulk'd of their expected prey,</l>
+          <l>A gloomy discontent o'er-casts the day;</l>
+          <l>Sunk are their graces, drooping are their airs;</l>
+          <l>And the wrong way they mutter o'er their prayers:</l>
+          <l>But if kind fortune, or their conqu'ring eyes,</l>
+          <l>Has gain'd some gaudy beau, or golden prize,</l>
+          <l>They then, well pleas'd, assume a sprightly mein,</l>
+          <l>And in their most triumphant airs are seen;</l>
+          <l>Pray that kind heav'n wound, in its mercy, still</l>
+          <l>Afford the pow'r to plunder, and to kill;</l>
+          <l>Consult the fav'rite damsel, how to gain</l>
+          <l>More conquests; or, at least th' acquir'd maintain:</l>
+          <l>While morning holds, before the instrutive glass,</l>
+          <l>The serious hours, with pious care they pass;</l>
+          <l>
+            <seg type="catch">Till</seg>
+          </l>
+          <pb xml:id="piety_13021" n="21"/>
+          <l>Till all the mass of dress, in order mov'd,</l>
+          <l>The tempter is exaltedtaltod'ly improv'd;</l>
+          <l>Till all is well adjusted, all made even,</l>
+          <l>To correspond with earth, and h--ll, ---and heaven.</l>
+          <l>Most, who are thought but tolerably fair,</l>
+          <l>Frequent the church ----bait their behaviours there!----</l>
+          <l>They shew, with modest zeal; their spruce attires;</l>
+          <l>And each, submissively, her self admires!</l>
+          <l>Ogles the croud, and whisp'rin, scatters blame</l>
+          <l>On ev'ry neighbour's dress, or face, or fame:</l>
+          <l>'Tis made convenient, like a ball, or play,</l>
+          <l>To pass unprofitable hours away;</l>
+          <l>To plot, salute, to see, and to be seen;</l>
+          <l>Or cure, by sleep, the vapours, or the spleen.</l>
+        </lg>
+        <ab type="catch">Some</ab>
+        <pb xml:id="piety_13022" n="22"/>
+        <lg type="stanza">
+          <l rend="indent">Some few, indeed, with more devotion, make</l>
+          <l>Their progress thither--for the preacher's sake!</l>
+          <l>Because the sacerdotal gown, he wears,</l>
+          <l>Is fraud's or frailty's coverlet, like theirs;</l>
+          <l>Because he, like themselves revenge, lust, luxury and pride</l>
+          <l>In its dark shadow copiously abide;</l>
+          <l>Because he, like themselves, is light of thought,</l>
+          <l>And infinitely better fed than taught;</l>
+          <l>Because, by him, to the dull-headed rout,</l>
+          <l>Faction is broach'd, and scandal thrown about.</l>
+        </lg>
+        <lg type="stanza">
+          <l rend="indent">As of gallants, the very worn they chuse,</l>
+          <l>The peaceful, meek, and well-dispos'd refuse;</l>
+          <l>The soil, the stain, and scum of all the rest,</l>
+          <l>Is, in their judgment, and their choice, the best.</l>
+        </lg>
+        <ab type="catch">Some</ab>
+        <pb xml:id="piety_13023" n="23"/>
+        <lg type="stanza">
+          <l rend="indent">Some go to church, with charitable mind,</l>
+          <l>To pick up all reproachful ills they find;</l>
+          <l>Fixt on the railing priest, with lear and grin,</l>
+          <l>If he proclaims some erring mortal's sin,</l>
+          <l>With open ears and mouth, they suck it in;</l>
+          <l>Such things, I say, they most devoutly hear,</l>
+          <l>And keep in heart with christian faith and fear;</l>
+          <l>But if he union's sacred virtues tells,</l>
+          <l>They then are hereticks! or infidels</l>
+        </lg>
+        <lg type="stanza">
+          <l>In <hi rend="italic">Spain</hi>, where <hi rend="italic">Moorish</hi> customs are maintain'd,</l>
+          <l>And freedom is, thro' jealousy, restrain'd;</l>
+          <l>The church is, by intriguing females, made</l>
+          <l>The frequent mart of love's lascivious trade;</l>
+          <l>
+            <seg type="catch">Whither</seg>
+          </l>
+          <pb xml:id="piety_13024" n="24"/>
+          <l>Whither, some compact to commence, they range,</l>
+          <l>And make the house of G---d the D-----l's exchange!</l>
+          <l>But in our <hi rend="italic">Britain</hi>, heretofore, might be</l>
+          <l>That wond'rous thing call'd female piety!</l>
+          <l>When here in person dwelt the maid divine,</l>
+          <l>And zealous matrons visited her shrine;</l>
+          <l>When desp'rately holy dames; immur'd,</l>
+          <l>In consecrated domes, their-toys secur'd</l>
+          <l>Tho' each of these precise viragoes, still</l>
+          <l>Found secret ways to gratify her will;</l>
+          <l>The hooded monk and eke the cowled fryer</l>
+          <l>Often accommodated her desire;</l>
+          <l>For tho' free commerce with the world was stopp'd,</l>
+          <l>And publick trade forbid---they interlop'd.</l>
+          <l>
+            <seg type="catch">Tho'</seg>
+          </l>
+          <pb xml:id="piety_13025" n="25"/>
+          <l>Tho' this immurement was a vain pretence,</l>
+          <l>Nor suited real piety, or sense!</l>
+        </lg>
+        <lg type="stanza">
+          <l rend="indent">If woman (to celestial love inclin'd)</l>
+          <l>To heav'n alone devotes her zealous mind;</l>
+          <l>If with such--ardour thoroughly possess'd,</l>
+          <l>If true seraphick raptures fire her breast,</l>
+          <l>She has no cause seducing man to fear;</l>
+          <l>No mortal is sufficient rival here;</l>
+          <l>She may her duty, thus resolv'd, discharge,</l>
+          <l>And be restrain'd, altho' she lives at large;</l>
+          <l>But tho' close-pent, if fill'd with loose desires,</l>
+          <l>What prison can restrain impetuous fires?</l>
+        </lg>
+        <lg type="stanza">
+          <l>Yet, not to take advantage of the crimes</l>
+          <l>Committed in the dusk of former times;</l>
+          <l>
+            <seg type="catch">I will</seg>
+          </l>
+          <pb xml:id="piety_13026" n="26"/>
+          <l>I will, with curious, and impartial care,</l>
+          <l>Slightly remark what modern zealots are.</l>
+        </lg>
+        <lg type="stanza">
+          <l rend="indent">Many renounce the world upon constraint,</l>
+          <l>And each, unwillingly, becomes a Saint!</l>
+          <l>But few sincere devotion can surprize,</l>
+          <l>And scarce prevails upon the rich, or wise;</l>
+          <l>Few leave dear, pomp whose pompous things possess,</l>
+          <l>Or sin abhor, who freely can transgress;</l>
+          <l>These, these for <choice><corr>worldly"</corr><sic>wordly</sic></choice> blessings only care;</l>
+          <l>Why shou'd they waste their lives in fruitless prayer?</l>
+          <l>Seek joys to come, who here enjoyments share?</l>
+          <l>But wretched nymphs, whom cruel love has cross'd;</l>
+          <l>Their maiden toys, or reputations loss'd;</l>
+          <l>
+            <seg type="catch">Who</seg>
+          </l>
+          <pb xml:id="piety_13027" n="27"/>
+          <l>Who are in mind, or body thus distress'd</l>
+          <l>Whit weight of poverty (that's conscience) press'd;</l>
+          <l>Helpless, alas! they're to devotion driven,</l>
+          <l>and for the world unfit,---resign'd to heaven!</l>
+        </lg>
+        <lg type="stanza">
+          <l rend="indent">If ever any voluntarily chuse</l>
+          <l>To catch themselves in this religious noose;</l>
+          <l>Tis e'er the world's inviting joys they know,</l>
+          <l>Before they subtle, or designing grow;</l>
+          <l>Before temptation does its charms dispense;</l>
+          <l>And then devout the genr'ous things commence,</l>
+          <l>For want of appetite, or want of Sense.</l>
+        </lg>
+        <lg type="stanza">
+          <l rend="indent">Well fare the merry rovers of the street,</l>
+          <l>Who freely bite, and cully whom they meet;</l>
+          <l>
+            <seg type="catch">Who</seg>
+          </l>
+          <pb xml:id="piety_13028" n="28"/>
+          <l>Who make licentious reprobates their prey;</l>
+          <l>More honest, more religious too are they,</l>
+          <l>And act far more sincerely----in their way;</l>
+          <l>They, satan's instruments, satan just,</l>
+          <l>Break not, by contradicting deeds, their trust,</l>
+          <l>But vilely these religion's law debase,</l>
+          <l>Affront its author to his very face</l>
+          <l>And, the believer's easy faith to rule,</l>
+          <l>Make heav'n it self their access'ary tool!</l>
+        </lg>
+        <lg type="stanza">
+          <l rend="indent">Thus have I manifestly shewn their end,</l>
+          <l>When virtue they, or piety pretend:</l>
+          <l>In paradise, as <hi rend="italic">Lucifer</hi> disguis'd,</l>
+          <l>Man's innocence once fatally surpris'd;</l>
+          <l>(To <hi rend="italic">Eve</hi> the doctrine of delusion taught</l>
+          <l>E'er since improv'd with ever-zealous thought)</l>
+          <l>
+            <seg type="catch">The</seg>
+          </l>
+          <pb xml:id="piety_13029" n="29"/>
+          <l>The lurking sex, by stratagems like these</l>
+          <l>Upon th' unknowing, or unguarded seize;</l>
+          <l>In falshood thus their usurpation found,</l>
+          <l>And gain dominion, or become-renown'd;</l>
+          <l>Thus they triumphant grow, and thus rever'd,</l>
+          <l>Thus women fight, and thus are to be fear'd.</l>
+        </lg>
+        <lg type="stanza">
+          <l rend="indent">But did not men to slavish passion yield</l>
+          <l>How easily might they maintain the field?</l>
+          <l>With what assurance spurn at threat'ned harm?</l>
+          <l>And scorn alike their practices, and charmst?</l>
+        </lg>
+        <lg type="stanza">
+          <l rend="indent">That some of them are fair; I must confess,</l>
+          <l>But is there not hypocrisy in dress?</l>
+          <l>To falshood here, that they're reputed so,</l>
+          <l>Say, do not much even the fairest owe?</l>
+          <l>
+            <seg type="catch">False</seg>
+          </l>
+          <pb xml:id="piety_13030" n="30"/>
+          <l>False is their beauty, falshood is their trade;</l>
+          <l>They seem for that, and for perdition made.</l>
+        </lg>
+        <lg type="stanza">
+          <l rend="indent">How then can, such delusive toys as these,</l>
+          <l>Allure the gen'rous? the discerning please?</l>
+          <l>Our native right audaciously controul?</l>
+          <l>And into baseness sink the noble soul?</l>
+        </lg>
+        <lg type="stanza">
+          <l rend="indent">Oh! had the ingenious, and the brave, the care,</l>
+          <l>Well to regard what they compleatly are</l>
+          <l>They'd break the feeble yoke of woman-kind,</l>
+          <l>Regain their native privilege of mind,</l>
+          <l>And be the lords they were at first design'd!</l>
+          <l>
+            <seg type="catch">Yet,</seg>
+          </l>
+          <pb xml:id="piety_13031" n="31"/>
+          <l>Yet, if amongst the sly deceivers, are,</l>
+          <l>Any sincerely virtuous, pious, fair;</l>
+          <l>I will not rashly say of those--beware!</l>
+          <l>In those (so far distinguish'd from the rest)</l>
+          <l>It must, thro' justice, frankly be confess'd,</l>
+          <l>The bold advent'rer may be safe and bless'd.</l>
+        </lg>
+        <lg type="stanza">
+          <l rend="indent">But, as a merchant (who deigns for gain,</l>
+          <l>To trust himself, and treasure to the main)</l>
+          <l>First ponders well what proper course to stear,</l>
+          <l>How to defend when rushing storms appear;</l>
+          <l>And be from rocks and sands securely clear;</l>
+          <l>Most circumspect behoves the man to be,</l>
+          <l>Who trusts his all to this uncertain sea;</l>
+          <l>
+            <seg type="catch">Let</seg>
+          </l>
+          <pb xml:id="piety_13032" n="32"/>
+          <l>Let him his faculties of mind awake,</l>
+          <l>His reason use, and strict enquiries make</l>
+          <l>To shun the dreadful woe attending his mistake.</l>
+        </lg>
+        <trailer>FINIS</trailer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lkr_hark_1307">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Hark Our Boys Are Coming Home</title>
+        <author>
+          <name type="person"><choice><reg>Rogers, Loula Kendall, 1838-1931</reg><orig>Mrs. Loula Kendall Rogers</orig></choice></name>         
+        </author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Beck Center</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent>10k</extent>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><availability>
+          <p xml:id="lkr_hark_1301">2008 Emory University. Permission is granted to
+
+download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>2008</date><idno type="ark">http://pid.emory.edu/ark:/25593/17d21</idno></publicationStmt>
+      <seriesStmt>
+        <title>Emory Women Writers Resource Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Rogers, Loula Kendall, "Hark Our Boys Are Coming Home" Loula
+
+	   Kendall Rogers Papers, 1854-1930. Manuscript and Rare Books
+
+	   Library, Emory University</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p xml:id="lkr_hark_1302">This digital text is produced from the Loula Kendall
+
+	   Rogers Papers, generously loaned to the Beck Center by    	
+
+The Manuscript, Archives, and Rare Book Library at Emory University.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <rs type="collection">Early 20th Century Literature</rs>
+        <rs type="language">American</rs>
+        <rs type="ethnicity">Caucasian</rs>
+        <rs type="form">Unedited</rs>
+        <rs type="genre">Poetry</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+        <date>1900-1999</date>
+      </creation>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>American poetry--19th century.</item>
+            <item>Women authors, American--19th Century</item>
+            <item>Women authors, American--20th Century</item>
+            <item>American poetry--20th century.</item>
+            <item>Civil War, U.S., 1861-1865--Poetry</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2008</date><label>Woodruff Graduate Fellow</label><name>Stewart Varner</name>XML tags inserted in compliance with TEI guidelines using TEILITE</change></revisionDesc></teiHeader>
+  <text xml:id="lkr_hark_1306">
+    <body xml:id="lkr_hark_1305">
+      <pb facs="lkr_hark001" xml:id="lkr_hark_1303" n="[1]"/>
+      <div xml:id="lkr_hark_1304" type="poem">
+        <head rend="center">
+          <seg type="short-title">HARK! OUR BOYS ARE COMING HOME.</seg>
+        </head>
+        <head type="sub">TUNE: "Tramp, tramp, tramp, The Boys Are Marching Home"</head>
+        <byline>MRS. LOULA K. ROGERS</byline>
+        <lg type="stanza">
+          <l>Don't you see the clouds are breaking o'er the eastern lands today?</l>
+          <l rend="indent">And amid the rifts we see the shining blue?</l>
+          <l>Don't you hear the trumpet calling up the boys so far away,</l>
+          <l rend="indent">The millions of America so true?</l>
+        </lg>
+        <lg type="stanza">
+          <head>CHORUS</head>
+          <l>Tramp, tramp, tramp, the boys are coming!</l>
+          <l rend="indent">Let our cheers arise on high,</l>
+          <l rend="indent">Let the light be shining bright</l>
+          <l rend="indent">For out victors in the fight</l>
+          <l>And a thousand thanks for Liberty and Right!</l>
+        </lg>
+        <lg type="stanza">
+          <l>O'er each mothers heart is falling tears of love and hope and joy,</l>
+          <l rend="indent">And the young are planning fesivals so gay,</l>
+          <l>All the nation is rejoicing that her gallant soldier boy</l>
+          <l rend="indent">Has reached the top and triumphed in the fray.</l>
+        </lg>
+        <lg type="stanza">
+          <l>Then hurrah for <del rend="overstrike">Christmas</del> <add place="supralinear">Dixie Soldiers</add> <del rend="overstrike">carol</del>, and the pearly mistletoe!</l>
+          <l rend="indent">The smoking viands ready for the feast,</l>
+          <l>Remember needy orphans whatsoever we may do,</l>
+          <l rend="indent">And thank out God this wretched war has ceased.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
